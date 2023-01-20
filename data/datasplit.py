@@ -17,5 +17,3 @@ valid_en = [data["english-title"].loc[data["german-title"] == title] for title i
 
 test_en = [data["english-title"].loc[data["german-title"] == title] for title in test_de]
 # test_set = pd.concat(test_set,axis=0)
-
-print(train_en)
