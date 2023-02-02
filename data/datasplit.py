@@ -36,8 +36,8 @@ test_en = [play.lstrip('“').rstrip('”') for play in test_en]
 
 #get english split sets
 for play in train_en:
-    shutil.copyfile(os.path.join("./data/EN",play),os.path.join("./data/EN/train",play))
+    shutil.copytree(os.path.join("./data/EN",play),os.path.join("./data/EN/train",play))
 for play in valid_en:
-    shutil.copyfile(os.path.join("./data/EN",play),os.path.join("./data/EN/valid",play))
+    shutil.copytree(os.path.join("./data/EN",play),os.path.join("./data/EN/valid",play))
 for play in test_en:
-    shutil.copyfile(os.path.join("./data/EN",play),os.path.join("./data/EN/test",play))
+    shutil.copytree(os.path.join("./data/EN",play),os.path.join("./data/EN/test",play))
