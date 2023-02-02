@@ -33,6 +33,10 @@ train_en = [play.lstrip('“').rstrip('”') for play in train_en]
 valid_en = [play.lstrip('“').rstrip('”') for play in valid_en]
 test_en = [play.lstrip('“').rstrip('”') for play in test_en]
 
+train_de = [play.lstrip('“').rstrip('”') for play in train_de]
+valid_de = [play.lstrip('“').rstrip('”') for play in valid_de]
+test_de = [play.lstrip('“').rstrip('”') for play in test_de]
+
 
 #get english split sets
 for play in train_en:
@@ -41,3 +45,11 @@ for play in valid_en:
     shutil.copytree(os.path.join("./data/EN",play),os.path.join("./data/EN/valid",play))
 for play in test_en:
     shutil.copytree(os.path.join("./data/EN",play),os.path.join("./data/EN/test",play))
+
+#get german split sets
+for play in train_de:
+    shutil.copytree(os.path.join("./DE/",play), os.path.join("./DE/train/",play))
+for play in valid_de:
+    shutil.copytree(os.path.join("./DE/",play),os.path.join("./DE/valid/",play))
+for play in test_de:
+    shutil.copytree(os.path.join("./DE/",play),os.path.join("./DE/test/",play))
