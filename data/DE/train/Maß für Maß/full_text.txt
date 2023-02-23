@@ -1,0 +1,6434 @@
+
+
+
+
+Maß für Maß
+
+
+William
+Shakespeare
+
+Q692
+118613723
+
+
+
+Wolf
+Heinrich
+von
+Baudissin
+
+Q215699
+118507206
+
+
+
+DraCor
+https://dracor.org
+
+
+CC0 1.0
+Licence
+
+
+
+
+
+TextGrid Repository
+http://www.textgridrep.org/textgrid:vnbs.0
+
+In the public domain.
+
+
+William Shakespeare:
+            Maß für Maß.
+            In: Sämtliche Werke in vier Bänden.
+            Herausgegeben von Anselm Schlösser.
+            Band 2: Komödien. Poetische Werke.
+            3. Auflage.
+            Berlin und Weimar:
+            Aufbau-Verlag
+1975,
+            S. 211–300.
+          
+
+
+
+Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1763). Die vorliegende
+          Übersetzung stammt von Wolf Graf Baudissin. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 5,
+          Berlin (Georg Andreas Reimer) 1831.
+
+
+
+
+
+Comedy
+
+Q1152184
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+William Shakespeare
+
+Maß für Maß
+
+
+
+
+        Personen
+        Vincentio, Herzog von Wien
+Angelo, Statthalter während des Herzogs Abwesenheit
+Escalus, ein alter Herr vom Staatsrat und Gehülfe des Angelo
+Claudio, ein junger Edelmann
+Lucio, ein Wüstling
+Zwei junge Edelleute, Freunde des Lucio
+Varrius, ein Edelmann, in des Herzogs Diensten
+Ein Kerkermeister
+
+Thomas
+Peter
+Mönche
+
+Elbogen, ein einfältiger Gerichtsdiener
+Schaum, ein alberner junger Mensch
+Pompejus, Bierzapfer bei der Frau Überley
+Grauslich, ein Scharfrichter
+Bernardino, ein Mörder
+Isabella, Schwester des Claudio
+Mariane, Angelos Verlobte
+Julia, Claudios Geliebte
+Franziska, eine Nonne
+Frau Überley, eine Kupplerin
+Herren, Wachen, Gerichtsdiener und andres Gefolge
+
+
+Die Szene ist in Wien
+
+
+
+
+        Erster Aufzug
+        
+          Erste Szene
+          Ein Zimmer in des Herzogs Palast.
+Es treten auf der Herzog, Escalus, Herren vom Hofe und Gefolge.
+
+HERZOG.
+Escalus –
+
+
+ESCALUS.
+Mein Fürst? –
+
+
+HERZOG.
+
+Das Wesen der Regierung zu entfalten,
+Erschien' in mir als Lust an eitler Rede,
+Weil mir bewußt, daß Eure eigne Kenntnis
+Die Summe alles Rates überschreitet,
+Den meine Macht Euch böte. Nehmt sie denn,
+Wie Euer Edelsinn und Wert verdient,
+Und laßt sie wirken. Unsers Volkes Art,
+Der Stadt Gesetze wie des ganzen Staats
+Gemeines Recht habt Ihr so wohl erforscht,
+Als Kunst und Übung irgend wen bereichert,
+Den wir gekannt. So nehmt die Vollmacht hin,
+Die Euch die Bahn bezeichne. Ruft hieher
+Den Angelo, daß er vor uns erscheine.
+Ein Diener geht.
+Wie meint Ihr, wird er unsern Platz vertreten?
+Denn wißt, daß mit besonderm Vorbedacht
+Wir ihn erwählt, an unsrer Statt zu herrschen,
+Ihm unsre Schrecken liehn und unsre Gnade,
+Und ihm als Stellvertreter alle Waffen
+Der eignen Macht vertraut. Wie dünkt Euch dies? –
+
+
+
+ESCALUS.
+
+Wenn irgend einer je in Wien verdient,
+So reiche Huld und Ehre zu erfahren,
+So ist's Lord Angelo.
+
+Angelo tritt auf.
+
+
+
+HERZOG.
+Da kommt er selbst.
+
+
+ANGELO.
+
+Stets Euer Hoheit Willen untertänig,
+Bitt' ich um Euern Auftrag.
+
+
+
+HERZOG.
+
+Angelo,
+Es ist 'ne Schrift in deiner Lebensweise,
+Die dem Bemerker klar entfaltet, was
+Du je erlebt. Du selbst und dein Talent
+Sind nicht dein eigen, daß du dich verzehrst
+Für deinen eignen Wert, den Wert für dich.
+Der Himmel braucht uns, so wie wir die Fackeln,
+Sie leuchten nicht für sich; wenn unsre Kraft
+Nicht strahlt nach außen ihn, wär's ganz so gut,
+Als hätten wir sie nicht. Geister sind schön geprägt
+Zu schönem Zweck; noch leiht jemals Natur
+Den kleinsten Skrupel ihrer Trefflichkeit,
+Daß sie sich nicht, als wirtschaftliche Göttin,
+Den Vorteil eines Gläub'gers ausbedingt,
+So Dank wie Zinsen. Doch ergeht mein Wort
+An einen Mann, der mich belehren könnte:
+Nimm hin denn, Angelo!
+Solang' wir fern, sei unser zweites Selbst;
+Tod und Begnad'gung wohn' allein in Wien
+In deiner Brust und Zunge. Escalus,
+Obschon zuerst berufen, steh' dir nach:
+Empfange deine Vollmacht!
+
+
+
+ANGELO.
+
+Oh, mein Fürst,
+Laßt schärfre Prüfung mein Metall bestehn,
+Bevor ein so erhabnes, edles Bild
+Darauf geprägt wird.
+
+
+
+HERZOG.
+
+Keine Ausflucht mehr!
+Mit wohl gereifter, lang' bedachter Wahl
+Wardst du ersehn; deshalb nimm deine Würden!
+So schnelle Eil' erfodert unsre Reise,
+Daß sie mich drängt und unentschieden läßt
+Geschäfte wicht'ger Art. Wir schreiben Euch,
+Wie uns Begebenheit und Zeit ermahnt,
+Was uns betrifft; und wünschen zu erfahren,
+Was hier begegnen mag. So lebt denn wohl:
+
+Ein glückliches Gelingen sei mit Euch,
+Nach unsern Wünschen!
+
+
+
+ANGELO.
+
+Doch erlaubt, mein Fürst,
+Daß wir ein Stück des Weges Euch geleiten.
+
+
+
+HERZOG.
+
+Die Eil' erlaubt es nicht;
+Ihr sollt, bei meinem Wort, mit keinem Zweifel
+Euch plagen. Eure Macht ist gleich der meinen:
+So schärft nun oder mildert die Gesetze,
+Wie's Eure Einsicht heischt. Gebt mir die Hand.
+Ich reis' im stillen. Lieb' ich gleich das Volk,
+Doch wünscht' ich nicht, zur Schau mich ihm zu stellen;
+Ob wohl gemeint, doch mundet mir nicht wohl
+Sein lauter Ruf, sein ungestümes Jauchzen;
+Noch scheint mir der ein Mann von reifem Urteil,
+Der sich daran erfreut. Nochmals, lebt wohl!
+
+
+
+ANGELO.
+Der Himmel sei mit Euch und Euerm Tun!
+
+
+ESCALUS.
+Er leit' und bring' Euch glücklich wieder heim!
+
+
+HERZOG.
+Ich dank' Euch. Lebet wohl!
+Ab.
+
+
+ESCALUS.
+
+Ich werd' Euch um ein ungestört Gespräch
+Ersuchen, Herr; es liegt mir viel daran,
+Ganz durchzuschaun mein Amt bis auf den Grund.
+Vollmacht hab' ich, doch welcher Kraft und Art,
+Ward mir noch nicht erklärt.
+
+
+
+ANGELO.
+
+So ist's mit mir. Laßt uns zusammen gehn,
+Dann wird sich Auskunft wohl genügend finden.
+Was diesen Punkt betrifft.
+
+
+
+ESCALUS.
+Ich folg' Eu'r Gnaden.
+Gehn ab.
+
+
+
+          Zweite Szene
+          Eine Straße.
+Es treten auf Lucio und zwei Edelleute.
+
+LUCIO.
+Wenn sich der Herzog und die andern Herzoge nicht mit dem König von Ungarn
+              vergleichen, nun, so fallen alle Herzoge über den König her.
+
+
+
+ERSTER EDELMANN.
+Der Himmel gebe uns seinen Frieden, aber nicht des Königs von Ungarn Frieden! –
+
+
+ZWEITER EDELMANN.
+Amen!
+
+
+LUCIO.
+Du sprichst dein Schlußgebet wie der gottselige Seeräuber, der mit den zehn Geboten
+              zu Schiff ging, das eine aber aus der Tafel auskratzte.
+
+
+ZWEITER EDELMANN.
+»Du sollst nicht stehlen?«
+
+
+LUCIO.
+Ja, das schabte er aus.
+
+
+ERSTER EDELMANN.
+Nun, das war ja auch ein Gebot, das dem Kapitän und seinem ganzen Haufen gebot, ihren
+              Beruf aufzugeben: sie hatten sich eingeschifft, um zu stehlen. Da ist keiner von uns
+              Soldaten, dem beim Tischgebet vor der Mahlzeit die Bitte um Frieden recht gefiele.
+
+
+ZWEITER EDELMANN.
+Ich habe noch keinen gehört, dem sie mißfallen hätte.
+
+
+LUCIO.
+Das will ich dir glauben! Denn ich denke, du bist nie dabei gewesen, wo ein Gratias
+              gesprochen ward.
+
+
+ZWEITER EDELMANN.
+Nicht? Ein dutzendmal wenigstens! –
+
+
+ERSTER EDELMANN.
+Wie hast du's denn gehört? In Versen?
+
+
+ZWEITER EDELMANN.
+In allen Silbenmaßen und Sprachen!
+
+
+ERSTER EDELMANN.
+Und wohl auch in allen Konfessionen? –
+
+
+LUCIO.
+Warum nicht? Gratias ist Gratias, aller Kontrovers zum Trotz, so wie du, Exempli
+              gratia, ein durchtriebener Schelm bist, und mehr von den Grazien weißt als vom
+              Gratias.
+
+
+ERSTER EDELMANN.
+Schon gut; wir sind wohl beide über einen Kamm geschoren.
+
+
+LUCIO.
+Recht, wie Samt und Egge; du bist die Egge.
+
+
+ERSTER EDELMANN.
+Und du der Samt; du bist ein schönes Stück Samt, von der dreimal geschornen Sorte.
+              Ich will viel lieber die Egge von einem Stück englischen haarichten Fries sein, als
+              ein Samt, über den eine französische Schere gekommen ist. Habe ich dich nun einmal
+              recht herzhaft geschoren?
+
+
+LUCIO.
+Nein, ich denke, du hast diese Schere schon recht schmerzhaft verschworen, und ich
+              will nach deinem eignen Geständnis deine Gesundheit aus bringen lernen, aber, solange
+              ich lebe, vergessen, nach dir zu trinken.
+
+
+
+ERSTER EDELMANN.
+Ich habe mir wohl eben selbst zu nahe getan; habe ich nicht?
+
+
+ZWEITER EDELMANN.
+Das hast du auch, du magst dich verbrannt haben oder nicht.
+
+
+LUCIO.
+Seht nur, kommt da nicht unsre Frau Minnetrost? Ich habe mir Krankheiten unter ihrem
+              Dach geholt, die kosten mich –
+
+
+ZWEITER EDELMANN.
+Wie viel?
+
+
+ERSTER EDELMANN.
+Ratet nur! –
+
+
+ZWEITER EDELMANN.
+Er wird Euch nicht gestehn, wieviel Mark sie ihm jährlich kosten.
+
+
+ERSTER EDELMANN.
+Recht, und überdem noch –
+
+
+LUCIO.
+Ein paar französische Kronen! –
+
+
+ERSTER EDELMANN.
+Immer willst du mir Krankheiten andichten; aber du steckst im Irrtum, ich habe mir
+              nichts geholt.
+
+
+LUCIO.
+Und doch bist du hohl durch und durch; deine Knochen sind hohl, die Ruchlosigkeit hat
+              in dir geschwelgt.
+Eine Kupplerin kommt.
+
+
+ERSTER EDELMANN.
+Nun, wie geht's? An welcher von deinen Hüften hast du jetzt die gründlichste
+              Sciatica?
+
+
+KUPPLERIN.
+Schon gut! Eben wird einer verhaftet und ins Gefängnis gesteckt, der war mehr wert
+              als fünftausend solche wie Ihr.
+
+
+ERSTER EDELMANN.
+Wer denn, sagt doch?
+
+
+KUPPLERIN.
+Zum Henker, Herr, Claudio ist's, Signor Claudio!
+
+
+ERSTER EDELMANN.
+Claudio im Gefängnis? Nicht möglich!
+
+
+KUPPLERIN.
+Ich sage Euch, es ist gewiß; ich sah ihn verhaftet, ich sah ihn weggeführt; und was
+              noch mehr ist, binnen drei Tagen soll ihm der Kopf abgehauen werden.
+
+
+LUCIO.
+Nun, trotz allen Torheiten von eben, das sollte mir leid sein. Weißt du's denn
+              gewiß?
+
+
+KUPPLERIN.
+Nur zu gewiß; es geschieht, weil Fräulein Julia schwanger von ihm ward.
+
+
+LUCIO.
+Glaubt mir, es ist nicht unmöglich. Er versprach mir, mich vor zwei Stunden zu
+              treffen, und er war immer pünktlich im Worthalten.
+
+
+
+ZWEITER EDELMANN.
+Dazu kommt, daß es ganz mit dem übereinstimmt, wovon wir zusammen sprachen.
+
+
+ERSTER EDELMANN.
+Und am meisten mit dem letzten öffentlichen Ausruf.
+
+
+LUCIO.
+Kommt, hören wir, was an der Sache ist.
+Lucio und die Edelleute gehn ab.
+
+
+KUPPLERIN.
+So bringen mich denn teils der Krieg und teils das Schwitzen, und teils der Galgen,
+              und teils die Armut um alle meine Kunden. Nun? Was bringst du mir Neues?
+Pompejus kommt.
+
+
+POMPEJUS.
+Den haben sie jetzt eben eingesteckt! –
+
+
+KUPPLERIN.
+Und was hat er vorgehabt?
+
+
+POMPEJUS.
+Ein Mädchen.
+
+
+KUPPLERIN.
+Ich meine, was hat er begangen?
+
+
+POMPEJUS.
+In einem fremden Bach Forellen gefischt.
+
+
+KUPPLERIN.
+Wie? Hat ein Mädchen ein Kind von ihm?
+
+
+POMPEJUS.
+Nein, aber es hat eine Weibsperson ein Mädchen von ihm. Habt Ihr nicht von dem Ausruf
+              gehört? He?
+
+
+KUPPLERIN.
+Was für ein Ausruf, Mann?
+
+
+POMPEJUS.
+Alle Häuser in den Vorstädten von Wien sollen eingerissen werden.
+
+
+KUPPLERIN.
+Und was soll aus denen in der Stadt werden?
+
+
+POMPEJUS.
+Die sollen zur Saat stehen bleiben; sie wären auch drauf gegangen, aber ein
+              wohlweiser Bürger hat sich für sie verwendet.
+
+
+KUPPLERIN.
+Sollen denn alle unsre Gast- und Schenkhäuser in der Vorstadt eingerissen werden?
+
+
+POMPEJUS.
+Bis auf den Grund, Frau.
+
+
+KUPPLERIN.
+Nun, das heiß' ich eine Veränderung im Staat! Was soll nun aus mir werden? –
+
+
+POMPEJUS.
+Ei, fürchtet Ihr nichts; guten Advokaten fehlt es nicht an Klienten. Wenn Ihr schon
+              Euer Quartier ändert, braucht Ihr darum nicht Euer Gewerbe zu ändern; ich bleibe noch
+              immer Euer Zapfer. Mut gefaßt! Mit Euch wird man's so genau nicht nehmen; Ihr habt
+              Eure Augen in Euerm  Beruf fast aufgebraucht; über Euch werden sie schon
+              ein Auge zudrücken.
+
+
+KUPPLERIN.
+Was soll nun werden, Zapfer Thomas? Laß uns auf die Seite gehn.
+
+
+POMPEJUS.
+Hier kommt Signor Claudio, den der Schließer ins Gefängnis führt, und da ist auch
+              Fräulein Julia.
+Gehn ab.
+
+
+
+          Dritte Szene
+          Daselbst.
+Es treten auf der Schließer, Claudio und Gerichtsdiener; Lucio und die zwei
+            Edelleute; Julia wird vorüber geführt.
+
+CLAUDIO.
+
+Mensch, warum muß die ganze Welt mich sehn? –
+Bring' mich zum Kerker, wie dir aufgetragen.
+
+
+
+SCHLIESSER.
+
+Ich tu' dies nicht aus eignem bösen Willen,
+Nur weil's Lord Angelo bestimmt verlangt.
+
+
+
+CLAUDIO.
+
+Ja, so kann dieser Halbgott Majestät
+Uns nach Gewicht die Sünde zahlen lassen.
+Des Himmels Wort: wen ich erwähl', erwähl' ich,
+Wen nicht, verstoß' ich. ... und doch stets gerecht! –
+
+
+
+LUCIO.
+Nun sag doch, Claudio, woher solcher Zwang?
+
+
+CLAUDIO.
+
+Von zu viel Freiheit, Lucio, zu viel Freiheit!
+Wie Überfüllung strenge Fasten zeugt,
+So wird die Freiheit, ohne Maß gebraucht,
+In Zwang verkehrt; des Menschen Hang verfolgt
+(Wie Ratten gierig selbst ihr Gift sich rauben)
+Die durst'ge Sünd', und tödlich wird der Trunk! –
+
+
+
+LUCIO.
+Wenn ich im Arrest so weislich zu reden wüßte, so würde ich einige von meinen
+              Gläubigern rufen lassen. Und doch, die Wahrheit zu sagen, mir ist die Narrenteidung
+              der Freiheit lieber als die Moral der Gefangenschaft. Was ist dein Vergehn, Claudio?
+              –
+
+
+CLAUDIO.
+Was nur zu nennen neuen Anstoß gäbe!
+
+
+LUCIO.
+Was: ist's ein Mord?
+
+
+CLAUDIO.
+Nein!
+
+
+LUCIO.
+Unzucht?
+
+
+
+CLAUDIO.
+Nenn' es so.
+
+
+SCHLIESSER.
+Fort, Herr, Ihr müßt jetzt weiter.
+
+
+CLAUDIO.
+Ein Wort, mein Freund; Lucio, ein Wort mit Euch.
+Nimmt ihn auf die Seite.
+
+
+LUCIO.
+
+Ein Dutzend, wenn's dir irgend helfen kann.
+Wird Unzucht so bestraft?
+
+
+
+CLAUDIO.
+
+So steht's mit mir: – nach redlichem Verlöbnis
+Nahm ich Besitz von meiner Julia Bett.
+Ihr kennt das Fräulein; sie ist ganz mein Weib,
+Nur daß wir noch bisher nicht kund getan
+Die äußre Förmlichkeit; dies unterblieb
+Um einer nicht bezahlten Mitgift willen,
+Die noch in ihrer Vettern Truhen liegt;
+So daß wir unsern Bund verschweigen wollten,
+Bis Zeit sie uns befreundet. Doch der Raub
+Höchst wechselseit'gen Kosens zeigt sich leider
+Mit allzu großer Schrift auf ihr geprägt.
+
+
+
+LUCIO.
+Schwanger vielleicht?
+
+
+CLAUDIO.
+
+Zum Unglück ist es so!
+Denn unsers Herzogs neuer Stellvertreter,
+Sei es die Schuld und falscher Glanz der Neuheit,
+Sei's, daß ihm das gemeine Wohl erscheint
+Gleich einem Roß, auf dem der Landvogt reitet,
+Der, kaum im Sattel, daß es gleich empfinde
+Des Reiters Kunst, den Sporn ihm fühlen läßt;
+Sei's, daß die Tyrannei im Herrscheramt,
+Sei's, daß sie wohn' im Herzen Seiner Hoheit, –
+
+
+Ich weiß es nicht: genug, der neue Richter
+Weckt mir die längst verjährten Strafgesetze,
+Die gleich bestäubter Wehr im Winkel hingen,
+So lang', daß neunzehn Jahreskreise schwanden
+Und keins gebraucht ward; und aus Sucht nach Ruhm
+Muß ihm das schläfrige, vergeßne Recht
+Frisch wider mich erstehn: ja, nur aus Ruhmsucht!
+
+
+
+LUCIO.
+Ja, wahrhaftig, so ist es, und dein Kopf steht so kitzlig auf deinen Schultern, daß
+              ein verliebtes Milchmädchen  ihn herunter seufzen könnte. Sende dem
+              Herzog Botschaft und appelliere an ihn! –
+
+
+CLAUDIO.
+
+Das tat ich schon, doch ist er nicht zu finden;
+Ich bitt' dich, Lucio, tu' mir diese Freundschaft:
+Heut tritt ins Kloster meine Schwester ein,
+Und ihre Probezeit beginnt sie dort:
+Erzähl' ihr die Gefahr, die mich bedroht;
+In meinem Namen flehe, daß sie Freunde
+Dem strengen Richter schickt, ihn selbst beschwört.
+Ich hoffe viel von ihr; denn ihre Jugend
+Ist kräft'ge Rednergabe ohne Wort,
+Die Männer rührt; zudem ist sie begabt,
+Wenn sie es will, mit holdem Spruch und Witz,
+Und leicht gewinnt sie jeden.
+
+
+
+LUCIO.
+Der Himmel gebe, daß sie es könne, sowohl zum Trost aller derer, die sich im gleichen
+              Fall befinden und sonst unter schwerer Zucht stehn wür den, als damit du dich deines
+              Lebens erfreust; denn es wäre mir leid, wenn du's so närrischer Weise um ein Spiel
+              Tricktrack verlieren solltest. Ich gehe zu ihr.
+
+
+CLAUDIO.
+Ich danke dir, mein bester Freund.
+
+
+LUCIO.
+In zwei Stunden –
+
+
+CLAUDIO.
+Kommt, Schließer; wir gehn.
+Alle ab.
+
+
+
+          Vierte Szene
+          Ein Kloster.
+Es treten auf der Herzog und Pater Thomas.
+
+HERZOG.
+
+Nein, heil'ger Vater! Fort mit dem Gedanken!
+Glaubt nicht, der Liebe leichter Pfeil durchbohre
+Des echten Mannes Brust. Daß ich dich bat
+Um ein geheim Asyl, hat ernsten Zweck,
+Gereifteren, als Ziel und Wünsche sind
+Der glüh'nden Jugend.
+
+
+
+MÖNCH.
+Könnt Ihr mir vertraun?
+
+
+HERZOG.
+
+Mein frommer Freund, Ihr selber wißt am besten,
+
+Wie sehr ich stets die Einsamkeit geliebt,
+Geringe Freude fand am eitlen Schwarm,
+Wo Jugend herrscht und Gold und sinnlos Prunken.
+Dem Grafen Angelo hab' ich vertraut
+(Als einem Mann von strenger Zucht und Keuschheit)
+Mein unumschränktes Ansehn hier in Wien;
+Und dieser wähnt, ich sei verreist nach Polen,
+Denn also hab' ich's ausgesprengt im Volk,
+Und also glaubt man's. Nun, mein heil'ger Freund,
+Fragt Ihr mich wohl, weshalb ich dies getan?
+
+
+
+MÖNCH.
+So fragt' ich gern.
+
+
+HERZOG.
+
+Hier gilt ein scharf Gesetz, ein starres Recht,
+Als Kappzaum und Gebiß halsstarr'gen Pferden,
+Das wir seit vierzehn Jahren ließen schlafen,
+Gleich einem alten Löwen in der Höhle,
+Der nicht mehr raubt. Nun, wie ein schwacher Vater,
+Der wohl die Birkenreiser drohend bindet
+Und hängt sie auf zur Schau vor seinen Kindern,
+Zum Schreck, nicht zum Gebrauch: bald wird die Rute
+Verhöhnt mehr, als gescheut: so unsre Satzung,
+Tot für die Straf', ist für sich selbst auch tot,
+Und Frechheit zieht den Richter an der Nase;
+Der Säugling schlägt die Amm', und ganz verloren
+Geht aller Anstand.
+
+
+
+MÖNCH.
+
+Euch, mein Fürst, lag ob,
+Die Fesseln des gebundnen Rechts zu lösen;
+Und dies erschien von Euch noch schrecklicher
+Als von Lord Angelo.
+
+
+
+HERZOG.
+
+Zu schrecklich, fürcht' ich.
+Da meine Säumnis Freiheit ließ dem Volk,
+Wär's Tyrannei, wollt' ich mit Härte strafen,
+Was ich erlaubt. Denn der erteilt Erlaubnis,
+Der freien Lauf der bösen Lust gewährt,
+Anstatt der Strafe. Drum, verehrter Vater,
+Hab' ich auf Angelo dies Amt gelegt:
+Der, hinter meines Namens Schutz, mag treffen,
+Derweil ich selbst vom Kampfe fern mich halte
+Und frei vom Tadel bleibe. Sein Verfahren
+
+Zu prüfen, will ich als ein Ordensbruder
+Besuchen Fürst und Volk; drum bitt' ich Euch,
+Schafft mir ein klösterlich Gewand, belehrt mich,
+Wie ich in aller äußern Form erscheine
+Als wahrer Mönch. Mehr Gründe für dies Tun
+Will ich bei beßrer Muße Euch enthüllen.
+Nur dies: – Lord Angelo ist scharf und streng,
+Vor Läst'rung auf der Hut, gesteht sich kaum,
+Blut fließ' in seinen Adern, und sein Hunger
+Sei mehr nach Brot als Stein. Bald wird sich's zeigen,
+Ob Macht ihn lockt, ob echte Treu' ihm eigen.
+
+Gehn ab.
+
+
+
+          Fünfte Szene
+          Ein Nonnenkloster.
+Es treten auf Isabella und Franziska.
+
+ISABELLA.
+Und habt ihr Nonnen keine Freiheit sonst?
+
+
+FRANZISKA.
+Scheint diese dir zu klein? –
+
+
+ISABELLA.
+
+O nein! Ich sprach's nicht, als begehrt' ich mehr;
+Im Gegenteil, ich wünschte strengre Zucht
+Sankt Klarens Schwesterschaft und ihrem Orden.
+
+
+
+LUCIO
+draußen.
+He! Friede diesem Ort! –
+
+
+ISABELLA.
+Wer ruft denn da? –
+
+
+FRANZISKA.
+
+Es ist ein Mann. O liebe Isabella,
+Schließt Ihr ihm auf und fragt, was sein Begehr.
+Ihr könnt es tun, ich nicht: Ihr schwurt noch nicht:
+Doch eingekleidet sprecht Ihr nie mit Männern,
+Als nur in der Äbtissin Gegenwart,
+Und wenn Ihr sprecht, bleibt Eu'r Gesicht verhüllt;
+Entschleiert Ihr das Antlitz, müßt Ihr schweigen.
+Er ruft noch einmal: bitt' Euch, gebt ihm Antwort!
+
+Franziska ab.
+
+
+ISABELLA.
+Frieden und Heil mit Euch! Wer ist's, der ruft? –
+Lucio tritt auf.
+
+
+
+LUCIO.
+
+Heil, Jungfrau! Daß Ihr's seid, verkündet mir
+Die Wangenblüte. Könnt Ihr so mich fördern,
+Zum Fräulein Isabella mich zu führen,
+Die hier Novize ist; der schönen Schwester
+Des unglücksel'gen jungen Claudio?
+
+
+
+ISABELLA.
+
+Warum unsel'gen Claudio? Frag' ich Euch,
+Und um so mehr, weil ich Euch melden muß,
+Ich selbst bin Isabella, seine Schwester.
+
+
+
+LUCIO.
+
+Holdsel'ge Schöne, Euer Bruder grüßt Euch,
+Doch daß ich's kürzlich meld': er ist im Kerker.
+
+
+
+ISABELLA.
+Weh' mir! Für was? –
+
+
+LUCIO.
+
+Um das, wofür, wenn ich sein Richter wär',
+Er seine Straf' empfangen sollt' in Dank:
+Er half zu einem Kinde seiner Freundin.
+
+
+
+ISABELLA.
+Herr, macht mich nicht zu Euerm Scherz!
+
+
+LUCIO.
+
+'s ist wahr;
+Ich möchte nicht, ist's gleich mein alter Fehl,
+Mit Mädchen Kiebitz spielen, weit vom Herzen
+Die Zunge, – so mit allen Jungfrau'n tändeln:
+Ihr seid mir ein verklärter Himmelsgast
+Und durch Enthaltsamkeit unkörperlich;
+Drum muß das Wort mit Euch wahrhaftig sein,
+Als nahte man sich einer Heiligen.
+
+
+
+ISABELLA.
+Ihr lästert das Erhabne, mich verhöhnend.
+
+
+LUCIO.
+
+Das glaubt nicht! Kurz und wahr, so steht die Sache:
+Eu'r Bruder und sein Liebchen herzten sich;
+Und wie die Speise füllt; der blüh'nde Mai
+Den dürren Furchen nach der Saat verhilft
+Zu schwell'nder Fülle: also zeigt ihr Schoß
+Sein fleißiges Bemühn und emsig Tun.
+
+
+
+ISABELLA.
+Ist jemand von ihm schwanger? Muhme Julia?
+
+
+LUCIO.
+So, ist sie Eure Muhme?
+
+
+ISABELLA.
+
+Durch Wahl: wie Schülerinnen Namen tauschen
+In kindisch treuer Freundschaft.
+
+
+
+LUCIO.
+Diese ist's.
+
+
+ISABELLA.
+Oh, nehm' er sie zur Frau!
+
+
+LUCIO.
+Das ist der Punkt: –
+Der Herzog hat höchst seltsam sich entfernt;
+
+
+Und manchen Edeln – (mich nebst andern) – foppt er
+Mit Hoffnung auf ein Amt; doch hören wir
+Von solchen, die den Nerv des Staates kennen,
+Was er uns vorgab, sei unendlich weit
+Von seiner wahren Absicht. Jetzt regiert
+Statt seiner, mit der unbeschränkt'sten Vollmacht,
+Lord Angelo, ein Mann, dem statt des Bluts
+Schneewasser in den Adern fließt; der nie
+Der Sinne muntre Trieb' und Regung kannte;
+Der ihren Stachel hemmt und abgestumpft
+Mit geist'ger Arbeit, Fasten und Studieren.
+Dieser, in Furcht zu setzen Lust und Freiheit,
+Die lang' das drohende Gesetz umschwärmt
+(Wie Mäus' um Löwen), klaubt den Spruch hervor,
+Durch dessen schweren Inhalt Claudios Leben
+Verwirkt ist; setzt sogleich ihn in Verhaft
+Und folgt genau der Satzung totem Wort
+Zu strenger Warnung. Alles ist verloren,
+Wenn Euch nicht Gnade wird, durch holdes Flehn
+Ihn zu erweichen. Dies nun ist der Kern
+Des Auftrags, den mir Euer Bruder gab.
+
+
+
+ISABELLA.
+So will er seinen Tod?
+
+
+LUCIO.
+
+Hat die Sentenz
+Schon unterschrieben, und der Schließer, hör' ich,
+Erhielt Befehl, das Urteil zu vollziehn.
+
+
+
+ISABELLA.
+
+Ach, welche arme Fähigkeit besitz' ich,
+Ihm noch zu helfen?
+
+
+
+LUCIO.
+Eure Macht versucht!
+
+
+ISABELLA.
+Weh mir! Ich zweifle –
+
+
+LUCIO.
+
+Zweifel sind Verräter,
+Die oft ein Gut entziehn, das wir erreichten, –
+
+
+Weil den Versuch wir scheuten. Geht zu Angelo
+Und lehrt ihn, daß, wenn Jungfrau'n flehn, die Männer
+Wie Götter geben; weinen sie und knien,
+Dann wird ihr Wunsch so frei ihr Eigentum,
+Als ob sie selber die Gewährung sprächen.
+
+
+
+ISABELLA.
+Ich will versuchen, was ich kann.
+
+
+LUCIO.
+Nur schnell! –
+
+
+
+ISABELLA.
+
+Ich geh' sogleich,
+Nicht länger säum' ich; der Äbtissin nur
+Meld' ich's vorher. Ich dank' Euch, Herr, in Demut;
+Empfehlt mich meinem Bruder: noch vor Nacht
+Send' ich ihm sichre Nachricht des Erfolgs. –
+
+
+
+LUCIO.
+Dann nehm' ich Abschied.
+
+
+ISABELLA.
+Gott befohlen, Herr! –
+Beide gehn.
+
+
+
+
+
+        Zweiter Aufzug
+        
+          Erste Szene
+          Eine Halle in Angelos Hause.
+Es treten auf Angelo, Escalus, ein Richter, Schließer, Gerichtsdiener und
+            Gefolge.
+
+ANGELO.
+
+Das Recht darf nicht zur Vogelscheuche werden,
+Als ständ' es da, um Habichte zu schrecken,
+Und bliebe regungslos, bis sie zuletzt,
+Gewöhnt, drauf ausruhn, statt zu fliehn.
+
+
+
+ESCALUS.
+
+Gut, laßt uns
+Dann lieber scharf sein und ein wenig schneiden,
+Als tödlich niederschlagen. Ach, der Jüngling,
+Für den ich bat, hat einen edeln Vater!
+Bedenkt, mein werter Herr (von dem ich weiß,
+Ihr seid sehr streng in Tugend),
+Ob in der Regung Eurer Leidenschaft,
+Wenn, Zeit mit Ort gestimmt und Ort mit Wunsch,
+Ob, wenn das heft'ge Treiben Eures Bluts
+Das Ziel erreichen mochte, das Euch lockte, –
+
+
+Ob, sag' ich, Ihr nicht selbst wohl konntet irren
+In diesem Punkt, den Ihr an ihm verdammt,
+Und dem Gesetz verfallen? –
+
+
+
+ANGELO.
+
+Ein andres ist, versucht sein, Escalus,
+Ein andres, fallen. Leugnen will ich nicht,
+In dem Gerichte, das auf Tod erkennt,
+Sei unter zwölf Geschwornen oft ein Dieb,
+Wohl zwei noch schuld'ger als der Angeklagte.
+Wer offenbar dem Rechte ward,
+Den straft das Recht. Was kümmert's das Gesetz,
+Ob Dieb den Dieb verurteilt? 's ist natürlich,
+
+Daß wir den Demant auf vom Boden heben,
+Weil wir ihn sehn; doch was wir nicht gesehn,
+Wir treten drauf und denken nicht daran.
+Ihr dürft nicht deshalb mildern sein Vergehn,
+Weil ich auch fehlen konnte; sagt vielmehr,
+Wenn ich, sein Richter, solch Verbrechen übe,
+Sei mir der eigne Spruch Vorbild des Todes,
+Und nichts entschuld'ge mich. Freund, er muß sterben. –
+
+
+
+ESCALUS.
+Wie's Eurer Weisheit dünkt.
+
+
+ANGELO.
+Wo ist der Schließer?
+
+
+SCHLIESSER.
+Hier, gnäd'ger Herr.
+
+
+ANGELO.
+
+Ihr steht dafür, daß Claudio
+Enthauptet werde morgen früh um neun.
+Bringt ihm den Beicht'ger, laßt ihn sich bereiten,
+Denn das ist seiner Wallfahrt letzte Stunde.
+
+Schließer ab.
+
+
+ESCALUS.
+
+Nun, Gott verzeih' ihm und verzeih' uns allen!
+Der steigt durch Schuld, der muß durch Tugend fallen;
+Vom Eis, das bricht, kommt der gesund herab,
+Den stürzt ein einz'ger Fehltritt in das Grab.
+
+Es treten auf Elbogen, Schaum, Pompejus, Gerichtsdiener.
+
+
+ELBOGEN.
+Kommt, bringt sie herbei! Wenn das rechtschaffne Leute im gemeinen Wesen sind, die
+              nichts taten, als ihre Untaten in gemeinen Häusern auszurichten, so weiß ich nicht,
+              was Jura ist. Bringt sie herbei!
+
+
+ANGELO.
+Was gibt's, Freund, wovon ist die Rede? Wie heißt Ihr?
+
+
+ELBOGEN.
+Mit Euer Gnaden Vergunst, ich bin des armen Herzogs Konstabel, und mein Name ist
+              Elbogen; ich bin ein Stück Justiz, Herr, und führe Eurer gestrengen Gnaden hier ein
+              paar notorische Benefikanten vor.
+
+
+ANGELO.
+Benefikanten? Was denn für Benefikanten? Ihr meint wohl Malefikanten?
+
+
+ELBOGEN.
+Nichts für ungut, gnädiger Herr; ich weiß nicht recht, was sie sind; aber zwei
+              absolutgesinnte Spitzbuben sind sie, und ohne ein Körnchen von der Kontribution, die
+              ein guter Christ haben muß.
+
+
+
+ESCALUS.
+Vortrefflich vorgetragen! Da haben wir einen verständigen Konstabel! –
+
+
+ANGELO.
+Zur Sache: Was für Leute sind es? Elbogen heißt du? Warum sprichst du nicht, Elbogen?
+              –
+
+
+POMPEJUS.
+Er kann nicht, Herr, er ist am Ellbogen zerrissen.
+
+
+ANGELO.
+Wer seid Ihr, Freund?
+
+
+ELBOGEN.
+
+Der, gnädiger Herr? Ein Bierzapfer, Herr; ein Stück von einem Kuppler;
+              dient einem schlechten Weibsbilde, deren Haus, wie es heißt, in den Vorstädten
+              eingerissen ist: und nun macht sie Prozession von einem Badehause, und das ist auch
+              ein recht schlechtes Haus.
+
+
+ESCALUS.
+Wie wißt Ihr das?
+
+
+ELBOGEN.
+Mein Weib, gnädiger Herr, wie ich's vor Euer Gnaden detestiere, –
+
+
+ESCALUS.
+Wie! Dein Weib?
+
+
+ELBOGEN.
+Ja, Herr, maßen es, Gott sei Dank, ein ehrliches Weib ist, –
+
+
+ESCALUS.
+Und darum detestierst du's?
+
+
+ELBOGEN.
+Ich sage, Herr, ich für meine eigne Person detestiere hierin eben so gut, wie sie:
+              wenn dieses Haus nicht einer Kupplerin Haus ist, so wär's schade drum; denn es ist ein
+              ganz nichtsnutziges Haus.
+
+
+ESCALUS.
+Wie weißt du das, Konstabel? –
+
+
+ELBOGEN.
+Blitz, Herr, von meiner Frau: denn wenn sie eine Frau wäre, die den kardinalischen
+              Lüsten nachhinge, so hätte sie in diesem Hause zu Proskription und Ehebruch und aller
+              Unsauberkeit verführt werden können.
+
+
+ESCALUS.
+Durch dieses Weibes Anstiften?
+
+
+ELBOGEN.
+Ja, Herr, durch das Anstiften der Frau Überley; wie sie ihm aber ins Gesicht spuckte,
+              so wußte er, woran er war.
+
+
+POMPEJUS.
+Herr, mit Euer Gnaden Erlaubnis, so war's nicht.
+
+
+ELBOGEN.
+Das beweise mir einmal vor diesen Schlingeln, du ehrenwerter Mann, das beweise mir!
+              –
+
+
+ESCALUS.
+Hört Ihr, wie er sich verspricht?
+
+
+POMPEJUS.
+Herr, sie kam an, und war hochschwanger, und hatte – (mit Eu'r Gnaden Respekt) – ein
+              Gelust nach gekochten Pflaumen. Nun hatten wir nur zwei im Hause, gnädiger Herr, und
+              die lagen eben in dem Monument gleichsam  auf einem Fruchtteller, ein
+              Teller für drei oder vier Pfennige: Euer Gnaden müssen solche Teller schon gesehn
+              haben; es sind keine Teller aus China, aber doch sehr gute Teller.
+
+
+ESCALUS.
+Weiter; weiter; am Teller ist nichts gelegen.
+
+
+POMPEJUS.
+Nein, wahrhaftig, Herr, nicht so viel, als eine Stecknadel wert ist, das ist
+              vollkommen richtig. Aber nun zur Hauptsache: Wie gesagt, die Frau Elbogen war, wie
+              gesagt, guter Hoffnung, und ansehnlich stark, und hatte, wie gesagt, ein Gelust nach
+              Pflaumen; und weil, wie gesagt, nur zwei auf dem Teller lagen, – denn Junker Schaum,
+              der nämliche Herr hier, hatte, wie gesagt, die andern gegessen; – und er bezahlte sie
+              sehr gut, das muß ich sagen; denn wie Ihr wohl wißt, Junker Schaum, ich konnte Euch
+              keinen Dreier herausgeben, –
+
+
+SCHAUM.
+Ja, das ist wahr.
+
+
+POMPEJUS.
+Seht Ihr wohl? Ihr wart eben dabei, wenn Ihr's Euch noch besinnt, und knacktet die
+              Steine von den vorbesagten Pflaumen.
+
+
+SCHAUM.
+Ja, das tat ich auch, mein' Seel.
+
+
+POMPEJUS.
+Nun, seht Ihr wohl? Ich sagte Euch just, wenn Ihr's Euch noch besinnt, daß der und
+              der und dieser und jener von der Krankheit, die Ihr wohl wißt, nicht durchkuriert
+              worden wären, wenn sie nicht so sehr gute Diät gehalten hätten, sagte ich Euch.
+
+
+SCHAUM.
+Alles richtig.
+
+
+POMPEJUS.
+Seht Ihr's?
+
+
+ESCALUS.
+Geht mir, Ihr seid ein langweiliger Narr: zur Sache! Was tat man denn der Frau des
+              Elbogen, daß er Ursach' zu klagen hat? Kommt jetzt auf das, was man ihr tat.
+
+
+POMPEJUS.
+Herr, Eu'r Gnaden kann darauf noch nicht kommen.
+
+
+ESCALUS.
+Das ist auch nicht meine Absicht.
+
+
+POMPEJUS.
+Herr, Ihr sollt aber darauf kommen, mit Eu'r Gnaden Vergunst; und betrachtet Euch
+              einmal den Junker Schaum hier, mein gnädiger Herr: er bringt's auf achtzig Pfund im
+              Jahr, und sein Vater starb am Allerheiligen-Tage. War's nicht am Allerheiligen-Tage,
+              Junker Schaum? –
+
+
+SCHAUM.
+Allerheiligen-Abend.
+
+
+
+POMPEJUS.
+Nun, seht Ihr wohl? Ich hoffe, hier gibt's Wahrheit! Er saß eben auf einem niedrigen
+              Sessel, gnädiger Herr: es war in der goldnen Traube, wo Ihr so gern sitzt, nicht
+              so?
+
+
+SCHAUM.
+Ja, das tu' ich; denn es ist ein offnes Zimmer, und gut für den Winter.
+
+
+POMPEJUS.
+Seht Ihr wohl? Ich hoffe, hier gibt's Wahrheit! –
+
+
+ANGELO.
+
+Dies währt wohl eine Winternacht in Rußland,
+Wenn Nächte dort am längsten sind. Ich geh'
+Und überlass' Euch diese Untersuchung:
+Ich hoff', Ihr findet Grund, sie all' zu stäupen.
+
+
+
+ESCALUS.
+Das denk' ich auch, ich wünsch' Euch guten Morgen.
+Angelo ab.
+Nun, Freunde, weiter! Was tat man Elbogens Frau, noch einmal?
+
+
+POMPEJUS.
+Einmal, gnädiger Herr? Einmal hat man ihr nichts getan.
+
+
+ELBOGEN.
+Ich ersuche Euch, Herr, fragt ihn, was dieser Mann hier meiner Frau getan hat.
+
+
+POMPEJUS.
+Ich bitt' Eu'r Gnaden, fragt mich.
+
+
+ESCALUS.
+Nun denn, was hat dieser Herr ihr getan?
+
+
+POMPEJUS.
+Ich bitt' Eu'r Gnaden, seht diesem Herrn einmal ins Gesicht. Lieber Junker Schaum,
+              seht doch Ihre Gnaden an; ich sag's aus guter Meinung; betrachten sich Eu'r Gnaden
+              sein Gesicht!
+
+
+ESCALUS.
+O ja, recht wohl.
+
+
+POMPEJUS.
+Nein, ich bitte, betrachtet's Euch genau!
+
+
+ESCALUS.
+Nun ja, das tu' ich.
+
+
+POMPEJUS.
+Sieht Euer Gnaden etwas Unrechts in seinem Gesicht?
+
+
+ESCALUS.
+O nein.
+
+
+POMPEJUS.
+Ich will's vor Gericht deklamieren, daß sein Gesicht das Schlimmste an ihm ist. Nun
+              gut: wenn sein Gesicht das Schlimmste an ihm ist, wie konnte Junker Schaum des
+              Konstabels Frau etwas Unrechts tun? – Das möcht' ich von Euer Gnaden hören.
+
+
+ESCALUS.
+Da hat er recht. Konstabel, was sagt Ihr dazu?
+
+
+ELBOGEN.
+Erstlich, mit Eu'r Gnaden Erlaubnis, ist es ein  respektierliches Haus;
+              ferner ist dieser hier ein respektierlicher Kerl, und seine Wirtin ist ein
+              respektierliches Weibsbild.
+
+
+POMPEJUS.
+Bei dieser Hand, Herr, Elbogens Frau ist eine so respektierliche Person, als einer
+              von uns allen.
+
+
+ELBOGEN.
+Schlingel, du lügst, du lügst, gottloser Schlingel! Die Zeit soll noch kommen, wo sie
+              je respektiert war mit Mann, Weib und Kind.
+
+
+POMPEJUS.
+Herr, sie war schon mit ihm respektiert, eh' er mit ihr verheiratet war.
+
+
+ESCALUS.
+Wer ist nun hier gescheiter? Die Gerechtigkeit oder die Ruchlosigkeit? Ist das wahr?
+              –
+
+
+ELBOGEN.
+O du Lumpenkerl! O du Schlingel! O du menschenfresserischer Hannibal! Ich mit ihr
+              respektiert vor unserer Heirat? Wenn ich mit ihr oder sie mit mir respektiert gewesen
+              ist, so soll Eu'r Gnaden mich nicht für des armen Herzogs Diener halten. Beweise das,
+              du gottloser Hannibal, sonst belange ich dich wegen tätlicher Mißhandlung! –
+
+
+ESCALUS.
+Wenn er Euch jetzt eine Maulschelle gäbe, so hättet Ihr noch obendrein eine Klage
+              wegen anzüglicher Reden.
+
+
+ELBOGEN.
+Sapperment, ich danke Eu'r Gnaden. Was wäre Eu'r Gnaden Inklination, daß ich mit
+              diesem gottlosen Lump anfangen soll?
+
+
+ESCALUS.
+Ich denke, Konstabel, weil er allerlei Bosheiten in sich trägt, die du gern
+              herausbrächtest, wenn du könntest, so mag's mit ihm sein Bewenden haben, bis wir
+              erfahren, worin sie bestehn.
+
+
+ELBOGEN.
+Sapperment, ich danke Eu'r Gnaden. Da siehst du nun, du gottloser Schlingel, wohin es
+              mit dir gekommen ist; das Bewenden sollst du kriegen, das Bewenden! –
+
+
+ESCALUS
+zu Schaum.
+Wo seid Ihr geboren, Freund?
+
+
+SCHAUM.
+Hier in Wien, gnädiger Herr.
+
+
+ESCALUS.
+Habt Ihr achtzig Pfund im Jahr?
+
+
+SCHAUM.
+Ja, wenn's Euer Gnaden gefällig ist.
+
+
+ESCALUS.
+So. – Was ist dein Gewerbe, Freund?
+
+
+POMPEJUS.
+Ein Bierzapfer, Herr; einer armen Witwe Zapfer.
+
+
+ESCALUS.
+Wie heißt Eure Wirtin?
+
+
+
+POMPEJUS.
+Frau Überley.
+
+
+ESCALUS.
+Hat sie mehr als einen Mann gehabt?
+
+
+POMPEJUS.
+Neun, Herr; der letzte war Überley.
+
+
+ESCALUS.
+Neun! Kommt einmal her, Junker Schaum! Junker Schaum, ich dächte. Ihr ließt Euch
+              nicht mit Zapfern ein: sie ziehn Euch nur aus, Junker Schaum, und Ihr bringt sie an
+              den Galgen. Geht Eurer Wege, und laßt mich nichts mehr von Euch hören!
+
+
+SCHAUM.
+Ich danke Eurer Herrlichkeit. Ich für mein Teil bin auch nie in eine Schenkstube
+              gekommen, daß ich's nicht recht anziehend gefunden hätte.
+
+
+ESCALUS.
+Schon gut, Junker Schaum; geht mit Gott!
+Schaum ab.
+Jetzt kommt Ihr einmal heran, Meister Bierzapfer; wie heißt Ihr, Meister Zapfer?
+
+
+POMPEJUS.
+Pompejus.
+
+
+ESCALUS.
+Wie weiter?
+
+
+POMPEJUS.
+Pumphose.
+
+
+ESCALUS.
+So! An Eurer Pumphose habt Ihr freilich etwas Großes, und so wäret Ihr, wo von Hosen
+              die Rede ist, Pompejus der Große. – Pompejus, Ihr seid ein Stück von einem Kuppler,
+              Pompejus, obgleich Ihr Euch hinter Euer Bierzapferamt verstecken wollt. Seid Ihr's
+              nicht? Kommt, sagt mir die Wahrheit, es soll Euer Schade nicht sein.
+
+
+POMPEJUS.
+In Wahrheit, Herr, ich bin ein armer Junge, der gern leben will.
+
+
+ESCALUS.
+Wovon willst du leben, Pompejus? Vom Kuppeln? Was dünkt dich von diesem Gewerbe,
+              Pompejus? Ist das ein gesetzlich erlaubtes Gewerbe?
+
+
+POMPEJUS.
+Wenn das Gesetz nichts dagegen hat, Herr –
+
+
+ESCALUS.
+Aber das Gesetz hat etwas dagegen, Pompejus, und wird in Wien immer etwas dagegen
+              haben.
+
+
+POMPEJUS.
+Will denn Eure Herrlichkeit aus allen jungen Leuten in der Stadt Wallachen und
+              Kapaunen machen?
+
+
+ESCALUS.
+Nein, Pompejus.
+
+
+POMPEJUS.
+Sieht Eur' Herrlichkeit, so werden sie nach meiner geringen Meinung nicht davon
+              lassen. Wenn Eu'r Herrlichkeit  nur die lüderlichen Dirnen und losen
+              Buben in Ordnung halten kann, so braucht sie die Kuppler gar nicht zu fürchten.
+
+
+ESCALUS.
+Es fängt auch jetzt ein hübsches Regiment an, kann ich dir sagen; es handelt sich nur
+              um Köpfen und Hängen.
+
+
+POMPEJUS.
+Wenn Ihr nur zehn Jahre lang hinter einander alle die hängen und köpfen laßt, die
+              sich in diesem Stücke vergehn, so könnt Ihr Euch bei Zeiten danach umsehn, woher Ihr
+              mehr Köpfe verschreiben wollt. Wenn dies Gesetz zehn Jahre in Wien besteht, will ich
+              im schönsten Hause das Stockwerk für sechs Dreier mieten; solltet Ihr's er leben, daß
+              es so weit kommt, so sagt nur, Pompejus hab' es Euch vorausgesagt.
+
+
+ESCALUS.
+Dank, trefflicher Pompejus. Nun, um dir die Prophezeiung zu erwidern, so rat' ich
+              dir, verstehst du, laß dich auf keiner neuen Klage betreffen, und ebensowenig in
+              deiner jetzigen Wohnung; denn wenn das geschehn sollte, Pompejus, so werde ich dich in
+              dein Zelt zurückschlagen und ein schlimmer Cäsar für dich werden: und, grade heraus zu
+              sagen, Pompejus, ich werde dich peitschen lassen. So, für diesmal, Pompejus, gehab'
+              dich wohl!
+
+
+POMPEJUS.
+Ich dank' Eu'r Herrlichkeit für Euern guten Rat; aber folgen werd' ich ihm, wie
+              Fleisch und Schicksal es fügen. Mich peitschen? Peitschen laßt den Kärrner seine
+              Mähre: Wer peitscht aus dem Beruf je einen Mann von Ehre? Ab.
+
+
+
+ESCALUS.
+Kommt einmal her, Meister Elbogen, kommt einmal her, Meister Konstabel. Wie lange ist
+              es her, daß Ihr Eurem Amt als Konstabel vorsteht? –
+
+
+ELBOGEN.
+Sieben und ein halbes Jahr, gnädiger Herr.
+
+
+ESCALUS.
+Ich dachte mir's nach Eurer Fertigkeit im Amt, Ihr müßtet es schon eine Weile
+              verwaltet haben. Sieben ganze Jahre, sagt Ihr?
+
+
+ELBOGEN.
+Und ein halbes.
+
+
+ESCALUS.
+Ach! Da hat es Euch viel Mühe gemacht. Es geschieht Euch Unrecht, daß man Euch so oft
+              zum Dienst requiriert; sind denn nicht andre Leute in Euerm Kirchspiel, die imstande
+              wären, ihn zu versehn?
+
+
+
+ELBOGEN.
+Meiner Treu, gnädiger Herr, es sind wenige, die etwas Einsicht in solchen Dingen
+              haben; wenn sie gewählt werden, sind sie immer froh, mich wieder statt ihrer zu
+              wählen; ich tu's für ein Stück Geld und übernehme es so für sie alle.
+
+
+ESCALUS.
+Hört, schafft mir die Namen von sechs oder sieben Leuten, die die brauchbarsten in
+              Euerm Kirchspiele sind.
+
+
+ELBOGEN.
+In Euer Herrlichkeit Haus, mein gnädiger Herr?
+
+
+ESCALUS.
+In mein Haus. Lebt wohl! Was ist wohl die Uhr?
+Elbogen ab.
+
+
+RICHTER.
+Elf, gnädiger Herr.
+
+
+ESCALUS.
+Wollt Ihr so gut sein und mit mir essen?
+
+
+RICHTER.
+Ich danke Euch untertänig.
+
+
+ESCALUS.
+
+Es ist mir herzlich leid um Claudios Tod,
+Doch seh' ich keinen Ausweg.
+
+
+
+RICHTER.
+Lord Angelo ist streng!
+
+
+ESCALUS.
+
+Das tut auch not;
+Ihr seid nicht gnädig, zeigt sich immer Huld:
+Verzeihung ist nur Mutter neuer Schuld.
+Und doch, du armer Claudio! 's ist kein Ausweg! –
+
+Kommt. Herr!
+Gehn ab.
+
+
+
+          Zweite Szene
+          Ein andres Zimmer daselbst.
+Es treten auf der Schließer und ein Diener.
+
+DIENER.
+Er hält noch ein Verhör, er kommt sogleich. Ich meld' Euch an.
+
+
+SCHLIESSER.
+Das tut.
+Diener ab.
+
+Ich frag' ihn nochmals,
+Was er beschließt; vielleicht doch zeigt er Gnade.
+Er hat ja nur als wie im Traum gesündigt.
+
+Der Fehl färbt jede Sekt' und jedes Alter,
+Und er drum sterben! –
+
+Angelo tritt auf.
+
+
+
+ANGELO.
+Nun, was wollt Ihr, Schließer?
+
+
+SCHLIESSER.
+Befehlt Ihr, Herr, daß Claudio morgen sterbe?
+
+
+ANGELO.
+
+Sagt' ich dir nicht schon ja? Befahl ich's nicht?
+Was fragst du denn?
+
+
+
+SCHLIESSER.
+
+Aus Furcht, zu rasch zu sein;
+Verzeiht, mein gnäd'ger Herr: ich weiß den Fall,
+Daß nach vollzognem Urteil das Gericht
+Bereute seinen Spruch.
+
+
+
+ANGELO.
+Mein sei die Sorge! –
+
+Tut Eure Pflicht, sonst sucht ein ander Amt,
+Man wird Euch leicht entbehren.
+
+
+
+SCHLIESSER.
+
+Herr, verzeiht!
+Was soll mit Julien, die schon leidet, werden?
+Denn ihre Stunde rückt heran.
+
+
+
+ANGELO.
+
+Die schafft mir
+In ein bequem'res Haus, und das sogleich!
+
+Diener kommt zurück.
+
+
+DIENER.
+
+Hier ist die Schwester des zum Tod Verdammten,
+Die Euch zu sprechen wünscht.
+
+
+
+ANGELO.
+Hat er 'ne Schwester?
+
+
+SCHLIESSER.
+
+Ja, gnäd'ger Herr; ein tugendhaftes Fräulein,
+Die bald nun eintritt in die Schwesterschaft,
+Wenn's nicht bereits geschehn.
+
+
+
+ANGELO.
+Führt sie herein;
+Diener ab.
+
+Und die Geschwächte schafft sogleich hinweg;
+Reicht ihr notdürft'ge Kost, nicht Überfluß!
+Ausfert'gen lass' ich den Befehl.
+
+Lucio und Isabella treten auf.
+
+
+SCHLIESSER.
+Gott schütz' Euch!
+Will abgehn.
+
+
+ANGELO.
+Bleibt noch! –
+Zu Isabella.
+Ihr seid willkommen; was begehrt Ihr?
+
+
+ISABELLA.
+
+Von Gram erfüllt, möcht' ich Eu'r Gnaden flehn,
+Wenn Ihr mich hören wollt –
+
+
+
+ANGELO.
+Wohlan! Was wünscht Ihr?
+
+
+
+ISABELLA.
+
+Es gibt ein Laster, mir verhaßt vor allen,
+Dem ich vor allen harte Strafe wünsche;
+Fürbitten möcht' ich nicht, allein ich muß –
+
+
+Fürbitten darf ich nicht, allein mich drängt
+Ein Kampf von Wollen und Nichtwollen.
+
+
+
+ANGELO.
+Weiter!
+
+
+ISABELLA.
+
+Mein Bruder ward verdammt, den Tod zu leiden;
+Ich fleh' Euch an, laßt seine Sünde tilgen,
+Den Bruder nicht!
+
+
+
+SCHLIESSER.
+Gott schenk' dir Kraft, zu rühren!
+
+
+ANGELO.
+
+Ich soll die Schuld verdammen, nicht den Täter?
+Verdammt ist jede Schuld schon vor der Tat.
+Mein Amt zerfiele ja in wahres Nichts,
+Straft' ich die Schuld, wie das Gesetz begehrt,
+Und ließe frei den Täter.
+
+
+
+ISABELLA.
+O gerecht, doch streng! –
+So hatt' ich einen Bruder. Gott beschirm' Euch!
+Will gehn.
+
+
+LUCIO
+zu Isabella.
+
+Gebt's so nicht auf! Noch einmal dran, und bittet;
+Kniet vor ihm nieder, hängt an seinem Mantel!
+Ihr seid zu kalt; verlangtet Ihr 'ne Nadel,
+Ihr könntet nicht mit zahmrer Zunge bitten. –
+
+Noch einmal zu ihm, frisch! –
+
+
+ISABELLA.
+So muß er sterben? –
+
+
+ANGELO.
+Jungfrau, 's ist keine Rettung.
+
+
+ISABELLA.
+
+O ja! Ich denk'. Ihr könntet ihm verzeihn,
+Und weder Gott noch Menschen zürnten Euch.
+
+
+
+ANGELO.
+Ich will's nicht tun.
+
+
+ISABELLA.
+Doch könnt Ihr's, wenn Ihr wollt?
+
+
+ANGELO.
+Was ich nicht will, das kann ich auch nicht tun.
+
+
+ISABELLA.
+
+Doch könntet Ihr's ohn' Unrecht an der Welt,
+Wenn Euer Herz die gleiche Rührung fühlte
+Wie meins?
+
+
+
+ANGELO.
+Er ward verurteilt, 's ist zu spät.
+
+
+LUCIO
+zu Isabella.
+Ihr seid zu kalt!
+
+
+ISABELLA.
+
+Zu spät? O nein doch! Mein gesprochnes Wort,
+Ich kann es widerrufen! Seid gewiß,
+Kein Attribut das Mächtige verherrlicht,
+Nicht Königskrone, Schwert des Reichsverwesers,
+
+Des Marschalls Stab, des Richters Amtsgewand,
+Keins schmückt sie alle halb mit solchem Glanz,
+Als Gnade tut. War er an Eurer Stelle,
+An seiner Ihr, Ihr straucheltet gleich ihm;
+Doch er im Amt wär' nicht so strengen Sinns! –
+
+
+
+ANGELO.
+Ich bitt' Euch, geht!
+
+
+ISABELLA.
+
+O güt'ger Gott, hätt' ich nur Eure Macht,
+Und Ihr wär't Isabella! Ständ' es so,
+Dann zeigt' ich, was es heißt, ein Richter sein,
+Was ein Gefangner.
+
+
+
+LUCIO
+leise.
+Das ist die rechte Weise! –
+
+
+ANGELO.
+
+Eu'r Bruder ist verfallen dem Gesetz,
+Und Ihr verschwendet Eure Worte.
+
+
+
+ISABELLA.
+
+Weh mir!
+Ach! Alle Seelen waren einst verfallen,
+Und Er, dem Fug und Macht zur Strafe war,
+Fand noch Vermittlung. Wie erging' es Euch,
+Wollt' Er, das allerhöchste Recht, Euch richten
+So, wie Ihr seid? Oh, das erwäget, Herr,
+Und Gnade wird entschweben Euren Lippen
+Mit Kindes Unschuld.
+
+
+
+ANGELO.
+
+Faßt Euch, schönes Mädchen;
+Denn das Gesetz, nicht ich, straft Euern Bruder.
+Wär' er mein Vetter, Bruder, ja mein Sohn,
+Es ging' ihm so: sein Haupt wird morgen fallen.
+
+
+
+ISABELLA.
+
+Schon morgen! Das ist schnell! O schont ihn, schont ihn,
+Er ist noch nicht bereit. Wir schlachten ja
+Geflügel nur, wenn's Zeit ist; dienten wir
+Gott selbst mit mindrer Achtung, als wir sorgen
+Für unser grobes Ich? Denkt, güt'ger, güt'ger Herr,
+Wer büßte schon für dies Vergehn mit Tod?
+So manche doch begingen's! –
+
+
+
+LUCIO
+leise.
+So ist's recht.
+
+
+ANGELO.
+
+Nicht tot war das Gesetz, obwohl es schlief.
+Die vielen hätten nicht gewagt den Frevel,
+Wenn nur der erste, der die Vorschrift brach,
+Für seine Tat gebüßt. Nun ist's erwacht,
+Forscht, was verübt ward, und Propheten gleich
+
+Sieht es im Spiegel, was für künft'ge Sünden
+(Ob jetzt schon, ob durch Nachsicht neu erzeugt,
+Und ferner ausgebrütet und geboren)
+Hinfort sich stufenweis' nicht mehr entwickeln,
+Nein, sterben im Entstehn.
+
+
+
+ISABELLA.
+Zeigt dennoch Mitleid! –
+
+
+ANGELO.
+
+Das tu' ich nur, zeig' ich Gerechtigkeit.
+Denn dann erbarmen mich, die ich nicht kenne,
+Die jetz'ge Nachsicht einst verwunden möchte;
+Und ihm wird Recht, der, ein Verbrechen büßend,
+Nicht lebt, ein zweites zu begehn. Dies g'nüge; –
+
+Claudio muß morgen sterben; – seid zufrieden!
+
+
+ISABELLA.
+
+So muß zuerst von Euch solch Urteil kommen,
+Und er zuerst es dulden? Ach, 's ist groß,
+Des Riesen Kraft besitzen; doch tyrannisch,
+Dem Riesen gleich sie brauchen.
+
+
+
+LUCIO
+leise.
+Ha, vortrefflich! –
+
+
+ISABELLA.
+
+Könnten die Großen donnern
+Wie Jupiter, sie machten taub den Gott:
+Denn jeder winz'ge, kleinste Richter brauchte
+Zum Donnern Jovis Äther; – nichts als Donnern!
+O gnadenreicher Himmel!
+Du mit dem zack'gen Felsenkeile spaltest
+Den unzerkeilbar knot'gen Eichenstamm,
+Nicht zarte Myrten: doch der Mensch, der stolze Mensch,
+In kleine, kurze Majestät gekleidet,
+Vergessend, was am mind'sten zu bezweifeln,
+Sein gläsern Element, – wie zorn'ge Affen,
+Spielt solchen Wahnsinn gaukelnd vor dem Himmel,
+Daß Engel weinen, die, gelaunt wie wir,
+Sich alle sterblich lachen würden. –
+
+
+
+LUCIO.
+
+Nur weiter, weiter, Kind; er gibt schon nach;
+Es wirkt, ich seh' es.
+
+
+
+SCHLIESSER.
+Geb' ihr Gott Gelingen! –
+
+
+ISABELLA.
+
+Miß nicht den Nächsten nach dem eignen Maß:
+Ihr Starken scherzt mit Heil'gen. Witz an euch
+Ist, was am Kleinen nur Entweihung wär'.
+
+
+
+LUCIO.
+Das ist die rechte Weise; immer mehr! –
+
+
+
+ISABELLA.
+
+Was in des Feldherrn Mund ein zornig Wort,
+Wird beim Soldaten Gotteslästerung.
+
+
+
+LUCIO.
+Wo nimmst du das nur her? Fahr' fort! –
+
+
+ANGELO.
+Was überhäufst du mich mit all den Sprüchen? –
+
+
+ISABELLA.
+
+Weil Hoheit, wenn sie auch wie andre irrt,
+Doch eine Art von Heilkraft in sich trägt,
+Die Fehl' und Wunden schließt. Fragt Euer Herz,
+Klopft an die eigne Brust, ob nichts drin wohnt,
+Das meines Bruders Fehltritt gleicht: bekennt sie
+Menschliche Schwachheit, wie die seine war,
+So steig' aus ihr kein Laut auf Eure Zunge
+Zu Claudias Tod.
+
+
+
+ANGELO.
+
+Sie spricht so tiefen Sinns,
+Daß Sinn und Geist ihr folgen. – Lebt nun wohl! –
+
+
+
+ISABELLA.
+O teurer Herr, kehrt um! –
+
+
+ANGELO.
+Ich überleg' es noch. Kommt morgen wieder! –
+
+
+ISABELLA.
+
+Hört, wie ich Euch bestechen will! Kehrt um,
+Mein güt'ger Herr!
+
+
+
+ANGELO.
+Wie! Mich bestechen?
+
+
+ISABELLA.
+
+Ja, mit solchen Gaben,
+Wie sie der Himmel mit Euch teilt! –
+
+
+
+LUCIO.
+Gut, sonst verdarbst du alles! –
+
+
+ISABELLA.
+
+Nicht eitle Seckel voll geprägten Goldes,
+Noch Steine, deren Wert bald reich, bald arm,
+Nachdem die Laun' es schätzt: nein, fromm Gebet,
+Das auf zum Himmel steigt und zu ihm dringt
+Vor Sonnenaufgang; Bitten reiner Seelen,
+Fastender Jungfrau'n, deren Herz nicht hängt
+An dieser Zeitlichkeit.
+
+
+
+ANGELO.
+
+Gut, morgen kommt
+Zu mir!
+
+
+
+LUCIO.
+Jetzt geht nur; es gelingt Euch. – Kommt! –
+
+
+ISABELLA.
+Der Himmel schütz' Eu'r Gnaden! –
+
+
+ANGELO
+für sich.
+
+Amen! Denn
+Ich bin schon auf dem Wege der Versuchung,
+Der die Gebete kreuzt.
+
+
+
+ISABELLA.
+
+Um welche Stunde morgen
+Wart' ich Eu'r Gnaden auf?
+
+
+
+
+ANGELO.
+Zu jeder Zeit vor Mittag.
+
+
+ISABELLA.
+Gott beschütz' Euch!
+Lucio, Isabella und Schließer gehn ab.
+
+
+ANGELO.
+Vor dir! Vor deiner Tugend selbst! –
+
+Was ist dies? Was? Ist's ihre Schuld, ist's meine?
+Wer sündigt mehr? Ist's die Versucherin,
+Ist's der Versucher? Ha!
+Nicht sie, nein, sie versucht auch nicht! Ich bin's,
+Der bei dem Veilchen liegt im Sonnenschein
+Und gleich dem Aase, nicht der Blume gleich,
+Verwest in der balsam'schen Luft. Ist's möglich,
+Daß Sittsamkeit mehr unsern Sinn empört
+Als Leichtsinn? Da uns wüster Raum nicht fehlt,
+Soll man die heil'gen Tempel niederreißen,
+Den Frevel dort zu baun? O pfui, pfui, pfui! –
+
+
+Was tust du! Ha, was bist du, Angelo!
+Du wünschest sie verderbt, um eben das,
+Was sie erhebt? Oh, laß den Bruder leben! –
+
+
+Es hat der Dieb ein freies Recht zum Raub,
+Wenn erst der Richter stiehlt. Was! Lieb' ich sie,
+Daß mich's verlangt, sie wieder reden hören,
+An ihrem Blick mich weiden ... Wovon träum' ich?
+O list'ger Erbfeind! Heil'ge dir zu fangen,
+Köderst du sie mit Heil'gen: höchst gefährlich
+Ist die Versuchung, die durch Tugendliebe
+Zur Sünde reizt. Nie konnte feile Wollust
+Mit ihrer Doppelmacht, Natur und Kunst,
+Mich je verlocken: doch dies fromme Mädchen
+Besiegt mich ganz. Bis heut begriff ich nie
+Die Liebestorheit, fragte lachend, wie? –
+
+Ab.
+
+
+
+          Dritte Szene
+          Zimmer im Gefängnis.
+Es treten auf der Herzog als Mönch gekleidet und der Schließer.
+
+HERZOG.
+Heil Euch, Freund Schließer! Denn das seid Ihr, denk' ich.
+
+
+SCHLIESSER.
+Der Schließer bin ich; was begehrt Ihr, Pater?
+
+
+
+HERZOG.
+
+Nach Christenlieb' und meiner heil'gen Regel
+Komm' ich mit Zuspruch zu den armen Seelen
+In diesem Kerker. Laßt, so wie's der Brauch,
+Sie dort mich sehn, und nennet mir den Grund
+Von ihrer Haft, daß ich, wie sich's geziemt,
+Mein Amt verwalten mag.
+
+
+
+SCHLIESSER.
+Gern tat' ich mehr, wenn Ihr noch mehr bedürft.
+Julia kommt.
+
+Blickt auf, dort kommt ein Fräulein, hier verhaftet,
+Die durch den Sturm der eignen Jugend fiel
+Und ihren Ruf befleckt. Sie trägt ein Kind,
+Des Vater sterben muß: ein junger Mann,
+Geeigneter, den Fehl zu wiederholen,
+Als drum zu sterben.
+
+
+
+HERZOG.
+Wann soll er sterben?
+
+
+SCHLIESSER.
+Morgen, wie ich glaube.
+Zu Julia.
+
+Ich traf schon Anstalt; wartet noch ein wenig,
+Dann führt man Euch von hier.
+
+
+
+HERZOG.
+Bereust du, Kind, was du gesündigt hast? –
+
+
+JULIA.
+Ich tu's, und trage meine Schmach geduldig.
+
+
+HERZOG.
+
+Ich lehr' Euch, wie Ihr Eu'r Gewissen prüft
+Und Eure Reu' erforscht, ob sie aufrichtig,
+Ob hohl im Innern.
+
+
+
+JULIA.
+Freudig will ich's lernen.
+
+
+HERZOG.
+Liebt Ihr den Mann, der Euch ins Unglück stürzte?
+
+
+JULIA.
+Ja, wie das Weib, das ihn ins Unglück stürzte.
+
+
+HERZOG.
+
+So seh' ich denn, daß beide ihr gesündigt
+Im Einverständnis?
+
+
+
+JULIA.
+Ja, im Einverständnis.
+
+
+HERZOG.
+Dann ist Euer Unrecht schwerer noch als seins.
+
+
+JULIA.
+Ja, das bekenn' ich, Vater, und bereu' es.
+
+
+HERZOG.
+
+Recht, liebes Kind: nur darum nicht bereu' es,
+Weil dich die Sünd' in diese Schmach geführt;
+Solch Leid sieht auf sich selbst, nicht auf den Himmel,
+Und zeigt, des Himmels denkt man nicht aus Liebe,
+Nein, nur aus Furcht.
+
+
+
+JULIA.
+
+Ich fühle Reu', weil es ein Unrecht war,
+Und trage gern die Schmach.
+
+
+
+
+HERZOG.
+
+Beharrt dabei!
+Eu'r Schuldgenoß muß morgen, hör' ich, sterben:
+Ich geh' zu ihm und spend' ihm Trost und Rat. –
+
+Gnade geleit' Euch! Benedicite! –
+Geht ab.
+
+
+JULIA.
+
+Muß morgen sterben! O grausame Milde,
+Die mir mein Leben schont, das immerdar
+Nur Grau'n des Todes beut statt Trost!
+
+
+
+SCHLIESSER.
+'s ist schad' um ihn! –
+Gehn ab.
+
+
+
+          Vierte Szene
+          Zimmer in Angelos Hause.
+Angelo tritt auf.
+
+ANGELO.
+
+Bet' ich und denk' ich, geht Gedank' und Beten
+Verschiednen Weg. Gott hat mein hohles Wort,
+Indes mein Dichten, nicht die Zunge hörend,
+An Isabellen ankert. Gott im Munde –
+
+
+Als prägten nur die Lippen seinen Namen;
+Im Herzen wohnt die giftig schwell'nde Sünde
+Des bösen Trachtens. – Der Staat, mein Studium einst,
+Ist wie ein gutes Buch, zu oft gelesen,
+Schal und verhaßt: ja selbst mein Tugendruhm,
+Der sonst – o hör' es niemand! – all mein Stolz,
+Ich gäb' ihn für ein Federchen mit Freuden,
+Das müßig spielt im Wind. O Rang! O Würde!
+Wie oft durch äußre Schal' und Form erzwingst du
+Ehrfurcht von Toren; lockst die Bessern selbst
+Durch falschen Schein! – Blut, du behältst dein Recht;
+Schreibt »guter Engel!« auf des Teufels Hörner,
+So sind sie nicht sein Zeichen mehr.
+
+Ein Diener kommt.
+Was gibt's?
+
+
+DIENER.
+
+Eine Nonn' ist draußen, Isabella heißt sie,
+Die Zutritt wünscht.
+
+
+
+ANGELO.
+
+Führt sie zu mir herein!
+Diener geht.
+
+O Himmel!
+Wie sich mein Blut im Sturm zum Herzen drängt,
+Dort alle Kraft und Regsamkeit erstickend,
+Und allen meinen andern Gliedern raubend
+Den nöt'gen Geist! –
+
+
+So zum Ohnmächt'gen drängt die tör'ge Menge,
+Bereit zu helfen, und entzieht die Luft,
+Die ihn beleben sollte: eben so
+Der Volksdrang, zeigt sich ein geliebter König,
+Läuft vom Gewerb' und schwärmt in läst'gem Eifer
+Um seine Gegenwart, wo ungezogne Liebe
+Beleid'gung scheinen muß.
+
+Isabella tritt auf.
+Nun, schöne Jungfrau?
+
+
+ISABELLA.
+Ich kam, zu hören, was Euch wohl gefällig.
+
+
+ANGELO.
+
+Viel mehr gefiele mir, wenn du es wüßtest,
+Als daß du mich drum fragst. – Dein Bruder kann nicht leben! –
+
+
+
+ISABELLA.
+Das war's? – Gott schütz' Euch, Herr!
+Will gehn.
+
+
+ANGELO.
+
+Zwar könnt' er wohl noch leben, und vielleicht
+So lang' als Ihr und ich; doch muß er sterben.
+
+
+
+ISABELLA.
+Durch Euer Urteil?
+
+
+ANGELO.
+Ja.
+
+
+ISABELLA.
+Ich bitt' Euch: Wann? – Damit in seiner Frist –
+
+Lang oder kurz – er sich bereiten mag,
+Daß er nicht Schaden nehm' an seiner Seele! –
+
+
+
+ANGELO.
+
+Ha! Pfui dem schnöden Fehl! Mit gleichem Recht
+Verzieh' ich dem, der aus der Welt entwandt
+Ein schon geformtes Wesen, als willfahrt' ich
+Unreiner Lust, des Himmels Bild zu prägen
+Mit unerlaubtem Stempel. Ganz so leicht,
+Ein echt geschaffnes Leben falsch vernichten,
+Als Saat zu streuen wider das Gebot,
+Ein falsches zu erzeugen.
+
+
+
+ISABELLA.
+So steht's im Himmel fest, doch nicht auf Erden.
+
+
+ANGELO.
+
+Ah, meinst du? Dann bist du mir schnell gefangen!
+Was wählst du jetzt? Daß höchst gerechtem Spruch
+
+Dein Bruder fällt; wo nicht, ihn zu erlösen,
+Du selbst den Leib so süßer Schmach dahingäbst,
+Als sie, die er entehrt?
+
+
+
+ISABELLA.
+
+Herr, glaubt es mir,
+Eh' geb' ich meinen Leib hin als die Seele.
+
+
+
+ANGELO.
+
+Nicht sprech' ich von der Seel'. Erzwungne Sünden,
+Sie werden nur gezählt, nicht angerechnet.
+
+
+
+ISABELLA.
+Wie meint Ihr, Herr? –
+
+
+ANGELO.
+
+Nun, nicht verbürg' ich das; denn ich darf sprechen
+Auch gegen meine Worte. Doch erwäge:
+Ich, jetzt der Mund des anerkannten Rechts,
+Fälle das Todesurteil deinem Bruder:
+Wär' etwa nicht Erbarmung in der Sünde,
+Die ihn befreite?
+
+
+
+ISABELLA.
+
+So begeht sie denn,
+Ich nehm' auf meine Seele die Gefahr.
+Durchaus nicht Sünde wär' es, nur Erbarmung! –
+
+
+
+ANGELO.
+
+Begingt Ihr sie und nähmt auf Euch die Tat,
+Gleich schwer dann wögen Sünde wie Erbarmung.
+
+
+
+ISABELLA.
+
+Wenn ich sein Leben bitt', ist Sünde das,
+Die laß mich tragen! Gott! Gewährt Ihr es,
+Ist Sünde das, – dann sei's mein Frühgebet,
+Daß sie zu meinem Unrecht sei gezählt
+Und Ihr sie nicht vertretet.
+
+
+
+ANGELO.
+Nein doch, hört mich: –
+
+Dein Sinn erfaßt mich nicht, sprichst du's in Einfalt?
+Stellst du dich listig so? Das ist nicht gut! –
+
+
+
+ISABELLA.
+
+Sei ich einfältig dann und gut in nichts,
+Als daß ich fromm erkenn', ich sei nicht besser.
+
+
+
+ANGELO.
+
+So strebt die Weisheit nur nach hellstem Glanz,
+Setzt sie sich selbst herab, wie schwarze Masken
+Verdeckte Schönheit zehnmal mehr erheben,
+Als Reiz, zur Schau getragen. Doch merkt auf;
+Daß Ihr mich ganz begreift, red' ich bestimmter: –
+
+Eu'r Bruder kann nicht leben.
+
+
+ISABELLA.
+Wohl! –
+
+
+ANGELO.
+
+Und sein Vergehn ist so, daß offenbar
+Nach dem Gesetz ihn diese Strafe trifft.
+
+
+
+
+ISABELLA.
+Wahr! –
+
+
+ANGELO.
+Nehmt an, kein Mittel gäb's, ihn zu erretten –
+
+(Zwar nicht verbürg' ich dieses, noch ein andres,
+Und setze nur den Fall) – Ihr, seine Schwester,
+Würdet begehrt von einem Mächtigen,
+Des hoher Rang und Einfluß auf den Richter
+Den Bruder könnt' erlösen aus den Fesseln
+Allbindender Gesetze; und es gäbe
+Den einz'gen Ausweg nur, ihn zu befrein,
+Daß Ihr den Reichtum Eurer Schönheit schenktet
+Dem Mächtigen, – wo nicht, – stürb' Euer Bruder: –
+
+Was tätet Ihr? –
+
+
+ISABELLA.
+
+So viel für meinen Bruder als für mich;
+Das heißt: wär' über mich der Tod verhängt,
+Der Geißel Striemen trüg' ich als Rubinen,
+Und zög' mich aus zum Tode, wie zum Schlaf,
+Den ich mir längst ersehnt, eh' ich den Leib
+Der Schmach hingäbe.
+
+
+
+ANGELO.
+Dann müßt' Euer Bruder sterben.
+
+
+ISABELLA.
+
+Und besser wär's gewiß.
+Viel lieber mag ein Bruder einmal sterben,
+Als daß die Schwester, um ihn frei zu kaufen,
+Auf ewig sterben sollte.
+
+
+
+ANGELO.
+
+Wär't Ihr dann nicht so grausam, als der Spruch,
+Auf den Ihr so geschmäht? –
+
+
+
+ISABELLA.
+
+Die Schand' im Loskauf und ein frei Verzeihr
+Sind nicht Geschwister: des Gesetzes Gnade
+War nie verwandt mit schmählichem Erkauf!
+
+
+
+ANGELO.
+
+Noch eben schien das Recht Euch ein Tyrann,
+Und Eures Bruders Fehltritt dünkt' Euch mehr
+Ein Scherz als ein Verbrechen.
+
+
+
+ISABELLA.
+
+O gnäd'ger Herr, verzeiht! Oft ist der Fall,
+Zu haben, was man wünscht, spricht man nicht, wie man's meint.
+So mocht' ich das Verhaßte wohl entschuld'gen
+Zum Vorteil dessen, der mir teuer ist.
+
+
+
+ANGELO.
+Schwach sind wir alle.
+
+
+ISABELLA.
+Sonst möcht' er immer sterben,
+
+Wenn kein Vasall als er allein der Schwachheit –
+Oh, wir sind alle der Versuchung Erben! –
+
+
+ANGELO.
+Nun, auch das Weib ist schwach! –
+
+
+ISABELLA.
+
+Ja, wie der Spiegel, drin sie sich beschaut,
+So leicht zerbricht, als er Gestalten prägt.
+Das Weib! Hilf Gott! Der Mann entweiht ihr Edles,
+Wenn er's mißbraucht. Nennt mich denn zehnmal schwach,
+Denn wir sind sanft, wie unsre Bildung ist,
+Nachgiebig falschem Eindruck.
+
+
+
+ANGELO.
+
+Ja, so ist's:
+Und auf Eu'r eignes Zeugnis Eurer Schwäche
+(Denn auch wir Männer, mein' ich, sind nicht stärker,
+Als daß uns Fehler schütteln) dreist nun sprech' ich:
+Ich halte dich beim Wort: sei, was du bist,
+Ein Weib; willst mehr du sein, so bist du keins;
+Und bist du eins (wie all dein äußrer Reiz
+So holde Bürgschaft gibt), so zeig' es jetzt,
+Und kleide dich in die bestimmte Farbe!
+
+
+
+ISABELLA.
+
+Ich hab' nur eine Zunge: teurer Herr,
+Ich fleh' Euch an, sprecht Eure vor'ge Sprache!
+
+
+
+ANGELO.
+Ich sag' es frei und klar, ich liebe dich.
+
+
+ISABELLA.
+
+Mein Bruder liebte Julien, und Ihr sagt,
+Er müsse dafür sterben.
+
+
+
+ANGELO.
+Liebst du mich, Isabella, soll er nicht.
+
+
+ISABELLA.
+
+Ich weiß es, Eurer Würde ward dies Vorrecht,
+Sie scheint ein wenig schlimmer, als sie ist,
+Und prüft uns andre.
+
+
+
+ANGELO.
+
+Glaub', auf meine Ehre,
+Mein Wort spricht meinen Vorsatz.
+
+
+
+ISABELLA.
+
+O kleine Ehre, so viel ihr zu glauben!
+Und Gott verhaßter Vorsatz! Schein, o Schein! –
+
+
+Ich werde dich verkünden, sieh dich vor:
+Gleich unterzeichne mir des Bruders Gnade,
+Sonst ruf ich's aller Welt mit lautem Schrei,
+Was für ein Mann du bist.
+
+
+
+ANGELO.
+
+Wer glaubt dir's, Isabella?
+Mein unbefleckter Ruf, des Lebens Strenge,
+Mein Zeugnis gegen dich, mein Rang im Staat
+
+Wird dein Beschuld'gen überbieten,
+Daß du ersticken wirst am eignen Wort,
+Und nach Verleumdung schmecken. Ich begann;
+Und nun, entzügelt, nehmt den Lauf, ihr Sinne:
+Ergib dich meiner glühenden Begier,
+Weg sprödes Weigern, zögerndes Erröten,
+Das abweist, was es wünscht; kauf' deinen Bruder,
+Indem du meinem Willen dich ergibst;
+Sonst muß er nicht allein des Todes sterben,
+Ja, deine Härte soll den Tod ihm dehnen
+Durch lange Martern. Antwort gib mir morgen;
+Denn, bei der Leidenschaft, die mich beherrscht,
+Ich werd' ihm ein Tyrann! Und dir sei klar,
+Sprich, was du kannst; mein Falsch besiegt dein Wahr.
+
+Geht ab.
+
+
+ISABELLA.
+
+Wem sollt' ich's klagen? Wem ich dies erzählte,
+Wer glaubte mir's? O gleisnerischer Mund,
+Der mit der einen und derselben Zunge
+Verdammnis spricht und Billigung zugleich!
+Der das Gesetz nach Willkür schweigen heißt,
+Und krümmt nach seinen Lüsten Recht und Unrecht,
+Sich ihm zu schmiegen! Hin zum Bruder eil' ich,
+Und fiel er auch durch allzu heißes Blut,
+Doch lebt in ihm so großer Geist der Ehre,
+Daß, hätt' er zwanzig Häupter hinzustrecken
+Auf zwanzig blut'ge Blöck', er böte sie,
+Eh' seine Schwester ihren Leib entheiligt
+In so abscheulicher Entweihung.
+Ja, Claudio, stirb: ich bleibe keusch und rein;
+Mehr als ein Bruder muß mir Keuschheit sein.
+Ich sag' ihm noch, was Angelo beschieden,
+Dann geh' er durch den Tod zum ew'gen Frieden.
+
+Geht ab.
+
+
+
+
+
+        Dritter Aufzug
+        
+          Erste Szene
+          Im Gefängnis.
+Es treten auf der Herzog, Claudio und der Schließer.
+
+HERZOG.
+So hofft Ihr Gnade von Lord Angelo?
+
+
+CLAUDIO.
+
+Im Elend bleibt kein andres Heilungsmittel,
+Als Hoffnung nur:
+Ich hoffe Leben, bin gefaßt auf Tod.
+
+
+
+HERZOG.
+
+Sei's unbedingt auf Tod! Tod so wie Leben
+Wird dadurch süßer. Sprich zum Leben so:
+Verlier' ich dich, so geb' ich hin, was nur
+Ein Tor festhielte. Sprich: du bist ein Hauch,
+Abhängig jedem Wechsel in der Luft,
+Der diese Wohnung, die dir angewiesen,
+Stündlich bedroht; du bist nur Narr des Todes,
+Denn durch die Flucht strebst du ihm zu entgehn,
+Und rennst ihm ewig zu. Du bist nicht edel;
+Denn alles Angenehme, das dich freut,
+Erwuchs aus Niederm. Tapfer bist du nicht;
+Du fürchtest ja die zartgespaltne Zunge
+Des armen Wurms: – dein bestes Ruh'n ist Schlaf,
+Den rufst du oft, und zitterst vor dem Tod,
+Der doch nichts weiter. Du bist nicht du selbst;
+Denn du bestehst durch Tausende von Körnern,
+Aus Staub entsprossen. Glücklich bist du nicht:
+Was du nicht hast, dem jagst du ewig nach,
+Vergessend, was du hast. Du bist nicht stetig,
+Denn dein Befinden wechselt seltsam launisch
+Mit jedem Mond. Reich, bist du dennoch arm;
+Dem Esel gleich, der unter Gold sich krümmt,
+
+Trägst du den schweren Schatz nur einen Tag,
+Und Tod entlastet dich. Freunde hast du keine;
+Denn selbst dein Blut, das Vater dich begrüßt,
+Die Wirkung deiner eignen innern Kraft,
+Flucht deiner Gicht, dem Aussatz und der Lähmung,
+Daß sie nicht schneller mit dir enden.
+Du hast zu eigen Jugend nicht noch Alter,
+Nein, gleichsam nur 'nen Schlaf am Nachmittag,
+Der beides träumt; denn all dein Jugendglanz
+Lebt wie bejahrt und fleht vom welken Alter
+Die Zehrung sich: und bist du alt und reich,
+Hast du nicht Glut noch Triebe, Mark noch Schönheit,
+Der Güter froh zu sein. Was bleibt nun noch,
+Das man ein Leben nennt? Und dennoch birgt
+Dies Leben tausend Tode; dennoch scheu'n wir
+Den Tod, der all die Widersprüche löst.
+
+
+
+CLAUDIO.
+
+Habt Dank, mein Vater!
+Ich seh', nach Leben strebend, such' ich Sterben,
+Tod suchend, find' ich Leben. Nun, er komme! –
+
+Isabella kommt.
+
+
+ISABELLA.
+Macht auf! Heil sei mit euch, und Gnad' und Frieden!
+
+
+SCHLIESSER.
+Wer da? Herein! Der Wunsch verdient Willkommen!
+
+
+HERZOG.
+Bald, lieber Sohn, werd' ich Euch wiedersehn.
+
+
+CLAUDIO.
+Ehrwürd'ger Herr, ich dank' Euch.
+
+
+ISABELLA.
+Ich wünsche nur ein kurzes Wort mit Claudio.
+
+
+SCHLIESSER.
+Von Herzen gern; Herr, Eure Schwester ist's.
+
+
+HERZOG
+beiseit.
+Schließer, ein Wort mit Euch!
+
+
+SCHLIESSER.
+So viel Ihr wollt.
+
+
+HERZOG.
+Verbergt mich, Freund, wo ich sie sprechen höre'
+Der Herzog und der Schließer ab.
+
+
+CLAUDIO.
+Nun, Schwester, was für Trost? –
+
+
+ISABELLA.
+Nun ja, wie aller Trost ist; gut, sehr gut! –
+
+Lord Angelo hat ein Geschäft im Himmel
+Und sucht dich aus als schnellen Abgesandten,
+Wo du ihm bleibst als ew'ger Stellvertreter.
+
+Drum schick' dich an zur Wand'rung ungesäumt;
+Auf morgen reisest du.
+
+
+
+CLAUDIO.
+Ist denn kein Mittel?
+
+
+ISABBLLA.
+
+Nein; nur ein Mittel, das, ein Haupt zu retten,
+Zerspalten würd' ein Herz.
+
+
+
+CLAUDIO.
+So gibt es eins? –
+
+
+ISABELLA.
+Ja, Bruder, du kannst leben. –
+
+In diesem Richter wohnt ein teuflisch Mitleid:
+Willst du dies anflehn, wird dein Leben frei,
+Dich aber fesselt er bis in dein Grab.
+
+
+
+CLAUDIO.
+Wie! Ew'ge Haft?
+
+
+ISABELLA.
+
+Ja, nenn' es ew'ge Haft; es wär' ein Zwang,
+Der, stünd' auch offen dir der weite Weltraum,
+Dich bänd' an eine Qual.
+
+
+
+CLAUDIO.
+Von welcher Art?
+
+
+ISABBLLA.
+
+Von solcher Art, daß, wenn du eingewilligt,
+Du schältest ab die Ehre deinem Stamm
+Und bliebest nackt.
+
+
+
+CLAUDIO.
+Laß mich die Sache wissen!
+
+
+ISABELLA.
+
+O Claudio, ich fürchte dich und zittre,
+Du möcht'st ein fiebernd Leben dehnen wollen;
+Sechs oder sieben Winter teurer achten
+Als ew'ge Ehre. Hast du Mut zum Tod? –
+
+
+Des Todes Schmerz liegt in der Vorstellung;
+Der arme Käfer, den dein Fuß zertritt,
+Fühlt körperlich ein Leiden, ganz so groß,
+Als wenn ein Riese stirbt.
+
+
+
+CLAUDIO.
+
+Weshalb beschämst du mich?
+Meinst du, ich suche mir entschloßnen Mut
+Aus zartem Blumenschmelz? Nein, muß ich sterben,
+Grüß' ich die Finsternis als meine Braut
+Und drücke sie ans Herz!
+
+
+
+ISABELLA.
+
+Das sprach mein Bruder:
+Das war wie eine Stimme
+Aus meines Vaters Grab. Ja, du mußt sterben! –
+
+
+Du bist zu groß, ein Leben zu erkaufen
+Durch niedre Schmach! – Der außenheil'ge Richter –
+
+Des finstre Stirn und tiefbedachtes Wort
+
+
+Die Jugend ängstigt und die Torheit scheucht,
+So wie der Falk die Taub' – ist doch ein Teufel:
+Sein innrer Schlamm hinweggeschöpft, erschien' er
+Ein Pfuhl, tief wie die Hölle.
+
+
+
+CLAUDIO.
+Der fromme Angelo?
+
+
+ISABELLA.
+
+Das ist die list'ge Ausstattung der Hölle.
+Den frechsten Schalk verkleidend einzuhüllen
+In fromme Tracht. Glaubst du wohl, Claudio,
+Wenn ich ihm meine Unschuld opfern wollte,
+Du würdest frei?
+
+
+
+CLAUDIO.
+O Himmel! Ist es möglich?
+
+
+ISABELLA.
+
+Ja, er vergönnte dir's, für solche Sünde
+Noch mehr hinfort zu sünd'gen. Diese Nacht
+Soll das geschehn, was ich mit Abscheu nenne,
+Sonst stirbst du morgen.
+
+
+
+CLAUDIO.
+Das sollst du nie!
+
+
+ISABELLA.
+
+O wär' es nur mein Leben,
+Ich würf' es leicht für deine Freiheit hin
+Wie eine Nadel!
+
+
+
+CLAUDIO.
+Dank dir, teure Schwester!
+
+
+ISABELLA.
+Bereite dich auf morgen denn zum Tod! –
+
+
+CLAUDIO.
+
+Ja. – Fühlt auch er Begierden,
+Für die er das Gesetz mit Füßen tritt,
+Indem er's schärfen will? Dann ist's nicht Sünde,
+Die kleinste mind'stens von den Todessünden! –
+
+
+
+ISABELLA.
+Welch' ist die kleinste?
+
+
+CLAUDIO.
+
+Wär' sie verdammlich: ein so weiser Mann,
+Wie könnt' er eines Augenblicks Genuß
+Mit Ewigkeiten büßen? Isabella! ...
+
+
+
+ISABELLA.
+Was sagt mein Bruder?
+
+
+CLAUDIO.
+Sterben ist entsetzlich!
+
+
+ISABELLA.
+Und leben ohne Ehre hassenswert!
+
+
+CLAUDIO.
+
+Ja! Aber sterben! Gehn, wer weiß, wohin,
+Da liegen, kalt, eng eingesperrt, und faulen;
+Dies lebenswarme, fühlende Bewegen
+Verschrumpft zum Kloß; und der entzückte Geist
+Getaucht in Feuerfluten, oder schaudernd
+Umstarrt von Wüsten ew'ger Eisesmassen;
+
+Gekerkert sein in unsichtbare Stürme,
+Und mit rastloser Wut gejagt rings um
+Die schwebende Erd'; oder Schlimmres werden
+Als selbst das Schlimmste,
+Was Phantasie wild schwärmend, zügellos,
+Heulend erfindet: das ist zu entsetzlich! –
+
+
+Das schwerste, jammervollste ird'sche Leben.
+Das Alter, Meineid, Schmerz, Gefangenschaft
+Dem Menschen auflegt, – ist ein Paradies
+Gegen das, was wir vom Tode fürchten!
+
+
+
+ISABELLA.
+Ach! –
+
+
+CLAUDIO.
+O Liebste, laß mich leben! –
+
+Was du auch tust, den Bruder dir zu retten,
+Natur tilgt diese Sünde so hinweg,
+Daß sie zur Tugend wird.
+
+
+
+ISABELLA.
+
+O Tier!
+O feige Memm'! o treulos Ehrvergeßner,
+Soll meine Sünde dich zum Mann erschaffen? –
+
+
+Ist's nicht blutschänd'risch, Leben zu empfahn
+Durch deiner Schwester Schmach? Was muß ich glauben?
+Hilf Gott! War meine Mutter falsch dem Vater?
+Denn solch entartet wildes Unkraut sproß
+Niemals aus seinem Blute. Dir entsag' ich,
+Stirb, fahre hin! Wenn auch mein Fußfall nur
+Dein Schicksal wenden möcht', ich ließ' es walten:
+Ich bete tausendmal für deinen Tod,
+Kein Wort zur Rettung.
+
+
+
+CLAUDIO.
+Schwester, hör' mich an!
+
+
+ISABELLA.
+O pfui, pfui, pfui! –
+
+Dein Sünd'gen war kein Fall, war schon Gewerbe,
+Und Gnade würd' an dir zur Kupplerin:
+Am besten stirbst du gleich.
+
+Will abgehn.
+
+
+CLAUDIO.
+O hör' mich, Schwester! –
+Der Herzog kommt zurück.
+
+
+HERZOG.
+Vergönnt ein Wort, junge Schwester, nur ein einziges Wort!
+
+
+ISABELLA.
+Was ist Euer Wunsch?
+
+
+
+HERZOG.
+Wenn Eure Zeit es zuließe, hätte ich gern eine kurze Unterredung mit Euch; diese
+              Gewährung meiner Bitte würde zugleich zu Euerm Frommen sein.
+
+
+ISABELLA.
+Ich habe keine überflüssige Zeit; mein Verweilen muß ich anderen Geschäften stehlen;
+              doch will ich noch etwas verweilen.
+
+
+HERZOG
+beiseit zu Claudio.
+Mein Sohn, ich habe mit angehört, was zwischen Euch und Eurer Schwester vorging.
+              Angelo hatte nie die Absicht, sie zu verführen; er hat nur einen Versuch auf ihre
+              Tugend gemacht, um sein Urteil über das menschliche Gemüt zu schärfen. Sie, im wahren
+              Gefühl echter Ehre, entgegnete ihm die fromme Weigerung, die er mit höchster Freude
+              vernahm. Ich bin Angelos Beichtiger und weiß, daß dieses wahr ist. Bereitet Euch
+              deshalb auf den Tod; schmeichelt Eurer Standhaftigkeit nicht durch trügliche
+              Hoffnungen; morgen müßt Ihr sterben. Fallt auf Eure Kniee und macht Euch fertig!
+
+
+CLAUDIO.
+Laßt mich meine Schwester um Verzeihung bitten. Die Liebe zum Leben ist mir so
+              vergangen, daß ich bitten werde, davon befreit zu sein.
+
+
+HERZOG.
+Dabei bleibt's. Lebt wohl! –
+Claudio ab.
+Der Schließer kommt zurück.
+Schließer, ein Wort mit Euch!
+
+
+SCHLIESSER.
+Was wünscht Ihr, Pater?
+
+
+HERZOG.
+Daß Ihr, wie Ihr kamt, jetzt wieder geht. Laßt mich ein wenig allein mit diesem
+              Fräulein; meine Gesinnung und mein Kleid sind Euch Bürge, daß sie von meiner
+              Gesellschaft nichts zu fürchten hat.
+
+
+SCHLIESSER.
+Es sei so. – Geht ab.
+
+
+
+HERZOG.
+Dieselbe Hand, die Euch schön erschuf, hat Euch auch gut erschaffen. Güte, von der
+              Schönheit gering geachtet, läßt auch der Schönheit nicht lange ihre Güte; aber
+              Sittsamkeit, die Seele Eurer Züge, wird Euch auch immer schön erhalten. Von dem
+              Angriff, den Angelo auf Euch versucht, hat mich der Zufall in Kenntnis gesetzt, und
+              böte nicht die menschliche Schwachheit Beispiele für sein Straucheln, ich  würde mich über Angelo wundern. Wie wollt Ihr's nun machen, diesen Statthalter
+              zufrieden zu stellen und Euren Bruder zu retten?
+
+
+ISABELLA.
+Ich gehe gleich, ihm meinen Entschluß zu sagen: ich wolle lieber, daß mir ein Bruder
+              nach dem Gesetz sterbe, als daß mir ein Sohn wider das Gesetz geboren werde. Aber, oh,
+              wie irrt sich der gute Herzog in diesem Angelo! Wenn er je zurück kommt, und ich kann
+              zu ihm gelangen, so will ich meine Lippen nie wieder öffnen, oder diese Verwaltung
+              enthüllen.
+
+
+HERZOG.
+Das würde nicht unrecht getan sein. Indes wie die Sache nun steht, wird er Eurer
+              Anklage entgegnen, er habe Euch nur prüfen wollen. Darum leihet Euer Ohr meinem Rat;
+              denn meinem Wunsch, Gutes zu stiften, bietet sich ein Mittel dar. Ich bin überzeugt,
+              Ihr könnt mit aller Rechtschaffenheit einem armen gekränkten Fräulein eine verdiente
+              Wohltat erzeigen; Euern Bruder dem strengen Gesetz entreißen; Eure eigne fromme Seele
+              rein erhalten und den abwesenden Herzog sehr erfreuen, wenn er vielleicht dereinst
+              zurückkehren und von dieser Sache hören sollte.
+
+
+ISABELLA.
+Fahrt fort, mein Vater! Ich habe Herz, alles zu tun, was meinem Herzen nicht
+              verwerflich erscheint.
+
+
+HERZOG.
+Tugend ist kühn, und Güte ohne Furcht. Hörtet Ihr nie von Marianen, der Schwester
+              Friedrichs, des tapfern Helden, der auf der See verunglückte?
+
+
+ISABELLA.
+Ich hörte von dem Fräulein, und nichts als lauter Gutes.
+
+
+HERZOG.
+Eben die sollte dieser Angelo heiraten: mit dieser war er feierlich verlobt und die
+              Hochzeit festgesetzt. Zwischen der Zeit des Verlöbnisses aber und dem Trauungstage
+              ging das Schiff ihres Bruders Friedrich unter, und mit ihm das Heiratsgut der
+              Schwester. Nun denkt Euch, wie hart das arme Fräulein hiedurch getroffen ward. Sie
+              verlor einen edlen und berühmten Bruder, dessen Liebe für sie von jeher die
+              zärtlichste und brüderlichste gewesen; mit ihm ihr Erbteil und den Nerv ihres Glücks,
+              ihr Heiratsgut: mit beiden zugleich den ihr bestimmten Bräutigam, diesen redlich
+              scheinenden Angelo! –
+
+
+
+ISABELLA.
+Ist es möglich? Und Angelo verließ sie wirklich?
+
+
+HERZOG.
+Verließ sie in ihren Tränen und trocknete nicht eine durch seinen Trost;
+              widerrief sein Treuwort, indem er Entdeckungenüberihre verletzte Ehre vorgab; kurz,
+              überließ sie ihrem Kummer, dem sie noch immer um seinetwillen ergeben ist; und er, ein
+              Fels gegen ihre Tränen, wird von ihnen benetzt, aber nicht erweicht. –
+
+
+ISABELLA.
+Wie verdienstlich vom Tode, wenn er dieses arme Mädchen aus der Welt nähme! Welcher
+              Frevel von diesem Leben, daß es diesen Mann leben läßt! Aber wie soll ihr hieraus
+              Hülfe werden?
+
+
+HERZOG.
+Es ist eine Wunde, die Ihr leicht heilen könnt; und diese Kur rettet nicht allein
+              Euren Bruder, sondern schützt Euch vor Schande, wenn Ihr sie unternehmt.
+
+
+ISABELLA.
+Zeigt mir an, wie? Ehrwürdiger Vater!
+
+
+HERZOG.
+Jenes Mädchen hegt noch immer ihre erste Neigung; seine ungerechte Lieblosigkeit, die
+              nach Vernunftgründen ihre Zärtlichkeit ausgelöscht haben sollte, hat sie wie eine
+              Hemmung im Strom nur heftiger und unaufhaltsamer gemacht. – Geht Ihr zu Angelo,
+              erwidert auf sein Begehren mit scheinbarem Gehorsam; bewilligt ihm die Hauptsache, nur
+              behaltet Euch diese Bedingungen vor: erstlich, daß Ihr nicht lange bei ihm verweilen
+              dürft; dann, daß für die Zeit alle Begünstigung der Dunkelheit und Stille sei; und daß
+              der Ort den Umständen entspreche. Gesteht er dies zu, dann gelingt alles. Wir bereden
+              das gekränkte Mädchen, sich an Eurer Statt zur bestimmten Verabredung einzufinden.
+              Wenn die Zusammenkunft hernach bekannt wird, so muß ihn das zu einem Ersatz zwingen,
+              und dann wird auf diese Weise Euer Bruder gerettet, Eure Ehre bewahrt, die arme
+              Mariane beglückt und der böse Statthalter entlarvt. Das Mädchen will ich unterrichten
+              und zu dem Versuch überreden. Willigt Ihr ein, dies alles auszuführen, so schützt die
+              doppelte Wohltat diesen Trug vor Tadel. Was dünkt Euch davon? –
+
+
+ISABELLA.
+Der Gedanke daran beruhigt mich schon, und ich hoffe, es wird zum glücklichsten
+              Erfolg gedeihn.
+
+
+HERZOG.
+Es kommt alles auf Euer Betragen an. Eilt ungesäumt  zu Angelo! Wenn er
+              Euch um diese Nacht bittet, so sagt ihm Gewährung zu. Ich gehe sogleich nach Sankt
+              Lukas – dort in der einsamen Hütte wohnt diese verstoßene Mariane –; dort sucht mich
+              auf; und mit Angelo macht es ab, damit die Sache sich schnell entscheide.
+
+
+ISABELLA.
+Ich danke Euch für diesen Beistand – lebt wohl, ehrwürdiger Vater!
+Sie gehn ab zu verschiednen Seiten.
+
+
+
+          Zweite Szene
+          Straße vor dem Gefängnis.
+Es treten auf der Herzog, Elbogen Pompejus und Gerichtsdiener.
+
+ELBOGEN.
+Nun wahrhaftig, wenn da kein Einhalt geschieht, und Ihr wollt mit aller Gewalt Manns-
+              und Frauensleute wie das liebe Vieh verkaufen, so wird noch die ganze Welt braunen und
+              weißen Bastard trinken.
+
+
+HERZOG.
+O Himmel! Was haben wir hier für Zeug! –
+
+
+POMPEJUS.
+Mit der lustigen Welt ist's zu Ende, seit sie von zwei Wucherern dem lustigsten sein
+              Handwerk gelegt hat und dem schlimmsten von Gerichts wegen einen Pelzrock zuerkannt,
+              um sich warm zu halten; und noch dazu gefüttert mit Lämmerfell und verbrämt mit Fuchs,
+              um anzudeuten, daß List besser fortkommt als Unschuld.
+
+
+ELBOGEN.
+Geht Eurer Wege, Freund! Gott grüß' Euch, guter Vater Bruder!
+
+
+HERZOG.
+Und Euch, werter Bruder Vater! Was hat Euch dieser Mann zu Leide getan, Herr? –
+
+
+ELBOGEN.
+Dem Gesetze hat er etwas zu Leide getan, Herr; und obendrein, Herr, halten wir ihn
+              für einen Dieb; denn wir haben einen ganz besondern Dietrich bei ihm gefunden, Herr,
+              den wir an den Statthalter eingeschickt haben.
+
+
+HERZOG.
+Pfui, Schuft, ein Kuppler, ein verruchter Kuppler! –
+
+Die Sünde, die dein Beistand fördern hilft,
+Verschafft dir Unterhalt. Denk', was das heißt,
+Den Wanst sich füllen, sich den Rücken kleiden
+Mit so unsauberm Laster! Sprich zu dir:
+
+Von ihrem schändlich viehischen Verkehr
+Trink' ich und esse, kleide mich und lebe: –
+
+
+Und glaubst du wohl, dein Leben sei ein Leben,
+Wenn es so stinkt zum Himmel? Geh! Tu' Buße! –
+
+
+
+POMPEJUS.
+Freilich, auf gewisse Weise stinkt es, Herr; aber doch, Herr, könnt' ich beweisen,
+              ...
+
+
+HERZOG.
+
+Ja, gibt der Teufel dir Beweis für Sünde,
+Bist du ihm überwiesen. – Führt ihn fort;
+Zucht und Ermahnung müssen wirksam sein,
+Eh' solch ein störrig Vieh sich bessert.
+
+
+
+ELBOGEN.
+Er muß vor den Statthalter, Herr, der hat ihn gewarnt; der Statthalter kann solch
+              Hurenvolk nicht ausstehn; wenn er dergleichen Hurenhändler handwerk treibt und kommt
+              vor ihn, da wäre ihm besser eine Meile weiter.
+
+
+HERZOG.
+
+So mancher scheint von allen Fehlern rein;
+Oh, wär' er's auch! Und jeder Fehl vom Schein! –
+
+Lucio kommt.
+
+
+ELBOGEN.
+Sein Hals wird's nun bald machen wie Euer Leib, Herr: ein Strick darum.
+
+
+POMPEJUS.
+Da wittre ich Rettung – ich rufe mir einen Bürgen; hier kommt ein Edelmann, ein
+              Freund von mir.
+
+
+LUCIO.
+Was macht mein edler Pompejus? Was, an Cäsars Fersen? Wirst du im Triumph aufgeführt?
+              Was? Wo sind nun deine Pygmalionsbilder, deine neugebacknen Weiber, die einem eine
+              Hand in die Tasche stecken und sie als Faust wieder heraus ziehn? Was hast du für eine
+              Replik, he? Wie gefällt dir diese Melodie, Manier und Methode? Ist sie nicht im
+              letzten Regen ersoffen? Nun, was sagst du, Pflastertreter? Ist die Welt noch, wie sie
+              war, mein Guter? Wie heißt nun dein Lied? Geht's betrübt und einsilbig? Oder wie? Was
+              ist der Humor davon? –
+
+
+HERZOG.
+Immer so und wieder so! Immer schlimmer!
+
+
+LUCIO.
+Wie geht's meinem niedlichen Schätzchen, deiner Frau? Verschafft sie noch immer
+              Kunden, he?
+
+
+POMPEJUS.
+I nun, Herr, sie war mit ihrem Vorrat von gesalznem Fleisch zu Ende, nun hat sie sich
+              selbst in die Beize begeben.
+
+
+
+LUCIO.
+Ei, recht so; so gehört sich's; so muß es sein: Eure Fische immer frisch, Eure
+              Hökerin in der Lauge: so ist's der Welt Lauf, so muß es sein. Begibst du dich ins
+              Gefängnis, Pompejus?
+
+
+POMPEJUS.
+Ja, mein' Seel', Herr.
+
+
+LUCIO.
+Ei, das läßt sich hören, Pompejus! Glück zu! – Geh, sag, ich hätte dich hingeschickt;
+              Schulden halber, Pompejus; oder vielleicht –
+
+
+ELBOGEN.
+Weil er ein Kuppler ist, weil er ein Kuppler ist.
+
+
+LUCIO.
+Schön! Darum ins Gefängnis mit ihm; wenn sich das Gefängnis für einen Kuppler gehört,
+              dann geschieht ihm ja sein Recht; ein Kuppler ist er unleugbar, und zwar von alters
+              her: ein geborner Kuppler. Leb wohl, teurer Pompejus, empfehlt mich dem Gefängnis; Ihr
+              werdet wohl nun ein guter Haushalter werden, denn man wird Euch zu Hause halten.
+
+
+POMPEJUS.
+Ich hoffe doch, Euer Hochgeboren wird für mich Bürge sein? –
+
+
+LUCIO.
+Nein, wahrhaftig, das werd' ich nicht, Pompejus; das ist jetzt nicht Mode. Ich will
+              mich für dich verwenden, daß man dich noch länger sitzen läßt; wenn du dann die Geduld
+              verlierst, so zeigst du, daß du Haare auf den Zähnen hast. Leb wohl, beherzter
+              Pompejus! – Guten Abend, Pater! –
+
+
+HERZOG.
+Gleichfalls.
+
+
+LUCIO.
+Schminkt sich Brigittchen noch immer, Pompejus?
+
+
+ELBOGEN.
+Fort mit Euch! Kommt jetzt! –
+
+
+POMPEJUS.
+Ihr wollt also dann nicht Bürge sein, Herr?
+
+
+LUCIO.
+Weder dann noch jetzt. – Was gibt's auswärts Neues, Pater? – Was gibt's Neues? –
+
+
+ELBOGEN.
+Fort mit Euch! Kommt jetzt! –
+
+
+LUCIO.
+Fort, ins Hundeloch, Pompejus! Fort! –
+Elbogen, Pompejus und Gerichtsdiener gehn ab.
+Was gibt's Neues vom Herzog, Pater?
+
+
+HERZOG.
+Ich weiß nichts; könnt Ihr mir etwas mitteilen?
+
+
+LUCIO.
+Einige sagen, er sei beim Kaiser von Rußland; andre, er sei nach Rom gereist. Wo
+              meint Ihr, daß er sei?
+
+
+
+HERZOG.
+Ich weiß es nicht, aber wo er sein mag, wünsch' ich ihm Gutes.
+
+
+LUCIO.
+Das war ein toller, phantastischer Einfall von ihm, sich aus dem Staat wegzustehlen
+              und sich auf die Bettelei zu werfen, zu der er nun einmal nicht geboren ist. Lord
+              Angelo herzogt indes recht tapfer in seiner Abwesenheit; er nimmt das galante Wesen
+              rechtschaffen ins Gebet.
+
+
+HERZOG.
+Daran tut er wohl.
+
+
+LUCIO.
+Ein wenig mehr Milde für die Lüderlichkeit könnte ihm nicht schaden, Pater; etwas zu
+              sauertöpfisch in dem Punkt, Pater.
+
+
+HERZOG.
+Es ist ein zu allgemeines Laster, und nur Strenge kann es heilen.
+
+
+LUCIO.
+Freilich, das Laster ist von großer Familie und vornehmer Verwandtschaft; aber es ist
+              unmöglich, es ganz auszurotten, Pater, man müßte denn Essen und Trinken abschaffen.
+              Man sagt, der Angelo sei gar nicht auf dem ordentlichen Wege der Natur von Mann und
+              Weib erzeugt. Sollte das wohl wahr sein? Was meint Ihr?
+
+
+HERZOG.
+Wie wäre er denn erzeugt?
+
+
+LUCIO.
+Einige erzählen, eine Meernixe habe ihn gelaicht; andre, er sei von zwei Stockfischen
+              in die Welt gesetzt: aber das ist gewiß, daß, wenn er sein Wasser abschlägt, der Urin
+              gleich zu Eis gefriert; daran ist nicht der mindeste Zweifel. Er ist eine Marionette
+              ohne Zeugungskraft, das kann nicht in Abrede gestellt werden.
+
+
+HERZOG.
+Ihr scherzt, mein Herr, und führt lose Reden.
+
+
+LUCIO.
+Zum Henker, ist denn das nicht eine unbarmherzige Manier, um eines rebellischen
+              Hosenlatzes willen einem Mann das Leben zu nehmen? Hätte der Herzog, der jetzt
+              abwesend ist, das wohl je getan? Ehe der einen hätte hängen lassen um
+              hundert Bastarde, hätte er das Kostgeld für ein ganzes Tausend aus seiner Tasche
+              bezahlt. Er war kein Kostverächter, er verstand den Dienst, und das machte ihn
+              nachsichtig.
+
+
+HERZOG.
+Ich habe nie gehört, daß man den abwesenden Herzog eben mit Weibern in Verdacht
+              gehabt hätte; er hatte dazu keinen Hang.
+
+
+
+LUCIO.
+O Herr, da seid Ihr im Irrtum! –
+
+
+HERZOG.
+Unmöglich!
+
+
+LUCIO.
+Was? Der Herzog nicht? Ja doch! Fragt nur Euer altes fünfzigjähriges Bettelweib; er
+              pflegte ihr immer einen Dukaten in ihre Klapperbüchse zu stecken. Der Herzog hatte
+              seine Nücken; er war auch gern betrunken: das glaubt mir auf mein Wort!
+
+
+HERZOG.
+Ganz gewiß, Ihr tut ihm Unrecht.
+
+
+LUCIO.
+Herr, ich war sein vertrauter Freund; ein Duckmäuser war der Herzog, und ich glaube,
+              ich weiß, warum er davon gegangen ist.
+
+
+HERZOG.
+Nun, sagt mir doch, warum denn?
+
+
+LUCIO.
+Nein, um Vergebung, das ist ein Geheimnis, das man zwischen Zähnen und Lippen
+              verschließen muß. Aber so viel kann ich Euch doch zu verstehn geben: der größte Teil
+              seiner Untertanen hielt den Herzog für einen verständigen Mann.
+
+
+HERZOG.
+Verständig? Nun, das war er auch ohne Frage!
+
+
+LUCIO.
+Ein sehr oberflächlicher, unwissender, unbrauchbarer Gesell!
+
+
+HERZOG.
+Entweder ist dies Neid, oder Narrheit von Euch, oder Irrtum; der ganze Lauf seines
+              Lebens, die Art, wie er das Staatsruder geführt, würden, wenn es der Bürgschaft
+              bedürfte, ein besseres Zeugnis von ihm ablegen. Laßt ihn nur nach dem beurteilt
+              werden, wie er sich gezeigt hat, und er wird dem Neide selbst als ein Gelehrter, ein
+              Staatsmann und ein Soldat erscheinen. Deshalb redet Ihr ohne Einsicht; oder wenn Ihr
+              mehr Verstand habt, wird er sehr von Eurer Bosheit verfinstert.
+
+
+LUCIO.
+Herr, ich kenne ihn und liebe ihn.
+
+
+HERZOG.
+Liebe spricht mit beßrer Einsicht, und Einsicht mit mehr Liebe.
+
+
+LUCIO.
+Ei was, Herr, ich weiß, was ich weiß.
+
+
+HERZOG.
+Das kann ich kaum glauben, da Ihr nicht wißt, was Ihr sprecht. Aber wenn der Herzog
+              je zurückkehrt (wie wir alle beten, daß es geschehn möge), so laßt mich Euch ersuchen,
+              Euch vor ihm zu verantworten. Habt Ihr der Wahrheit gemäß gesprochen, so habt Ihr Mut,
+              es zu vertreten.
+
+Meine Pflicht ist; Euch dazu aufzufodern; und des halb bitt' ich Euch, wie ist Euer
+              Name?
+
+
+LUCIO.
+Herr, mein Name ist Lucio; der Herzog kennt mich.
+
+
+HERZOG.
+Er wird Euch noch besser kennen lernen, wenn ich so lange lebe, daß ich ihm Nachricht
+              von Euch geben kann.
+
+
+LUCIO.
+Ich fürchte Euch nicht.
+
+
+HERZOG.
+Oh, Ihr hofft, der Herzog werde nicht zurückkehren, oder Ihr haltet mich für einen zu
+              unbedeutenden Gegner. Und in der Tat, ich kann Euch wenig schaden: Ihr werdet dies
+              alles wieder abschwören.
+
+
+LUCIO.
+Ehe will ich mich hängen lassen; du irrst dich in mir, Pater. Doch genug hievon.
+              Kannst du mir sagen, ob Claudio morgen sterben muß oder nicht?
+
+
+HERZOG.
+Warum sollte er sterben, Herr?
+
+
+LUCIO.
+Nun, weil er eine Flasche mit einem Trichter gefüllt. Ich wollte, der Herzog, von dem
+              wir reden, wäre wieder da; dieser unvermögende Machthaber wird die Provinz durch
+              Enthaltsamkeit entvölkern; nicht einmal die Sperlinge dürfen an seiner Dachtraufe
+              bauen, weil sie verbuhlt sind. Der Herzog hätte gewiß, was im Dunkeln geschah, auch im
+              Dunkeln gelassen; er hätte es nimmermehr ans Licht gebracht; ich wollte, er wäre
+              wieder da! Wahrhaftig, dieser Claudio wird verdammt, weil er eine
+              Schleife aufgeknüpft! Leb wohl, guter Pater! Ich bitte dich, schließ' mich in dein
+              Gebet! Der Herzog, sage ich dir, verschmäht auch Fleisch am Freitag nicht. Er ist
+              jetzt über die Zeit hinaus, und doch sag' ich dir, er würde eine Bettlerin schnäbeln,
+              und röche sie nach Schwarzbrot und Knoblauch. Sag nur, ich hätte dir's gesagt! Leb
+              wohl! – Ab.
+
+
+
+HERZOG.
+
+Nichts rettet Macht und Größe vor dem Gift
+Der Schmähsucht; auch die reinste Unschuld trifft
+Verleumdung hinterrücks; ja selbst den Thron
+Erreicht der tück'schen Lästerzunge Hohn. –
+
+Doch wer kommt hier?
+Escalus, der Schließer, die Kupplerin und Gerichtsdiener treten auf.
+
+
+ESCALUS.
+Fort, bringt sie ins Gefängnis! –
+
+
+KUPPLERIN.
+Liebster, gnädiger Herr, habt Mitleid mit mir;  Euer Gnaden gilt für
+              einen sanftmütigen Herrn – liebster, gnädiger Herr! –
+
+
+ESCALUS.
+Doppelt und dreifach gewarnt, und immer das nämliche Verbrechen! – das könnte die
+              Gnade selbst in Wut bringen und zum Tyrannen machen.
+
+
+SCHLIESSER.
+Eine Kupplerin, die es seit elf Jahren treibt, mit Euer Gnaden Vergunst! –
+
+
+KUPPLERIN.
+Gnädiger Herr, das hat ein gewisser Lucio mir eingerührt. Jungfer Käthchen Streckling
+              war schwanger von ihm zu des Herzogs Zeit; er versprach ihr die Ehe; sein Kind ist
+              fünfviertel Jahr alt auf nächsten Philippi und Jakobi; ich habe es selbst
+              aufgefüttert, und seht nun, wie er mit mir umspringen will!
+
+
+ESCALUS.
+Dies ist ein Mensch von sehr schlechter Aufführung: ruft ihn vor uns! Fort mit ihr
+              ins Gefängnis – kein Wort mehr weiter! –
+Kupplerin und Gerichtsdiener ab.
+Schließer, mein Bruder Angelo läßt sich nicht überreden; Claudio muß morgen sterben.
+              Besorgt ihm geistlichen Zuspruch, und was er zu christlicher Erbauung bedarf. Wenn
+              mein Bruder gleiches Mitleid wie ich empfände, so stände es nicht so um Claudio.
+
+
+SCHLIESSER.
+Gnädiger Herr, dieser Pater ist bei ihm gewesen und hat ihm mit Rat beigestanden, dem
+              Tode entgegen zu gehn.
+
+
+ESCALUS.
+Guten Abend, guter Pater!
+
+
+HERZOG.
+Gnade und Segen über Euch! –
+
+
+ESCALUS.
+Von wannen seid Ihr?
+
+
+HERZOG.
+
+Nicht diesem Land gehör' ich, wo mich Zufall
+Für eine Zeit lang hält. Ich bin ein Bruder
+Aus frommem Orden, über See gekommen
+Mit wicht'gem Auftrag seiner Heiligkeit.
+
+
+
+ESCALUS.
+Was gibt's Neues im Auslande?
+
+
+HERZOG.
+Nichts; außer daß Rechtschaffenheit an einem so starken Fieber leidet, daß ihre
+              Auflösung sie heilen muß. Nur dem Neuen wird nachgefragt, und es ist ebenso gefährlich
+              geworden, in irgendeiner Lebensbahn alt zu werden, als es schon eine Tugend ist, in
+              irgendeinem Unternehmen  standhaft zu bleiben. Kaum ist noch so viel
+              Vertrauen wirksam, um der Gesellschaft Sicherheit zu verbürgen; aber Bürgschaft so
+              überlei, daß man allen Umgang verwünschen möchte. Um diese Rätsel dreht sich die ganze
+              Weisheit der Welt; dies Neue ist alt genug, und dennoch das Neue des Tages. Ich bitt'
+              Euch, Herr, von welcher Gesinnung war Euer Herzog?
+
+
+ESCALUS.
+Von der, daß er vorzüglich dahin strebte, sich genau selbst kennen zu lernen.
+
+
+HERZOG.
+Welchen Vergnügungen war er ergeben?
+
+
+ESCALUS.
+Mehr erfreut, andre froh zu sehn, als froh über irgend etwas, das ihn selbst vergnügt
+              hätte; ein Herr, der in allen Dingen mäßig war. Doch überlassen wir ihn seinem
+              Schicksal, mit einem Gebet für sein Wohlergehn, und vergönnt mir die Frage, wie Ihr
+              Claudio vorbereitet fandet? Wie ich höre, habt Ihr ihm Euren Besuch gegönnt.
+
+
+HERZOG.
+Er bekennt, sein Richter habe ihn nicht mit zu strengem Maß gemessen; vielmehr
+              demütigt er sich mit großer Ergebung vor dem Ausspruch der Gerechtigkeit. Doch hatte
+              er sich, der Eingebung seiner Schwachheit folgend, manche täuschende Lebenshoffnung
+              gebildet, die ich allmählich herabgestimmt habe; und jetzt ist er gefaßt zu
+              sterben.
+
+
+ESCALUS.
+Ihr habt dem Himmel Euer Gelübde und gegen den Gefangenen alle Pflichten Eures Berufs
+              erfüllt. Ich habe mich für den armen jungen Mann bis an die äußerste Grenze meiner
+              Zurückhaltung verwendet; aber meines Mitbruders Gerechtigkeitssinn zeigte sich so
+              strenge, daß er mich zwang, ihm zu sagen, er sei in der Tat die Gerechtigkeit
+              selbst.
+
+
+HERZOG.
+Wenn sein eigner Wandel dieser Schroffheit seines Verfahrens entspricht, so wird sie
+              ihm wohl anstehn; sollte er aber fehlen, so hat er sich sein eignes Urteil
+              gesprochen.
+
+
+ESCALUS.
+Ich gehe, den Gefangnen zu besuchen. Lebt wohl! –
+
+
+HERZOG.
+Friede sei mit Euch! –
+Escalus und der Schließer gehn ab.
+
+Wem Gott vertraut des Himmels Schwert,
+Muß heilig sein und ernst bewährt;
+
+Selbst ein Muster, uns zu leiten,
+So festzustehn, wie fortzuschreiten;
+Gleiches Maß den fremden Fehlen,
+Wie dem eignen Frevel wählen.
+Schande dem, der tödlich schlägt
+Unrecht, das er selber hegt!
+Schmach, Angelo, Schmach deinem Richten,
+Der fremde Spreu nur weiß zu sichten!
+Wie oft birgt innre, schwere Schuld,
+Der außen Engel scheint an Huld;
+Wie oft hat Schein, in Sünd' erzogen,
+Der Zeiten Auge schon betrogen,
+Daß er mit dünnen Spinneweben
+Das Schwerste, Gröbste mag erheben! –
+
+
+List gegen Bosheit wend' ich nun:
+Lord Angelo soll heute ruhn
+Bei der Verlobten, erst Verschmähten:
+So soll der Trug den Trug vertreten,
+Falschheit die Falschheit überwinden,
+Und neu der alte Bund sich gründen.
+
+Ab.
+
+
+
+
+
+        Vierter Aufzug
+        
+          Erste Szene
+          Zimmer in Marianens Hause.
+Mariane sitzend; ein Knabe singt.
+Lied
+
+Bleibt, o bleibt, ihr Lippen, ferne,
+Die so lieblich falsch geschworen;
+Und ihr Augen, Morgensterne,
+Die mir keinen Tag geboren!
+Doch den Kuß gib mir zurück,
+Gib zurück,
+Falsches Siegel falschem Glück,
+Falschem Glück! –
+
+
+MARIANE.
+
+Brich ab dein Lied und eile schnell hinweg;
+Hier kommt ein Mann des Trostes, dessen Rat
+Oft meinen wildempörten Gram gestillt.
+
+Knabe ab. Der Herzog tritt auf.
+
+O lieber Herr, verzeiht! Ich wünschte fast,
+Ihr hättet nicht so sangreich mich gefunden.
+Entschuldigt mich und glaubt, wie ich's Euch sage,
+Es war nicht Lust, nur Mild'rung meiner Plage.
+
+
+
+HERZOG.
+
+Recht wohl; doch üben Töne Zauberkraft,
+Die Schlimmes gut, aus Gutem Schlimmes schafft. –
+
+Ich bitt' Euch, sagt mir, hat hier jemand heut nach mir gefragt? Eben um diese Stunde
+              versprach ich, ihn hier zu treffen.
+
+
+MARIANE.
+Es hat niemand nach Euch gefragt; ich habe hier den ganzen Tag gesessen.
+Isabella kommt.
+
+
+
+HERZOG.
+Ich glaube Euch zuversichtlich; die Zeit ist da: eben jetzt. Ich muß Euch bitten,
+              Euch auf einen Augenblick zu entfernen; ich denke, wir sprechen uns gleich wieder, um
+              für Euch etwas Gutes einzuleiten.
+
+
+MARIANE.
+Ich bin Euch stets verpflichtet.
+Ab.
+
+
+HERZOG.
+Seid höchlich mir willkommen! –
+Wie ist's mit diesem trefflichen Regenten?
+
+
+ISABELLA.
+
+Sein Garten ist umringt von einer Mauer,
+Die gegen West an einen Weinberg lehnt;
+Und zu dem Weinberg führt ein Lattentor,
+Das dieser größre Schlüssel öffnen wird;
+Der andre schließt ein kleines Pförtchen auf,
+Das aus dem Weinberg in den Garten führt:
+Dort hab' ich zugesagt mich einzustellen,
+Grad' in der Stunde ernster Mitternacht.
+
+
+
+HERZOG.
+Doch seid Ihr auch gewiß, den Weg zu finden?
+
+
+ISABELLA.
+
+Ich merkte alles sorglich und genau;
+Mit flüsternd und höchst sündenvollem Eifer
+Genau vorzeichnend alles, wies er mir
+Zweimal den Weg.
+
+
+
+HERZOG.
+
+Sind keine andre Zeichen
+Von Euch bestimmt, die sie zu merken hat?
+
+
+
+ISABELLA.
+
+Nein; nur daß wir im Dunkel uns begegnen,
+Und ich ihm eingeschärft, nur kurze Zeit
+Könn' ich verweilen; denn, so sagt' ich ihm,
+Begleiten werd' ein Mädchen mich dahin,
+Die auf mich wart', und deren Meinung sei,
+Ich komm' des Bruders halber.
+
+
+
+HERZOG.
+
+Wohl erdacht;
+Ich habe von dem allen noch kein Wort
+Marianen mitgeteilt. – He! Fräulein, kommt! –
+
+Mariane kommt wieder.
+
+Ich bitt' Euch, macht Bekanntschaft mit der Jungfrau,
+Sie kommt, Euch zu verpflichten.
+
+
+
+ISABELLA.
+Ja, so wünsch' ich's.
+
+
+HERZOG.
+Vertraut Ihr mir, daß ich Euch lieb' und achte?
+
+
+MARIANE.
+Ich weiß, Ihr tut's, und hab' es schon erfahren.
+
+
+
+HERZOG.
+
+So nehmt denn diese Freundin an der Hand
+Und hört, was sie Euch jetzt erzählen wird.
+Ich werd' Euch hier erwarten. – Eilt indes,
+Die feuchte Nacht ist nah.
+
+
+
+MARIANE.
+Gefällt's Euch, mitzugehn?
+Mariane und Isabella ab.
+
+
+HERZOG.
+
+O Größ' und Hoheit, tausend falscher Augen
+Haften auf dir! In Bänden voll Geschwätz
+Rennt falsches Spähn, mit sich in Widerspruch,
+Dein Handeln an; des Witzes Fehlgeburt
+Macht dich zum Vater ihrer müß'gen Träume
+Und zwängt dich ihren Grillen ein. – Willkommen!
+Seid ihr ganz einig?
+
+Mariane und Isabella kommen zurück.
+
+
+ISABELLA.
+
+Sie will die Unternehmung wagen, Vater,
+Wenn Ihr sie billigt.
+
+
+
+HERZOG.
+
+Nicht ermahn' ich nur,
+Ich forde, daß sie's tut.
+
+
+
+ISABELLA.
+
+Zu sagen habt Ihr wenig;
+Nur, wenn Ihr von ihm scheidet, leis' und schwach: –
+»Gedenkt jetzt meines Bruders! –«
+
+
+
+MARIANE.
+Fürchtet nichts!
+
+
+HERZOG.
+
+Auch Ihr, geliebte Tochter, fürchtet nichts!
+Er ist mit Euch vermählt durch sein Verlöbnis:
+Euch so zusammenfügen ist nicht Sünde,
+Weil Eures Anspruchs unbestrittnes Recht
+Den Trug zur Wohltat macht. Kommt, geht hinein;
+Wer ernten will, muß erst den Samen streun.
+
+Gehn ab.
+
+
+
+          Zweite Szene
+          Ein Zimmer im Gefängnis.
+Der Schließer und Pompejus treten auf.
+
+SCHLIESSER.
+Kommt einmal her, Bursch; könnt Ihr wohl einem Menschen den Kopf abschlagen?
+
+
+
+POMPEJUS.
+Wenn der Mensch ein Junggesell ist, Herr, so kann ich's; ist's aber ein verheirateter
+              Mann, so ist er seines Weibes Haupt; und ich kann unmöglich einen Weiberkopf
+              abschlagen.
+
+
+SCHLIESSER.
+Hört, Freund, laßt die Narrenspossen und antwortet mir geradezu. Morgen früh sollen
+              Claudio und Bernardino sterben; wir haben hier im Gefängnis unsern gewöhnlichen
+              Scharfrichter, der einen Gehülfen im Dienst braucht: wenn Ihr's übernehmen wollt, ihm
+              beizustehn, so sollt Ihr von Euem Fußschellen loskommen; wo nicht, so habt Ihr Eure
+              volle Zeit im Gefängnis auszuhalten, und beim Abschied noch ein unbarmherziges
+              Auspeitschen, denn Ihr seid ein stadtkündiger Kuppler gewesen.
+
+
+POMPEJUS.
+Herr, ich bin seit undenklicher Zeit ein unzünftiger Kuppler gewesen; aber jetzt will
+              ich mir's gefallen lassen, ein zünftiger Henker zu wer den. Es soll mir ein Vergnügen
+              sein, einigen Unterricht von meinem Amtsbruder zu erhalten.
+
+
+SCHLIESSER.
+Heda, Grauslich! Wo stecktst du, Grauslich?
+Grauslich kommt.
+
+
+GRAUSLICH.
+Ruft Ihr, Herr? –
+
+
+SCHLIESSER.
+Seht einmal, hier ist ein Bursch, der Euch morgen bei der Hinrichtung helfen soll;
+              wenn's Euch recht ist, so nehmt ihn an auf ein Jahr und behaltet ihn hier bei Euch; wo
+              nicht, so braucht ihn für diesmal und laßt ihn gehn. Ihr könnt euch wegen der Ehre
+              nicht unter einander zanken, denn er ist ein Kuppler gewesen.
+
+
+GRAUSLICH.
+Ein Kuppler? Pfui, da verunehrt er unsre Kunst.
+
+
+SCHLIESSER.
+Ach, geht nur! Ihr wiegt gleich viel; eine Feder wird auf der Waage den Ausschlag
+              geben. Ab.
+
+
+
+POMPEJUS.
+Wollt Ihr nicht eine Ausnahme mit mir machen? Denn bis auf Eure hängenden Augen nehmt
+              Ihr Euch sehr gut aus. Ihr nennt also Eure Hantierung eine Kunst?
+
+
+GRAUSLICH.
+Ja, Herr, eine Kunst.
+
+
+POMPEJUS.
+Das Malen, Herr, habe ich sagen hören, sei eine Kunst; und da die Huren, Herr, unter
+              deren Regiment ich gedient habe, sich aufs Malen verstehn, so folgt, daß meine  Hantierung eine Kunst sei: aber was für eine Kunst im Hängen sein sollte –
+              und wenn Ihr mich hängen wolltet –, das kann ich nicht einsehn.
+
+
+GRAUSLICH.
+Herr, es ist eine Kunst.
+
+
+POMPEJUS.
+Beweis?
+
+
+GRAUSLICH.
+Jedes ehrlichen Mannes Anzug muß für einen Dieb passen.
+
+
+POMPEJUS.
+Freilich; denn sind Anzug und Halsschmuck ihm auch zu eng, der ehrliche Mann hält sie
+              doch für weit genug; und findet Euer Dieb sie zu vollständig und derb, der ehrliche
+              Mann hält sie für eng genug. Auf diese Weise muß jedes ehrlichen Mannes Anzug für den
+              Dieb anpassend sein.
+Der Schließer kommt zurück.
+
+
+SCHLIESSER.
+Nun, seid ihr einig?
+
+
+POMPEJUS.
+Herr, ich will ihm dienen; denn ich sehe, so ein Henker hat doch ein bußfertigeres
+              Gewerbe als so ein Kuppler; er bittet öfter um Vergebung.
+
+
+SCHLIESSER.
+Ihr da, haltet Euer Beil und Euern Block auf morgen um vier Uhr in Bereitschaft!
+
+
+GRAUSLICH.
+Komm mit, Kuppler, ich will dich in meiner Hantierung unterrichten; folge mir!
+
+
+POMPEJUS.
+Ich bin sehr wißbegierig, Herr, und ich hoffe, wenn Ihr einmal Gelegenheit habt, mich
+              für Euch selbst zu brauchen, Ihr sollt mich rührig finden; und wahrhaftig, Herr, Ihr
+              habt so viel Güte für mich, daß ich Euch wieder gefällig sein möchte.
+
+
+SCHLIESSER.
+Ruft mir jetzt Bernardin und Claudio her: –
+Grauslich und Pompejus gehn ab.
+
+Der tut mir leid, doch jener Mörder nicht,
+Und wär's mein Sohn, verfiel er dem Gericht.
+
+Claudio tritt auf.
+
+Hier ist dein Todesurteil, Claudio, lies!
+Jetzt ist es Mitternacht; um acht Uhr früh
+Gehst du zur Ewigkeit. – Wo ist Bernardin?
+
+
+
+CLAUDIO.
+
+So fest im Schlafe wie schuldlose Arbeit,
+
+Wenn sie des Wandrers Glieder schwer belastet;
+Er wird nicht wach.
+
+
+
+SCHLIESSER.
+
+Ihm kann auch keiner helfen.
+Nun geht, bereitet Euch! – Horcht, welch Geräusch?
+
+Man hört klopfen. Claudio geht ab.
+Gott woll' Euch Trost verleihn! Schon gut, ich komme! –
+
+Ich hoff', es ist Begnad'gung oder Aufschub
+Für unsern guten Claudio. – Willkommen, Vater! –
+
+Der Herzog tritt auf.
+
+
+HERZOG.
+
+Der Nacht heilsamste, beste Geisterschar
+Umgeb' Euch, guter Schließer! War hier niemand?
+
+
+
+SCHLIESSER.
+Seitdem die Abendglock' ertönte, niemand.
+
+
+HERZOG.
+Nicht Isabella?
+
+
+SCHLIESSER.
+Nein.
+
+
+HERZOG.
+Dann kommen sie.
+
+
+SCHLIESSER.
+Ist Trost für Claudio?
+
+
+HERZOG.
+Ein'ge Hoffnung bleibt.
+
+
+SCHLIESSER.
+Das ist ein harter Richter! –
+
+
+HERZOG.
+
+Das nicht! Das nicht! Sein Leben folgt genau
+Der strengen Richtschnur seines ernsten Rechts.
+In heiliger Enthaltsamkeit bezwingt er
+An sich, was seine Herrschermacht mit Nachdruck
+In andern strebt zu dämpfen. Schwärzt' ihn selbst,
+Was er bestraft, dann wär' er ein Tyrann;
+Doch so ist er gerecht. – Jetzt sind sie da. –
+
+Es wird geklopft. Schließer ab.
+
+Der Mann ist mild! Und selten, daß geneigt
+Der harte Schließer sich dem Menschen zeigt!
+Was gibt's? Wer pocht? Das ist ein hast'ger Geist,
+Der so mit Klopfen schlägt ans stille Tor! –
+
+Der Schließer kommt zurück und spricht zu einem draußen.
+
+
+SCHLIESSER.
+
+Laßt ihn noch warten, bis der Pförtner kommt
+Ihn einzulassen; er ist unterwegs.
+
+
+
+
+HERZOG.
+
+Ward der Befehl noch nicht zurückgenommen?
+Muß Claudio morgen sterben?
+
+
+
+SCHLIESSER.
+Keine Änd'rung!
+
+
+HERZOG.
+
+Wie nah die Dämm'rung, Schließer, dennoch hoff' ich,
+Vor Tagesanbruch hört Ihr mehr.
+
+
+
+SCHLIESSER.
+
+Vielleicht
+Wißt Ihr etwas. Doch fürcht' ich sehr, ihm wird
+Begnad'gung nicht. Nie ward solch Beispiel kund;
+Und überdies hat selbst vom Richterstuhl
+Lord Angelo dem Ohr des ganzen Volks
+Das Gegenteil erklärt.
+
+Ein Bote kommt.
+
+
+HERZOG.
+Ein Diener des Regenten!
+
+
+SCHLIESSER.
+Der bringt für Claudio die Begnadigung.
+
+
+BOTE.
+Mein Herr sendet Euch diese Zeilen, und durch mich den mündlichen Auftrag, daß Ihr
+              nicht von dem kleinsten Punkt derselben abweichen sollt, weder in Zeit, Inhalt, noch
+              sonst einem Umstand. – Guten Morgen, denn ich denke, der Tag bricht schon an.
+                Bote geht ab.
+
+
+
+SCHLIESSER.
+Ich werde gehorchen.
+
+
+HERZOG.
+
+Sein Gnadenbrief! Erkauft durch solche Sünden,
+Die den Begnad'ger selbst als Frevler künden!
+Da blüht den Lastern schnell und leicht Gedeihn,
+Wo Macht und Hoheit ihnen Schutz verleihn.
+Wirkt Sünde Huld, wird zu viel Huld geübt,
+Weil sie des Frevels halb den Frevel liebt. –
+
+Nun, Herr? Was schreibt er Euch?
+
+
+SCHLIESSER.
+Wie gesagt, Lord Angelo, der mich vermutlich nachlässig im Dienst glaubt, ermuntert
+              mich durch dies ungewöhnliche Treiben. Mir scheint dies seltsam, denn es war früher
+              nie seine Gewohnheit.
+
+
+HERZOG.
+Ich bitt' Euch, laßt doch hören!
+
+
+SCHLIESSER
+liest.
+»Was Ihr auch immer vom Gegenteil hören mögt, laßt Claudio um vier Uhr hinrichten,
+              und nachmittags den Bernardin. Zu besserer Versicherung schickt mir Claudios Kopf um
+              fünf. Laßt dies genau vollzogen werden, und seid eingedenk, daß mehr hieran liegt, als
+              wir Euch für jetzt  mitteilen dürfen. Verfehlt daher nicht, Eure Pflicht
+              zu tun, indem Ihr auf eigne Gefahr dafür stehen müßt.« – Was sagt Ihr dazu, Herr?
+              –
+
+
+HERZOG.
+Wer ist der Bernardin, der diesen Nachmittag enthauptet werden soll?
+
+
+SCHLIESSER.
+Ein Zigeuner von Geburt, doch hier im Lande erzogen und groß geworden; er sitzt schon
+              seit neun Jahren gefangen. –
+
+
+HERZOG.
+Wie kommt es, daß ihn der abwesende Herzog nicht entweder in Freiheit setzte oder
+              hinrichten ließ? Wie ich höre, pflegte er immer so zu verfahren.
+
+
+SCHLIESSER.
+Seine Freunde wirkten beständig Aufschub für ihn aus, und in der Tat ward sein
+              Verbrechen erst unter Lord Angelos Regierung unzweifelhaft erwiesen.
+
+
+HERZOG.
+Ist es jetzt dargetan? –
+
+
+SCHLIESSER.
+Ganz offenbar, und von ihm selbst eingestanden.
+
+
+HERZOG.
+Hat er Reue im Gefängnis an den Tag gelegt? Scheint er gerührt zu sein?
+
+
+SCHLIESSER.
+Ein Mensch, dem der Tod nicht fürchterlicher vorkommt als ein Weinrausch; sorglos,
+              unbekümmert, furchtlos vor Vergangenheit, Gegenwart und Zukunft; ohne Scheu vor dem
+              Tod, und ein ruchloser Mörder.
+
+
+HERZOG.
+Ihm fehlt Belehrung.
+
+
+SCHLIESSER.
+Die hört er nicht an; er hat jederzeit viel Freiheit im Gefängnis gehabt; man könnte
+              ihm freistellen zu entfliehen, er würde es nicht tun. Er berauscht sich mehrmals am
+              Tage; oft ist er mehrere Tage hinter einander betrunken. Mehr als einmal haben wir ihn
+              geweckt, als wollten wir ihn zur Hinrichtung führen, und ihm einen vorgeblichen Befehl
+              dafür gezeigt: es hat nicht den mindesten Eindruck auf ihn gemacht.
+
+
+HERZOG.
+Hernach mehr von ihm. Auf Eurer Stirn, Kerkermeister, stehn Redlichkeit und
+              Entschlossenheit geschrieben; lese ich nicht recht, so täuscht mich meine alte
+              Erfahrung. Indes, im Vertrauen auf mein sichres Urteil will ich's drauf wagen.
+              Claudio, für dessen Hinrichtung Ihr jetzt den Befehl habt, ist dem Gesetz nicht mehr
+              verfallen als Angelo, der ihn verurteilt hat. Euch davon durch eine augenscheinliche
+                 Probe zu versichern, bedarf es nur eines Aufschubs von vier Tagen,
+              während dessen Ihr mir eine augenblickliche und gewagte Gefälligkeit erzeigen
+              sollt.
+
+
+SCHLIESSER.
+Und worin, ehrwürdiger Herr?
+
+
+HERZOG.
+Indem Ihr seinen Tod verschiebt!
+
+
+SCHLIESSER.
+Ach, wie kann ich das? Da mir die Stunde bestimmt und der ausdrückliche Befehl
+              zugesandt ist, bei Todesstrafe seinen Kopf dem Angelo vor Augen zu bringen? Ich würde
+              mir Claudios Schicksal zuziehn, wollte ich nur im geringsten hievon abweichen.
+
+
+HERZOG.
+Bei meinem Ordensgelübde will ich Euch für alles einstehn, wenn Ihr meiner Leitung zu
+              folgen wagt. Laßt diesen Bernardin heut morgen hinrichten und schickt seinen Kopf dem
+              Angelo!
+
+
+SCHLIESSER.
+Angelo sah sie beide und würde das Gesicht erkennen.
+
+
+HERZOG.
+Oh, der Tod ist Meister im Entstellen, und Ihr könnt ihm zu Hülfe kommen. Schert ihm
+              das Haupt, kürzt ihm den Bart, und sagt, der reuige Sünder habe dies vor seinem Tode
+              so verlangt: Ihr wißt, daß der Fall häufig vorkommt. Wenn Euch irgend etwas hieraus
+              erwächst, als Dank und gutes Glück: bei dem Heiligen, dem ich mich geweiht, so will
+              ich's mit meinem Leben vertreten.
+
+
+SCHLIESSER.
+Verzeiht mir, guter Pater, es ist gegen meinen Eid.
+
+
+HERZOG.
+Schwurt Ihr dem Herzog oder seinem Statthalter?
+
+
+SCHLIESSER.
+Dem Herzog und seinem Stellvertreter.
+
+
+HERZOG.
+Ihr würdet nicht glauben, Euch vergangen zu haben, wenn der Herzog dies Verfahren
+              billigte?
+
+
+SCHLIESSER.
+Aber welche Wahrscheinlichkeit hätte ich dafür?
+
+
+HERZOG.
+Nicht nur eine Möglichkeit, nein, eine Gewißheit. Doch weil ich Euch furchtsam sehe,
+              und weder meine Ordenstracht, meine lautre Gesinnung, noch meine Überredung Euch
+              gewinnen können, so will ich weiter gehn, als ich mir's vorgesetzt, um alle Furcht in
+              Euch zu vernichten. Seht her, Freund! Hier ist des Herzogs Handschrift und Siegel. Ihr
+              kennt die Schrift ohne Zweifel, und das Petschaft wird Euch nicht fremd sein.
+
+
+
+SCHLIESSER.
+Ich kenne sie beide.
+
+
+HERZOG.
+Dieser Brief meldet des Herzogs Rückkehr; Ihr sollt ihn sogleich nach Gefallen
+              durchlesen, und werdet sehn, daß er binnen zwei Tagen hier sein wird. Dies ist ein
+              Umstand, den Angelo nicht weiß; denn eben heut erhält er Briefe von sonderbarem
+              Inhalt: vielleicht daß der Herzog gestorben, vielleicht daß er in ein Kloster gegangen
+              sei; aber wohl nichts von dem, was hier geschrieben steht. Seht, der Morgenstern macht
+              den Schäfer schon munter. Staunt nicht zu sehr, wie alles dies zusammenhängt; alle
+              Schwierigkeiten sind leichter, wenn man sie kennt. – Ruft Eure Scharfrichter, und
+              herab mit Bernardinos Haupt; ich will sogleich seine Beichte hören und ihn für ein
+              beßres Leben vorbereiten. Ich sehe, Ihr seid noch erstaunt; aber dies muß Euch
+              durchaus zur Entschließung bringen. Kommt mit, es ist schon lichte Dämmerung.
+Beide ab.
+
+
+
+          Dritte Szene
+          Anderes Zimmer im Gefängnis.
+Pompejus tritt auf.
+
+POMPEJUS.
+Ich bin hier so bekannt, als ich's in unserm eignen Hause war; man sollte meinen, es
+              wäre das Haus der Frau Überley, denn hier kommen eine Menge von ihren alten Kunden
+              zusammen. Fürs erste ist hier der junge Herr Rasch; der sitzt hier für eine Provision
+              von Packpapier und altem Ingwer, hundertsiebenundneunzig Pfund zusammen, woraus er
+              fünf Mark bares Geld gemacht; freilich muß der Ingwer eben nicht sehr gesucht gewesen
+              sein, und die alten Weiber waren wohl eben alle gestorben. Dann ist hier ein Herr
+              Capriole, den Meister Dreihaar, der Seidenhändler, eingeklagt hat: für ein drei oder
+              vier Stück schwarzen Atlas hat er ihn in unsre Gesellschaft eingeschwärzt. Dann haben
+              wir hier den jungen Schwindlich, und den jungen Herrn Fluchmaul, und Herrn
+              Kupfersporn, und Herrn Hungerdarm, den Dolch- und Degenmann, und den jungen Fegesack,
+              der den lustigen Pudding  tot schlug; und Junker Stichfest, den
+              Klopffechter, und den schmucken Herrn Schuhriem, den weitgereisten; und den wilden
+              Halbnösel, der dem Krug den Garaus machte, und ich glaube ihrer vierzig mehr; lauter
+              tapfre Leute in unsrer Hantierung, und werden jetzt heimgesucht um des Herrn
+              willen.
+Grauslich kommt.
+
+
+GRAUSLICH.
+Fort Kerl! Hol' uns Bernardin her! –
+
+
+POMPEJUS.
+Meister Bernardin! Ihr müßt wach werden und Euch hängen lassen! Meister Bernardin!
+              –
+
+
+GRAUSLICH.
+He, holla! Bernardin! –
+
+
+BERNARDIN.
+Daß Euch das Donnerwetter übern Hals käme! Wer macht den Lärm da? Wer seid Ihr?
+
+
+POMPEJUS.
+Euer guter Freund, mein Herr, der Henker! Ihr müßt so gut sein, mein Herr, und
+              aufstehn und Euch hinrichten lassen!
+
+
+BERNARDIN.
+Fort, du Schurke, fort, sag' ich, ich will schlafen.
+
+
+GRAUSLICH.
+Sag ihm, er muß wach werden, und das gleich.
+
+
+POMPEJUS.
+Bitt' Euch, Meister Bernardin, werdet nur wach, bis man Euch hingerichtet hat,
+              nachher könnt Ihr weiter schlafen.
+
+
+GRAUSLICH.
+Geh hinein und hol' ihn heraus!
+
+
+POMPEJUS.
+Er kommt schon, Herr, er kommt schon; ich höre sein Stroh rascheln.
+Bernardin tritt auf.
+
+
+GRAUSLICH.
+Ist das Beil auf dem Block, du?
+
+
+POMPEJUS.
+Fix und fertig, Herr.
+
+
+BERNARDIN.
+Nun, Grauslich? Was habt Ihr vor?
+
+
+GRAUSLICH.
+Im Ernst, Freund, macht Euch dran und haspelt Euer Gebet herunter; denn, seht Ihr,
+              der Befehl ist da.
+
+
+BERNARDIN.
+Ihr Schurke, ich habe die ganze Nacht durch gesoffen; es ist mir ungelegen.
+
+
+POMPEJUS.
+Ei desto besser; wenn er die ganze Nacht durch gesoffen hat, und man hängt ihn den
+              Morgen früh, da hat er den andern Tag, um auszuschlafen.
+Der Herzog kommt.
+
+
+
+GRAUSLICH.
+Seht, Freund, da kommt Euer Beichtvater. Meint Ihr noch, es sei Spaß? He!
+
+
+HERZOG.
+Mein Freund, ich hörte, wie bald Ihr die Welt verlassen müßt, und kam aus
+              christlicher Nächstenliebe, Euch zu ermahnen, zu trösten und mit Euch zu beten.
+
+
+BERNARDIN.
+Pater, daraus wird nichts. Ich habe die ganze Nacht scharf gesoffen und muß mehr Zeit
+              haben mich zu besinnen, sonst sollen sie mir das Hirn mit Keulen herausschlagen. Ich
+              tu's nicht, daß ich mich heut hinrichten lasse; dabei bleibt's.
+
+
+HERZOG.
+O Freund, Ihr müßt; und darum bitt' ich Euch, schaut vorwärts auf den Weg, der Euch
+              bevorsteht.
+
+
+BERNARDIN.
+Ich schwöre aber, daß kein Mensch mich dazu bringen soll, heut zu sterben.
+
+
+HERZOG.
+So hört nur!
+
+
+BERNARDIN.
+Nicht ein Wort! Wenn Ihr mir was zu sagen habt, kommt in mein Gefängnis, denn ich
+              will heut keinen Schritt heraustun. Ab.
+
+Der Schließer kommt zurück.
+
+
+HERZOG.
+
+Ganz unbereit
+Zum Leben wie zum Tod. O steinern Herz! –
+
+Ihm nach, Gesellen, führt ihn hin zum Block!
+Grauslich und Pompejus ab.
+
+
+SCHLIESSER.
+Nun, Herr, wie fandet Ihr den Delinquenten?
+
+
+HERZOG.
+
+Durchaus verstockt, unfertig für den Tod;
+In der Verfassung ihn hinauszuführen
+Wäre verdammlich.
+
+
+
+SCHLIESSER.
+
+Hier im Kerker, Vater,
+Starb diesen Morgen grad' am hitz'gen Fieber
+Ragozyn, ein berüchtigter Pirat,
+Ein Mann von Claudios Alter: Bart und Haare
+Genau von gleicher Farbe. Sagt, wie wär's,
+Wenn wir dem Mörder Zeit zur Buße gönnten,
+Und täuschten den Regenten mit dem Kopf
+Des Ragozyn, der mehr dem Claudio gleicht? –
+
+
+
+HERZOG.
+
+Das ist ein Glücksfall, den der Himmel sendet:
+Verfügt es augenblicks; es naht die Zeit,
+
+Die Angelo bestimmt. Mit Pünktlichkeit
+Vollzieht den Auftrag, während ich durch Lehre
+Den Rohen dort zu reu'gem Tod bekehre.
+
+
+
+SCHLIESSER.
+
+Das soll geschehn, Ehrwürd'ger, unverzüglich;
+Doch Bernardin muß diesen Abend sterben.
+Und wie verfährt man weiter nun mit Claudio
+Und wendet die Gefahr, die mich bedroht,
+Wird es bekannt, daß er noch lebt?
+
+
+
+HERZOG.
+
+Verfügt es so: bringt in geheime Haft
+Bernardin so wie Claudio; eh' die Sonne
+Zweimal in ihrem Tageslauf gegrüßt
+Die untern Erdbewohner, findet Ihr
+Vollkommne Sicherstellung.
+
+
+
+SCHLIESSER.
+Ich tu' mit Freuden, wie Ihr sagt.
+
+
+HERZOG.
+
+So eilt,
+Besorgt's, und schickt das Haupt dem Angelo!
+
+Schließer ab.
+
+Nun schreib' ich Briefe gleich dem Angelo
+(Der Schließer bringt sie ihm), nach deren Inhalt
+Ihm Meldung wird, ich sei der Heimat nah,
+Und daß ein wicht'ger Anlaß mich bestimmt
+Zu öffentlichem Einzug. Ihn entbiet' ich
+Mir zu begegnen am geweihten Quell,
+Zwei Stunden vor der Stadt; von dort aus dann,
+Durch ruhig Steigern der gewicht'gen Schalen,
+Verfahren wir mit Angelo.
+
+Der Schließer kommt.
+
+
+SCHLIESSER.
+Hier ist der Kopf, ich trag' ihn selber hin.
+
+
+HERZOG.
+
+So ist's am sichersten. Kehrt bald zurück,
+Denn manches muß ich Euch vertraun, das sonst
+Kein Ohr vernehmen darf.
+
+
+
+SCHLIESSER.
+Ich will mich eilen.
+Schließer ab.
+
+
+ISABELLA
+draußen.
+Friede mit Euch! Macht auf! Ist keiner da?
+
+
+HERZOG.
+
+'s ist Isabellens Ruf: sie kommt, zu hören,
+Ob ihrem Bruder Gnade sei gewährt;
+Doch bleib' ihr seine Rettung noch verhehlt,
+
+Daß aus Verzweiflung Himmelstrost ihr werde,
+Wenn sie's am mind'sten hofft.
+
+Isabella tritt auf.
+
+
+ISABELLA.
+Vergönnt, o Herr! –
+
+
+HERZOG.
+Seid mir gegrüßt, mein schönes, frommes Kind!
+
+
+ISABELLA.
+Ein lieber Gruß von solchem heil'gen Mund! –
+Hat schon der Bruder Freiheit vom Regenten? –
+
+
+HERZOG.
+
+Er hat ihn, Tochter, von der Welt erlöst;
+Das abgeschlagne Haupt ward ihm gesandt.
+
+
+
+ISABELLA.
+Nein doch! Es ist nicht so!
+
+
+HERZOG.
+Es ist nicht anders! –
+Zeigt Eure Weisheit, Jungfrau, durch Ergebung!
+
+
+ISABELLA.
+Ich will zu ihm, ausreißen ihm die Augen! –
+
+
+HERZOG.
+Er wird gewiß den Zutritt Euch verweigern.
+
+
+ISABELLA.
+Weh, armer Claudio! Weh dir, Isabella! –
+Grausame Welt! Verdammter Angelo! –
+
+
+HERZOG.
+
+So schadet Ihr ihm nicht, noch helft Ihr Euch;
+Seid ruhig dann, stellt Gott die Sach' anheim.
+Merkt, was ich sage: jede Sylbe sollt Ihr
+Glaubwürdig, zuverlässig wahrhaft finden.
+Der Fürst kehrt morgen heim: – nein, weint nicht so!
+Ein Bruder unsers Ordens, und sein Beicht'ger,
+Gab mir die Nachricht; auch gelangte schon
+An Escalus und Angelo die Kunde:
+Sie sollen ihm am Tor entgegen ziehn;
+Ihr Amt zurück dort geben. Könnt' Ihr's, wandelt
+Mit Klugheit auf dem Pfad, den ich Euch zeige,
+Und Ihr kühlt Euern Sinn an dem Verworfnen,
+Euch wird des Fürsten Huld, dem Herzen Rache,
+Und allgemeines Lob.
+
+
+
+ISABELLA.
+Ich folg' Euch gern.
+
+
+HERZOG.
+
+So gebt dem Bruder Peter diesen Brief,
+Er ist's, der mir des Herzogs Heimkehr schrieb.
+Sagt, auf dies Zeichen lad' ich ihn heut nacht
+In Marianens Wohnung. Ihre Sach' und Eure
+Leg' ich in seine Hand; er bringt Euch vor
+Den Fürsten; dann dem Angelo ins Antlitz
+
+Klagt lauter ihn und lauter an. Ich Armer
+Bin durch ein heiliges Gelübd' gebunden,
+Das fern mich hält.
+Nun geht mit diesem Brief,
+Erleichtert Euer Herz und bannt vom Aug'
+Dies herbe Naß – traut meinem heil'gen Orden,
+Ich rat' Eu'r Bestes. – Wer da?
+
+Lucio kommt.
+
+
+LUCIO.
+
+Guten Abend!
+Mönch, sag, wo ist der Schließer?
+
+
+
+HERZOG.
+Nicht zugegen.
+
+
+LUCIO.
+O schöne Isabella, mein ganzes Herz erblaßt, deine Augen so rot zu sehn! Du mußt dich
+              in Geduld fassen. Ich muß mich auch drin finden, mittags und abends mit Wasser und
+              Brot zufrieden zu sein; so lieb mein Kopf mir ist, darf ich meinen Bauch nicht füllen;
+              eine einzige derbe Mahlzeit, und ich wäre geliefert. Aber wie es heißt, kommt der
+              Herzog morgen wieder. Bei meiner Seele, Isabella, ich liebte deinen Bruder; hätte nur
+              der alte phantastische Herzog, der Winkelkriecher, zu Hause gesessen, er lebte
+              noch!
+Isabella geht ab.
+
+
+HERZOG.
+Herr, der Herzog ist Euern Reden über ihn außerordentlich wenig Dank schuldig; das
+              beste ist nur, daß Eure Schild'rung ihm nicht gleicht.
+
+
+LUCIO.
+Geh nur, Mönch, du kennst den Herzog nicht so, wie ich; er ist ein beßrer Wildschütz,
+              als du denkst.
+
+
+HERZOG.
+Nun, Ihr werdet dies einmal zu verantworten haben. Lebt wohl!
+
+
+LUCIO.
+Nein, wart' noch, ich gehe mit dir; ich kann dir hübsche Geschichten von dem Herzog
+              erzählen.
+
+
+HERZOG.
+Ihr habt mir schon zu viele erzählt, wenn sie wahr sind; und sind sie's nicht, so
+              wäre eine einzige zu viel.
+
+
+LUCIO.
+Ich mußte einmal vor ihm erscheinen, weil eine Dirne von mir schwanger geworden
+              war.
+
+
+HERZOG.
+Ist Euch so etwas begegnet?
+
+
+LUCIO.
+Nun freilich war sie's von mir; aber ich schwur die Geschichte ab; ich hätte sonst
+              die faule Mispel heiraten müssen.
+
+
+
+HERZOG.
+Herr, Eure Gesellschaft ist mehr unterhaltend als anständig; schlaft wohl!
+
+
+LUCIO.
+Mein' Seel', ich bringe dich noch bis an die Ecke. Wenn dir Zotengeschichten zuwider
+              sind, so wollen wir dir nicht zu viel auftischen – ja, Mönch, ich bin eine Art von
+              Klette, ich hänge mich an.
+Gehn ab.
+
+
+
+          Vierte Szene
+          Ein Zimmer in Angelos Hause.
+Angelo und Escalus treten auf.
+
+ESCALUS.
+Jeder Brief, den er schreibt, widerspricht dem vorhergehenden.
+
+
+ANGELO.
+Auf die ungleichste und widersinnigste Weise. Seine Handlungen erscheinen fast wie
+              Wahnsinn; der Himmel gebe, daß sein Verstand nicht gelitten habe! Und warum ihm vor
+              dem Tore entgegen kommen und unsre Ämter dort niederlegen? –
+
+
+ESCALUS.
+Ich errate es nicht.
+
+
+ANGELO.
+Und warum sollen wir eben in der Stunde seiner Ankunft ausrufen lassen, daß, wenn
+              jemand über Unrecht zu klagen hat, er sein Gesuch auf offener Straße anbringen
+              möge?
+
+
+ESCALUS.
+Hierfür gibt er Gründe an: er will alle Klagen auf einmal abtun und uns für die
+              Zukunft vor Streitigkeiten sicher stellen, die alsdann keine Kraft mehr gegen uns
+              haben sollen.
+
+
+ANGELO.
+
+Wohl; ich ersuch' Euch, macht's der Stadt bekannt.
+Auf nächsten Morgen früh hol' ich Euch ab;
+Und teilt es allen mit, die Rang und Amt
+Befugt, ihn einzuholen.
+
+
+
+ESCALUS.
+Das will ich, Herr; so lebt denn wohl!
+
+
+ANGELO.
+Gut' Nacht! –
+Escalus geht ab.
+
+Die Tat nimmt allen Halt mir, stumpft den Sinn
+Und lähmt mein Handeln. – Ein entehrtes Mädchen! –
+
+Und durch den höchsten Richter, der die Strafe
+Geschärft! Wenn zarte Scheu ihr nicht verwehrte,
+Den jungfräulichen Raub bekannt zu machen,
+Wie könnte sie mich zeichnen! Doch Vernunft
+Zwingt sie zum Schweigen. Denn des Zutrauns Wucht
+Folgt so gewaltig meiner Würd' und Hoheit,
+Daß, wagt der Läst'rer einzeln dran zu rühren,
+Er sich vernichtet. – Mocht' er leben bleiben!
+Doch seiner wilden Jugend hitzig Blut
+Konnt' einst in Zukunft wohl auf Rache denken,
+Wenn ihm ein so entehrtes Leben ward
+Erkauft durch solche Schmach. – Lebt' er doch lieber! –
+
+
+Ach, wenn uns erst erlosch der Gnade Licht,
+Nichts geht dann recht, wir wollen, wollen nicht! –
+
+Geht ab.
+
+
+
+          Fünfte Szene
+          Feld vor der Stadt.
+Es treten auf der Herzog in eigner Tracht und Bruder Peter.
+
+HERZOG.
+Die Briefe bringt mir zur gelegnen Zeit;
+gibt ihm Briefe
+
+Der Schließer weiß um unsern Zweck und Plan.
+Die Sach' ist nun im Gang; folgt Eurer Vorschrift
+Und schreitet fest zum vorgesetzten Ziel,
+Wenn Ihr auch manchmal ablenkt hier und dort,
+Wie sich der Anlaß beut. Geht vor beim Flavius
+Und sagt ihm, wo ich sei; das Gleiche meldet
+Dem Valentin, dem Roland und dem Crassus,
+Und heißt zum Tor sie die Trompeten senden;
+Doch Flavius schickt zuerst!
+
+
+
+PETER.
+Ich werd' es schnell besorgen.
+Geht ab.
+Varrius tritt auf.
+
+
+HERZOG.
+
+Dank, Varrius, daß du kamst in solcher Eil';
+Komm, gehn wir, denn es gibt noch andre Freunde,
+Die uns begrüßen wollen, lieber Varrius.
+
+Alle gehn ab.
+
+
+
+
+          Sechste Szene
+          Straße beim Tor.
+Isabella und Mariane treten auf.
+
+ISABELLA.
+
+Dies unbestimmte Reden fällt mir schwer;
+Gern spräch' ich wahr; doch so ihn anzuklagen
+Ist Eure Rolle. – Dennoch muß ich's tun,
+Um unsern Plan zu bergen, wie er sagt.
+
+
+
+MARIANE.
+Folgt ihm nur ganz!
+
+
+ISABELLA.
+
+Und ferner warnt er, daß, wenn allenfalls
+Er spräche wider mich für meinen Feind,
+Mich's nicht befremden soll: es sei Arznei,
+Bitter, doch heilsam.
+
+
+
+MARIANE.
+Wenn nur Bruder Peter. ...
+
+
+ISABELLA.
+O still, da kommt er schon.
+Bruder Peter tritt auf.
+
+
+PETER.
+
+Kommt, Fräulein, einen höchst gelegnen Platz
+Fand ich, wo Euch der Herzog nicht entgeht.
+Zweimal gab die Trompete schon das Zeichen;
+Die Edeln nebst den Würdigsten der Stadt
+Sind schon am Tor versammelt, und alsbald
+Beginnt des Herzogs Einzug. Darum eilt! –
+
+Sie gehn ab.
+
+
+
+
+
+        Fünfter Aufzug
+        
+          Erste Szene
+          Ein öffentlicher Platz am Tor.
+Von der einen Seite treten auf Mariane, verschleiert; Isabella und Bruder Peter; –
+            von der andern der Herzog, Varrius, Herren vom Hofe, Angelo Escalus, Lucio, der
+            Schließer und Bürger aus der Stadt.
+
+HERZOG.
+
+Seid mir willkommen, mein sehr würd'ger Vetter;
+Uns freut's, zu sehn Euch, alter, treuer Freund!
+
+
+
+ANGELO UND ESCALUS.
+Beglückt sei Eurer Hoheit Wiederkehr!
+
+
+HERZOG.
+
+Euch beiden herzlichen, vielfachen Dank!
+Wir haben uns erkundigt, und vernehmen
+So trefflich Lob von eurer Staatsverwaltung,
+Wie's öffentlichen Dank von uns erheischt,
+Bis auf vollkommnern Lohn.
+
+
+
+ANGELO.
+Euch um so mehr verpflichtet!
+
+
+HERZOG.
+
+Oh! Solch Verdienst spricht laut; ich tät' ihm Unrecht,
+Schlöss' ich's in meiner Brust verschwiegne Haft,
+Da es verdient, mit erzner Schrift bewahrt
+Unwandelbar dem Zahn der Zeit zu trotzen
+Und des Vergessens Sichel. Reicht die Hand,
+Zeigt Euch dem Volk, damit es so erfahre,
+Wie äußre Höflichkeit gern laut verkündet
+Des Busens innre Liebe. Escalus,
+Kommt her; steht hier zu meiner andern Hand –
+
+Ja, ihr seid wackre Stützen! –
+Bruder Peter und Isabella treten auf.
+
+
+PETER.
+Nun ist es Zeit; sprecht laut und kniet vor ihm!
+
+
+ISABELLA.
+
+Gerechtigkeit, mein Fürst! Lenkt Euern Blick
+Auf die gekränkte – ach! Gern sagt' ich, Jungfrau! –
+
+O edler Fürst, entehrt nicht Euer Auge,
+Auf irgendeinen andern Gegenstand es wendend,
+Bis Ihr vernommen die gerechte Klage
+Und Recht mir zugesprochen! Recht, Recht, Recht! –
+
+
+
+HERZOG.
+
+Gekränkt? Worin? Von wem? Erzählt es kurz:
+Hier ist Lord Angelo, der schafft Euch Recht;
+Entdeckt ihm Euern Fall!
+
+
+
+ISABELLA.
+
+O edler Herzog,
+Ihr heißt Erlösung mich beim Teufel flehn!
+Hört selbst mich an; denn was ich reden muß,
+Heischt Strafe gegen mich, glaubt Ihr es nicht;
+Sonst schreit's um Rache. Hört! O hört mich hier! –
+
+
+
+ANGELO.
+
+Mein Fürst, ich sorg', es hat ihr Kopf gelitten.
+Sie bat um Gnade mich für ihren Bruder,
+Der starb im Lauf des Rechts.
+
+
+
+ISABELLA.
+Im Lauf des Rechts? –
+
+
+ANGELO.
+Und bitter wird sie nun und seltsam reden.
+
+
+ISABELLA.
+
+Höchst seltsam, doch höchst wahrhaft werd' ich reden.
+Daß Angelo meineidig ist; wie seltsam!
+Daß Angelo ein Mörder ist; wie seltsam!
+Daß Angelo ein dieb'scher Ehebrecher,
+Ein Heuchler und ein Jungfrau'nschänder ist:
+Ist das nicht seltsam? Seltsam?
+
+
+
+HERZOG.
+Zehnfach seltsam!
+
+
+ISABELLA.
+
+Nicht wahrer ist's, daß Angelo er sei,
+Als daß dies alles ganz so wahr, als seltsam;
+Ja, zehnfach wahrer; Wahrheit bleibt ja Wahrheit,
+Wie wir die Summe ziehn!
+
+
+
+HERZOG.
+
+Fort mit ihr! Ärmste,
+In ihrem Wahnsinn spricht sie so!
+
+
+
+ISABELLA.
+
+Fürst, ich beschwöre dich (so wahr du glaubst,
+Es sei noch andres Heil, als hier auf Erden),
+Verwirf mich nicht im Wahn, ich sei gestört
+Durch Tollheit! Mach' nicht zur Unmöglichkeit,
+Was nur unglaublich scheint: 's ist nicht unmöglich!
+Ja, der verruchtste Frevler auf der Welt
+Kann streng erscheinen, fromm, verschämt, vollkommen,
+Wie Angelo: so mag auch Angelo,
+
+In aller Haltung, Würde, Hoheit, Form,
+Doch ein Erz-Schurke sein: glaub', wär' er wen'ger,
+So wär' er nichts, mein Fürst: doch er ist mehr;
+Hätt' ich mehr Namen nur für Schändlichkeit! –
+
+
+
+HERZOG.
+
+Bei meiner Ehre!
+Ist sie verrückt, – und anders glaub' ich nicht, –
+
+
+So hat ihr Unsinn seltne Form von Sinn;
+So viel Zusammenhang von Wort zu Wort,
+Als ich bei Tollheit nie gehört.
+
+
+
+ISABELLA.
+
+O Fürst,
+Nicht dieses Wort! Verbanne nicht Vernunft
+Als widersprechend; nein, laß deine dienen,
+Wahrheit hervorzurufen, die verhüllt
+Das Laster birgt, das tugendgleich erscheint.
+
+
+
+HERZOG.
+Manchem Gesunden fehlt wohl mehr Verstand. –
+Was wollt'st du sagen?
+
+
+ISABELLA.
+
+Ich bin die Schwester jenes Claudio, Herr,
+Der wegen Unzucht ward verdammt, zu büßen
+Mit seinem Haupt; verdammt von Angelo.
+Zu mir, Novize einer Schwesterschaft,
+Schickte mein Bruder: ein gewisser Lucio
+Kam mit der Nachricht ...
+
+
+
+LUCIO.
+
+Das bin ich, mit Gunst.
+Ich kam, gesandt von Claudio, und bewog sie,
+Ihr rührend Fürwort bei Lord Angelo
+Für ihren armen Bruder zu versuchen.
+
+
+
+ISABELLA.
+Ja, dieser ist's.
+
+
+HERZOG
+zu Lucio.
+Euch hieß man nicht zu reden.
+
+
+LUCIO.
+
+Nein, gnäd'ger Herr,
+Doch auch zu schweigen nicht.
+
+
+
+HERZOG.
+
+So tu' ich's jetzt;
+Ich bitt' Euch, merkt Euch das, und habt Ihr einst
+Zu sprechen für Euch selber, dann fleht zum Himmel,
+Daß Ihr nicht stecken bleibt.
+
+
+
+LUCIO.
+Herr, dafür steh' ich.
+
+
+HERZOG.
+Steht für Euch selber! Nehmt Euch wohl in acht!
+
+
+ISABELLA.
+Der Herr erzählte den Beginn der Sache.
+
+
+LUCIO.
+Recht!
+
+
+
+HERZOG.
+
+Recht mag's sein; doch Ihr seid sehr im Unrecht
+Zu sprechen vor der Zeit. – Fahrt fort!
+
+
+
+ISABELLA.
+
+Ich kam
+Zu diesem gottlos schändlichen Regenten, ...
+
+
+
+HERZOG.
+Das sieht fast aus wie Wahnsinn!
+
+
+ISABELLA.
+
+Herr, verzeiht,
+Das Wort paßt für die Sache.
+
+
+
+HERZOG.
+Kann sein! – Zur Sache denn: fahrt fort, ich bitt' Euch!
+
+
+ISABELLA.
+
+Kurz denn, – um zu verschweigen, was nicht not:
+Wie ich ihm zusprach, wie ich bat und kniete,
+Wie er mich abwies, was er drauf erwidert –
+
+
+Denn so verging viel Zeit, – beginn' ich gleich
+Den schnöden Schluß mit Schmerz und Scham zu klagen.
+Nur für das Opfer meiner Keuschheit selbst
+An seine lüstern ungezähmte Gier
+Sprach er den Bruder frei. Nach langem Kampf
+Siegt schwesterliches Mitleid über Ehre,
+Und ich ergab mich ihm; doch nächsten Morgens,
+Im Übermaß der Bosheit, fodert er
+Des armen Bruders Haupt.
+
+
+
+HERZOG.
+Traun, höchst wahrscheinlich!
+
+
+ISABELLA.
+O wär' es so wahrscheinlich, als es wahr ist!
+
+
+HERZOG.
+
+Ha, töricht Ding, du weißt nicht, was du sprichst,
+Oder bist zur Verleumdung angestiftet
+Durch gift'gen Haß. Zuerst ist seine Tugend rein
+Und fleckenlos; dann wär' es widersinnig,
+Mit solcher Tyrannei den Fehl zu strafen,
+In den er selber fiel. Sündigt' er also,
+Dann wägt' er deinen Bruder nach sich selbst,
+Und nicht vertilgt' er ihn. Nein, du bist angestiftet;
+Gesteh' es frei und sag, auf wessen Rat
+Du diese Klage vorbringst?
+
+
+
+ISABELLA.
+
+Ist dies alles?
+Dann, o ihr gnadenreichen Engel droben,
+Stärkt mit Geduld mich, und zu reifer Zeit
+Entdeckt die Untat, die sich hier verhüllt
+In höherm Schutz! Gott hüt' Euch so vor Wehe,
+Wie ich gekränkt, geschmäht von hinnen gehe!
+
+
+
+
+HERZOG.
+
+Ich weiß, Ihr gingt wohl gern – ruft einen Häscher,
+Bringt sie in Haft! Wie! Sollt' ich's ruhig ansehn,
+Daß Gift und Läst'rung treffe solchen Freund,
+Der uns so nah? Gewiß! Hier waltet Trug.
+Wer weiß von Euerm Plan? Und daß Ihr kamt?
+
+
+
+ISABELLA.
+Einer, den ich her wünschte: Pater Ludwig.
+
+
+HERZOG.
+Ihr Beicht'ger wohl. – Kennt jemand diesen Ludwig?
+
+
+LUCIO.
+
+Ich kenn' ihn, Herr: in alles mengt er sich,
+Mir ist er widrig; schützt' ihn nicht die Kutte, –
+
+
+Um seine Reden wider Eure Hoheit,
+Als Ihr entfernt, hätt' ich ihn derb gebläut.
+
+
+
+HERZOG.
+Was, Reden wider mich? Welch saubrer Mönch! –
+
+Und hier dies arme Mädchen anzuhetzen
+Auf unsern Stellvertreter! Schafft den Mönch! –
+
+
+
+LUCIO.
+
+Noch gestern abend sah ich ihn, mein Fürst,
+Mit ihr im Kerker; 's ist ein frecher Bursch,
+Ein schäbichter Gesell.
+
+
+
+PETER.
+
+Gott schütz' Eu'r Hoheit!
+Ich war zugegen, gnäd'ger Fürst, und hörte
+Eu'r fürstlich Ohr gemißbraucht. Den Regenten
+Beschuldigt dieses Mädchen höchst verleumd'risch;
+Der ist so frei von Sünd' und Schuld mit ihr,
+Als sie mit einem, der noch nicht geboren.
+
+
+
+HERZOG.
+Nicht Mind'res glaubten wir. –
+Kennt Ihr den Pater Ludwig, den sie nannte?
+
+
+PETER.
+
+Ich kenn' ihn als 'nen frommen, heil'gen Mann,
+Nicht frech, noch je in Weltliches sich mengend,
+Wie dieser Herr von ihm vermeldete;
+Und auf mein Wort, ein Mann, der nimmermehr,
+Wie er behauptet, Eure Hoheit schmähte.
+
+
+
+LUCIO.
+Mein gnäd'ger Fürst, höchst ehrlos, glaubt mir das!
+
+
+PETER.
+
+Gut, mit der Zeit rechtfertigt er sich wohl;
+Doch eben jetzo liegt er krank, mein Fürst,
+An heft'gem Fieber. Nur auf sein Gesuch
+(Weil er erfuhr, daß eine Klage hier
+Lord Angelo bedrohe,) kam ich her,
+Zu zeugen, was er weiß, in seinem Namen,
+Was wahr, was falsch; und was mit einem Eid
+
+Und gültigem Beweis er dartun wird,
+Ruft man ihn auf. Zuerst, dies Mädchen hier –
+
+
+Den würd'gen Herrn Statthalter loszusprechen
+So öffentlich und tödlich angeklagt –
+
+
+Will ich der Lüge zeihn vor ihren Augen,
+Daß sie es selbst gestehn soll.
+
+Isabella wird weggeführt.
+
+
+HERZOG.
+
+Wohl! Laßt hören.
+Belächelt Ihr dies nicht, Lord Angelo?
+Über die Eitelkeit der armen Toren! –
+
+
+Reicht Sessel her! Kommt, Vetter Angelo;
+Ich will nur Hörer sein, sprecht Ihr als Richter
+In Eurer eignen Sache! – Ist dies die Zeugin?
+
+Mariane tritt vor.
+Sie zeig' uns ihr Gesicht und rede dann!
+
+
+MARIANE.
+
+Verzeiht, mein Fürst, nicht zeig' ich mein Gesicht,
+Bis mein Gemahl befiehlt.
+
+
+
+HERZOG.
+Seid Ihr vermählt?
+
+
+MARIANE.
+Nein, gnäd'ger Herr.
+
+
+HERZOG.
+Seid Ihr ein Mädchen?
+
+
+MARIANE.
+Nein.
+
+
+HERZOG.
+So seid Ihr Witwe?
+
+
+MARIANE.
+Auch nicht.
+
+
+HERZOG.
+
+Nun, dann seid Ihr
+Gar nichts: nicht Mädchen, Witwe nicht, noch Frau.
+
+
+
+LUCIO.
+Gnädiger Herr, es wird wohl ein Schätzchen sein, denn die sind gewöhnlich weder
+              Mädchen, Witwen, noch Frauen.
+
+
+HERZOG.
+
+Schweigt doch den Menschen! Hätt' er Ursach' nur,
+Zu schwatzen für sich selbst! –
+
+
+
+LUCIO.
+Gut, gnäd'ger Herr.
+
+
+MARIANE.
+
+Ich muß gestehn, ich war niemals vermählt,
+Und ich gesteh' es auch, ich bin kein Mädchen.
+Ich hab' erkannt ihn, doch mein Mann erkennt nicht,
+Daß er mich je erkannt.
+
+
+
+LUCIO.
+So war er also betrunken, gnädiger Herr; es kann nicht anders sein.
+
+
+
+HERZOG.
+Ich wollt', du wärst es auch: so schwiegst du endlich.
+
+
+LUCIO.
+Gut, mein Fürst.
+
+
+HERZOG.
+Dies ist kein Zeugnis für Lord Angelo.
+
+
+MARIANE.
+
+Nun komm' ich drauf, mein Fürst,
+Sie, die ihn anklagt um verletzte Zucht,
+Dadurch zugleich verklagt sie meinen Gatten,
+Und zwar erwähnt sie solcher Zeit, mein Fürst,
+Wo ich bezeug', ich selbst umarmt' ihn damals
+In Lieb' und Zärtlichkeit.
+
+
+
+ANGELO.
+Meint sie wen sonst, als mich?
+
+
+MARIANE.
+Nicht daß ich wüßte!
+
+
+HERZOG.
+
+Nicht?
+Ihr sagtet, Euer Gatte? –
+
+
+
+MARIANE.
+
+Jawohl, mein Fürst: und das ist Angelo,
+Der glaubt, daß er mich niemals hat berührt,
+Und wähnt, daß Isabella ihn umarmt.
+
+
+
+ANGELO.
+Das geht zu weit! Laß dein Gesicht uns sehn!
+
+
+MARIANE.
+Mein Gatte fodert's, dann entschleir' ich mich.
+Sie nimmt den Schleier ab.
+
+Sieh dies Gesicht, grausamer Angelo,
+Dem einst du schwurst, es sei des Anblicks wert:
+Sieh diese Hand, die durch geweihten Bund
+Sich fest in deine fügte: sieh mich selbst,
+Die dich von Isabellen losgekauft
+Und in dem Gartenhause dir begegnet,
+Als wär' es jene.
+
+
+
+HERZOG.
+Kennt Ihr dieses Mädchen?
+
+
+LUCIO.
+Ja, fleischlich, sagt sie.
+
+
+HERZOG.
+Still doch, Mensch!
+
+
+LUCIO.
+Schon gut! –
+
+
+ANGELO.
+
+Mein Fürst, ich leugn' es nicht, ich kenne sie;
+Fünf Jahre sind's, da war von Heirat wohl
+Die Rede zwischen uns; doch brach ich's ab,
+Teils, weil das festgesetzte Heiratsgut
+Nicht dem Vertrag entsprach; teils, und zumeist,
+Weil ich erfuhr, sie schade ihrem Ruf
+Durch Leichtsinn. Seit der Zeit, fünf Jahre sind's,
+
+Sprach ich sie nicht, noch sah und hört' ich sie,
+Bei meiner Treu' und Ehre.
+
+
+
+MARIANE.
+
+Hoher Herr,
+Wie Licht vom Himmel kommt, vom Hauch das Wort,
+Wie Sinn in Wahrheit ist, Wahrheit in Tugend:
+Ich bin sein anverlobtes Weib, so fest
+Ein Treugelübde bindet; ja, mein Fürst,
+Erst Dienstag nacht in seinem Gartenhaus
+Erkannt' er mich als Weib. Wie dies die Wahrheit,
+So mög' ich ungekränkt vom Knien erstehn;
+Wo nicht, – auf ewig festgebannt hier haften,
+Ein marmorn Monument! –
+
+
+
+ANGELO.
+
+Bisher hört' ich's mit Lächeln;
+Jetzt, gnäd'ger Fürst, laßt meinem Recht den Lauf;
+Hier bricht mir die Geduld. Ich seh' es wohl,
+Die armen Klägerinnen sind durchaus
+Werkzeuge nur in eines Mächt'gen Hand,
+Der sie regiert. Gebt Freiheit mir, mein Fürst,
+Die Ränke zu entlarven!
+
+
+
+HERZOG.
+
+Ja, von Herzen;
+Und straft sie nur, so wie's Euch wohlgefällt.
+Einfält'ger Mönch, und du, boshaftes Weib,
+Im Bund mit der, die ging: glaubst du, dein Schwur,
+Und zwäng' er alle Heil'gen her vom Himmel,
+Sei Zeugnis gegen solch Verdienst und Ansehn,
+Das unser Zutraun stempelt? Ihr, Lord Escalus,
+Setzt Euch zu meinem Vetter; steht ihm bei,
+Die Quelle dieses Unfugs zu erspähn.
+Noch war's ein andrer Mönch, der sie gehetzt:
+Den schafft herbei!
+
+
+
+PETER.
+
+Ich wünscht', er wär' schon hier; denn allerdings
+War er's, der diese Weiber trieb zur Klage.
+Eu'r Schließer weiß den Ort, wo er verweilt,
+Und kann ihn holen.
+
+
+
+HERZOG.
+Tut es ungesäumt!
+Schließer ab.
+
+Und Ihr, mein würd'ger, wohlerprobter Vetter,
+Dem daran liegt, die Sache zu durchforschen,
+
+Verfahrt mit dieser Schmähung, wie Ihr mögt,
+Und wählt die Strafe! Ich verlass' Euch jetzt
+Auf kurze Zeit; Ihr bleibt, bis Ihr durchaus
+Mit den Verleumdern alles abgetan.
+
+
+
+ESCALUS.
+Mein Fürst, es soll an uns nicht fehlen. –
+Der Herzog geht ab.
+Signor Lucio, sagtet Ihr nicht, Ihr kenntet jenen Pater Ludwig als einen Menschen von
+              unehrbarem Wandel?
+
+
+LUCIO.
+Cucullus non facit monachum: ehrbar in nichts, als in seinem Habit; und hat höchst
+              niederträchtig von unserm Herzog gesprochen.
+
+
+ESCALUS.
+Seid so gut und wartet hier, bis er kommt, um dies gegen ihn zu behaupten. Es wird
+              sich ergeben, daß dieser Mönch ein schlimmer Gesell ist.
+
+
+LUCIO.
+So sehr, als irgendeiner in Wien, auf mein Wort!
+
+
+ESCALUS.
+Ruft besagte Isabella wieder her, ich will mit ihr reden. Erlaubt mir, gnädiger Herr,
+              sie zu vernehmen. Ihr sollt sehen, wie ich ihr zusetzen werde.
+
+
+LUCIO.
+Nicht besser als der, nach ihrer eigenen Aussage.
+
+
+ESCALUS.
+Wie war das?
+
+
+LUCIO.
+Ei, gnädiger Herr, ich meine nur, wenn Ihr insgeheim ihr zusetzt, so wird sie eher
+              beichten; vielleicht schämt sie sich, es so vor der Welt zu tun.
+Gerichtsdiener führen Isabella herein; es kommen der Herzog, als Mönch
+              verkleidet, und der Schließer.
+
+
+ESCALUS.
+Es liegt mir dran, recht bald alles Dunkle zu erklären.
+
+
+LUCIO.
+Recht so, erklärt Ihr Euer Anliegen im Dunkeln.
+
+
+ESCALUS.
+Tretet näher, junges Mädchen; hier dieses Frauenzimmer widerspricht allem, was Ihr
+              gesagt habt.
+
+
+LUCIO.
+Gnädiger Herr, hier kommt der Schurke, von dem ich sprach – hier, mit dem
+              Schließer.
+
+
+ESCALUS.
+Eben recht; redet Ihr jedoch nicht zu ihm, bis wir Euch aufrufen.
+
+
+LUCIO.
+Mum.
+
+
+ESCALUS.
+Näher, guter Freund! Habt Ihr diese Weiber angestiftet,  Lord Angelo zu
+              verleumden? Sie haben bekannt, daß Ihr es tatet.
+
+
+HERZOG.
+Das ist falsch.
+
+
+ESCALOS.
+Was? Wißt Ihr, wo Ihr seid?
+
+
+HERZOG.
+
+Ehrfurcht vor Eurer Würde! Selbst den Teufel
+Ehrt mancher wohl um seinen Flammenthron. –
+
+Wo ist der Fürst? Ihm will ich Rede stehn.
+
+
+ESCALUS.
+
+Er ist in uns; Ihr sollt uns Rede stehn;
+Gebt acht und redet ziemlich!
+
+
+
+HERZOG.
+
+Kühnlich gewiß. Doch ach! Ihr armen Kinder!
+Kamt ihr, das Lamm beim Fuchse hier zu fodern?
+Nun, gute Nacht, Ersatz! Der Herzog ging?
+Dann geht auch ihr zu Grunde! Euer Herzog
+Ist ungerecht, daß er von sich zurückweist
+Eu'r laut gewordenes Rechtgesuch an ihn
+Und in des Schurken Mund eu'r Urteil legt,
+Den ihr hier angeklagt! –
+
+
+
+LUCIO.
+Dies ist der Schuft! Der ist's, von dem ich sprach.
+
+
+ESCALUS.
+
+Wie, du unheil'ger, unehrwürd'ger Mönch,
+War's nicht genug, die Frau'n hier anzustiften
+Wider den würd'gen Herrn? Noch jetzt mit Läst'rung, –
+
+
+Ja hier, vor seinem eignen Ohre – wagst du's,
+Und nennst ihn Schurke?
+Und schielst von ihm sogar noch auf den Fürsten,
+Und schiltst ihn ungerecht? Führt ihn hinweg! –
+
+
+Fort, auf die Folter! Zerrt ihm Glied für Glied,
+Bis er den Plan bekennt! Was, ungerecht! –
+
+
+
+HERZOG.
+
+Seid nicht so hitzig! Euer Herzog
+Wagt nicht, mir nur den Finger anzurühren,
+Nicht mehr, als er den eignen foltern wird.
+Auch bin ich ihm nicht untertan,
+Noch hier vom Sprengel. Meiner Sendung Amt
+Ließ manches mich erleben hier in Wien:
+Ich sah, wie hier Verderbnis dampft und siedet.
+Und überschäumt: Gesetz für jede Sünde;
+Doch Sünden so beschützt, daß Eure Satzung
+Wie Warnungstafeln in des Baders Stube
+Da steht und, was verpönt, nur wird verhöhnt.
+
+
+
+
+ESCALUS.
+Den Staat geschmäht? Fort, bringt ihn in den Kerker!
+
+
+ANGELO.
+
+Wes könnt Ihr ihn verklagen, Signor Lucio?
+Ist dies der Mann, von dem Ihr uns gesagt?
+
+
+
+LUCIO.
+Derselbige, gnädiger Herr. Kommt heran, Gevatter Kahlkopf, kennt Ihr mich?
+
+
+HERZOG.
+Ich erinnere mich Eurer, Herr, an dem Ton Eurer Stimme; ich traf Euch während des
+              Herzogs Abwesenheit im Kerker. –
+
+
+LUCIO.
+So? Traft Ihr mich? Und erinnert Ihr Euch noch, was Ihr vom Herzog sagtet?
+
+
+HERZOG.
+Vollkommen, Signor.
+
+
+LUCIO.
+Wirklich, Herr? Und läuft der Herzog den Dirnen nach? Und ist er ein Geck und eine
+              Memme, wie Ihr von ihm sagtet?
+
+
+HERZOG.
+Ihr müßt erst unsre Rollen tauschen, Herr, eh' Ihr mich das sagen laßt; Ihr
+              allerdings spracht so von ihm, und viel mehr, viel schlimmer.
+
+
+LUCIO.
+Ei, du lästerlicher Bursch, zog ich dich nicht bei der Nase, wie du so sprachst?
+
+
+HERZOG.
+Ich versichre, daß ich den Herzog so sehr liebe, als mich selbst.
+
+
+ANGELO.
+Hört doch, wie der Schurke jetzt abbrechen möchte, nachdem er verräterische
+              Lästerungen ausgestoßen! –
+
+
+ESCALUS.
+Mit solchem Kerl muß man kein Wort verlieren: fort mit ihm ins Gefängnis! Wo ist der
+              Schließer? Fort mit ihm ins Gefängnis! – Legt ihm Eisen genug an, laßt ihn nicht
+              weiter reden; und nun auch fort mit den leichtfertigen Dirnen und ihren andern
+              Spießgesellen.
+Der Schließer legt Hand an den Herzog.
+
+
+HERZOG.
+Halt da! Haltet ein! –
+
+
+ANGELO.
+Was? Er widersetzt sich? Helft ihm, Lucio!
+
+
+LUCIO.
+Wartet nur, wartet nur, wartet nur; pfui doch! Was, Ihr kahlköpfiger, lügnerischer
+              Schuft, Ihr müßt Euch den Kopf so vermummen? Müßt Ihr? Zeigt einmal Euer
+              Schelmengesicht, und an den Galgen mit Euch! Zeigt Euer Strauchdiebsgesicht, und laßt
+              Euch frisch hängen! Will die Kapuze nicht herunter?
+Reißt ihm die Mönchskappe ab und erkennt den Herzog.
+
+
+
+HERZOG.
+
+Du bist der erste Bube,
+Der je 'nen Herzog machte!
+Erst, Schließer, meine Bürgschaft diesen drei'n. –
+
+
+– Schleicht Euch nicht weg, Freund. Denn der Mönch und Ihr
+Sind noch nicht fertig; haltet mir ihn fest!
+
+
+
+LUCIO.
+Das kann noch schlimmer werden als hängen.
+
+
+HERZOG
+zu Escalus.
+
+Was Ihr gesagt, will ich verzeihn. Setzt Euch!
+Zu Angelo.
+Wir borgen diesen Platz, – mit Eurer Gunst. –
+– Hast du noch Wort und Witz, hast du noch Frechheit,
+Die zu Gebot dir stehn? Wenn du sie hast,
+So halt' sie fest, bis ich zu End' erzählt,
+Und zittre dann! –
+
+
+
+ANGELO.
+
+O mein furchtbarer Fürst!
+Ich wäre schuld'ger wohl als meine Schuld,
+Dächt' ich, ich könnt' Euch irgend noch entschlüpfen,
+Da ich erkannt, wie Ihr mein Tun durchschaut,
+Dem ew'gen Richter gleich. Drum, gnäd'ger Fürst,
+Nicht längre Sitzung prüfe meine Schande;
+Statt des Verhörs nehmt mein Geständnis an;
+Unmittelbarer Spruch und schneller Tod
+Ist alles, was ich flehe.
+
+
+
+HERZOG.
+Kommt, Mariane! –
+Sprich, warst du je verlobt mit diesem Fräulein?
+
+
+ANGELO.
+Das war ich, Herr.
+
+
+HERZOG.
+
+So geh, vollzieh' die Trauung ungesäumt:
+Ihr, Mönch, vermählt sie; wenn Ihr das vollbracht,
+Bringt ihn zurück hieher! – Geh, folg' ihm, Schließer!
+
+Angelo, Mariane, Peter und Schließer ab.
+
+
+ESCALUS.
+
+O Herr! Mehr noch entsetzt mich seine Schande,
+Als dieses Handels Seltsamkeit!
+
+
+
+HERZOG.
+
+Kommt näher, Isabella:
+Eu'r Mönch ist nun Eu'r Fürst. Wie ich vorhin
+Als Freund mit treuem Rat mich Euch geweiht,
+Nicht wechselnd Sinn mit Kleidung, bin ich noch
+Gewidmet Eurem Dienst.
+
+
+
+ISABELLA.
+
+O Fürst, verzeiht,
+
+Daß die Vasallin mit Geschäft und Müh'n
+Die unbekannte Majestät beschwert! –
+
+
+
+HERZOG.
+
+Euch ist verziehn.
+Und nun, du Teure, sei auch mir so mild!
+Des Bruders Tod, ich weiß, drückt dir das Herz,
+Und staunen magst du, daß ich nur verhüllt
+Gestrebt, ihn dir zu retten, nicht vielmehr
+Mich rasch hervorhob aus verborgner Macht,
+Statt ihn dahin zu geben. Liebreich Wesen!
+Es war der schnelle Hergang seines Tods,
+Der, wie ich wähnte, trägern Fußes käme,
+Was meinen Plan zerstört. Doch ruh' er sanft! –
+
+
+Glücksel'ger dort, der Todesfurcht entrafft,
+Als hier in steter Furcht. Nimm das zum Trost:
+Dies Glück ward deinem Bruder.
+
+Angelo, Mariane, Peter und Schließer kommen zurück.
+
+
+ISABELLA.
+Wohl, mein Fürst.
+
+
+HERZOG.
+
+Hier diesem Neuvermählten, der uns naht,
+Des üpp'ge Lüsternheit dich kränken wollte
+An deiner wohlgeschirmten Her' und Tugend,
+Möcht'st du verzeihn um Marianens willen –
+
+
+Doch weil er deinem Bruder gab den Tod
+(Er, schuldig selbst der doppelten Verletzung
+Geweihter Keuschheit und gelobten Schwurs,
+Mit dem er dir des Bruders Rettung bürgte), –
+
+
+Ruft des Gesetzes Gnade selber nun
+Vernehmlich, ja selbst aus des Schuld'gen Munde:
+»Ein Angelo für Claudio, Tod für Tod:
+Liebe für Liebe, bittern Haß für Haß,
+Gleiches mit Gleichem zahl' ich, Maß für Maß.«
+Drum, Angelo, da dein Vergehn am Tage,
+So klar, daß selbst kein Leugnen Hülfe böte,
+Sei nun verurteilt zu demselben Block,
+Wo Claudio fiel, und zwar mit gleicher Hast.
+Hinweg mit ihm!
+
+
+
+MARIANE.
+
+O gnadenreicher Fürst!
+Ich hoff', Ihr gabt zum Spott mir nicht den Gatten?
+
+
+
+
+HERZOG.
+
+Der Gatte selbst gab Euch zum Spott den Gatten.
+Nur zur Beschützung Eurer Ehre hielt ich
+Den Eh'bund nötig, daß kein Vorwurf je,
+Weil Ihr die Seine wart, Eu'r Leben treffe
+Und hemme künft'ges Glück. All seine Güter,
+Obwohl nach dem Gesetz an uns verfallen,
+Sind Euch als Wittum und Besitz verliehn;
+Kauft damit einen bessern Mann.
+
+
+
+MARIANE.
+
+O Herr,
+Ich wünsche keinen andern je, noch bessern.
+
+
+
+HERZOG.
+Vergeblich wünscht Ihr: wir sind fest entschlossen.
+
+
+MARIANE
+kniet.
+Huldreichster Fürst, –
+
+
+HERZOG.
+
+Umsonst ist Eure Müh'.
+Fort, führt ihn hin zum Tod! –
+
+Zu Lucio.
+Nun, Herr, zu Euch!
+
+
+MARIANE.
+
+O milder Fürst! Hilf, süße Isabella!
+Leih' mir dein Knie: mein ganzes Leben will ich,
+All meine Zukunft deinem Dienste leihn.
+
+
+
+HERZOG.
+
+Ganz wider allen Sinn bedrängst du sie!
+Wenn sie für diese Tat um Gnade kniete,
+Zersprengte Claudios Geist sein steinern Bett
+Und riß sie hin in Schrecknis.
+
+
+
+MARIANE.
+
+Isabella,
+O Herzensfreundin, dennoch kniet nur mit,
+Die Händ' erhebt, sprecht nichts, ich red' allein.
+Durch Fehler, sagt man, sind die besten Menschen
+Gebildet, werden meist um so viel besser,
+Weil sie vorher ein wenig schlimm; so geht's
+Vielleicht auch meinem Gatten. Isabella,
+Willst du nicht mit mir knien?
+
+
+
+HERZOG.
+Er stirbt für Claudios Tod.
+
+
+ISABELLA.
+
+Huldreicher Fürst,
+Ich fleh' Euch, schaut auf diesen Mann der Schuld,
+Als lebte Claudio noch. Fast muß ich denken,
+Aufricht'ge Pflicht hat all sein Tun regiert,
+Bis er mich sah. Wenn es sich so verhält,
+Laßt ihn nicht sterben! Claudio ward sein Recht,
+Weil er den Fehl beging, für den er starb.
+
+Doch Angelo, –
+Sein Tun kam nicht dem sünd'gen Vorsatz gleich,
+Und muß begraben ruhn als eitler Vorsatz,
+Der starb entstehend. – Gedanken sind nicht Taten;
+Vorsätze nur Gedanken.
+
+
+
+MARIANE.
+Nur Gedanken! –
+
+
+HERZOG.
+
+Eu'r Flehn erweicht mich nicht; steht auf; ich will's.
+Noch kommt ein neu Vergehn mir in den Sinn: –
+
+
+Schließer, wie kam's, daß Claudio ward enthauptet
+Zu ungewohnter Stunde?
+
+
+
+SCHLIESSER.
+
+Also ward mir's
+Geboten.
+
+
+
+HERZOG.
+Ward Euch schriftlicher Befehl? –
+
+
+SCHLIESSER.
+Nein, gnäd'ger Fürst, es war ein mündlich Wort.
+
+
+HERZOG.
+Und dafür seid Ihr Eures Amts entsetzt: –
+Gebt Eure Schlüssel ab!
+
+
+SCHLIESSER.
+
+Verzeihung, gnäd'ger Fürst:
+Mir ahnt', es sei ein Fehl, doch wußt' ich's nicht,
+Und als ich überlegt, hab' ich's bereut.
+Des zum Beweis blieb einer im Verhaft,
+Dem gleichfalls mündlich Wort den Tod erkannt,
+Und den ich leben ließ.
+
+
+
+HERZOG.
+Wer?
+
+
+SCHLIESSER.
+Bernardino.
+
+
+HERZOG.
+
+O hätt'st du doch an Claudio das getan!
+Geh', hol' ihn her, ich will ihn sehn.
+
+Schließer geht.
+
+
+ESCALUS.
+
+Mich schmerzt,
+Daß ein so weiser, so gelehrter Mann,
+Als Ihr, Lord Angelo, mir stets erschient,
+So gröblich fehlte – erst durch heißes Blut,
+Und Mangel richt'gen Urteils hinterher.
+
+
+
+ANGELO.
+
+Mich schmerzt, daß ich Euch diesen Schmerz bereitet,
+Und solche Reu' durchdringt mein wundes Herz,
+Daß mir der Tod willkommner scheint als Gnade.
+Ich hab' ihn wohl verdient und bitte drum! –
+
+Der Schließer, Bernardino, Claudio und Julia kommen zurück.
+
+
+
+HERZOG.
+Welcher ist Bernardin?
+
+
+SCHLIESSER.
+Der, gnäd'ger Herr.
+
+
+HERZOG.
+
+Ein Mönch erzählte mir von diesem Mann.
+Hör' an! Man sagt, du seist verstockten Herzens,
+Du fürchtest nichts jenseit des Irdischen,
+Und dem entspricht dein Tun. Du bist verurteilt;
+Doch deine Schuld auf Erden sei verziehn:
+So strebe nun, daß solche Huld dich leite
+Auf beßre Zukunft. Pater, unterweist ihn,
+Ich lass' ihn Euch. – Wer ist der Eingehüllte?
+
+
+
+SCHLIESSER.
+
+Noch ein Gefangner ist's, den ich gerettet,
+Der sterben sollt', als Claudio ward enthauptet,
+Und fast dem Claudio gleich, als wie sich selbst.
+
+Nimmt Claudio die Verhüllung ab.
+
+
+HERZOG
+zu Isabella.
+
+Wenn er ihm ähnlich sieht, – um seinethalb
+Sei ihm verziehn; und Eurer Anmut halb
+Gebt mir die Hand und sagt, Ihr seid die Meine:
+Er ist mein Bruder dann. Doch dies für künftig.
+Lord Angelo sieht also, daß er lebt;
+Mir scheint, sein Aug' erglänzt in neuer Hoffnung.
+Nun! Eure Sünde zahlt Euch noch so ziemlich.
+Liebt ja Eu'r Weib; ihr Wert gibt Wert dem Euern. –
+
+
+Ich fühle Neigung, allen zu verzeihn;
+Doch jenem da, ihm kann ich nicht vergeben.
+Ihr frecher Mensch, der weiß, ich sei ein Narr,
+Und feig und lüderlich, ein Tor, ein Toller:
+Womit, sagt an, hab' ich's um Euch verdient,
+Daß Ihr mich so erhobt?
+
+
+
+LUCIO.
+Meiner Treu, gnädigster Herr, ich sagte das nur so nach hergebrachter Mode; wollt Ihr
+              mich dafür hängen lassen, so mag's geschehn; aber ich säh' es lieber, wenn Ihr geruhen
+              wolltet, mich durchpeitschen zu lassen.
+
+
+HERZOG.
+
+Zuerst gepeitscht, Herr, dann gehängt.
+Laßt es ausrufen, Schließer, durch ganz Wien:
+Hat wo ein Mädchen Klag' auf diesen Burschen
+(Wie er mir selber schwor, daß eine sei,
+Die ihm ein Kind gebar), so melde sie's,
+
+Dann soll er sie heiraten: – nach der Hochzeit
+Stäupt ihn und hängt ihn auf!
+
+
+
+LUCIO.
+Ich bitt' Euer Hoheit um alles, verheiratet mich, doch nicht an eine Metze! Eu'r
+              Hoheit sagte noch eben, ich hätte Euch zum Herzoge gemacht: liebster, gnädiger Herr,
+              lohnt mir nun nicht damit, daß Ihr mich zum Hahnrei macht.
+
+
+HERZOG.
+
+Bei meinem Wort, heiraten sollst du sie.
+Dein Schmähn vergeb' ich, und was weitres du
+Verwirkt hast, gleichfalls. Führt ihn ins Gefängnis,
+Und sorgt, daß mein Befehl vollzogen wird!
+
+
+
+LUCIO.
+Solch einen lüderlichen Fisch heiraten, gnädiger Herr, ist erdrückt, erstickt,
+              gepeitscht und gehängt werden.
+
+
+HERZOG.
+
+Den Fürsten schmähn, verdient's.
+Claudio, die Ihr gekränkt, bringt sie zu Ehren;
+Glück Euch, Mariane! Liebt sie, Angelo:
+Ich war ihr Beicht'ger, ihre Tugend kenn' ich.
+Dir, Escalus, sei Dank für alles Gute;
+Ich bin auf bessern Glückwunsch noch bedacht.
+Dank, Schließer, weil du treu und sorglich schwiegst;
+Wir stellen dich auf einen würd'gern Platz.
+Vergebt ihm, Angelo, daß er den Kopf
+Des Ragozyn statt Claudios Euch gebracht;
+Der Fehl ist keiner. – Teure Isabella,
+Noch hab' ich eine Bitt', auch Euch zum Besten:
+Und wollt Ihr freundliches Gehör mir leihn,
+So wird das Meine Eu'r, das Eure mein.
+Zum Palast dann; und hört aus meinem Munde
+Von dem, was noch zu sagen bleibt, die Kunde!
+
+Alle gehn ab.
+
+
+
+
