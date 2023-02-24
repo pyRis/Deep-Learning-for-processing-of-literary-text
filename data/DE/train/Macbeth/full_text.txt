@@ -1,0 +1,5591 @@
+
+
+
+
+Macbeth
+
+
+William
+Shakespeare
+
+Q692
+118613723
+
+
+
+Dorothea
+Tieck
+
+Q78356
+11737606X
+
+
+
+DraCor
+https://dracor.org
+
+
+CC0 1.0
+Licence
+
+
+
+
+
+TextGrid Repository
+http://www.textgridrep.org/textgrid:vn2s.0
+
+In the public domain.
+
+
+William Shakespeare:
+            Macbeth.
+            In: Sämtliche Werke in vier Bänden.
+            Herausgegeben von Anselm Schlösser.
+            Band 4: Tragödien.
+            3. Auflage.
+            Berlin und Weimar:
+            Aufbau-Verlag
+1975,
+            S. 605–683.
+          
+
+
+
+Erstmals ins Deutsche übersetzt von Christoph Martin Wieland (1765). Die vorliegende
+          Übersetzung stammt von Dorothea Tieck. Erstdruck in: Shakspeare's dramatische Werke.
+          Übersetzt von August Wilhelm Schlegel. Ergänzt und erläutert von Ludwig Tieck, Bd. 9,
+          Berlin (Georg Andreas Reimer) 1832.
+
+
+
+
+
+Tragedy
+
+Q2724880
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+William Shakespeare
+
+Macbeth
+
+
+
+
+        Personen
+        Duncan, König von Schottland
+
+Malcolm
+Donalbain
+seine Söhne
+
+
+Macbeth
+Banquo
+Anführer des königlichen Heeres
+
+
+Macduff
+Lenox
+Rosse
+Menteth
+Angus
+Cathness
+schottische Edle
+
+Fleance, Banquos Sohn
+Siward, Graf von Northumberland, Führer der englischen Truppen
+Der junge Siward, sein Sohn
+Seyton, ein Offizier in Macbeths Gefolge
+Macduffs kleiner Sohn
+Ein englischer Arzt und ein schottischer Arzt
+Ein Soldat, ein Pförtner, ein alter Mann
+Lady Macbeth
+Lady Macduff
+Eine Kammerfrau der Lady Macbeth
+Hekate und drei Hexen
+Lords, Edelleute, Anführer, Krieger, Mörder, Boten, Banquos Geist und andere
+          Erscheinungen
+
+
+Szene: Schottland. Zu Ende des vierten Aufzugs: England
+
+
+
+
+        Erster Aufzug
+        
+          Erste Szene
+          Eine Heide. Donner und Blitz.
+Drei Hexen treten auf.
+
+ERSTE HEXE.
+
+Wann kommen wir drei uns wieder entgegen,
+Im Blitz und Donner, oder im Regen?
+
+
+
+ZWEITE HEXE.
+
+Wenn der Wirrwarr stille schweigt,
+Wer der Sieger ist, sich zeigt.
+
+
+
+DRITTE HEXE.
+Das ist, eh' der Tag sich neigt.
+
+
+ERSTE HEXE.
+Wo der Ort?
+
+
+ZWEITE HEXE.
+Die Heide dort.
+
+
+DRITTE HEXE.
+Da wird Macbeth sein. Fort, fort!
+Man hört einen Gesang in der Luft.
+
+
+ERSTE HEXE.
+Grau Lieschen, ja! ich komme!
+
+
+ALLE DREI.
+
+Unke ruft: – Geschwind –
+Schön ist häßlich, häßlich schön:
+Schwebt durch Dunst und Nebelhöh'n!
+
+Die Hexen verschwinden.
+
+
+
+          Zweite Szene
+          Freies Feld bei Fores.
+Kriegsgeschrei. Es treten auf der König Duncan, Malcolm, Donalbain, Lenox, Gefolge;
+            ein blutender Krieger kommt ihnen entgegen.
+
+DUNCAN.
+
+Welch blut'ger Mann ist dies? Er kann berichten,
+Nach seinem Ansehn scheint's, den neusten Stand
+Des Aufruhrs.
+
+
+
+MALCOLM.
+
+Dies ist der Kämpfer,
+
+Der mich, als kecker, mutiger Soldat,
+Aus meinen Feinden hieb: – Heil, tapfrer Freund!
+Dem König gib Bericht vom Handgemenge,
+Wie du's verließest.
+
+
+
+KRIEGER.
+
+Es stand zweifelhaft;
+So wie zwei Schwimmer ringend sich umklammern,
+Erdrückend ihre Kunst. Der grause Macdonwald
+(Wert, ein Rebell zu sein; ihn so zu stempeln
+Umschwärmen, stets sich mehrend, der Natur
+Bosheiten ihn) ward von den Westeilanden
+Von Kernen unterstützt und Galloglassen;
+Und das Glück, dem scheußlichen Gemetzel lächelnd,
+Schien des Rebellen Hure: doch umsonst,
+Denn Held Macbeth, – wohl ziemt ihm dieser Name,
+Das Glück verachtend, mit geschwungnem Stahl,
+Der heiß von Blut und Niederlage dampfte,
+Er, wie des Krieges Liebling, haut sich Bahn,
+Bis er dem Schurken gegenüber steht;
+Und nicht eh' schied noch sagt' er Lebewohl,
+Bis er vom Nabel auf zum Kinn ihn schlitzte
+Und seinen Kopf gepflanzt auf unsre Zinnen.
+
+
+
+DUNCAN.
+O tapfrer Vetter! würd'ger Edelmann!
+
+
+KRIEGER.
+
+Wie wenn mit erstem Sonnenlicht zugleich
+Schiffbrechende Stürm' und grause Donnerschläge –
+So schwillt aus jenem Quell, der Trost verhieß,
+Trostlosigkeit. Merk', Schottlands König, merk':
+Kaum schlug Gerechtigkeit, mit Mut gestählt,
+In schmähl'ge Flucht die leichtgefüßten Kernen,
+Als Norwegs Fürst, den Vorteil auserspähend,
+Mit noch unblut'ger Wehr und frischen Truppen
+Von neuem uns bestürmt.
+
+
+
+DUNCAN.
+
+Entmutigte
+Das unsre Feldherrn nicht, Macbeth und Banquo?
+
+
+
+KRIEGER.
+
+Jawohl! wie Spatzen Adler, Hasen Löwen.
+Grad' aus gesagt, muß ich von ihnen melden,
+Sie waren wie Kanonen, überladen
+Mit doppeltem Gekrach; so stürzten sie,
+Die Doppelstreiche doppelnd, auf den Feind:
+
+Ob sie in heißem Blute baden wollten,
+Ob auferbaun ein zweites Golgatha,
+Ich weiß es nicht –
+Doch ich bin matt, die Wunden schrein nach Hülfe.
+
+
+
+DUNCAN.
+
+Wie deine Worte zieren dich die Wunden;
+Und Ehre strömt aus beiden. Schafft ihm Ärzte!
+
+Der Krieger wird fortgeführt. Rossetritt auf.
+Wer nahet hier?
+
+
+MALCOLM.
+Der würd'ge Than von Rosse.
+
+
+LENOX.
+
+Welch Eilen deutet uns sein Blick! So müßte
+Der blicken, der von Wundern melden will.
+
+
+
+ROSSE.
+Gott schütz' den König!
+
+
+DUNCAN.
+Von wannen, edler Than?
+
+
+ROSSE.
+
+Von Fife, mein König,
+Wo Norwegs Banner schlägt die Luft und fächelt
+Kalt unser Volk.
+Norwegen selbst, mit fürchterlichen Scharen,
+Verstärkt durch den abtrünnigen Verräter,
+Den Than von Cawdor, begann den grausen Kampf;
+Bis ihm Bellonas Bräut'gam, kampfgefeit,
+Entgegenstürmt mit gleicher Überkraft,
+Schwert gegen Schwert, Arm gegen dräu'nden Arm,
+Und beugt den wilden Trotz: mit einem Wort,
+Der Sieg blieb unser: –
+
+
+
+DUNCAN.
+Großes Glück!
+
+
+ROSSE.
+
+So daß
+Nun Sweno, Norwegs König, Frieden fleht;
+Doch wir gestatteten ihm nicht Begräbnis
+Der Seinen, bis er auf Sankt Columban
+Zehntausend Taler in den Schatz gezahlt.
+
+
+
+DUNCAN.
+
+Nicht frevle länger dieser Than von Cawdor
+An unsrer Krone Heil! – Fort, künde Tod ihm an;
+Mit seiner Würde grüße Macbeth dann!
+
+
+
+ROSSE.
+Ich eile, Herr, von hinnen.
+
+
+DUNCAN.
+Held Macbeth soll, was der verliert, gewinnen.
+Alle ab.
+
+
+
+
+          Dritte Szene
+          Die Heide. Gewitter. Die drei Hexen treten auf.
+
+ERSTE HEXE.
+Wo warst du, Schwester?
+
+
+ZWEITE HEXE.
+Schweine gewürgt.
+
+
+DRITTE HEXE.
+Schwester, wo du?
+
+
+ERSTE HEXE.
+
+Kastanien hatt' ein Schifferweib im Schoß,
+Und schmatzt', und schmatzt', und schmatzt' – »Gib mir«, sprach ich:
+»Pack' dich, du Hexe!« schrie die garst'ge Vettel.
+Ihr Mann ist nach Aleppo, führt den Tiger;
+Doch schwimm' ich nach im Sieb, ich kann's,
+Wie eine Ratte ohne Schwanz;
+Ich tu's, ich tu's, ich tu's.
+
+
+
+ZWEITE HEXE.
+Geb' dir 'nen Wind.
+
+
+ERSTE HEXE.
+Bist gut gesinnt.
+
+
+DRITTE HEXE.
+Ich den zweiten obendrein.
+
+
+ERSTE HEXE.
+
+All die andern sind schon mein.
+Wo sie wehn, die Küsten kenn' ich.
+Jeden Punkt und Zirkel nenn' ich
+Auf des Seemanns Karte.
+Dürr wie Heu soll er verdorrn,
+Und kein Schlaf, durch meinen Zorn,
+Tag und Nacht sein Aug' erquickt,
+Leb' er wie vom Fluch gedrückt.
+Sieben Nächte, neunmal neun,
+Siech und elend schrumpf' er ein:
+Kann ich nicht sein Schiff zerschmettern,
+Sei es doch umstürmt von Wettern.
+Schau', was ich hab'!
+
+
+
+ZWEITE HEXE.
+Weis' her, weis' her!
+
+
+ERSTE HEXE.
+
+Daum 'nes Lotsen; sinken sah
+Ich sein Schiff, dem Land schon nah.
+
+Trommeln hinter der Szene.
+
+
+DRITTE HEXE.
+
+Trommeln! – Ha!
+Macbeth ist da.
+
+
+
+
+ALLE DREI.
+
+Unheilsschwestern, Hand in Hand
+Ziehn wir über Meer und Land.
+Rundum dreht euch so, rundum:
+Dreimal dein und dreimal mein,
+Und dreimal noch, so macht es neun –
+Halt! – Der Zauber ist gezogen.
+
+Macbeth und Banquo treten auf.
+
+
+MACBETH.
+So schön und häßlich sah ich nie 'nen Tag.
+
+
+BANQUO.
+
+Wie weit ist's noch nach Fores? – Wer sind diese?
+So eingeschrumpft, so wild in ihrer Tracht?
+Die nicht Bewohnern unsrer Erde gleichen,
+Und doch drauf stehn? Lebt ihr? Wie? seid ihr was,
+Das man darf fragen? Ihr scheint mich zu verstehn,
+Denn jede legt zugleich den stumpfen Finger
+Auf ihren falt'gen Mund: – ihr solltet Weiber sein,
+Und doch verbieten eure Bärte mir,
+Euch so zu deuten.
+
+
+
+MACBETH.
+Sprecht, wenn ihr könnt: – Wer seid ihr?
+
+
+ERSTE HEXE.
+Heil dir, Macbeth, Heil, Heil dir, Than von Glamis!
+
+
+ZWEITE HEXE.
+Heil dir, Macbeth, Heil, Heil dir, Than von Cawdor!
+
+
+DRITTE HEXE.
+Heil dir, Macbeth, dir, künft'gem König, Heil!
+
+
+BANQUO.
+
+Was schreckst du, Mann? erregt dir Furcht, was doch
+So lieblich lautet? – In der Wahrheit Namen,
+Seid ihr Wahnbilder, oder wirklich das,
+Was körperlich ihr scheint? Den edlen Kampffreund
+Grüßt ihr mit neuem Erb' und Prophezeiung
+Von hoher Würd' und königlicher Hoffnung,
+Daß er verzückt da steht; mir sagt ihr nichts:
+Wenn ihr durchschauen könnt die Saat der Zeit
+Und sagen: dies Korn sproßt und jenes nicht, –
+So sprecht zu mir, der nicht erfleht noch fürchtet
+Gunst oder Haß von euch!
+
+
+
+ERSTE HEXE.
+Heil!
+
+
+ZWEITE HEXE.
+Heil!
+
+
+DRITTE HEXE.
+Heil!
+
+
+ERSTE HEXE.
+Kleiner als Macbeth, und größer.
+
+
+
+ZWEITE HEXE.
+Nicht so beglückt, und doch weit glücklicher.
+
+
+DRITTE HEXE.
+
+Kön'ge erzeugst du, bist du selbst auch keiner.
+So, Heil, Macbeth und Banquo!
+
+
+
+ERSTE HEXE.
+Banquo und Macbeth, Heil!
+
+
+MACBETH.
+
+Bleibt, ihr einsilb'gen Sprecher, sagt mir mehr:
+Mich macht, so hör' ich, Sinels Tod zum Glamis,
+Doch wie zum Cawdor? Der Than von Cawdor lebt
+Als ein beglückter Mann; und König sein,
+Das steht so wenig im Bereich des Glaubens,
+Als Than von Cawdor. Sagt, von wannen euch
+Die wunderbare Kunde ward? weshalb
+Auf dürrer Heid' ihr unsre Schritte hemmt
+Mit so prophet'schem Gruß? – Sprecht, ich beschwör' euch!
+
+Die Hexen verschwinden.
+
+
+BANQUO.
+
+Die Erd' hat Blasen, wie das Wasser hat,
+So waren diese – wohin schwanden sie?
+
+
+
+MACBETH.
+
+In Luft, und, was uns Körper schien, zerschmolz
+Wie Hauch im Wind. Oh, wären sie noch da!
+
+
+
+BANQUO.
+
+War so was wirklich hier, wovon wir sprechen?
+Oder aßen wir von jener gift'gen Wurzel,
+Die die Vernunft bewältigt?
+
+
+
+MACBETH.
+
+Eure Kinder,
+Sie werden Kön'ge.
+
+
+
+BANQUO.
+Ihr sollt König werden.
+
+
+MACBETH.
+Und Than von Cawdor auch; hieß es nicht so?
+
+
+BANQUO.
+Ganz so in Weis' und Worten. Wer kommt da?
+Rosse und Angus treten auf.
+
+
+ROSSE.
+
+Der König hörte hoch erfreut, Macbeth,
+Die Kunde deines Siegs; und wenn er liest,
+Wie im Rebellenkampf du selbst dich preisgabst,
+So stritten in ihm Staunen und Bewund'rung,
+Was dir, was ihm gehört. Doch überschauend,
+Was noch am selb'gen Tag geschehn, verstummt er;
+In Norwegs kühnen Schlachtreih'n sieht er dich,
+
+Vor dem nicht bebend, was du selber schufest,
+Abbilder grausen Tods. Wie Wort auf Wort
+In schneller Rede, so kam Bot' auf Bote,
+Und jeder trug dein Lob, im großen Kampf
+Für seinen Thron, und schüttet's vor ihm aus.
+
+
+
+ANGUS.
+
+Wir sind gesandt vom königlichen Herrn,
+Dir Dank zu bringen; vor sein Angesicht
+Dich zu geleiten nur, nicht dir zu lohnen.
+
+
+
+ROSSE.
+
+Und als das Handgeld einer größern Ehre
+Hieß er, als Than von Cawdor dich zu grüßen:
+Heil dir in diesem Titel, würd'ger Than!
+Denn er ist dein.
+
+
+
+BANQUO.
+Wie, spricht der Teufel wahr?
+
+
+MACBETH.
+
+Der Than von Cawdor lebt: was kleidet Ihr
+Mich in erborgten Schmuck?
+
+
+
+ANGUS.
+
+Der Than war, lebt noch;
+Doch unter schwerem Urteil schwebt das Leben,
+Das er verwirkt. Ob er im Bund mit Norweg;
+Ob, Rückhalt der Rebellen, er geheim
+Sie unterstützte; ob vielleicht mit beiden
+Er half zu seines Lands Verderb, – ich weiß nicht;
+Doch Hochverrat, gestanden und erwiesen,
+Hat ihn gestürzt.
+
+
+
+MACBETH.
+
+Glamis und Than von Cawdor:
+Das Höchst' ist noch zurück. – Dank Eurer Müh'! –
+Hofft Ihr nicht Euren Stamm gekrönt zu sehen,
+Da jene, die mich Than von Cawdor nannten,
+Nichts Mindres prophezeit?
+
+
+
+BANQUO.
+
+Darauf gefußt,
+Möcht' es wohl auch zur Krone Euch entflammen,
+Jenseits dem Than von Cawdor. Aber seltsam!
+Oft, uns in eignes Elend zu verlocken,
+Erzählen Wahrheit uns des Dunkels Schergen,
+Verlocken uns durch schuldlos Spielwerk, uns
+Dem tiefsten Abgrund zu verraten. – Vettern,
+Vergönnt ein Wort!
+
+
+
+MACBETH.
+
+Zweimal gesprochene Wahrheit,
+Als Glücksprologen zum erhabnen Schauspiel
+
+Von kaiserlichem Inhalt. – Freund', ich dank' euch! –
+Die Anmahnung von jenseits der Natur
+Kann schlimm nicht sein, – kann gut nicht sein: – wenn schlimm –
+Was gibt sie mir ein Handgeld des Erfolgs,
+Wahrhaft beginnend? Ich bin Than von Cawdor: –
+Wenn gut, – warum befängt mich die Versuchung?
+Deren entsetzlich Bild aufsträubt mein Haar,
+So daß mein festes Herz ganz unnatürlich
+An meine Rippen schlägt. – Erlebte Greuel
+Sind schwächer als das Grau'n der Einbildung.
+Mein Traum, des Mord nur noch ein Hirngespinst,
+Erschüttert meine schwache Menschheit so,
+Daß jede Lebenskraft in Ahnung schwindet,
+Und nichts ist, als was nicht ist.
+
+
+
+BANQUO.
+
+Seht den Freund,
+Wie er verzückt ist!
+
+
+
+MACBETH.
+
+Will das Schicksal mich
+Als König, nun, mag mich das Schicksal krönen,
+Tu' ich auch nichts.
+
+
+
+BANQUO.
+
+Die neue Würde engt ihn,
+Wie fremd Gewand sich auch nur durch Gewohnheit
+Dem Körper fügt.
+
+
+
+MACBETH.
+
+Komme, was kommen mag;
+Die Stund' und Zeit durchläuft den rauhsten Tag.
+
+
+
+BANQUO.
+Edler Macbeth, wir harren Eurer Muße.
+
+
+MACBETH.
+
+Habt Nachsicht – in vergeßnen Dingen wühlte
+Mein dumpfes Hirn. Ihr güt'gen Herrn, eu'r Mühn
+Ist eingeschrieben, wo das Blatt ich täglich
+Umschlag' und les'. – Entgegen jetzt dem König! –
+Denkt dessen, was geschah, und bei mehr Muße,
+Wenn ein'ge Zeit es reifte, laßt uns frei
+Aus offner Seele reden!
+
+
+
+BANQUO.
+Herzlich gern.
+
+
+MACBETH.
+Bis dahin still! – Kommt, Freunde!
+Alle ab.
+
+
+
+
+          Vierte Szene
+          Feld.
+Trompeten. Es treten auf Duncan, Malcolm, Donalbain, Lenox, Gefolge.
+
+DUNCAN.
+
+Ist Cawdor hingerichtet? oder jene,
+Die wir beauftragt, noch nicht wieder da?
+
+
+
+MALCOLM.
+
+Sie sind noch nicht zurück, mein Oberherr;
+Doch sprach ich einen, der ihn sterben sah,
+Der sagte mir, er habe den Verrat
+Freimütig eingestanden, um Eu'r Hoheit
+Verzeihn gefleht und tiefe Reu' gezeigt;
+Nichts stand in seinem Leben ihm so gut,
+Als wie er es verlassen hat; er starb
+Wie einer, der sich auf den Tod geübt,
+Und warf das Liebste, was er hatte, von sich,
+Als wär's unnützer Tand.
+
+
+
+DUNCAN.
+
+Kein Wissen gibt's,
+Der Seele Bildung im Gesicht zu lesen;
+Es war ein Mann, auf den ich gründete
+Ein unbedingt Vertraun. – Würdigster Vetter!
+
+Es treten auf Macbeth, Banquo, Rosse und Angus.
+
+Die Sünde meines Undanks drückte schwer
+Mich eben jetzt. Du bist so weit voraus,
+Daß der Belohnung schnellste Schwing' erlahmt,
+Dich einzuholen. Hätt'st du wen'ger doch verdient,
+Daß ich ausgleichen könnte das Verhältnis
+Von Dank und Lohn! Nimm das Geständnis an:
+Mehr schuld' ich, als mein Alles zahlen kann.
+
+
+
+MACBETH.
+
+Dienst, so wie Lehnspflicht, lohnt sich selbst im Tun.
+Genug, wenn Eure Hoheit unsre Pflichten
+Annehmen will: und unsre Pflichten sind
+Die Söhn' und Diener Eures Throns und Staates,
+Und tun nur, was sie müssen, tun sie alles,
+Was Lieb' und Ehrfurcht heischt.
+
+
+
+
+DUNCAN.
+
+Willkommen hier!
+Ich habe dich gepflanzt und will dich pflegen,
+Um dein Gedeihn zu fördern. – Edler Banquo,
+Nicht minder ist dein Wert, und wird von uns
+Nicht minder anerkannt. Laß dich umschließen
+Und an mein Herz dich drücken!
+
+
+
+BANQUO.
+
+Wachs' ich da,
+So ist die Ernte Euer.
+
+
+
+DUNCAN.
+
+Meine Wonne,
+Üppig im Übermaß, will sich verbergen
+In Schmerzenstropfen. – Söhne, Vettern, Thans,
+Und ihr, die Nächsten unserm Thron, vernehmt,
+An Malcolm, unsern Ältsten, übertragen
+Wir unser Thronrecht: Prinz von Cumberland
+Heißt er demnach, und solche Ehre soll
+Nicht unbegleitet ihm verliehen sein;
+Denn Adelszeichen sollen, Sternen gleich,
+Auf jeden Würd'gen strahlen. – Fort von hier
+Nach Inverneß, und sei uns näher stets!
+
+
+
+MACBETH.
+
+Arbeit ist jede Ruh', die Euch nicht dient.
+Ich selbst bin Euer Bote und beglücke
+Durch Eures Nahens Kunde meine Hausfrau:
+So scheid ich demutsvoll.
+
+
+
+DUNCAN.
+Mein würd'ger Cawdor!
+
+
+MACBETH
+für sich.
+
+Ha! Prinz von Cumberland! – Das ist ein Stein,
+Der muß, sonst fall' ich, übersprungen sein,
+Weil er mich hemmt. Verbirg dich, Sternenlicht!
+Schau' meine schwarzen, tiefen Wünsche nicht!
+Sieh, Auge, nicht die Hand; doch laß geschehen,
+Was, wenn's geschah, das Auge scheut zu sehen!
+
+Er geht ab.
+
+
+DUNCAN.
+
+Ja, teurer Banquo, er ist ganz so edel,
+Und ihn zu preisen, ist mir eine Labung;
+Es ist ein Fest für mich. Laßt uns ihm nach,
+Des Lieb' uns vorgeeilt, uns zu begrüßen:
+Wer gleicht dem teuren Vetter?
+
+Trompeten. Alle gehn ab.
+
+
+
+
+          Fünfte Szene
+          Inverneß. Zimmer in Macbeths Schloß.
+Lady Macbeth tritt auf mit einem Brief.
+
+LADY MACBETH
+liest.
+»Sie begegneten mir am Tage des Sieges; und ich erfuhr aus den sichersten Proben, daß
+              sie mehr als menschliches Wissen besitzen. Als ich vor Verlangen brannte, sie weiter
+              zu befragen, verschwanden sie und zerflossen in Luft. Indem ich noch, von Erstaunen
+              betäubt, da stand, kamen die Abgesandten des Königs, die mich als Than von Cawdor
+              begrüßten; mit welchem Titel mich kurz vorher diese Zauberschwestern angeredet und
+              mich durch den Gruß: ›Heil dir, dem künft'gen König!‹ auf die Zukunft verwiesen
+              hatten. Ich habe es für gut gehalten, dir dies zu vertrauen, meine geliebteste
+              Teilnehmerin der Hoheit, auf daß dein Mitgenuß an der Freude dir nicht entzogen werde,
+              wenn du nicht erfahren hättest, welche Hoheit dir verheißen ist. Leg' es an dein Herz
+              und lebe wohl!«
+
+Glamis bist du; und Cawdor; und sollst werden,
+Was dir verheißen ward: – Doch fürcht' ich dein Gemüt;
+Es ist zu voll von Milch der Menschenliebe,
+Das Nächste zu erfassen. Groß möcht'st du sein,
+Bist ohne Ehrgeiz nicht; doch fehlt die Bosheit,
+Die ihn begleiten muß. Was recht du möchtest,
+Das möcht'st du rechtlich; möchtest falsch nicht spielen,
+Und unrecht doch gewinnen: möchtest gern
+Das haben, großer Glamis, was dir zuruft:
+»Dies mußt du tun, wenn du es haben willst!« –
+Und was du mehr dich scheust zu tun, als daß
+Du ungetan es wünschest. Eil' hieher,
+Auf daß ich meinen Mut ins Ohr dir gieße,
+Und alles weg mit tapfrer Zunge geißle,
+Was von dem goldnen Zirkel dich zurückdrängt,
+Womit Verhängnis dich und Zaubermacht
+Im voraus schon gekrönt zu haben scheint. –
+Ein Diener tritt auf.
+Was gibt es Neues?
+
+
+
+
+DIENER.
+
+Noch vor Abend kommt
+Hierher der König.
+
+
+
+LADY MACBETH.
+
+Tolle Rede sprichst du;
+Ist nicht dein Herr bei ihm? der, wär' es so,
+Der Anstalt wegen es gemeldet hätte.
+
+
+
+DIENER.
+
+Verzeiht; es ist doch wahr. Der Than kommt gleich,
+Denn ein Kam'rad von mir ritt ihm voraus;
+Fast tot von großer Eil', hatt' er kaum Atem,
+Die Botschaft zu bestellen.
+
+
+
+LADY MACBETH.
+
+Sorgt für ihn,
+Er bringt uns große Zeitung.
+
+Der Diener geht ab.
+
+Selbst der Rab' ist heiser,
+Der Duncans schicksalsvollen Eingang krächzt
+Unter mein Dach. – Kommt, Geister, die ihr lauscht
+Auf Mordgedanken, und entweibt mich hier;
+Füllt mich von Wirbel bis zur Zeh', randvoll,
+Mit wilder Grausamkeit! Verdickt mein Blut;
+Sperrt jeden Weg und Eingang dem Erbarmen,
+Daß kein anklopfend Mahnen der Natur
+Den grimmen Vorsatz lähmt; noch friedlich hemmt
+Vom Mord die Hand! Kommt an die Weibesbrust,
+Trinkt Galle statt der Milch, ihr Morddämonen,
+Wo ihr auch harrt in unsichtbarer Kraft
+Auf Unheil der Natur! Komm, schwarze Nacht,
+Umwölk' dich mit dem dicksten Dampf der Hölle,
+Daß nicht mein scharfes Messer sieht die Wunde,
+Die es geschlagen; noch der Himmel,
+Durchschauend aus des Dunkels Vorhang, rufe:
+Halt! Halt!
+
+Macbeth tritt auf.
+
+O großer Glamis, edler Cawdor!
+Größer als beides durch das künft'ge Heil!
+Dein Brief hat über das armsel'ge Heut
+Mich weit verzückt, und ich empfinde nun
+Das Künftige im Jetzt.
+
+
+
+MACBETH.
+
+Mein teures Leben,
+Duncan kommt heut noch.
+
+
+
+
+LADY MACBETH.
+Und wann geht er wieder?
+
+
+MACBETH.
+Morgen, so denkt er –
+
+
+LADY MACBETH.
+
+Oh, nie soll die Sonne
+Den Morgen sehn! Dein Angesicht, mein Than,
+Ist wie ein Buch, wo wunderbare Dinge
+Geschrieben stehen. – Die Zeit zu täuschen scheine
+So wie die Zeit; den Willkomm trag' im Auge,
+In Zung' und Hand; blick' harmlos wie die Blume,
+Doch sei die Schlange drunter! Wohl versorgt
+Muß der sein, der uns naht; und meiner Hand
+Vertrau', das große Werk der Nacht zu enden,
+Daß alle künft'gen Tag' und Nächt' uns lohne
+Allein'ge Königsmacht und Herrscherkrone!
+
+
+
+MACBETH.
+Wir sprechen noch davon.
+
+
+LADY MACBETH.
+
+Blick hell und licht;
+Mißtraun erregt verändert Angesicht:
+Laß alles andre mir!
+
+Sie gehen ab.
+
+
+
+          Sechste Szene
+          Ebendaselbst, vor dem Schloß.
+Es treten auf Duncan, Malcolm, Donalbain, Banquo, Macduff, Rosse, Angus,
+            Gefolge.
+
+DUNCAN.
+
+Dies Schloß hat eine angenehme Lage;
+Gastlich umfängt die lichte, milde Luft
+Die heitern Sinne.
+
+
+
+BANQUO.
+
+Dieser Sommergast,
+Die Schwalbe, die an Tempeln nistet, zeigt
+Durch ihren fleiß'gen Bau, daß Himmelsatem
+Hier lieblich haucht; kein Vorsprung, Fries, noch Pfeiler,
+Kein Winkel, wo der Vogel nicht gebaut
+Sein hängend Bett und Wiege für die Brut:
+Wo er am liebsten heckt und wohnt, da fand ich
+Am reinsten stets die Luft.
+
+Lady Macbeth tritt auf.
+
+
+
+DUNCAN.
+
+Seht! unsre edle Wirtin!
+Die Liebe, die uns folgt, wird oft uns lästig;
+Doch dankt man ihr als Liebe. Lernt daraus,
+Noch Gottes Lohn für Eure Müh' uns geben
+Und Dank für Eure Last.
+
+
+
+LADY MACBETH.
+
+All unsre Dienste,
+Zwiefach in jedem Punkt, und dann verdoppelt,
+Wär' nur ein arm und schwaches Tun, verglichen
+Der hohen Gunst, womit Eu'r Majestät
+Verherrlicht unser Haus. Für früh're Würden,
+Wie für die letzte, die die andern krönt,
+Bleiben wir im Gebet Euch Knecht und Diener.
+
+
+
+DUNCAN.
+
+Wo ist der Than von Cawdor?
+Wir folgten auf dem Fuß ihm, denn wir meinten
+Ihn anzumelden; doch er reitet schnell;
+Und seine Liebe, schärfer als sein Sporn,
+Bracht' ihn vor uns hieher. Höchstedle Wirtin,
+Wir sind zu Nacht Eu'r Gast.
+
+
+
+LADY MACBETH.
+
+Für allezeit
+Besitzen Eure Diener nur das Ihre,
+Sich selbst und was sie haben, als Verwalter,
+Und legen Rechnung ab, nach Eurer Hoheit
+Befehl; und geben Euch zurück, was Euer.
+
+
+
+DUNCAN.
+
+Reicht mir die Hand; führt mich zu meinem Wirt:
+Wir lieben herzlich ihn, und unsre Huld
+Wird seiner stets gedenken. Teure Wirtin,
+Erlaubt –
+
+Er nimmt ihre Hand und führt sie in das Schloß, die übrigen folgen.
+
+
+
+          Siebente Szene
+          Ebendaselbst, Schloßhof.
+Hoboen und Fackeln. Ein Vorschneider und mehrere Diener mit Schüsseln gehn über die
+            Bühne; dann kommt Macbeth.
+
+MACBETH.
+
+Wär's abgetan, so wie's getan ist, dann wär's gut,
+Man tät' es eilig: – Wenn der Meuchelmord
+Aussperren könnt' aus seinem Netz die Folgen
+
+Und nur Gelingen aus der Tiefe zöge:
+Daß mit dem Stoß, einmal für immer, alles
+Sich abgeschlossen hätte – hier, nur hier –
+Auf dieser Schülerbank der Gegenwart –,
+So setzt' ich weg mich übers künft'ge Leben. –
+Doch immer wird bei solcher Tat uns schon
+Vergeltung hier: daß, wie wir ihn gegeben,
+Den blut'gen Unterricht, er, kaum gelernt,
+Zurückschlägt, zu bestrafen den Erfinder.
+Dies Recht, mit unabweislich fester Hand,
+Setzt unsern selbstgemischten, gift'gen Kelch
+An unsre eignen Lippen. –
+Er kommt hieher, zweifach geschirmt: – Zuerst,
+Weil ich sein Vetter bin und Untertan,
+Beides hemmt stark die Tat; dann, ich – sein Wirt,
+Der gegen seinen Mörder schließen müßte
+Das Tor, nicht selbst das Messer führen. –
+Dann hat auch dieser Duncan seine Würde
+So mild getragen, blieb im großen Amt
+So rein, daß seine Tugenden, wie Engel
+Posaunenzüngig, werden Rache schrein
+Dem tiefen Höllengreuel seines Mords;
+Die Mitleid, wie ein nacktes, neugebornes Kind,
+Auf Sturmwind reitend, oder Himmels Cherubim,
+Zu Roß auf unsichtbaren, luft'gen Rennern,
+Blasen die Schreckenstat in jedes Auge,
+Bis Tränenflut den Wind ertränkt. –
+Ich habe keinen Stachel,
+Die Seiten meines Wollens anzuspornen,
+Als einzig Ehrgeiz, der, zum Aufschwung eilend,
+Sich überspringt und jenseits niederfällt: –
+
+Lady Macbeth tritt auf.
+Wie nun, was gibt's?
+
+
+LADY MACBETH.
+
+Er hat fast abgespeist.
+Warum hast du den Saal verlassen?
+
+
+
+MACBETH.
+
+Hat er
+Nach mir gefragt?
+
+
+
+
+LADY MACBETH.
+Weißt du nicht, daß er's tat?
+
+
+MACBETH.
+
+Wir woll'n nicht weiter gehn in dieser Sache;
+Er hat mich jüngst belohnt, und goldne Achtung
+Hab' ich von Leuten aller Art gekauft:
+Die will getragen sein im neusten Glanz,
+Und nicht so plötzlich weggeworfen.
+
+
+
+LADY MACBETH.
+
+War
+Die Hoffnung trunken, worin du dich hülltest?
+Schlief sie seitdem, und ist sie nun erwacht,
+So bleich und krank das anzuschauen, was sie
+So fröhlich tat? – Von jetzt an denk' ich
+Von deiner Liebe so. Bist du zu feige,
+Derselbe Mann zu sein in Tat und Mut,
+Der du in Wünschen bist? Möcht'st du erlangen.
+Was du den Schmuck des Lebens schätzen mußt,
+Und Memme sein in deiner eignen Schätzung?
+Muß dir »Ich fürchte« folgen dem »Ich möchte«,
+Der armen Katz' im Sprichwort gleich?
+
+
+
+MACBETH.
+
+Sei ruhig!
+Ich wage alles, was dem Menschen ziemt;
+Wer mehr wagt, der ist keiner.
+
+
+
+LADY MACBETH.
+
+Welch ein Tier
+Hieß dich von deinem Vorsatz mit mir reden?
+Als du es wagtest, da warst du ein Mann;
+Und mehr sein, als du warst, das machte dich
+Nur um so mehr zum Mann. Nicht Zeit, nicht Ort
+Traf damals zu, du wolltest beide machen:
+Sie machen selbst sich, und ihr hurt'ger Dienst
+Macht dich zu nichts. Ich hab' gesäugt und weiß,
+Wie süß, das Kind zu lieben, das ich tränke;
+Ich hätt', indem es mir entgegen lächelte,
+Die Brust gerissen aus den weichen Kiefern
+Und ihm den Kopf geschmettert an die Wand,
+Hätt' ich's geschworen, wie du dieses schwurst.
+
+
+
+MACBETH.
+Wenn's uns mißlänge, –
+
+
+LADY MACBETH.
+
+Uns mißlingen! –
+Schraub' deinen Mut nur bis zum Punkt des Halts,
+Und es mißlingt uns nicht. Wenn Duncan schläft,
+
+Wozu so mehr des Tages starke Reise
+Ihn einlädt, – seine beiden Kämmerlinge
+Will ich mit würz'gem Weine so betäuben,
+Daß des Gehirnes Wächter, das Gedächtnis,
+Ein Dunst sein wird, und der Vernunft Behältnis
+Ein Dampfhelm nur: – Wenn nun im vieh'schen Schlaf
+Ertränkt ihr Dasein liegt, so wie im Tode,
+Was können du und ich dann nicht vollbringen
+Am unbewachten Duncan? was nicht schieben
+Auf die berauschten Diener, die die Schuld
+Des großen Mordes trifft?
+
+
+
+MACBETH.
+
+Gebär' mir Söhne nur!
+Aus deinem unbezwungnen Stoffe können
+Nur Männer sprossen. Wird man es nicht glauben,
+Wenn wir mit Blut die zwei Schlaftrunknen färben,
+Die Kämmerling', und ihre Dolche brauchen,
+Daß sie's getan?
+
+
+
+LADY MACBETH.
+
+Wer darf was anders glauben,
+Wenn unsers Grames lauter Schrei ertönt
+Bei seinem Tode?
+
+
+
+MACBETH.
+
+Ich bin fest; gespannt
+Zu dieser Schreckenstat ist jeder Nerv.
+Komm, täuschen wir mit heiterm Blick die Stunde:
+Birg, falscher Schein, des falschen Herzens Kunde!
+
+Sie gehen ab.
+
+
+
+
+
+        Zweiter Aufzug
+        
+          Erste Szene
+          Ebendaselbst, Schloßhof.
+Es treten auf Banquo, Fleance, ein Diener mit einer Fackel voran.
+
+BANQUO.
+Wie spät, mein Sohn?
+
+
+FLEANCE.
+Der Mond ging unter, schlagen hört' ich's nicht.
+
+
+BANQUO.
+Um zwölf Uhr geht er unter.
+
+
+FLEANCE.
+'s ist wohl später.
+
+
+BANQUO.
+
+Da, nimm mein Schwert. – 's ist Sparsamkeit im Himmel
+Aus taten sie die Kerzen. – Nimm das auch!
+Ein schwerer Schlaftrieb liegt wie Blei auf mir,
+Und doch möcht' ich nicht schlafen. Gnäd'ge Mächte!
+Hemmt in mir böses Denken, dem Natur
+Im Schlummer Raum gibt! – Gib mein Schwert!
+
+Macbeth tritt auf und ein Diener mit einer Fackel.
+Wer da?
+
+
+MACBETH.
+Ein Freund.
+
+
+BANQUO.
+
+Wie, Herr, noch auf? Der König ist zu Bett.
+Er war ausnehmend froh und sandte noch
+All Euren Hausbedienten reiche Gaben;
+Doch Eure Frau soll dieser Demant grüßen,
+Als seine güt'ge Wirtin. Höchst zufrieden
+Begab er sich zur Ruh'.
+
+
+
+MACBETH.
+
+Unvorbereitet,
+Ward nur des Mangels Diener unser Wille,
+Der sonst sich frei enthüllt.
+
+
+
+BANQUO.
+
+Alles war gut.
+Mir träumte jüngst von den drei Zauberschwestern:
+Euch haben sie was Wahres doch gesagt.
+
+
+
+
+MACBETH.
+
+Ich denke nicht an sie;
+Doch ließe sich gelegne Stunde finden,
+So sprächen wir wohl ein'ges in der Sache,
+Gewährtet Ihr die Zeit.
+
+
+
+BANQUO.
+Wie's Euch beliebt.
+
+
+MACBETH.
+
+Schließt Ihr Euch meinem Sinn an, – wenn es ist, –
+Wird's Ehr' Euch bringen.
+
+
+
+BANQUO.
+
+Büß' ich sie nicht ein,
+Indem ich sie zu mehren streb', und bleibt
+Mein Busen frei und meine Lehnspflicht rein,
+Gern nehm' ich Rat an.
+
+
+
+MACBETH.
+Gute Nacht indes!
+
+
+BANQUO.
+Dank, Herr, Euch ebenfalls!
+Banquo, Fleance und Diener ab.
+
+
+MACBETH.
+
+Sag deiner Herrin, wenn mein Trank bereit,
+Soll sie die Glocke ziehn. Geh du zu Bett.
+
+Der Diener geht ab.
+
+Ist das ein Dolch, was ich vor mir erblicke,
+Der Griff mir zugekehrt? Komm, laß dich packen –
+Ich fass' dich nicht, und doch seh' ich dich immer.
+Bist du, Unglücksgebild, so fühlbar nicht
+Der Hand, gleich wie dem Aug'? oder bist du nur
+Ein Dolch der Einbildung, ein nichtig Blendwerk,
+Das aus dem heiß gequälten Hirn erwächst?
+Ich seh' dich noch, so greifbar von Gestalt
+Wie der, den jetzt ich zücke.
+Du gehst mir vor den Weg, den ich will schreiten,
+Und eben solche Waffe wollt' ich brauchen.
+Mein Auge ward der Narr der andern Sinne,
+Oder mehr als alle wert. – Ich seh' dich stets,
+Und dir an Griff und Klinge Tropfen Bluts,
+Was erst nicht war. – Es ist nicht wirklich da:
+Es ist die blut'ge Arbeit, die mein Auge
+So in die Lehre nimmt. – Jetzt auf der halben Erde
+Scheint tot Natur, und den verhangnen Schlaf
+Quälen Versucherträume; Hexenkunst
+Begeht den Dienst der bleichen Hekate;
+
+Und dürrer Mord,
+Durch seine Schildwacht aufgeschreckt, den Wolf,
+Der ihm das Wachtwort heult, – so dieb'schen Schrittes,
+Wie wild entbrannt Tarquin, dem Ziel entgegen,
+Schreitet gespenstisch. –
+Du festgefugte Erde, leicht verwundbar,
+Hör' meine Schritte nicht, wo sie auch wandeln,
+Daß nicht ausschwatzen selber deine Steine
+Mein Wohinaus und von der Stunde nehmen
+Den jetz'gen stummen Graus, der so ihr ziemt. –
+Hier droh' ich, er lebt dort;
+Für heiße Tat zu kalt das müß'ge Wort!
+
+Die Glocke wird angeschlagen.
+
+Ich geh', und 's ist getan: die Glocke mahnt.
+Hör' sie nicht, Duncan, 's ist ein Grabgeläut',
+Das dich zu Himmel oder Höll' entbeut.
+
+Er steigt hinauf.
+Lady Macbeth tritt unten auf.
+
+
+LADY MACBETH.
+
+Was sie betäubte, hat mich stark gemacht,
+Und was sie dämpft', hat mich entflammt. – Still, horch! –
+Die Eule war's, die schrie, der traur'ge Wächter,
+Der gräßlich gute Nacht wünscht. – Er ist dran: –
+Die Türen sind geöffnet, schnarchend spotten
+Die überladnen Diener ihres Amts;
+Ich würzte ihren Schlaftrunk, daß Natur
+Und Tod sich streiten, wem sie angehören.
+
+
+
+MACBETH
+der oben erscheint.
+Ha! wie? wer ist da?
+Er geht wieder hinein.
+
+
+LADY MACBETH.
+
+O weh! ich fürchte, sie sind aufgewacht,
+Und es ist nicht geschehn: – der Anschlag, nicht die Tat
+Verdirbt uns. – Horch! – Ich legt' ihm ihre Dolche
+Bereit, die mußt' er finden. – Hätt' er nicht
+Geglichen meinem Vater, wie er schlief,
+So hätt' ich's selbst getan. –
+
+Macbeth tritt auf.
+Nun, mein Gemahl!
+
+
+
+MACBETH.
+Ich hab' die Tat getan – hört'st du nicht was?
+
+
+LADY MACBETH.
+
+Die Eule hört' ich schrein, und Heimchen zirpen.
+Sprachst du nichts?
+
+
+
+MACBETH.
+Wann?
+
+
+LADY MACBETH.
+Jetzt.
+
+
+MACBETH.
+Wie ich 'runter kam?
+
+
+LADY MACBETH.
+Ja.
+
+
+MACBETH.
+Horch! wer schläft im zweiten Zimmer?
+
+
+LADY MACBETH.
+Donalbain.
+
+
+MACBETH.
+Dort sieht's erbärmlich aus.
+
+
+LADY MACBETH.
+
+Wie wunderlich,
+Erbärmlich das zu nennen! –
+
+
+
+MACBETH.
+
+Der eine lacht' im Schlaf – und »Mord!« schrie einer,
+Daß sie einander weckten; ich stand und hört' es,
+Sie aber sprachen ihr Gebet und legten
+Zum Schlaf sich wieder.
+
+
+
+LADY MACBETH.
+Dort wohnen zwei beisammen.
+
+
+MACBETH.
+
+Der schrie, »Gott sei uns gnädig!« – jener, »Amen«!
+Als säh'n sie mich mit diesen Henkershänden.
+Behorchend ihre Angst, konnt' ich nicht sagen
+»Amen«, als jener sprach: »Gott sei uns gnädig!«
+
+
+
+LADY MACBETH.
+Denkt nicht so tief darüber!
+
+
+MACBETH.
+
+Doch warum
+Konnt' ich nicht »Amen« sprechen? War mir doch
+Die Gnad' am meisten not, und »Amen« stockte
+Mir in der Kehle.
+
+
+
+LADY MACBETH.
+
+Dieser Taten muß
+Man so nicht denken; so macht es uns toll.
+
+
+
+MACBETH.
+
+Mir war, als rief es: »Schlaft nicht mehr! Macbeth
+Mordet den Schlaf!« Ihn, den unschuld'gen Schlaf;
+Schlaf, der des Grams verworr'n Gespinst entwirrt,
+Den Tod von jedem Lebenstag, das Bad
+Der wunden Müh', den Balsam kranker Seelen,
+Den zweiten Gang im Gastmahl der Natur,
+Das nährendste Gericht beim Fest des Lebens.
+
+
+
+LADY MACBETH.
+Was meinst du?
+
+
+
+MACBETH.
+
+Stets rief es: »Schlaft nicht mehr!« durchs ganze Haus;
+»Clamis mordet den Schlaf!« und drum wird Cawdor
+Nicht schlafen mehr, Macbeth nicht schlafen mehr.
+
+
+
+LADY MACBETH.
+
+Wer war es, der so rief? Mein würd'ger Than,
+Du läßt den edeln Mut erschlaffen, denkst du
+So hirnkrank drüber nach. Nimm etwas Wasser,
+Und wasch' von deiner Hand das garst'ge Zeugnis! –
+Was brachtest du die Dolche mit herunter?
+Dort liegen müssen sie; geh, bring' sie hin,
+Und färb' mit Blut die Kämm'rer, wie sie schlafen.
+
+
+
+MACBETH.
+
+Ich gehe nicht mehr hin, ich bin entsetzt,
+Denk' ich, was ich getan: es wieder schaun –
+Ich wag' es nicht!
+
+
+
+LADY MACBETH.
+
+O schwache Willenskraft!
+Gib mir die Dolche! Schlafende und Tote
+Sind Bilder nur; der Kindheit Aug' allein
+Scheut den gemalten Teufel. Wenn er blutet,
+Färb' ich damit der Diener Kleider rot;
+So tragen sie des Mords Livrei.
+
+Sie geht ab.
+Man hört klopfen.
+
+
+MACBETH.
+
+Woher das Klopfen?
+Wie ist's mit mir, daß jeder Ton mich schreckt?
+Was sind das hier für Hände? Ha, sie reißen
+Mir meine Augen aus! –
+Kann wohl des großen Meergotts Ozean
+Dies Blut von meiner Hand rein waschen? Nein;
+Weit eh'r kann diese meine Hand mit Purpur
+Die unermeßlichen Gewässer färben
+Und Grün in Rot verwandeln. –
+
+Lady Macbeth kommt zurück.
+
+
+LADY MACBETH.
+
+Meine Hände
+Sind blutig, wie die deinen; doch ich schäme
+Mich, daß mein Herz so weiß ist.
+Es wird geklopft.
+
+Klopfen hör' ich
+Am Südtor: – Eilen wir in unsre Kammer;
+Ein wenig Wasser reint uns von der Tat,
+Wie leicht dann ist sie! Deine Festigkeit
+Verließ dich ganz und gar.
+Es wird geklopft.
+Horch, wieder Klopfen.
+Tu' an dein Nachtkleid; müssen wir uns zeigen,
+Daß man nicht sieht, wir wachten! – Verlier' dich nicht
+So ärmlich in Gedanken!
+
+
+
+MACBETH.
+
+Meine Tat
+Zu wissen! – besser von mir selbst nichts wissen!
+Klopf Duncan aus dem Schlaf! O könntest du's! –
+
+Sie gehn ab.
+
+
+
+          Zweite Szene
+          Ebendaselbst.
+Der Pförtner kommt; es wird geklopft.
+
+PFÖRTNER.
+Das ist ein Klopfen! Wahrhaftig, wenn einer Hölenpförtner wäre, da hätte er was zu
+              schließen. Poch, poch, poch: Wer da, in Beelzebubs Namen? Ein Pachter, der sich in
+              Erwartung einer reichen Ernte aufhing. Zur rechten Zeit gekommen; habt Ihr auch
+              Schnupftücher genug bei Euch? denn hier werdet Ihr dafür schwitzen müssen! – Poch,
+              poch: Wer da, in des andern Teufels Namen? Mein' Treu', ein Zweideutler, der in beide
+              Schalen gegen jede Schale schwören konnte, der um Gottes willen Verrätereien genug
+              beging und sich doch nicht zum Himmel hinein zweideuteln konnte. Herein, Zweideutler!
+              – Poch, poch, poch: Wer da? Mein' Treu', ein englischer Schneider, hier angekommen,
+              weil er etwas aus einer französischen Hose gestohlen: herein, Schneider; hier kannst
+              du deine Bügelgans braten. Poch, poch – Keine Ruhe! Wer seid Ihr? Aber hier ist es zu
+              kalt für die Hölle; ich mag nicht länger Teufelspförtner sein. Ich dachte, ich wollte
+              von jedem Gewerbe einige herein lassen,  die den breiten Rosenpfad zum
+              ewigen Freudenfeuer wandeln. – Gleich, gleich! Ich bitt' Euch, bedenkt doch, daß der
+              Pförtner auch ein Mensch ist!
+Er öffnet das Tor; Macduff und Lenox kommen herein.
+
+
+MACDUFF.
+Kamest du so spät zu Bett, Freund, daß du nun so spät aufstehst?
+
+
+PFÖRTNER.
+Mein' Seel', Herr, wir zechten, bis der zweite Hahn krähte; und der Trunk ist ein
+              großer Beförderer von drei Dingen.
+
+
+MACDUFF.
+Was sind denn das für drei Dinge, die der Trunk vorzüglich befördert?
+
+
+PFÖRTNER.
+Ei, Herr, rote Nasen, Schlaf und Urin. Buhlerei befördert und dämpft er zugleich: er
+              befördert das Verlangen und dämpft das Tun. Darum kann man sagen, daß vieles Trinken
+              ein Zweideutler gegen die Buhlerei ist: es schafft sie und vernichtet sie; treibt sie
+              an und hält sie zurück; macht ihr Mut und schreckt sie ab; heißt sie, sich brav halten
+              und nicht brav halten; zweideutelt sie zuletzt in Schlaf, straft sie Lügen und geht
+              davon.
+
+
+MACDUFF.
+Ich glaube, der Trunk strafte dich die Nacht Lügen.
+
+
+PFÖRTNER.
+Ja, Herr, das tat er, in meinen Hals hinein; aber ich vergalt ihm seine Lügen, und
+              ich denke, ich war ihm doch zu stark; denn obgleich er mir die Beine ein paar Mal
+              unten weg zog, so fand ich doch einen Kniff, ihn hinaus zu schmeißen.
+
+
+MACDUFF.
+
+Ist dein Herr schon aufgestanden?
+Geweckt hat unser Klopfen ihn; hier kommt er.
+
+Macbeth tritt auf.
+
+
+LENOX.
+Guten Morgen, edler Herr!
+
+
+MACBETH.
+Guten Morgen, beide!
+
+
+MACDUFF.
+Wacht schon der König, würd'ger Than?
+
+
+MACBETH.
+Noch nicht.
+
+
+MACDUFF.
+
+Mir gab er den Befehl, ihn früh zu wecken;
+Die Zeit versäumt' ich fast.
+
+
+
+MACBETH.
+Ich führ' Euch hin.
+
+
+MACDUFF.
+
+Ich weiß, es ist 'ne Müh', die Euch erfreut;
+Doch es ist eine Müh'.
+
+
+
+
+MACBETH.
+
+Die Arbeit, die uns freut, wird zum Ergötzen.
+Hier ist die Tür.
+
+
+
+MACDUFF.
+
+Ich bin so kühn, zu rufen;
+Nur dies ward mir befohlen.
+
+Er geht ab.
+
+
+LENOX.
+
+Reist der König
+Heut ab?
+
+
+
+MACBETH.
+So ist's; er hat es so bestimmt.
+
+
+LENOX.
+
+Die Nacht war stürmisch; wo wir schliefen, heult' es
+Den Schlot herab; und wie man sagt, erscholl
+Ein Wimmern in der Luft, ein Todesstöhnen,
+Ein Prophezein in fürchterlichem Laut,
+Von wildem Brand und gräßlichen Geschichten,
+Neu ausgebrütet einer Zeit des Leidens.
+Der dunkle Vogel schrie die ganze Nacht durch:
+Man sagt, die Erde bebte fieberkrank.
+
+
+
+MACBETH.
+Es war 'ne rauhe Nacht.
+
+
+LENOX.
+
+Mein jugendlich Gedächtnis sucht umsonst
+Nach ihresgleichen.
+
+Macduff kommt von oben herunter.
+
+
+MACDUFF.
+
+O Grausen! Grausen! Grausen! Zung' und Herz
+Faßt es nicht, nennt es nicht!
+
+
+
+MACBETH UND LENOX.
+Was ist geschehn?
+
+
+MACDUFF.
+
+Jetzt hat die Höll' ihr Meisterstück gemacht!
+Der kirchenräuberische Mord brach auf
+Des Herrn geweihten Tempel und stahl weg
+Das Leben aus dem Heiligtum.
+
+
+
+MACBETH.
+
+Was sagt Ihr?
+Das Leben?
+
+
+
+LENOX.
+Meint Ihr Seine Majestät?
+
+
+MACDUFF.
+
+Geht ein zur Kammer und zerstört die Sehkraft
+Durch eine neue Gorgo! Verlangt nicht, daß ich spreche;
+Seht! und dann redet selbst! Erwacht! Erwacht!
+
+Macbeth und Lenox gehen ab.
+
+Die Sturmglock' angeschlagen! Mord! Verrat!
+Banquo und Donalbain! Malcolm! Erwacht!
+Werft ab den flaum'gen Schlaf, des Todes Abbild,
+
+Und seht ihn selbst, den Tod! – Auf, auf, und schaut
+Des Weltgerichtes Vorspiel! – Malcolm! Banquo!
+Steigt wie aus eurem Grab! wie Geister schreitet,
+Als Grau'ngefolge diesen Mord zu schaun!
+Die Glocken stürmt!
+
+Lady Macbeth triff auf.
+
+
+LADY MACBETH.
+
+Was ist denn vorgefallen,
+Daß solche schreckliche Trompete ruft
+Zum Rat die Schläfer dieses Hauses? Sprecht!
+
+
+
+MACDUFF.
+
+O zarte Frau,
+Ihr dürft nicht hören, was ich sagen könnte.
+Vor eines Weibes Ohr es nennen, wäre
+Ein Mord, wie Ihr's vernähmt.
+
+Banquo tritt auf.
+
+O Banquo! Banquo!
+Der König, unser Herr, ermordet!
+
+
+
+LADY MACBETH.
+
+Wehe!
+In unserm Haus?
+
+
+
+BANQUO.
+
+Zu grausam, wo auch immer! –
+Oh, lieber Macduff, widersprich dir selber,
+Und sag, es sei nicht so!
+
+Macbeth und Lenox kommen zurück.
+
+
+MACBETH.
+
+Wär' ich gestorben, eine Stunde nur,
+Eh' dies geschah, gesegnet war mein Dasein!
+Von jetzt gibt es nichts Ernstes mehr im Leben:
+Alles ist Tand, gestorben Ruhm und Gnade!
+Der Lebenswein ist ausgeschenkt, nur Hefe
+Blieb noch zu prahlendem Gewölbe.
+
+Malcolm und Donalbain treten auf.
+
+
+DONALBAIN.
+
+Wem
+Geschah ein Leid?
+
+
+
+MACBETH.
+
+Euch selbst, und wißt es nicht:
+Der Born, der Ursprung Eures Blutes ist
+Versiegt, die Lebensquelle selbst versiegt.
+
+
+
+MACDUFF.
+Eu'r königlicher Vater ist ermordet.
+
+
+
+MALCOLM.
+Ha! von wem?
+
+
+LENOX.
+
+Die Kämmerlinge, scheint es, sind die Täter;
+Denn Händ' und Antlitz trugen blut'ge Zeichen,
+Auch ihre Dolche, die unabgewischt
+Auf ihren Polstern lagen. Wie im Wahnsinn,
+So starrt' ihr Auge, und es war gefährlich,
+Nur ihnen nah' zu kommen.
+
+
+
+MACBETH.
+
+Oh! jetzt bereu' ich meine Wut, daß ich
+Sie niederstieß.
+
+
+
+MACDUFF.
+Warum habt Ihr's getan?
+
+
+MACBETH.
+
+Wer ist weis' und entsetzt, gefaßt und wütig,
+Pflichttreu und kalt in einem Augenblick?
+Kein Mensch. Die Raschheit meiner heft'gen Liebe
+Lief schneller als die zögernde Vernunft. –
+Duncan lag hier, die Silberhaut verbrämt
+Mit seinem goldnen Blut – die offnen Wunden,
+Sie waren wie ein Riß in der Natur,
+Wo Untergang vernichtend einzieht; dort die Mörder,
+Getaucht in ihres Handwerks Farb', die Dolche
+Abscheulich von geronn'nem Blute schwarz.
+Wer konnte sich da zügeln, der ein Herz
+Voll Liebe hatt', und in dem Herzen Mut,
+Die Liebe zu beweisen?
+
+
+
+LADY MACBETH.
+Helft mir fort! –
+
+
+MACBETH.
+Seht nach der Lady.
+
+
+MALCOLM.
+
+Weshalb schweigen wir,
+Da unser Anspruch an dies Weh der nächste?
+
+
+
+DONALBAIN.
+
+Was soll'n wir sprechen, hier, wo unser Schicksal
+Herstürzen kann aus irgendeinem Winkel,
+Uns zu ergreifen? Fort, denn unsre Tränen
+Sind noch nicht reif.
+
+
+
+MALCOLM.
+
+Noch unser heft'ger Gram
+Zum Fliehn geschickt.
+
+
+
+BANQUO.
+Seht nach der Lady! –
+Lady Macbeth wird fortgeführt.
+
+Und haben wir verhüllt der Schwäche Blößen,
+Die Fassung jetzt entbehrt, treffen wir uns
+
+Und forschen dieser blut'gen Untat nach,
+Den Grund zu sehn. Uns schütteln Furcht und Zweifel;
+Ich steh' in Gottes großer Hand, und so
+Kämpf' ich der ungesprochnen Anmutung
+Bösen Verrats entgegen.
+
+
+
+MACBETH.
+So auch ich.
+
+
+ALLE.
+Wir alle.
+
+
+MACBETH.
+
+Laßt, mit Entschlossenheit gerüstet, wieder
+Uns in der Halle treffen!
+
+
+
+ALLE.
+Wohl, so sei's.
+Malcolm und Donalbain bleiben; die übrigen gehn ab.
+
+
+MALCOLM.
+
+Was tust du? Laß uns nicht zu ihnen halten:
+Erlognen Schmerz zu zeigen, ist 'ne Kunst,
+Die leicht dem Falschen wird. Ich geh' nach England.
+
+
+
+DONALBAIN.
+
+Nach Irland ich; unser getrenntes Glück
+Verwahrt uns besser. Wo wir sind, drohn Dolche
+In jedes Lächeln: um so blutsverwandter,
+So mehr verwandt dem Tode.
+
+
+
+MALCOLM.
+
+Der mörderische Pfeil ist abgeschossen
+Und fliegt noch; Sicherheit ist nur für uns,
+Vermeiden wir das Ziel. Drum schnell zu Pferde,
+Und zaudern wir nicht, jene noch zu grüßen:
+Nein, heimlich fort! Nicht strafbar ist der Dieb,
+Der selbst sich stiehlt, wo keine Gnad' ihm blieb.
+
+Sie gehn ab.
+
+
+
+          Dritte Szene
+          Vor dem Schloß.
+Rossetritt auf mit einem alten Mann.
+
+ALTER.
+
+Auf siebzig Jahr' kann ich mich gut erinnern:
+In diesem Zeitraum sah ich Schreckenstage
+Und wunderbare Ding', doch diese böse Nacht
+Macht alles Vor'ge klein.
+
+
+
+ROSSE.
+
+Oh, guter Vater,
+Der Himmel, sieh, als zürn' er Menschentaten,
+
+Dräut dieser blut'gen Bühn'. Die Uhr zeigt Tag,
+Doch dunkle Nacht erstickt die Wanderlampe:
+Ist's Sieg der Nacht, ist es die Scham des Tages,
+Daß Finsternis der Erd' Antlitz begräbt,
+Wenn lebend Licht es küssen sollte?
+
+
+
+ALTER.
+
+Unnatürlich,
+Wie die gescheh'ne Tat. Am letzten Dienstag
+Sah ich, wie stolzen Flugs ein Falke schwebte
+Und eine Eul' ihm nachjagt' und ihn würgte.
+
+
+
+ROSSE.
+
+Und Duncans Rosse, seltsam ist's, doch sicher,
+So rasch und schön, die Kleinod' ihres Bluts,
+Brachen, verwildert ganz, aus ihren Ställen
+Und stürzten fort, sich sträubend dem Gehorsam,
+Als wollten Krieg sie mit den Menschen führen.
+
+
+
+ALTER.
+Man sagt, daß sie einander fraßen.
+
+
+ROSSE.
+
+Ja;
+Entsetzlich war's, ich hab' es selbst gesehn.
+Da kommt der edle Macduff –
+
+Macduff tritt auf.
+Nun, Herr, wie geht die Welt?
+
+
+MACDUFF.
+Ei, seht Ihr's nicht?
+
+
+ROSSE.
+Weiß man, wer tat die mehr als blut'ge Tat?
+
+
+MACDUFF.
+Jene, die Macbeth tötete.
+
+
+ROSSE.
+
+O Jammer!
+Was hofften sie davon?
+
+
+
+MACDUFF.
+
+Sie waren angestiftet.
+Malcolm und Donalbain, des Königs Söhne,
+Sind heimlich fort, entflohn: dies wälzt auf sie
+Der Tat Verdacht.
+
+
+
+ROSSE.
+
+Stets gegen die Natur:
+Verschwenderischer Ehrgeiz, so verschlingst du
+Des eignen Lebens Unterhalt! – So wird
+Die Königswürde wohl an Macbeth fallen?
+
+
+
+MACDUFF.
+
+Er ist ernannt schon und zu seiner Krönung
+Nach Scone gegangen.
+
+
+
+ROSSE.
+Wo ist Duncans Leichnam?
+
+
+MACDUFF.
+
+Nach Colmes Kill führt man ihn zur heil'gen Gruft,
+
+Wo die Gebeine seiner Ahnen alle
+Versammelt ruhn.
+
+
+
+ROSSE.
+Geht Ihr nach Scone?
+
+
+MACDUFF.
+
+Nein, Vetter!
+Ich geh' nach Fife.
+
+
+
+ROSSE.
+So will ich hin.
+
+
+MACDUFF.
+
+Lebt wohl!
+Mag alles so geschehn, daß wir nicht sagen:
+Bequemer war der alte Rock zu tragen!
+
+Er geht ab.
+
+
+ROSSE.
+Vater, lebt wohl!
+
+
+ALTER.
+
+Gott segne Euch und den, der redlich denkt,
+Unheil zum Heil, Zwietracht zum Frieden lenkt!
+
+Sie gehen ab.
+
+
+
+
+
+        Dritter Aufzug
+        
+          Erste Szene
+          Fores, Saal im Schlosse. Banquo tritt auf.
+
+BANQUO.
+
+Du hast's nun: König, Cawdor, Glamis, alles,
+Wie dir's die Zauberfrau'n versprachen; und ich fürchte,
+Du spieltest schändlich drum. Doch ward gesagt,
+Es solle nicht bei deinem Stamme bleiben;
+Ich aber sollte Wurzel sein und Vater
+Von vielen Kön'gen. Kommt von ihnen Wahrheit
+(Wie, Macbeth, ihre Wort' an dich bestät'gen),
+Warum, bei der Erfüllung, die dir ward,
+Soll'n sie nicht mein Orakel gleichfalls sein
+Und meine Hoffnung kräft'gen? Still, nichts weiter! –
+
+Trompeten; es treten auf Macbeth als König und Lady Macbeth als Königin; Lenox,
+              Rosse, Lords, Ladys und Gefolge.
+
+
+MACBETH.
+Hier unser höchster Gast.
+
+
+LADY MACBETH.
+
+Ward er vergessen,
+War's wie ein Riß in unserm großen Fest,
+Und alles ungeziemend.
+
+
+
+MACBETH.
+
+Herr, wir halten
+Ein feierliches Mahl heut abend, und
+Ich bitt' um Eure Gegenwart.
+
+
+
+BANQUO.
+
+Eu'r Hoheit
+Hat zu befehlen; unauflöslich bleibt
+Für immer meine Pflicht an Euch gebunden.
+
+
+
+MACBETH.
+Verreist Ihr noch den Nachmittag?
+
+
+BANQUO.
+Ja, Herr.
+
+
+MACBETH.
+
+Sonst hätten wir wohl Euren Rat gewünscht,
+Der stets voll Einsicht und ersprießlich war,
+
+Im Staatsrat heut; doch gönnt ihn morgen uns!
+Geht Eure Reise weit?
+
+
+
+BANQUO.
+
+So weit, mein König,
+Daß sie die Zeit von jetzt bis Abend ausfüllt;
+Hält nicht mein Pferd sich gut, so muß ich wohl
+Noch von der Nacht 'ne dunkle Stunde borgen.
+
+
+
+MACBETH.
+Fehlt nicht bei unserm Fest.
+
+
+BANQUO.
+Mein Fürst, ich komme.
+
+
+MACBETH.
+
+Wir hören, unsre blut'gen Vettern weilen
+In England und in Irland; nicht bekennend
+Den grausen Vatermord, mit seltnen Märchen
+Die Hörer täuschend. Doch das sei für morgen,
+Da außerdem das Staatsgeschäft uns alle
+Zusammen ruft. Säumt länger nicht: lebt wohl,
+Bis wir zu Nacht uns sehn! Geht Fleance mit Euch?
+
+
+
+BANQUO.
+Ja, teurer Herr; die Zeit mahnt uns zur Eil'.
+
+
+MACBETH.
+
+Den Rossen wünsch' ich schnellen, sichern Lauf;
+Besteigt sie alsobald und reiset glücklich. –
+
+Banquo geht ab.
+
+Ein jeder sei nun Herr von seinen Stunden
+Bis sieben Uhr; uns die Geselligkeit
+Zu würzen, sind wir bis zum Abendessen
+Mit uns allein. Bis dahin Gott befohlen!
+
+Alle gehen ab, Macbeth bleibt.
+Du da! ein Wort: sind jene Männer hier?
+Der Diener tritt ein.
+
+
+DIENER.
+Sie harren vor dem Schloßtor, mein Gebieter.
+
+
+MACBETH.
+Führ' sie uns vor! –
+Diener geht ab.
+
+Das so zu sein, ist nichts:
+Doch sicher, so zu sein. – In Banquo wurzelt
+Tief unsre Furcht; in seinem Königssinn
+Herrscht was, das will gefürchtet sein. Viel wagt er;
+Und außer diesem unerschrocknen Geist
+Hat Weisheit er, die Führerin des Muts
+
+Zum sichern Wirken. Außer ihm ist keiner,
+Vor dem ich zittern muß; und unter ihm
+Beugt sich mein Genius scheu, wie, nach der Sage,
+Vor Cäsar Mark Antonius' Geist. Er schalt die Schwestern
+Gleich, als sie mir den Namen König gaben,
+Und hieß sie zu ihm sprechen; dann prophetisch
+Begrüßten sie ihn Vater vieler Kön'ge.
+Mein Haupt empfing die unfruchtbare Krone;
+Den dürren Szepter reichten sie der Faust,
+Daß eine fremde Hand ihn mir entwinde,
+Kein Sohn von mir ihn erbe. Ist es so? –
+Hab' ich für Banquos Stamm mein Herz befleckt,
+Für sie erwürgt den gnadenreichen Duncan,
+In meinen Friedensbecher Gift gegossen,
+Einzig für sie; und mein unsterblich Kleinod
+Dem Erbfeind aller Menschen preisgegeben,
+Zu krönen sie! zu krönen Banquos Brut! –
+Eh' das geschieht, komm, Schicksal, in die Schranken
+Und fordre mich auf Tod und Leben! – Holla!
+Der Diener kommt mit zwei Mördern.
+Geh vor die Tür und warte, bis wir rufen.
+Der Diener geht ab.
+War's gestern nicht, da wir einander sprachen?
+
+
+
+ERSTER MÖRDER.
+So war es, Majestät.
+
+
+MACBETH.
+
+Gut denn, habt ihr
+Nun meinen Reden nachgedacht? So wißt,
+Daß er es eh'mals war, der euch so schwer
+Gedrückt; was, wie ihr wähntet, ich getan,
+Der völlig schuldlos. Dies bewies ich euch
+In unsrer letzten Unterredung; macht' euch klar,
+Wie man euch hinterging und kreuzte; nannt' euch
+Die Werkzeug' auch, und wer mit ihnen wirkte;
+Und alles sonst, was selbst 'ner halben Seele
+Und blödstem Sinne zurief: Das tat Banquo!
+
+
+
+ERSTER MÖRDER.
+So habt Ihr's uns erklärt.
+
+
+MACBETH.
+
+Ich tat es und ging weiter; deshalb nun
+Hab' ich euch wieder her beschieden. Fühlt ihr
+
+Geduld vorherrschend so in eurem Wesen,
+Daß ihr dies hingehn laßt? Seid ihr so fromm,
+Zu beten für den guten Mann und sein
+Geschlecht, des schwere Hand zum Grab euch beugte
+Und euch zu Bettlern macht' und eure Kinder?
+
+
+
+ERSTER MÖRDER.
+Mein König, wir sind Männer.
+
+
+MACBETH.
+
+Ja, im Verzeichnis lauft ihr mit als Männer;
+Wie Jagd- und Windhund, Blendling, Wachtelhund,
+Spitz, Pudel, Schäferhund und Halbwolf, alle
+Der Name Hund benennt: das Rangregister
+Bezeichnet erst den schnellen, trägen, klugen,
+Den Hausbewacher und den Jäger, jeden
+Nach seiner Eigenschaft, die ihm Natur
+Liebreich geschenkt; wodurch ihm wird besondre
+Bezeichnung aus der Schar, die alle gleich
+Benamt: und so ist's mit dem Menschen auch.
+Habt ihr nun einen Platz im Rangregister,
+Und nicht den schlechtsten in der Mannheit, sprecht;
+Und solches Werk vertrau' ich eurem Busen,
+Dessen Vollstreckung euren Feind entrafft,
+Herzinnig fest an unsre Lieb' euch schmiedet,
+Da unser Wohlsein kränkelt, weil er lebt,
+Das nur in seinem Tod gesundet.
+
+
+
+ZWEITER MÖRDER.
+
+Herr,
+Mit hartem Stoß und Schlag hat mich die Welt
+So aufgereizt, daß mich's nicht kümmert, was
+Der Welt zum Trotz ich tu'.
+
+
+
+ERSTER MÖRDER.
+
+Und ich bin einer,
+So matt von Elend, so zerzaust vom Unglück,
+Daß ich mein Leben setz' auf jeden Wurf,
+Es zu verbessern oder los zu werden.
+
+
+
+MACBETH.
+Ihr wißt es beide, Banquo war eu'r Feind.
+
+
+ZWEITER MÖRDER.
+Gewiß, mein Fürst.
+
+
+MACBETH.
+
+So ist er meiner auch,
+Und in so blut'ger Näh', daß jeder Pulsschlag
+Von ihm nach meinem Herzensleben zielt.
+Und obgleich meine Macht mit offnem Antlitz
+Ihn löschen könnt' aus meinem Blick und frei
+
+Mein Wort die Tat gestehn: doch darf ich's nicht,
+Um manchen, der mir Freund ist so wie ihm,
+Des Lieb' ich nicht kann missen; seinen Fall
+Muß ich beklagen, den ich selbst erschlug:
+Und darum sprech' ich euch um Beistand an,
+Dem Pöbelauge das Geschäft verlarvend
+Aus manchen wichtigen Gründen.
+
+
+
+ZWEITER MÖRDER.
+
+Wir vollziehn,
+Was Ihr befehlt.
+
+
+
+ERSTER MÖRDER.
+Wenn unser Leben auch –
+
+
+MACBETH.
+
+Aus euren Augen leuchtet euer Mut.
+In dieser Stunde spät'stens meld' ich euch,
+Wo ihr euch stellt; bericht' euch aufs genau'ste
+Den Augenblick; denn heut nacht muß es sein;
+Und etwas ab vom Schloß: stets dran gedacht,
+Daß ich muß rein erscheinen! Und mit ihm,
+Um nichts nur halb und obenhin zu tun,
+Muß Fleance, sein Sohn, der ihm Gesellschaft leistet,
+Des Wegtun mir nicht minder wichtig ist
+Als seines Vaters, das Geschick mit ihm
+Der dunkeln Stunde teilen.
+Entschließt euch nun für euch; gleich komm' ich wieder.
+
+
+
+ZWEITER MÖRDER.
+Wir sind entschlossen, Herr.
+
+
+MACBETH.
+
+So ruf' ich euch
+Alsbald; verweilt da drin! Es ist entschieden:
+Denkst, Banquo, du, den Himmel zu gewinnen,
+Muß deine Seel' heut nacht den Flug beginnen.
+
+Alle ab.
+
+
+
+          Zweite Szene
+          Ebendaselbst, ein anderes Zimmer.
+Lady Macbeth tritt auf mit einem Diener.
+
+LADY MACBETH.
+Ist Banquo fort vom Hof?
+
+
+DIENER.
+Ja, Kön'gin, doch er kommt zurück heut abend.
+
+
+LADY MACBETH.
+
+Dem König meld', ich lasse ihn ersuchen
+Um wen'ge Augenblicke.
+
+
+
+
+DIENER.
+Ich gehorche.
+Er geht ab.
+
+
+LADY MACBETH.
+
+Nichts ist gewonnen, alles ist dahin,
+Stehn wir am Ziel mit unzufriednem Sinn:
+Viel sichrer, das zu sein, was wir zerstört,
+Als daß uns Mord ein schwankend Glück gewährt.
+
+Macbeth tritt auf.
+
+Nun, teurer Freund, was bist du so allein
+Und wählst nur trübe Bilder zu Gefährten, –
+Gedanken hegend, die doch tot sein sollten,
+Wie jen', an die sie denken? Was unheilbar:
+Vergessen sei's: Geschehn ist, was geschehn.
+
+
+
+MACBETH.
+
+Zerhackt ward nur die Schlange, nicht getötet:
+Sie heilt und bleibt dieselb', indes ihr Zahn
+Wie sonst gefährdet unsre arme Bosheit.
+Doch ehe soll der Dinge Bau zertrümmern,
+Die beiden Welten schaudern, eh' wir länger
+In Angst verzehren unser Mahl und schlafen
+In der Bedrängnis solcher grausen Träume,
+Die uns allnächtlich schütteln: Lieber bei
+Dem Toten sein, den, Frieden uns zu schaffen,
+Zum Frieden wir gesandt, als auf der Folter
+Der Seel' in ruheloser Qual zu zucken!
+Duncan ging in sein Grab,
+Sanft schläft er nach des Lebens Fieberschauern;
+Verrat, du tatst dein Ärgstes: Gift, noch Dolch,
+Einheim'sche Bosheit, fremder Anfall, nichts
+Kann ferner ihn berühren.
+
+
+
+LADY MACBETH.
+
+Oh, laß gut sein!
+Mein liebster Mann, die Runzeln glätte weg;
+Sei froh und munter heut mit deinen Gästen!
+
+
+
+MACBETH.
+
+Das will ich, Lieb'; und, bitte, sei es auch:
+Vor allen wend' auf Banquo deine Sorgfalt,
+Und schenk' ihm Auszeichnung mit Wort und Blick:
+Unsicher noch, sind wir genötigt, so
+Zu baden unsre Würd' in Schmeichelströmen;
+Daß unser Antlitz Larve wird des Herzens,
+Verbergend, was es ist.
+
+
+
+
+LADY MACBETH.
+Du mußt das lassen.
+
+
+MACBETH.
+
+Oh! von Skorpionen voll ist mein Gemüt:
+Du weißt, Geliebte, Banquo lebt und Fleance.
+
+
+
+LADY MACBETH.
+Doch schuf Natur sie nicht für ew'ge Dauer.
+
+
+MACBETH.
+
+Ja, das ist Trost; man kann noch an sie kommen:
+Drum sei du fröhlich! Eh' die Fledermaus
+Geendet ihren klösterlichen Flug,
+Eh', auf den Ruf der dunkeln Hekate,
+Der hornbeschwingte Käfer, schläfrig summend,
+Die nächt'ge Schlummerglocke hat geläutet,
+Ist eine Tat geschehn furchtbarer Art.
+
+
+
+LADY MACBETH.
+Was hast du vor?
+
+
+MACBETH.
+
+Unschuldig bleibe, Kind, und wisse nichts,
+Bis du der Tat kannst Beifall rufen. Komm
+Mit deiner dunklen Binde, Nacht; verschließe
+Des mitleidvollen Tages zartes Auge;
+Durchstreich' mit unsichtbarer, blut'ger Hand
+Und reiß' in Stücke jenen großen Schuldbrief,
+Der meine Wangen bleicht! – Das Licht wird trübe;
+Zum dampfenden Wald erhebt die Kräh' den Flug;
+Die Tagsgeschöpfe schläfrig niederkauern,
+Und schwarze Nachtunhold' auf Beute lauern.
+Du staunst mich an? Still! – Sündentsproßne Werke
+Erlangen nur durch Sünden Kraft und Stärke.
+So, bitte, geh mit mir!
+
+Sie gehn ab.
+
+
+
+          Dritte Szene
+          Ebendaselbst, ein Park im Schloß.
+Drei Mörder treten auf.
+
+ERSTER MÖRDER.
+Wer aber hieß dich zu uns stoßen?
+
+
+DRITTER MÖRDER.
+Macbeth.
+
+
+ZWEITER MÖRDER.
+
+Man braucht ihm nicht zu mißtraun; denn er kennt
+Unser Geschäft, das man uns aufgetragen,
+Und weiß genau Bescheid.
+
+
+
+ERSTER MÖRDER.
+
+So bleib' bei uns!
+Der West glimmt noch von schwachen Tagesstreifen:
+
+Der Reiter spornt nun eil'ger durch die Dämm'rung,
+Zur Schenke noch zu kommen; und schon naht
+Der, den wir hier erwarten.
+
+
+
+DRITTER MÖRDER.
+Pferde! – Horcht!
+
+
+BANQUO
+hinter der Szene.
+Heda! Bringt Licht!
+
+
+ZWEITER MÖRDER.
+
+Er muß es sein; die andern,
+Die noch erwartet wurden, sind schon alle
+Im Schloß.
+
+
+
+ERSTER MÖRDER.
+Die Pferde machen einen Umweg.
+
+
+DRITTER MÖRDER.
+
+Fast eine Meile; und er geht gewöhnlich,
+Wie jeder tut, von hier bis an das Schloßtor
+Zu Fuß.
+
+Banquo und Fleance treten auf, ein Diener mit einer Fackel voran.
+
+
+ZWEITER MÖRDER.
+Ein Licht!
+
+
+DRITTER MÖRDER.
+Er ist es.
+
+
+ERSTER MÖRDER.
+Macht euch dran!
+
+
+BANQUO.
+'s kommt Regen noch zur Nacht.
+
+
+ERSTER MÖRDER.
+So mag er fallen!
+Ersticht Banquo.
+
+
+BANQUO.
+
+Weh mir! Verrat! Flieh', guter Fleance, flieh', flieh'!
+Du kannst mein Rächer sein. – O Sklave! –
+
+Banquo stirbt. Fleance und der Diener fliehn.
+
+
+DRITTER MÖRDER.
+Wer schlug das Licht aus?
+
+
+ERSTER MÖRDER.
+War's nicht wohl getan?
+
+
+DRITTER MÖRDER.
+Nur einer liegt; der Sohn entfloh.
+
+
+ZWEITER MÖRDER.
+
+So ist
+Die beste Hälfte unsrer Müh' verloren.
+
+
+
+ERSTER MÖRDER.
+Gut, gehn wir denn und melden, was getan.
+Sie gehn ab.
+
+
+
+          Vierte Szene
+          Prunksaal im Schloß, gedeckte Tafel.
+Es treten auf Macbeth, Lady Macbeth, Rosse, Lenox, Lords, Gefolge.
+
+MACBETH.
+
+Ihr kennt selbst euren Rang: nehmt Platz! Willkommen
+Seid ein für allemal!
+
+
+
+
+LORDS.
+Dank Euer Hoheit!
+
+
+MACBETH.
+
+Wir wollen uns in die Gesellschaft mischen,
+Als aufmerksamer Wirt. Die Wirtin nahm
+Schon ihren Sitz; doch mit Vergünstigung
+Ersuchen wir um ihren Gruß und Willkomm.
+
+
+
+LADY MACBETH.
+
+Sprich ihn für mich zu allen unsern Freunden;
+Denn herzlich heiß' ich alle sie willkommen.
+
+Der erste Mörder tritt zur Seitentür ein.
+
+
+MACBETH.
+
+Sieh, ihres Herzens Dank kommt dir entgegen.
+Gleich voll sind beide Seiten. Hier will ich
+Mich in die Mitte setzen. Ungehemmt
+Sei nun die Lust; gleich soll der Becher kreisen.
+Auf deiner Stirn ist Blut –
+
+
+
+MÖRDER.
+So ist es Banquos.
+
+
+MACBETH.
+
+Viel besser draußen an dir, als er hier drinnen.
+So ist er abgetan?
+
+
+
+MÖRDER.
+
+Herr, seine Kehle
+Ist durchgeschnitten; – das tat ich für ihn.
+
+
+
+MACBETH.
+
+Du bist der beste Kehlabschneider; doch
+Auch der ist gut, der das für Fleance getan;
+Warst du's, so hast du deinesgleichen nicht.
+
+
+
+MÖRDER.
+Mein königlicher Herr, Fleance ist entwischt.
+
+
+MACBETH.
+
+So bin ich wieder krank; sonst wär' ich stark,
+Gesund wie Marmor, fest wie Fels gegründet,
+Weit, allgemein, wie Luft und Windeshauch;
+Doch jetzt bin ich umschränkt, gepfercht, umpfählt,
+Geklemmt von niederträcht'ger Furcht und Zweifeln.
+Doch Banquo ist uns sicher?
+
+
+
+MÖRDER.
+
+Ja, teurer Herr! im Graben liegt er sicher:
+In seinem Kopfe zwanzig tiefe Wunden,
+Die kleinst' ein Lebenstod.
+
+
+
+MACBETH.
+
+Nun, dafür Dank!
+Da liegt
+Die ausgewachsne Schlange; das entfloh'ne
+Gewürm ist giftig einst, nach seiner Art;
+Doch zahnlos jetzt. – Nun mach' dich fort; auf morgen
+Vernehm ich mehr.
+
+Mörder geht ab.
+
+
+
+LADY MACBETH.
+
+Mein königlicher Herr,
+Ihr seid kein heitrer Wirt. Das Fest ist feil,
+Wird nicht das Mahl durch Freundlichkeit gewürzt,
+Durch Willkomm erst geschenkt. Man speist am besten
+Daheim; doch auswärts macht die Höflichkeit
+Den Wohlgeschmack der Speisen: nüchtern wäre
+Gesellschaft sonst.
+
+
+
+MACBETH.
+
+Du holde Mahnerin! –
+Nun, auf die Eßlust folg' ein gut Verdauen,
+Gesundheit beiden!
+
+
+
+LENOX.
+Gefällt es Eurer Hoheit, sich zu setzen?
+Banquos Geist kommt und setzt sich auf Macbeths Platz.
+
+
+MACBETH.
+
+Beisammen wär' uns hier des Landes Adel,
+Wenn unser Freund nicht, unser Banquo, fehlte;
+Doch möcht' ich lieber ihn unfreundlich schelten,
+Als eines Unfalls wegen ihn bedauern.
+
+
+
+LENOX.
+
+Da er nicht kommt, verletzt er sein Versprechen.
+Gefällt's Eu'r Majestät, uns zu beglücken,
+Indem Ihr Platz in unsrer Mitte nehmt?
+
+
+
+MACBETH.
+Die Tafel ist voll.
+
+
+LENOX.
+Hier ist ein Platz noch.
+
+
+MACBETH.
+Wo?
+
+
+LENOX.
+Hier, teurer König. Was erschreckt Eu'r Hoheit?
+
+
+MACBETH.
+Wer von euch tat das?
+
+
+LORDS.
+Was, mein guter Herr?
+
+
+MACBETH.
+
+Du kannst nicht sagen, daß ich's tat. Oh, schüttle
+Nicht deine blut'gen Locken gegen mich!
+
+
+
+ROSSE.
+Steht auf, ihr Herrn, dem König ist nicht wohl.
+
+
+LADY MACBETH.
+
+Bleibt sitzen, Herrn: der König ist oft so,
+Und war's von Jugend an – oh, steht nicht auf!
+Schnell geht der Anfall über; augenblicks
+Ist er dann wohl. Beachtet ihr ihn viel,
+So reizt ihr ihn, und länger währt das Übel.
+Eßt, seht ihn gar nicht an! – Bist du ein Mann?
+
+
+
+MACBETH.
+
+Ja, und ein kühner, der das wagt zu schauen,
+Wovor der Teufel blaß wird.
+
+
+
+LADY MACBETH.
+
+Schönes Zeug!
+
+Das sind die wahren Bilder deiner Furcht;
+Das ist der luft'ge Dolch, der, wie du sagtest,
+Zu Duncan dich geführt! – Ha! dieses Zucken,
+Dies Starr'n, Nachäffung wahren Schrecks, sie paßten
+Zu einem Weibermärchen am Kamin,
+Bestätigt von Großmütterchen. – Oh, schäme dich!
+Was machst du für Gesichter! denn am Ende;
+Schaust du nur auf 'nen Stuhl.
+
+
+
+MACBETH.
+
+In bitt' dich, sieh! blick' auf! schau' an! was sagst du? –
+Ha! meinethalb! Wenn du kannst nicken, sprich auch!
+Wenn Grab und Beingewölb' uns wieder schickt
+Die wir begruben, sei der Schlund der Geier
+Uns Totengruft!
+
+Der Geist geht fort.
+
+
+LADY MACBETH.
+Was! ganz entmannt von Torheit!
+
+
+MACBETH.
+So wahr ich leb', ich sah ihn!
+
+
+LADY MACBETH.
+O der Schmach!
+
+
+MACBETH.
+
+Blut ward auch sonst vergossen, schon vor Alters,
+Eh' menschlich Recht den frommen Staat verklärte;
+Ja, auch seitdem geschah so mancher Mord,
+Zu schrecklich für das Ohr: da war's Gebrauch,
+Daß, war das Hirn heraus, der Mann auch starb,
+Und damit gut.
+Doch heutzutage stehn sie wieder auf,
+Mit zwanzig Todeswunden an den Köpfen,
+Und stoßen uns von unsern Stühlen: Das
+Ist wohl seltsamer noch als solch ein Mord.
+
+
+
+LADY MACBETH.
+Mein König, Ihr entzieht Euch Euren Freunden.
+
+
+MACBETH.
+
+Ha! ich vergaß; –
+Staunt über mich nicht, meine würd'gen Freunde;
+Ich hab' ein seltsam Übel, das nichts ist
+Für jene, die mich kennen.
+Wohlan! Lieb' und Gesundheit trink' ich allen,
+Dann setz' ich mich. Ha! Wein her! voll den Becher!
+Der Geist kommt.
+
+So trink' ich auf das Wohl der ganzen Tafel
+Und Banquos, unsers Freunds, den wir vermissen.
+Wär' er doch hier! Sein Wohlergehn, wie aller
+Trink' ich: Ihm, Euch!
+
+
+
+LORDS.
+Wir danken pflichtergeben.
+
+
+MACBETH.
+
+Hinweg! – Aus meinen Augen! – Laß
+Die Erde dich verbergen!
+Marklos ist dein Gebein, dein Blut ist kalt;
+Du hast kein Anschaun mehr in diesen Augen,
+Mit denen du so stierst.
+
+
+
+LADY MACBETH.
+
+Nehmt dies, ihr Herrn,
+Als was Alltägliches: nichts weiter ist's;
+Nur daß es uns des Abends Lust verdirbt.
+
+
+
+MACBETH.
+
+Was einer wagt, wag' ich:
+Komm du mir nah als zott'ger russ'scher Bär,
+Geharn'scht Rhinozeros, hyrkan'scher Tiger –
+Nimm jegliche Gestalt, nur diese nicht –
+Nie werden meine festen Nerven beben.
+Oder sei lebend wieder; fordre mich
+In eine Wüst' aufs Schwert; verkriech' ich mich
+Dann zitternd, ruf' mich aus als Dirnenpuppe!
+Hinweg! gräßlicher Schatten!
+Unkörperliches Blendwerk, fort! –Ha! So! –
+
+Geist entweicht.
+
+Du nicht mehr da, nun bin ich wieder Mann. –
+Ich bitte, steht nicht auf!
+
+
+
+LADY MACBETH.
+
+Ihr habt die Lust
+Verscheucht und die Geselligkeit gestört,
+Durch höchst fremdart'ge Grillen.
+
+
+
+MACBETH.
+
+Kann solch Wesen
+An uns vorüberziehn wie Sommerwolken,
+Ohn' unser mächtig Staunen? Ihr entfremdet
+Mich meinem eignen Selbst, bedenk' ich jetzt,
+Daß ihr anschaut Gesichte solcher Art,
+Und doch die Röte eurer Wangen bleibt,
+Wenn Schreck die meinen bleicht.
+
+
+
+ROSSE.
+Was für Gesichte?
+
+
+
+LADY MACBETH.
+
+Ich bitt' Euch, sprecht nicht; er wird schlimm und schlimmer;
+Fragen bringt ihn in Wut. Gut' Nacht mit eins!
+Beim Weggehn haltet nicht auf euern Rang,
+Geht all' zugleich!
+
+
+
+LENOX.
+
+Wir wünschen Eurer Hoheit
+Gut' Nacht, und beßres Wohl!
+
+
+
+LADY MACBETH.
+Gut' Nacht euch allen!
+Alle Lords nebst Gefolge gehn ab.
+
+
+MACBETH.
+
+Es fordert Blut, sagt man: Blut fordert Blut.
+Man sah, daß Fels sich regt' und Bäume sprachen;
+Auguren haben durch Geheimnisdeutung
+Von Elstern, Kräh'n und Dohlen ausgefunden
+Den tief verborgnen Mörder. – Wie weit ist die Nacht?
+
+
+
+LADY MACBETH.
+Im Kampf fast mit dem Tag: ob Nacht, ob Tag.
+
+
+MACBETH.
+
+Was sagst du, daß Macduff zu kommen weigert
+Auf unsre Ladung?
+
+
+
+LADY MACBETH.
+Sandtest du nach ihm?
+
+
+MACBETH.
+
+Ich hört's von ungefähr; doch will ich senden:
+Kein einz'ger, in des Haus mir nicht bezahlt
+Ein Diener lebte. Morgen will ich hin,
+Und in der Frühe zu den Zauberschwestern:
+Sie sollen mehr mir sagen; denn gespannt
+Bin ich, das Schlimmst' auf schlimmstem Weg zu wissen.
+Zu meinem Vorteil muß sich alles fügen;
+Ich bin einmal so tief in Blut gestiegen,
+Daß, wollt' ich nun im Waten stille stehn,
+Rückkehr so schwierig wär', als durch zu gehn.
+Seltsames glüht im Kopf, es will zur Hand,
+Und muß getan sein, eh' noch recht erkannt.
+
+
+
+LADY MACBETH.
+Dir fehlt die Würze aller Wesen, Schlaf.
+
+
+MACBETH.
+
+Zu Bett! – Daß selbstgeschaffnes Grau'n mich quält,
+Ist Furcht des Neulings, dem die Übung fehlt: –
+Wahrlich, wir sind zu jung nur. –
+
+Sie gehen ab.
+
+
+
+
+          Fünfte Szene
+          Die Heide. Donner. Hekate kommt, die drei Hexen ihr entgegen.
+
+ERSTE HEXE.
+Was gibt es, Hekate, warum so zornig?
+
+
+HEKATE.
+
+Ihr garst'gen Vetteln, hab' ich denn nicht recht?
+Da ihr euch, dreist und unverschämt, erfrecht
+Und treibt mit Macbeth euren Spuk,
+In Rätselkram, in Mord und Trug?
+Und ich, die Meist'rin eurer Kraft,
+Die jedes Unheil wirkt und schafft,
+Mich bat man nicht um meine Gunst,
+Zu Ehr' und Vorteil unsrer Kunst?
+Und, schlimmer noch, uns wird kein Lohn,
+Ihr dientet dem verkehrten Sohn,
+Der, trotzig und voll Übermut,
+Sein Werk nur, nicht das eure, tut.
+Auf! bessert's noch, macht euch davon,
+Trefft mich am Pfuhl des Acheron;
+Dahin wird er am Morgen gehn,
+Von uns sein Schicksal zu erspähn.
+Mit Hexenspuk und Sprüchen seid
+Und jedem Zauberkram bereit!
+Ich muß zur Luft hinauf; die Nacht
+Wird auf ein Unheilswerk verbracht:
+Vor Mittag viel geschehn noch soll.
+Ein Tropfen gift'ger Dünste voll
+An einem Horn des Mondes blinkt:
+Den fang' ich, eh' er niedersinkt:
+Der, destilliert mit Zauberflüchen,
+Ruft Geister, die mit list'gen Sprüchen
+Ihn mächtig täuschen, daß Beschwörung
+Ihn treibt in Wahnwitz, in Zerstörung.
+Dem Tod und Schicksal sprech' er Hohn,
+Nicht Gnad' und Furcht soll ihn bedrohn;
+Denn, wie ihr wißt, war Sicherheit
+Des Menschen Erbfeind jederzeit.
+Musik hinter der Szene.
+
+Hinweg! Dort sitzt mein kleiner Geist, o schaut!
+In einer dunkeln Wölk' und ruft mich laut.
+
+
+
+GESANG
+hinter der Szene.
+
+Komm heran, komm heran!
+Hekate, o komm heran!
+
+
+
+HEKATE.
+
+Ich komm', ich komm', ich komme!
+So schnell ich immer kann!
+So schnell ich immer kann!
+
+Sie geht ab.
+
+
+ERSTE HEXE.
+Fort, laßt uns eilen; bald kommt sie zurück.
+Sie gehn ab.
+
+
+
+          Sechste Szene
+          Fores, im Schloß.
+Lenox und ein Lord treten auf.
+
+LENOX.
+
+Mein Wort berührt nur leicht, was Ihr gedacht;
+Sinnt ferner drüber nach! Ich sage nur,
+Seltsam geht manches zu: der gnadenreiche Duncan
+Ward von Macbeth beklagt – Nun, er war tot –
+Der wackre Banquo ging zu spät noch aus –
+Wollt Ihr, so könnt Ihr sagen: Fleance erschlug ihn,
+Denn Fleance entfloh. – Man muß so spät nicht ausgehn.
+Wer kann wohl anders, als es schändlich finden,
+Daß Donalbain und Malcolm töteten
+Den gnadenreichen Vater? Höll'sche Untat!
+Wie grämte Macbeth sich! Erschlug er nicht
+In frommer Wut die beiden Täter gleich,
+Die weinbetäubt und schlafversunken waren?
+War's edel nicht getan? Ja, klüglich auch;
+Denn jedes Menschen Seel' hätt' es empört,
+Ihr Leugnen anzuhören. Also sag' ich,
+Alles verfügt' er wohl: so denk' ich auch,
+Daß, hätt' er Duncans Söhne unterm Schloß
+(Was, mit des Himmels Hülfe, nie geschehn soll),
+Sie würden fühlen, was es sagen will,
+Den Vater zu ermorden; so auch Fleance.
+Doch still! für dreiste Wort', und weil er ausblieb
+
+Beim Feste des Tyrannen, fiel Macduff
+In Ungunst.
+
+
+
+LORD.
+Sandte er zu Macduff hin?
+
+
+LENOX.
+
+Ja; doch mit einem kurzen »Herr, nicht ich«
+Schickt' er den finstern Boten heim; der murmelt,
+Als wollt' er sagen: »Ihr bereut die Stunde,
+Die mich beschwert mit dieser Antwort.«
+
+
+
+LORD.
+
+Dien' ihm
+Als Warnung das, so fern zu bleiben, wie
+Ihm seine Weisheit rät. Wißt Ihr, wo Malcolm
+Sich aufhält?
+
+
+
+LENOX.
+
+Duncans Sohn, durch den Tyrannen
+Beraubt des Erbrechts, lebt an Englands Hof,
+Wo ihn der fromme Eduard aufgenommen,
+So huldreich, daß des Glückes Bosheit nichts
+Ihm raubt an Achtung. Dorthin will auch Macduff,
+Des heil'gen Königs Hülfe zu erbitten,
+Daß er Northumberland und Siward sende:
+Damit durch ihren Beistand, nächst dem Schutz
+Des Himmels, wir von neuem schaffen mögen
+Den Tafeln Speis' und unsern Nächten Schlaf,
+Fest und Bankett befrein von blut'gen Messern,
+Mit Treuen huld'gen, freie Ehr' empfangen,
+Was alles uns jetzt fehlt; und diese Nachricht
+Hat so den König aufgeregt, daß er
+Zum Kriege rüstet.
+
+
+
+LORD.
+
+Flieg' ein heil'ger Engel
+Voran zum Hof nach England und verkünde
+Die Botschaft, eh' er kommt, daß Segen schnell
+Dies Land erfreue, von verfluchter Hand
+So hart gedrückt!
+
+
+
+LENOX.
+Auch mein Gebet mit ihm.
+Sie gehn ab.
+
+
+
+
+
+        Vierter Aufzug
+        
+          Erste Szene
+          Eine finstre Höhle, in der Mitte ein Kessel.
+Donner; die drei Hexen kommen.
+
+ERSTE HEXE.
+Die gelbe Katz' hat dreimal miaut.
+
+
+ZWEITE HEXE.
+Ja, und einmal der Igel quiekt.
+
+
+DRITTE HEXE.
+Die Harpye schreit: – 's ist Zeit.
+
+
+ERSTE HEXE.
+
+Um den Kessel dreht euch rund,
+Werft das Gift in seinen Schlund!
+Kröte, die im kalten Stein
+Tag' und Nächte, dreimal neun,
+Zähen Schleim im Schlaf gegoren,
+Sollst zuerst im Kessel schmoren!
+
+
+
+ALLE.
+
+Spart am Werk nicht Fleiß noch Mühe,
+Feuer sprühe, Kessel glühe!
+
+
+
+ZWEITE HEXE.
+
+Sumpf'ger Schlange Schweif und Kopf
+Brat' und koch' im Zaubertopf:
+Molchesaug' und Unkenzehe,
+Hundemaul und Hirn der Krähe;
+Zäher Saft des Bilsenkrauts,
+Eidechsbein und Flaum vom Kauz:
+Mächt'ger Zauber würzt die Brühe,
+Höllenbrei im Kessel glühe!
+
+
+
+ALLE.
+
+Spart am Werk nicht Fleiß noch Mühe,
+Feuer sprühe, Kessel glühe!
+
+
+
+DRITTE HEXE.
+
+Wolfeszahn und Kamm des Drachen,
+Hexenmumie, Gaum und Rachen
+Aus des Haifisch scharfem Schlund;
+Schierlingswurz aus finsterm Grund;
+Auch des Lästerjuden Lunge,
+
+Türkennas' und Tartarzunge;
+Eibenreis, vom Stamm gerissen
+In des Mondes Finsternissen;
+Hand des neugebornen Knaben,
+Den die Metz' erwürgt im Graben,
+Dich soll nun der Kessel haben.
+Tigereingeweid' hinein,
+Und der Brei wird fertig sein.
+
+
+
+ALLE.
+
+Spart am Werk nicht Fleiß noch Mühe,
+Feuer sprühe, Kessel glühe!
+
+
+
+ZWEITE HEXE.
+
+Abgekühlt mit Paviansblut,
+Wird der Zauber stark und gut.
+
+Hekate kommt.
+
+
+HEKATE.
+
+So recht! ich lobe euer Walten;
+Jede soll auch Lohn erhalten.
+Um den Kessel tanzt und springt,
+Elfen gleich den Reihen schlingt,
+Und den Zaubersegen singt!
+
+
+
+GESANG.
+
+Geister weiß und grau,
+Geister rot und blau:
+Rührt, rührt, rührt,
+Rührt aus aller Kraft!
+
+
+
+ZWEITE HEXE.
+
+Ha! mir juckt der Daumen schon,
+Sicher naht ein Sündensohn –
+Laßt ihn ein, wer mag's sein!
+
+Macbeth tritt auf.
+
+
+MACBETH.
+
+Nun, ihr geheimen, schwarzen Nachtunholde!
+Was macht ihr da?
+
+
+
+ALLE.
+Ein namenloses Werk.
+
+
+MACBETH.
+
+Bei dem, was ihr da treibt, beschwör' ich euch
+(Wie ihr zur Kund' auch kommt), antwortet mir:
+Entfesselt ihr den Sturm gleich, daß er kämpft
+Gegen die Kirchen, und die schäum'gen Wogen
+Vernichten und verschlingen alle Schiffahrt,
+Daß reifes Korn sich legt und Wälder brechen,
+Daß Burgen auf den Schloßwart niederprasseln,
+Daß Pyramiden und Paläste beugen
+
+Bis zu dem Grund die Häupter: Müßte selbst
+Der Doppellichter Pracht und Ordnung wild
+Zusammen taumeln, ja, bis zur Vernichtung
+Erkranken: Antwort gebt auf meine Fragen!
+
+
+
+ERSTE HEXE.
+Sprich!
+
+
+ZWEITE HEXE.
+Frag'!
+
+
+DRITTE HEXE.
+Wir geben Antwort.
+
+
+ERSTE HEXE.
+
+Hörst du's aus unserm Munde lieber, oder
+Von unsern Meistern?
+
+
+
+MACBETH.
+Ruft sie, ich will sie sehn!
+
+
+ZWEITE HEXE.
+
+Gießt der Sau Blut, die neun Jungen
+Fraß, noch zu; werft Fett, gedrungen
+Aus des Mörders Rabenstein,
+In die Glut!
+
+
+
+ALLE.
+
+Kommt, groß und klein!
+Seid dienstbehend' und stellt euch ein!
+
+Donner. Ein bewaffnetes Haupt steigt aus dem Kessel.
+
+
+MACBETH.
+Sprich, unbekannte Macht –
+
+
+ERSTE HEXE.
+
+Er weiß dein Fragen:
+Hören mußt du, selbst nichts sagen.
+
+
+
+DIE ERSCHEINUNG.
+
+Macbeth! Macbeth! Macbeth! scheu' den Macduff,
+Scheue den Than von Fife! – Laßt mich – genug!
+
+Versinkt.
+
+
+MACBETH.
+
+Wer du auch seist, für deine Warnung Dank;
+Du trafst den wunden Fleck: – Doch noch ein Wort –
+
+
+
+ZWEITE HEXE.
+
+Er läßt sich nicht befehlen. Hier ein andrer,
+Mächt'ger als jener.
+
+Donner. Ein blutiges Kind steigt aus dem Kessel.
+
+
+DIE ERSCHEINUNG.
+Macbeth! Macbeth! Macbeth!
+
+
+MACBETH.
+Hätt' ich drei Ohren, hört' ich dich.
+
+
+DIE ERSCHEINUNG.
+
+Sei blutig, kühn und frech; lach' aller Toren,
+Dir schadet keiner, den ein Weib geboren:
+Kein solcher kränkt Macbeth!
+
+Versinkt.
+
+
+MACBETH.
+
+Dann leb' Macduff; was brauch' ich dich zu fürchten?
+Doch mach' ich doppelt sicher Sicherheit,
+Und nehm' ein Pfand vom Schicksal: – du sollst sterben;
+
+Dann sag' ich zu der bleichen Furcht: du lügst!
+Und schlafe trotz dem Donner. –
+
+Donner. Ein gekröntes Kind steigt aus dem Kessel, mit einem Baum in der
+              Hand.
+
+Was ist das,
+Das aufsteigt wie der Sprößling eines Königs
+Und um die Kindesstirn geflochten hat
+Den Kranz der Majestät?
+
+
+
+ALLE.
+Horch, sprich's nicht an!
+
+
+DIE ERSCHEINUNG.
+
+Sei löwenkühn und stolz; nichts darfst du scheuen
+Wer tobt, wer knirscht, und ob Verräter dräuen:
+Macbeth wird nie besiegt, bis einst hinan
+Der große Birnams Wald zum Dunsinan
+Feindlich emporsteigt.
+
+Versinkt.
+
+
+MACBETH.
+
+Das kann nimmer werden –
+Wer wirbt den Wald? heißt Bäume von der Erden
+Die Wurzel lösen? Wie der Spruch entzückt!
+Aufruhr ist tot, bis Birnams Waldung rückt
+Bergan, und unser Macbeth hochgemut
+Lebt bis ans Ziel der Tage, zahlt Tribut
+Nur der Natur und Zeit. –
+Doch klopft mein Herz, nur eins noch zu erfahren:
+Sprecht, kann mir eure Kunst dies offenbaren:
+Wird Banquos Same je dies Reich regieren?
+
+
+
+ALLE.
+Frag' weiter nichts!
+
+
+MACBETH.
+
+Ich will befriedigt sein: versagt mir das,
+Und seid verflucht auf ewig! Laßt mich wissen –
+
+Hoboen.
+Warum versinkt der Kessel? Welch Getön'?
+
+
+ERSTE HEXE.
+Erscheint!
+
+
+ZWEITE HEXE.
+Erscheint!
+
+
+DRITTE HEXE.
+Erscheint!
+
+
+ALLE.
+
+Erscheint dem Aug' und quält den Sinn:
+Wie Schatten kommt und fahrt dahin!
+
+Acht Könige erscheinen und gehn über die Bühne, der letzte trägt einen Spiegel;
+              Banquo folgt.
+
+
+
+MACBETH.
+
+Du bist zu ähnlich Banquos Geist! Hinab! –
+Dein Diadem brennt mir die Augen. – Und du
+Mit goldumwundner Stirne gleichst dem ersten: –
+Ein dritter wie der zweite – Garst'ge Hexen!
+Warum zeigt ihr mir das? Ein vierter! – Blick, erstarre!
+Wie! dehnt die Reih' sich bis zum Jüngsten Tag?
+Und noch! – Ein siebenter! – Ich will nichts mehr sehn. –
+Da kommt der achte noch, und hält 'nen Spiegel,
+Der mir viel andre zeigt, und manche seh' ich,
+Die zwei Reichsäpfel und drei Szepter tragen –
+Furchtbarer Anblick! Ja, ich seh', 's ist wahr;
+Denn lächelnd winkt der blutdurchsiebte Banquo
+Und deutet auf sie hin, als auf die Seinen. –
+Was, ist es so?
+
+
+
+ERSTE HEXE.
+
+Ja, alles ist so. – Doch warum
+Steht Macbeth da so starr und stumm?
+Auf! zu ermuntern seinen Geist,
+Ihm unsre schönsten Künste weist!
+Durch Zaubertönen luft'ge Weisen;
+Auf! tanzt in vielverschlungnen Kreisen!
+Der König soll uns Lob gewähren,
+Sein Kommen wußten wir zu ehren.
+
+Musik; die Hexen tanzen und verschwinden.
+
+
+MACBETH.
+
+Wo sind sie? Fort? – Mag diese Unglücksstunde
+Verflucht auf ewig im Kalender stehn! –
+Herein, du draußen! –
+
+Lenox tritt auf.
+
+
+LENOX.
+Was befiehlt Eu'r Hoheit?
+
+
+MACBETH.
+Sahst du die Zauberschwestern?
+
+
+LENOX.
+Nein, mein König!
+
+
+MACBETH.
+Sie kamen nicht vorbei?
+
+
+LENOX.
+Gewiß nicht, Herr.
+
+
+MACBETH.
+
+Verpestet sei die Luft, auf der sie fahren,
+Und alle die verdammt, so ihnen trauen!
+Ich hörte Pferd'galopp – wer kam vorbei?
+
+
+
+LENOX.
+
+Zwei oder drei, Herr, die Euch Nachricht brachten,
+Daß Macduff floh nach England.
+
+
+
+
+MACBETH.
+Floh nach England?
+
+
+LENOX.
+Ja, gnäd'ger Herr.
+
+
+MACBETH.
+
+O Zeit! vor eilst du meinem grausen Tun!
+Nie wird der flücht'ge Vorsatz eingeholt,
+Geht nicht die Tat gleich mit: Von Stund' an nun
+Sei immer meines Herzens Erstling auch
+Erstling der Hand! Und den Gedanken gleich
+Zu krönen, sei's getan, so wie gedacht:
+Die Burg Macduffs will ich jetzt überfallen;
+Fife wird erobert und dem Schwert geopfert
+Sein Weib und Kind, und alle armen Seelen
+Aus seinem Stamm. Das ist nicht Torenwut;
+Es ist getan, eh' sich erkühlt mein Blut. –
+Nur keine Geister mehr! – Wo sind die Herrn?
+Komm, führ' mich hin zu ihnen!
+
+Sie gehn ab.
+
+
+
+          Zweite Szene
+          Fife, Zimmer in Macduffs Schloß.
+Es treten auf Lady Macduff, ihr kleiner Sohn und Rosse.
+
+LADY MACDUFF.
+Was tat er denn, landflüchtig so zu werden?
+
+
+ROSSE.
+Geduldig müßt Ihr sein.
+
+
+LADY MACDUFF.
+
+Er war es nicht.
+Die Flucht ist Wahnsinn. Wenn nicht unsre Taten,
+Macht Furcht uns zu Verrätern.
+
+
+
+ROSSE.
+
+Wenig wißt Ihr,
+Ob er der Weisheit oder Furcht gehorchte.
+
+
+
+LADY MACDUFF.
+
+Weisheit! Sein Weib, die kleinen Kinder lassen,
+Haushalt wie seine Würden, an dem Ort,
+Von dem er selbst entflieht? Er liebt uns nicht,
+Ihm fehlt Naturgefühl: Bekämpft der schwache
+Zaunkönig, dieses kleinste Vögelchen,
+Die Eule doch für seine Brut im Nest.
+Bei ihm ist alles Furcht, und Liebe nichts;
+Nicht größer ist die Weisheit, wo die Flucht
+So gegen die Vernunft rennt.
+
+
+
+
+ROSSE.
+
+Teure Muhme,
+Ich bitte, mäßigt Euch; denn Euer Gatte
+Ist edel, klug, vorsichtig, kennt am besten
+Der Tage Sturm. – Nicht viel mehr darf ich sagen: –
+Doch harte Zeit, wenn wir Verräter sind
+Uns unbewußt, wenn uns Gerüchte ängsten,
+Aus Furcht nur, doch nicht wissend, was wir fürchten,
+Getrieben auf empörtem, wildem Meer,
+Nach allen Seiten hin. – So lebt denn wohl!
+Nicht lang', und wieder frag' ich vor bei Euch.
+Was so tief sank, geht unter, oder klimmt
+Zur alten Höh' empor. Mein Vetterchen,
+Gott segne dich!
+
+
+
+LADY MACDUFF.
+Er hat 'nen Vater und ist vaterlos.
+
+
+ROSSE.
+
+Ich bin so kindisch, daß ein längres Bleiben
+Mich nur beschämen würd' und Euch entmut'gen:
+Lebt wohl mit eins!
+
+Er geht ab.
+
+
+LADY MACDUFF.
+
+Nun, Freund, tot ist dein Vater:
+Und was fängst du nun an? Wie willst du leben?
+
+
+
+SOHN.
+Wie Vögel, Mutter.
+
+
+LADY MACDUFF.
+Was, von Würmern? Fliegen?
+
+
+SOHN.
+Nein, was ich kriegen kann: so machen sie's.
+
+
+LADY MACDUFF.
+
+Du armer Vogel, würdest nicht das Netz,
+Leimrute, Schling' und Falle fürchten.
+
+
+
+SOHN.
+
+Wie doch?
+Für arme Vögel stellt man die nicht auf. –
+Mein Vater ist nicht tot, was du auch sagst.
+
+
+
+LADY MACDUFF.
+Ja, doch; wo kriegst du nun 'nen Vater her?
+
+
+SOHN.
+Nun, wo kriegst du 'nen Mann her?
+
+
+LADY MACDUFF.
+Ei, zwanzig kauf' ich mir auf jedem Markt.
+
+
+SOHN.
+So kaufst du sie, sie wieder zu verkaufen.
+
+
+LADY MACDUFF.
+
+Du sprichst, so klug du kannst, und für dein Alter
+Doch wahrlich klug genug.
+
+
+
+SOHN.
+War mein Vater ein Verräter, Mutter?
+
+
+LADY MACDUFF.
+Ja, das war er.
+
+
+SOHN.
+Was ist ein Verräter?
+
+
+LADY MACDUFF.
+Nun, einer, der schwört und es nicht hält.
+
+
+SOHN.
+Und sind alle Verräter, die das tun?
+
+
+
+LADY MACDUFF.
+Jeder, der das tut, ist ein Verräter und muß aufgehängt werden.
+
+
+SOHN.
+Müssen denn alle aufgehängt werden, die schwören und es nicht halten?
+
+
+LADY MACDUFF.
+Jawohl.
+
+
+SOHN.
+Wer muß sie denn aufhängen?
+
+
+LADY MACDUFF.
+Nun, die ehrlichen Leute.
+
+
+SOHN.
+Dann sind die, welche schwören und es nicht halten, rechte Narren; denn ihrer sind so
+              viele, daß sie die ehrlichen Leute schlagen könnten und aufhängen dazu.
+
+
+LADY MACDUFF.
+Nun, Gott stehe dir bei, armes Äffchen! Aber was willst du nun anfangen, um einen
+              Vater zu bekommen?
+
+
+SOHN.
+Wenn er tot wäre, so würdest du um ihn weinen, und tätest du das nicht, so wäre es
+              ein gutes Zeichen, daß ich bald einen neuen Vater bekomme.
+
+
+LADY MACDUFF.
+Armes Närrchen, wie du plauderst!
+Ein Bote tritt auf.
+
+
+BOTE.
+
+Gott mit Euch, schöne Frau! Ihr kennt mich nicht,
+Doch weiß ich Euren Stand und edeln Namen.
+Ich fürchte, daß Gefahr Euch nah bedroht;
+Verschmäht Ihr nicht den Rat 'nes schlichten Mannes,
+So bleibt nicht hier: schnell fort mit Euren Kleinen!
+Euch so zu schrecken, bin ich grausam zwar;
+Doch wär's Unmenschlichkeit, es nicht zu tun,
+Da die Gefahr so nah. Der Himmel schütz' Euch!
+Ich darf nicht weilen.
+
+Er geht ab.
+
+
+LADY MACDUFF.
+
+Wohin sollt' ich fliehn?
+Ich tat nichts Böses: doch jetzt denk' ich dran,
+Dies ist die ird'sche Welt, wo Böses tun
+Oft löblich ist, und Gutes tun zuweilen
+Schädliche Torheit heißt. Warum denn, ach,
+Verlass' ich mich auf diese Frauenwaffe,
+Und sag', ich tat nichts Böses? –
+
+Die Mörder kommen.
+Was für Gesichter?
+
+
+
+MÖRDER.
+Wo ist Euer Mann?
+
+
+LADY MACDUFF.
+
+Nicht, hoff' ich, an so ungeweihtem Platz,
+Wo deinesgleichen ihn kann finden.
+
+
+
+MÖRDER.
+
+Er
+Ist ein Verräter.
+
+
+
+SOHN.
+Du lügst, strupfköpf'ger Schurke!
+
+
+MÖRDER.
+
+Was! du Ei,
+Verräterbrut!
+
+Ersticht das Kind.
+
+
+SOHN.
+
+Er hat mich umgebracht!
+Mutter, ich bitte dich, lauf fort!
+
+Lady Macduff entflieht und schreit »Mord!«.
+Die Mörder verfolgen sie.
+
+
+
+          Dritte Szene
+          England. Park beim königlichen Schloß.
+Malcolm und Macduff treten auf.
+
+MALCOLM.
+
+Laß uns 'nen stillen Schatten suchen und
+Durch Tränen unser Herz erleichtern!
+
+
+
+MACDUFF.
+
+Lieber
+Laß uns, das Todesschwert ergreifend, wacker
+Aufstehn für unser hingestürztes Recht!
+An jedem Morgen heulen neue Witwen,
+Und neue Waisen wimmern; neuer Jammer
+Schlägt an des Himmels Wölbung, daß er tönt,
+Als fühlt' er Schottlands Schmerz und hallte gellend
+Den Klagelaut zurück.
+
+
+
+MALCOLM.
+
+Das, was ich glaube,
+Will ich betrauern; glauben, was Ihr sagt,
+Und helfen will ich, wo ich kann, wenn Zeit
+Und Freund' ich finde. Was Ihr mir erzählt,
+Kann wohl sich so erhalten. Der Tyrann,
+Des Name schon die Zung' uns schwären macht,
+Galt einst für ehrlich: Ihr habt ihn geliebt,
+Noch kränkt' er Euch nicht. Ich bin jung, doch näher
+Könnt Ihr durch mich ihn prüfen; Weisheit ist's,
+
+Ein arm, unschuldig, schwaches Lamm zu opfern,
+Um einen zorn'gen Gott zu sühnen.
+
+
+
+MACDUFF.
+
+Ich
+Bin kein Verräter.
+
+
+
+MALCOLM.
+
+Aber Macbeth ist's.
+Auch strenge Tugend kann sich schrecken lassen
+Durch königliches Machtwort – doch verzeiht!
+Mein Denken kann das, was Ihr seid, nicht wandeln:
+Stets sind die Engel hell, fiel auch der hellste;
+Borgt' alles Schlechte auch den Schein der Gnade,
+Doch müßte Gnade wie sie selbst erscheinen.
+
+
+
+MACDUFF.
+So hab' ich meine Hoffnung denn verloren!
+
+
+MALCOLM.
+
+Vielleicht da, wo ich meinen Zweifel fand.
+Wie! in der Hast verließt Ihr Weib und Kind,
+So teure Pfänder, mächt'ge Liebesknoten,
+Selbst ohne Abschiednehmen? – Ich ersuch' Euch –
+Mein Mißtraun spricht nicht so, Euch zu entehren,
+Nur, mich zu sichern. Ihr könnt rein und treu sein,
+Was ich von Euch auch denke.
+
+
+
+MACDUFF.
+
+Blute, blute,
+Du armes Vaterland!
+So lege festen Grund denn, Tyrannei,
+Rechtmäßigkeit wagt nicht; dich anzugreifen!
+Trage dein Leid, dein echter Herrscher zittert!
+Prinz, lebe wohl! Nicht möcht' ich sein der Schurke,
+Den du mich achtest, für den weiten Raum,
+Den der Tyrann in seinen Klauen hält,
+Zusamt dem reichen Ost.
+
+
+
+MALCOLM.
+
+Sei nicht beleidigt!
+Nicht unbedingter Argwohn sprach aus mir.
+Ich glaub' es, unser Land erliegt dem Joch;
+Es weint und blutet; jeder neue Tag
+Schlägt neue Wunden ihm; auch glaub' ich wohl,
+Daß Hände sich erhöben für mein Recht;
+So bietet der huldreiche England mir
+Manch wackres Tausend. Doch, bei alle dem,
+Wenn ich nun tret' auf des Tyrannen Haupt,
+Es trag' auf meinem Schwert, wird größre Laster
+
+Mein armes Land noch tragen als zuvor,
+Mehr dulden und auf schlimmre Art als je,
+Durch den, der folgen wird.
+
+
+
+MACDUFF.
+Wer wäre dieser?
+
+
+MALCOLM.
+
+Mich selber mein' ich, in dem, wie ich weiß,
+Die Keime aller Laster so geimpft sind,
+Daß, brechen sie nun auf, der schwarze Macbeth
+Rein scheint wie Schnee, und er dem armen Staat
+Lammartig dünkt, vergleicht er ihn mit meiner
+Maßlosen Sündlichkeit.
+
+
+
+MACDUFF.
+
+Nicht in Legionen
+Der grausen Höll' ist ein verrucht'rer Teufel,
+Der Macbeth überragt.
+
+
+
+MALCOLM.
+
+Wohl ist er blutig,
+Wollüstig, geizig, falsch, betrügerisch,
+Jähzornig, hämisch; schmeckt nach jeder Sünde,
+Die Namen hat. Doch völlig bodenlos
+Ist meine Wollust: eure Weiber, Töchter,
+Jungfrau'n, Matronen könnten aus nicht füllen
+Den Abgrund meiner Lust; und meine Gier
+Würd' überspringen jede feste Schranke,
+Die meine Willkür hemmte. Besser Macbeth,
+Als daß ein solcher herrscht!
+
+
+
+MACDUFF.
+
+Unmäß'ge Wollust
+Ist wohl auch Tyrannei, und hat schon oft
+Manchen beglückten Thron zu früh verwaist,
+Viel Könige gestürzt. Allein deshalb
+Zagt nicht, zu nehmen, was Eu'r Eigen ist:
+Ihr mögt der Lust ein weites Feld gewähren
+Und kalt erscheinen, Euch der Welt verhüllend:
+Der will'gen Frauen gibt's genug; unmöglich
+Kann solch ein Geier in Euch sein, der alle
+Verschlänge, die der Hoheit gern sich opfern,
+Zeigt sie ein solch Gelüst.
+
+
+
+MALCOLM.
+
+Daneben wuchert
+In meinem tief verderbten Sinn der Geiz,
+So unersättlich, daß, wär' ich der König,
+Räumt' ich die Edeln weg um ihre Güter;
+
+Dem raubt' ich die Juwelen, dem das Haus;
+Mehr haben wäre mir die Würzung nur,
+Den Hunger mehr zu reizen; Netze strickt' ich,
+Mit bösem Streit den Redlichen zu fangen,
+Um Reichtum ihn vernichtend.
+
+
+
+MACDUFF.
+
+Dieser Geiz
+Steckt tiefer, schlingt verderblicher die Wurzeln
+Als sommerliche Lust: er war das Schwert,
+Das unsre Kön'ge schlug. Doch fürchtet nichts:
+Schottland hat Reichtum g'nug. Euch zu befried'gen,
+Der Euch mit Recht gehört. Dies alles ist
+Erträglich, ausgesöhnt durch Tugenden.
+
+
+
+MALCOLM.
+
+Die hab' ich nicht: – die Königstugenden,
+Wahrheit, Gerechtigkeit, Starkmut, Geduld,
+Ausdauer, Milde, Andacht, Gnade, Kraft,
+Mäßigkeit, Demut, Tapferkeit: von allen
+Ist keine Spur in mir – nein, Überfluß
+An jeglichem Verbrechen, ausgeübt
+In jeder Art. Ja, hätt' ich Macht, ich würde
+Der Eintracht süße Milch zur Hölle gießen,
+Verwandeln allen Frieden in Empörung,
+Vernichten alle Einigkeit auf Erden.
+
+
+
+MACDUFF.
+O! Schottland! Schottland!
+
+
+MALCOLM.
+
+Darf nun ein solcher wohl regieren? Sprich!
+Ich bin, wie ich gesagt.
+
+
+
+MACDUFF.
+
+Regieren? Nein,
+Nicht leben darf er! Oh, unsel'ges Volk!
+Vom blut'gen Usurpator hingeschlachtet,
+Wann doch erlebst du wieder frohe Tage?
+Nie! denn der echtste Erbe deines Throns
+Hat sich durch' selbst gesprochnen Bann verflucht
+Und brandmarkt seinen Stamm. Dein frommer Vater
+War ein höchst heil'ger Fürst; die Kön'gin, die dich trug,
+Weit öfter auf den Knie'n als auf den Füßen,
+Starb jeden Tag des Lebens. Fahre wohl!
+Die Sünden, die du selbst dir zugesprochen,
+Verbannten mich aus Schottland. – O mein Herz,
+Dein Hoffen endet hier!
+
+
+
+
+MALCOLM.
+
+Macduff, dein edler Zorn,
+Das Kind der Redlichkeit, tilgt aus der Seele
+Mir jeden schwarzen Argwohn; und versöhnt
+Mit deiner Treu' und Ehre mein Gemüt.
+Der teuflische Macbeth hat oft versucht,
+Durch solche Künste mich ins Garn zu locken,
+Drum schirmt vor allzu gläub'ger Hast mich Vorsicht: –
+Doch Gott mag richten zwischen dir und mir!
+Denn jetzt geb' ich mich ganz in deine Hände;
+Die Selbstverleumdung widerruf' ich, schwöre
+Die Laster ab, durch die ich mich geschmäht,
+Als meinem Wesen fremd. Noch weiß ich nichts
+Vom Weibe, habe nimmer falsch geschworen,
+Verlangte kaum nach dem, was mir gehört!
+Stets hielt ich treu mein Wort, verriete selbst
+Den Satan nicht den Teufeln; Wahrheit gilt
+Mir mehr als Leben: meine erste Lüge
+War diese gegen mich. Mein wahres Selbst
+Ist dir und meinem armen Land geweiht;
+Wohin auch schon, noch eh' du her gekommen,
+Der alte Siward mit zehntausend Kriegern
+Bereit stand aufzubrechen, und wir gehn
+Mitsammen nun. Sei uns das Glück gewogen,
+Wie unser Streit gerecht ist! – Warum schweigst du?
+
+
+
+MACDUFF.
+
+Schwer läßt sich so Willkommnes und zugleich
+So Unwillkommnes ein'gen.
+
+
+
+MALCOLM.
+Gut! Mehr nachher!
+Ein Arzt tritt auf.
+Geht heut der König aus?
+
+
+ARZT.
+
+Ja, Prinz; denn viele Arme sind versammelt,
+Die seine Hülf' erwarten: ihre Krankheit
+Trotzt jeder Heilkunst; doch rührt er sie an,
+Hat so der Himmel seine Hand gesegnet,
+Daß sie sogleich genesen.
+
+
+
+MALCOLM.
+Dank Euch, Doktor.
+Der Arzt geht ab.
+
+
+
+MACDUFF.
+Was für 'ne Krankheit ist's?
+
+
+MALCOLM.
+
+Sie heißt das Übel:
+Ein wundertätig Werk vom guten König,
+Das ich ihn oft, seit ich in England bin,
+Vollbringen sah. Wie er zum Himmel fleht,
+Weiß er am besten: – Seltsam Heimgesuchte,
+Voll Schwulst und Aussatz, kläglich anzuschauen
+An denen alle Kunst verzweifelt, heilt er,
+'ne goldne Münz' um ihren Nacken hängend,
+Mit heiligem Gebet; – und nach Verheißung
+Wird er vererben auf die künft'gen Herrscher
+Die Wundergabe. Zu der heil'gen Kraft
+Hat er auch himmlischen Prophetengeist;
+So steht um seinen Thron vielfacher Segen,
+Ihn gottbegabt verkündend.
+
+Rossetritt auf.
+
+
+MACDUFF.
+Wer kommt da?
+
+
+MALCOLM.
+Ein Landsmann, ob ich gleich ihn noch nicht kenne.
+
+
+MACDUFF.
+Mein hochgeliebter Vetter, sei willkommen!
+
+
+MALCOLM.
+
+Jetzt kenn' ich ihn: – O Gott! entferne bald,
+Was uns einander fremd macht!
+
+
+
+ROSSE.
+Amen, Herr!
+
+
+MACDUFF.
+Steht's noch um Schottland so?
+
+
+ROSSE.
+
+Ach! armes Land,
+Das fast vor sich erschrickt! Nicht unsre Mutter
+Kann es mehr heißen, sondern unser Grab:
+Wo nur, wer von nichts weiß, noch etwa lächelt;
+Wo Seufzen, Stöhnen, Schrei'n die Luft zerreißt,
+Und keiner achtet drauf; Verzweifeln gilt
+Für töricht Übertreiben; keiner fragt:
+»Um wen?« beim Grabgeläut'; der Wackern Leben
+Welkt schneller als der Strauß auf ihrem Hut,
+Sie sterben, eh' sie krank sind.
+
+
+
+MACDUFF.
+
+O Erzählung,
+Zu herb und doch zu wahr! Was ist die neuste Kränkung?
+
+
+
+ROSSE.
+
+Wer die erzählt, die eine Stunde alt,
+
+Wird ausgezischt; jedweder Augenblick
+Zeugt eine neue.
+
+
+
+MACDUFF.
+Wie steht's um mein Weib?
+
+
+ROSSE.
+Nun, – wohl.
+
+
+MACDUFF.
+Und meine Kinder alle?
+
+
+ROSSE.
+Auch wohl.
+
+
+MACDUFF.
+Nicht stürmte der Tyrann in ihren Frieden?
+
+
+ROSSE.
+Sie waren all' in Frieden, als ich schied.
+
+
+MACDUFF.
+Sei nicht mit Worten geizig: sprich, wie steht's?
+
+
+ROSSE.
+
+Als ich fort ging, die Nachricht her zu bringen,
+An der ich schwer trug, lief dort ein Gerücht,
+Daß manche wackre Leute weg geräumt;
+Und diesen Glauben fand ich auch bestätigt,
+Weil ich im Feld sah des Tyrannen Truppen.
+Nun ist zu helfen Zeit; Eu'r Aug' in Schottland
+Erschüfe Krieger, trieb' in Kampf die Frauen,
+Ihr Elend abzuschütteln.
+
+
+
+MALCOLM.
+
+Sei's ihr Trost,
+Daß wir schon nahn. Der güt'ge England leiht uns
+Den wackern Siward und zehntausend Mann;
+Ein alter Krieger, keinen bessern gibt's
+In aller Christenheit.
+
+
+
+ROSSE.
+
+Könnt' ich den Trost
+Mit Trost vergelten! Doch ich habe Worte, –
+Oh, würden sie in leere Luft geheult,
+Wo nie ein Ohr sie faßte!
+
+
+
+MACDUFF.
+
+Wen betrifft's?
+Ist's allgemeines Weh? Ist's eigner Schmerz,
+Der einem nur gehört?
+
+
+
+ROSSE.
+
+Kein redlich Herz.
+Das nicht mit leidet; doch der größre Teil
+Ist nur für dich allein.
+
+
+
+MACDUFF.
+
+Gehört es mir,
+Enthalte mir's nicht vor; schnell laß mich's haben!
+
+
+
+ROSSE.
+
+Dein Ohr wird meine Zunge ewig hassen,
+Die's mit dem jammervollsten Ton betäubt,
+Den jemals du gehört.
+
+
+
+
+MACDUFF.
+Ha! ich errat' es.
+
+
+ROSSE.
+
+Dein Schloß ist überfallen; Weib und Kinder
+Grausam gewürgt: – die Art erzählen, hieße
+Das Trauerspiel von deines Hauses Fall
+Mit deinem Tod beschließen.
+
+
+
+MALCOLM.
+
+Gnäd'ger Gott! –
+Nein, Mann! drück' nicht den Hut so in die Augen,
+Gib Worte deinem Schmerz: Gram, der nicht spricht,
+Preßt das beladne Herz, bis daß es bricht.
+
+
+
+MACDUFF.
+Auch meine Kinder?
+
+
+ROSSE.
+
+Gattin, Kinder, Diener;
+Was man nur fand.
+
+
+
+MACDUFF.
+
+Und ich muß ferne sein!
+Mein Weib gemordet auch?
+
+
+
+ROSSE.
+Ich sagt' es.
+
+
+MALCOLM.
+
+Faßt Euch:
+Laßt uns Arznei aus mächt'ger Rache mischen,
+Um dieses Todesweh zu heilen!
+
+
+
+MACDUFF.
+
+Er
+Hat keine Kinder! All die süßen Kleinen?
+Alle, sagst du? – O Höllengeier! – Alle!
+Was! all die holden Küchlein, samt der Mutter,
+Mit einem wilden Griff?
+
+
+
+MALCOLM.
+Ertragt es wie ein Mann!
+
+
+MACDUFF.
+
+Das will ich auch;
+Doch ebenso muß wie ein Mann ich's fühlen:
+Vergessen kann ich nicht, daß das gewesen,
+Was mir das Liebste war. Konnte der Himmel
+Es anschaun, und nicht helfen? Sünd'ger Macduff!
+Für dich sind sie erschlagen! Ich Verworfner!
+Für ihre Sünden nicht, nein, für die meinen
+Sind sie gewürgt. Schenk' ihnen Frieden, Gott!
+
+
+
+MALCOLM.
+
+Dies wetze scharf dein Schwert, verwandle Gram
+In Zorn; erschlaffe nicht dein Herz, entflamm' es!
+
+
+
+MACDUFF.
+
+Ich will das Weib nicht mit den Augen spielen,
+Und prahlen mit der Zunge! – Doch, güt'ger Himmel,
+Vernichte alle Trennung; Stirn an Stirn
+Führ' diesen Teufel Schottlands mir entgegen!
+
+Stell ihn in meines Schwerts Bereich; entrinnt er,
+Himmel, vergib ihm auch!
+
+
+
+MALCOLM.
+
+So klingt es männlich.
+Jetzt kommt zum König; fertig steht das Heer.
+Es mangelt nur noch, daß wir Abschied nehmen.
+Macbeth ist reif zur Ernte, und dort oben
+Breiten ew'ge Mächte schon das Messer.
+Faßt frischen Mut; so lang ist keine Nacht,
+Daß endlich nicht der helle Morgen lacht.
+
+Sie gehen ab.
+
+
+
+
+
+        Fünfter Aufzug
+        
+          Erste Szene
+          Dunsinan, Zimmer im Schloß.
+Es treten auf ein Arzt und eine Kammerfrau.
+
+ARZT.
+Zwei Nächte habe ich nun mit Euch gewacht, aber keine Bestätigung Eurer Aussage
+              gesehen. Wann ist sie zuletzt umher gewandelt?
+
+
+KAMMERFRAU.
+Seitdem Seine Majestät in den Krieg zogen, habe ich gesehen, wie sie aus ihrem Bett
+              aufstand, ihr Nachtgewand umwarf, ihren Schreibtisch aufschloß, Papier nahm, es
+              zusammen legte, schrieb, das Geschriebene las, es versiegelte, und dann wieder zu Bett
+              ging: und die ganze Zeit im tiefen Schlafe.
+
+
+ARZT.
+Eine große Zerrüttung der Natur: die Wohltat des Schlafes genießen, und zugleich die
+              Geschäfte des Wachens verrichten! – In dieser schlafenden Aufregung, außer dem
+              Umherwandeln und anderm Tun, was, irgend einmal, habt Ihr sie sprechen hören?
+
+
+KAMMERFRAU.
+Dinge, die ich ihr nicht nachsprechen werde.
+
+
+ARZT.
+Mir könnt Ihr's vertrauen; und es ist notwendig, daß Ihr es tut.
+
+
+KAMMERFRAU.
+Weder Euch noch irgend jemand, da ich kein Zeugen habe, meine Aussage zu
+              bekräftigen.
+Lady Macbeth kommt, eine Kerze in der Hand.
+Seht, da kommt sie! So ist ihre Art und Weise! und, bei meinem Leben, fest im Schlaf!
+              Beobachtet sie; steht ruhig!
+
+
+ARZT.
+Wie kam sie zu dem Licht?
+
+
+KAMMERFRAU.
+Das brennt neben ihrem Bett. Sie hat immer Licht: es ist ihr Befehl.
+
+
+
+ARZT.
+Seht, ihre Augen sind offen.
+
+
+KAMMERFRAU.
+Ja, aber ihre Sinne geschlossen.
+
+
+ARZT.
+Was macht sie nun? Schaut, wie sie sich die Hände reibt!
+
+
+KAMMERFRAU.
+Das ist ihre gewöhnliche Gebärde, daß sie tut, als wüsche sie sich die Hände; ich
+              habe wohl gesehen, daß sie es eine Viertelstunde hintereinander tat.
+
+
+LADY MACBETH.
+Da ist noch ein Fleck.
+
+
+ARZT.
+Horch, sie spricht! Ich will aufschreiben, was sie sagt, um hernach meine Erinnerung
+              daraus zu ergänzen.
+
+
+LADY MACBETH.
+Fort, verdammter Fleck! fort, sag' ich! – Eins, zwei! Nun, dann ist es Zeit, es zu
+              tun. – Die Hölle ist finster! – Pfui, mein Gemahl, pfui! ein Soldat und furchtsam! Was
+              haben wir zu fürchten, wer es weiß, da niemand unsre Gewalt zur Rechenschaft ziehen
+              darf? – Aber wer hätte gedacht, daß der alte Mann noch so viel Blut in sich hätte?
+
+
+ARZT.
+Hört Ihr wohl?
+
+
+LADY MACBETH.
+Der Than von Fife hatte ein Weib: Wo ist sie nun? – Wie, wollen diese Hände denn nie
+              rein werden? –Nichts mehr davon, mein Gemahl, nichts mehr davon: du verdirbst alles
+              mit diesem Auffahren.
+
+
+ARZT.
+Ei, ei! Ihr habt erfahren, was Ihr nicht solltet!
+
+
+KAMMERFRAU.
+Gesprochen hat sie, was sie nicht sollte, das ist gewiß. Gott weiß, was sie erfahren
+              hat.
+
+
+LADY MACBETH.
+Noch immer riecht es hier nach Blut; alle Wohlgerüche Arabiens würden diese kleine
+              Hand nicht wohlriechend machen. Oh! oh! oh!
+
+
+ARZT.
+Was das für ein Seufzer war! Ihr Herz ist schmerzlich beladen.
+
+
+KAMMERFRAU.
+Ich möchte nicht ein solches Herz im Busen tragen, nicht für den Königsschmuck des
+              ganzen Leibes!
+
+
+ARZT.
+Gut. gut! –
+
+
+KAMMERFRAU.
+Gebe Gott, daß es gut sei!
+
+
+ARZT.
+Diese Krankheit liegt außer dem Gebiete meiner Kunst; aber ich habe Menschen gekannt,
+              die im Schlaf umher wandelten, und doch fromm in ihrem Bett starben.
+
+
+LADY MACBETH.
+Wasch' deine Hände, leg' dein Nachtkleid an; sieh doch nicht so blaß aus! – Ich sage
+              es dir noch einmal.
+
+Banquo ist begraben, er kann aus seiner Gruft nicht heraus kommen.
+
+
+ARZT.
+Wirklich?
+
+
+LADY MACBETH.
+Zu Bett, zu Bett! Es wird ans Tor geklopft. Komm, komm, komm, komm, gib mir die Hand!
+              – Was geschehn ist, kann man nicht ungeschehn machen. – Zu Bett zu Bett, zu Bett!
+                Sie geht ab.
+
+
+
+ARZT.
+Geht sie nun zu Bett?
+
+
+KAMMERFRAU.
+Unverzüglich.
+
+
+ARZT.
+
+Von Greueln flüstert man, – und Taten unnatürlich
+Erzeugen unnatürliche Zerrüttung:
+Die kranke Seele will ins taube Kissen
+Entladen ihr Geheimnis. Sie bedarf
+Des Beicht'gers mehr noch als des Arztes. – Gott,
+Vergib uns allen! Seht nach ihr; entfernt,
+Womit sie sich verletzen könnt', und habt
+Ein Auge stets auf sie! – So, gute Nacht!
+Der Anblick hat mir Schreck und Grau'n gemacht.
+Ich denk', und darf nichts sagen.
+
+
+
+KAMMERFRAU.
+Nun, schlaft wohl!
+Sie gehen ab.
+
+
+
+          Zweite Szene
+          Feld, in der Nähe von Dunsinan.
+Es treten auf mit Trommeln und Fahnen Menteth, Cathness, Angus, Lenox,
+            Soldaten.
+
+MENTETH.
+
+Das Heer von England naht, geführt von Malcolm,
+Seinem Ohm Siward und dem guten Macduff:
+Von Rache glühn sie; denn ihr herbes Leid
+Erregte wohl den abgestorbnen Greis
+Zu blutig grimmem Kampf.
+
+
+
+ANGUS.
+
+Bei Birnams Wald,
+Von dort her nahn sie, treffen wir sie wohl.
+
+
+
+CATHNESS.
+Ob Donalbain bei seinem Bruder ist?
+
+
+LENOX.
+
+Gewiß nicht, Herr; denn eine Liste hab' ich
+Vom ganzen Adel. Dort ist Siwards Sohn,
+
+Und mancher glatte Jüngling, der zuerst
+Die Mannheit prüft.
+
+
+
+MENTETH.
+Und was tut der Tyrann?
+
+
+CATHNESS.
+
+Das mächt'ge Dunsinan befestigt er.
+Toll heißt ihn mancher; wer ihn minder haßt,
+Nennt's tapfre Wut; doch ist's gewiß, er kann
+Den wild empörten Zustand nicht mehr schnallen
+In den Gurt der Ordnung.
+
+
+
+ANGUS.
+
+Jetzt empfindet er
+Geheimen Mord, an seinen Händen klebend;
+Jetzt straft Empörung stündlich seinen Treubruch;
+Die er befehligt, handeln auf Befehl,
+Aus Liebe nicht. Jetzt fühlt er seine Würde
+Zu weit und lose, wie des Riesen Rock
+Hängt um den dieb'schen Zwerg.
+
+
+
+MENTETH.
+
+Ist es ein Wunder,
+Wenn sein gequälter Sinn auffährt und schaudert?
+Muß all sein Fühlen sich doch selbst verdammen,
+Weil's seiner Seele eignet.
+
+
+
+CATHNESS.
+
+Ziehn wir weiter,
+Da Dienst zu weihen, wo es Lehnspflicht fordert:
+Suchen wir auf das Heil des kranken Staates,
+Mit ihm vergießen wir, zum Wohl des Landes,
+All unser Blut.
+
+
+
+LENOX.
+
+So viel, daß es betaut
+Die Herrscherblum', ertränkt das gift'ge Kraut.
+So geh' der Zug nach Birnam!
+
+Sie marschieren vorüber.
+
+
+
+          Dritte Szene
+          Dunsinan, im Schloß.
+Macbeth tritt auf; der Arzt, Gefolge.
+
+MACBETH.
+
+Bringt keine Nachricht mehr! Laßt alle fliehn:
+Bis Birnams Wald anrückt auf Dunsinan,
+Ist Furcht mir nichts. Was ist der Knabe Malcolm?
+Gebar ihn nicht ein Weib! Die Geister, welche
+
+All irdisch Walten kennen, prophezeiten so:
+»Sei kühn, Macbeth, kein Mann, vom Weib geboren,
+Soll je dir was anhaben.« – Flieht denn immer,
+Ihr falschen Thans, zu Englands Weichlingen: –
+Dies Herz und meinen Herrschergeist verwegen
+Dämpft Zweifel nicht und soll die Furcht nie regen.
+
+Ein Diener tritt auf.
+
+Der Teufel brenn' dich schwarz, milchbleicher Lump!
+Wie kommst du an den Gänseblick?
+
+
+
+DIENER.
+Da sind zehntausend –
+
+
+MACBETH.
+Gänse, Schuft?
+
+
+DIENER.
+Soldaten, Her.
+
+
+MACBETH.
+
+Reib' dein Gesicht, die Furcht zu überröten,
+Weißlebriger Hund! Was für Soldaten, Hansnarr?
+Hol' dich der Teufel! Deine Kreidewangen
+Verführen all' zur Furcht. Was für Soldaten,
+Molkengesicht?
+
+
+
+DIENER.
+Erlaubt; das Heer von England.
+
+
+MACBETH.
+
+Weg dein Gesicht! – Seyton! – Mir wird ganz übel,
+Seh' ich so – Seyton! Heda! – Dieser Ruck
+Kuriert auf immer oder liefert jetzt mich.
+Ich lebte lang' genug: mein Lebensweg
+Geriet ins Dürre, ins verwelkte Laub:
+Und was das hohe Alter soll begleiten,
+Gehorsam, Liebe, Ehre, Freundestrost,
+Danach darf ich nicht aussehn; doch, statt dessen
+Flüche, nicht laut, doch tief, Munddienst und Hauch,
+Was gern das arme Herz mir weigern möchte,
+Und wagt's nicht. Seyton! –
+
+Seyton kommt.
+
+
+SEYTON.
+Was befiehlt mein Herrscher?
+
+
+MACBETH.
+Was gibt es Neues?
+
+
+SEYTON.
+
+Alles wird bestätigt,
+Was das Gerücht verkündet.
+
+
+
+MACBETH.
+
+Ich will fechten,
+Bis mir das Fleisch gehackt ist von den Knochen.
+Gebt meine Rüstung mir!
+
+
+
+
+SEYTON.
+Noch tut's nicht not.
+
+
+MACBETH.
+
+Ich leg' sie an.
+Mehr Reiter sendet aus, durchstreift das Land:
+Wer Furcht nennt, wird gehängt. – Bringt mir die Rüstung! –
+Was macht die Kranke, Arzt?
+
+
+
+ARZT.
+
+Nicht krank sowohl,
+Als durch gedrängte Phantasiegebilde
+Gestört, der Ruh' beraubt.
+
+
+
+MACBETH.
+
+Heil' sie davon!
+Kannst nichts ersinnen für ein krank Gemüt?
+Tief wurzelnd Leid aus dem Gedächtnis reuten?
+Die Qualen löschen, die ins Hirn geschrieben?
+Und mit Vergessens süßem Gegengift
+Die Brust entled'gen jener gift'gen Last,
+Die schwer das Herz bedrückt?
+
+
+
+ARZT.
+Hier muß der Kranke selbst das Mittel finden.
+
+
+MACBETH.
+
+Wirf deine Kunst den Hunden vor, ich mag sie nicht. –
+Legt mir die Rüstung an; den Stab her! – Seyton,
+Schick' aus! – Doktor, die Thans verlassen mich: –
+Nun, mach' geschwind! – Arzt, könnt'st du meinem Land
+Beschaun das Wasser, seine Krankheit finden,
+Und es zum kräft'gen frühern Wohlsein rein'gen,
+Wollt' ich mit deinem Lob das Echo wecken,
+Daß es dein Lob weit hallte. – Weg den Riemen! –
+Welche Purganz, Rhabarber, Senna führte
+Wohl ab die Englischen? – Hörst du von ihnen?
+
+
+
+ARZT.
+
+Ja, hoher König; Eure Kriegesrüstung
+Macht, daß wir davon hören.
+
+
+
+MACBETH.
+
+Bringt's mir nach! –
+Nicht Tod und nicht Verderben ficht mich an,
+Kommt Birnams Wald nicht her zum Dunsinan!
+
+Er geht ab.
+
+
+ARZT.
+
+Wär' ich von Dunsinan mit Heil und Glück,
+So brächte mich kein Vorteil je zurück.
+
+Alle ab.
+
+
+
+
+          Vierte Szene
+          Feld in der Nähe von Dunsinan, ein Wald in der Ferne.
+Es treten auf mit Trommeln und Fahnen Malcolm, der alte Siward, sein Sohn, Macduff,
+            Menteth, Cathness, Angus, Lenox, Rosse, Soldaten.
+
+MALCOLM.
+
+Vettern, die Tage, hoff' ich, sind uns nah,
+Wo Kammern sicher sind.
+
+
+
+MENTETH.
+Wir zweifeln nicht.
+
+
+SIWARD.
+Wie heißt der Wald da vor uns?
+
+
+MENTETH.
+Birnams Wald.
+
+
+MALCOLM.
+
+Ein jeder Krieger hau' sich ab 'nen Zweig,
+Und trag' ihn vor sich: so verbergen wir
+Die Truppenzahl, und irrig wird der Feind
+In seiner Schätzung.
+
+
+
+EIN SOLDAT.
+Es soll gleich geschehn.
+Die Soldaten gehn ab.
+
+
+SIWARD.
+
+Wir hören nichts, als daß mit Zuversicht
+Sich der Tyrann auf Dunsinan befestigt
+Und die Belag'rung ausstehn will.
+
+
+
+MALCOLM.
+
+Darauf
+Vertraut er einzig. Wo's nur möglich ist,
+Empört sich hoch und niedrig gegen ihn,
+Und niemand folgt ihm, als erzwungnes Volk,
+Das nicht von Herzen dient.
+
+
+
+MACDUFF.
+
+Laßt bis zum Siege
+Gerechten Tadel schweigen, daß wir weise
+Den Kriegszug lenken!
+
+
+
+SIWARD.
+
+Ja, es naht die Zeit,
+Wo richt'ges Unterscheiden läßt erkennen,
+Das, was wir schulden, was wir unser nennen:
+Von schwacher Hoffnung müß'ges Grübeln spricht;
+Die Schlacht sitzt ob dem Ausgang zu Gericht:
+Und ihr entgegen führt den Kriegeszug!
+
+Alle ab.
+
+
+
+
+          Fünfte Szene
+          Dunsinan, im Schloß.
+Mit Trommeln und Fahnen treten auf Macbeth, Seyton, Soldaten.
+
+MACBETH.
+
+Pflanzt unsre Banner auf die äußre Mauer;
+Stets heißt's: »Sie kommen.« Unser festes Schloß
+Lacht der Belag'rung: mögen sie hier liegen,
+Bis Hunger sie und Krankheit aufgezehrt!
+Verstärkten die sie nicht, die uns gehören,
+Wir hätten, Bart an Bart, sie kühn getroffen
+Und sie nach Haus gegeißelt. Welch Geschrei?
+
+Weibergeschrei hinter der Szene.
+
+
+SEYTON.
+Wehklage ist's von Weibern, gnäd'ger Herr.
+
+
+MACBETH.
+
+Verloren hab' ich fast den Sinn der Furcht.
+Es gab 'ne Zeit, wo kalter Schau'r mich faßte,
+Wenn der Nachtvogel schrie; das ganze Haupthaar
+Bei einer schrecklichen Geschicht' empor
+Sich richtete, als wäre Leben drin.
+Ich habe mit dem Grau'n zu Nacht gespeist;
+Entsetzen, meines Mordsinns Hausgenoß,
+Schreckt nun mich nimmermehr. – Weshalb das Wehschrein?
+
+
+
+SEYTON.
+Die Kön'gin, Herr, ist tot.
+
+
+MACBETH.
+
+Sie hätte später sterben können; – es hätte
+Die Zeit sich für ein solches Wort gefunden. –
+Morgen, und morgen, und dann wieder morgen,
+Kriecht so mit kleinem Schritt von Tag zu Tag,
+Zur letzten Silb' auf unserm Lebensblatt;
+Und alle unsre Gestern führten Narr'n
+Den Pfad des stäub'gen Tods. – Aus! kleines Licht! –
+Leben ist nur ein wandelnd Schattenbild;
+Ein armer Komödiant, der spreizt und knirscht
+Sein Stündchen auf der Bühn', und dann nicht mehr
+Vernommen wird: ein Märchen ist's, erzählt
+Von einem Dummkopf, voller Klang und Wut,
+Das nichts bedeutet. –
+
+Ein Bote kommt.
+Du hast was auf der Zunge: schnell heraus!
+
+
+
+BOTE.
+
+Mein königlicher Herr, –
+Ich sollte melden, das, was, wie ich glaube,
+Ich sah; – doch wie ich's tun soll, weiß ich nicht.
+
+
+
+MACBETH.
+Nun, sag's nur, Mensch!
+
+
+BOTE.
+
+Als ich den Wachtdienst auf dem Hügel tat, –
+Ich schau nach Birnam zu, und, sieh, mir deucht,
+Der Wald fängt an zu gehn.
+
+
+
+MACBETH.
+Lügner und Sklav'!
+Er schlägt ihn.
+
+
+BOTE.
+
+Laßt Euren Zorn mich fühlen, ist's nicht so:
+Drei Meilen weit könnt Ihr ihn kommen sehn;
+Ein geh'nder Wald – wahrhaftig!
+
+
+
+MACBETH.
+
+Sprichst du falsch,
+Sollst du am nächsten Baum lebendig hangen,
+Bis Hunger dich verschrumpft hat; sprichst du wahr,
+Magst du mir meinethalb dasselbe tun. –
+Einzieh' ich die Entschlossenheit, beginne
+Den Doppelsinn des bösen Feinds zu merken,
+Der Lüge spricht wie Wahrheit: »Fürchte nichts,
+Bis Birnams Wald anrückt auf Dunsinan«; –
+Und nunmehr kommt ein Wald nach Dunsinan.
+Waffen nun, Waffen! und hinaus! –
+Ist Wahrheit das, was seine Meldung spricht,
+So ist kein Fliehn von hier, kein Bleiben nicht.
+Das Sonnenlicht will schon verhaßt mir werden;
+Oh! fiel' in Trümmern jetzt der Bau der Erden!
+Auf! läutet Sturm! Wind, blas'! Heran, Verderben!
+Den Harnisch auf dem Rücken will ich sterben.
+
+Alle ab.
+
+
+
+          Sechste Szene
+          Vor dem Schloß.
+Es treten auf mit Trommeln und Fahnen Malcolm, Siward, die übrigen Anführer, das
+            Heer mit Zweigen.
+
+MALCOLM.
+
+Jetzt nah genug! Werft ab die laub'gen Schirme,
+Und zeigt euch, wie ihr seid! Ihr, würd'ger Oheim,
+Führt mit dem Vetter, Eurem edlen Sohn,
+
+Die erste Schar; ich und der würd'ge Macduff
+Besorgen, was noch übrig ist zu tun,
+Wie wir es angeordnet.
+
+
+
+SIWARD.
+
+Lebt denn wohl! –
+Zieht uns nur heut entgegen der Tyrann,
+Mag er den schlagen, der nicht fechten kann!
+
+
+
+MACDUFF.
+
+Trompeten blast, befeuert kühnen Mut,
+Herolde, ruft ihr uns in Tod und Blut!
+
+Alle ab. Schlachtgetümmel hinter der Szene.
+
+
+
+          Siebente Szene
+          Ein anderer Teil des Schlachtfeldes.
+Macbeth tritt auf.
+
+MACBETH.
+
+Sie banden mich an den Pfahl; fliehn kann ich nicht.
+Muß, wie der Bär, der Hatz entgegen kämpfen:
+Wo ist er, der nicht ward vom Weib geboren?
+Den fürcht' ich, keinen sonst.
+
+Der junge Siward kommt.
+
+
+DER JUNGE SIWARD.
+Wie ist dein Name?
+
+
+MACBETH.
+Du wirst erschrecken, ihn zu hören!
+
+
+DER JUNGE SIWARD.
+
+Nein.
+Nennst du dich auch mit einem grimmren Namen
+Als einer in der Höll'.
+
+
+
+MACBETH.
+Mein Nam' ist Macbeth.
+
+
+DER JUNGE SIWARD.
+
+Der Teufel selber könnte nichts verkünden,
+Verhaßter meinem Ohr.
+
+
+
+MACBETH.
+Und nichts so furchtbar.
+
+
+DER JUNGE SIWARD.
+
+Abscheulicher Tyrann, du lügst! das soll
+Mein Schwert dir zeigen.
+
+Gefecht, der junge Siward fällt.
+
+
+MACBETH.
+
+Wardst vom Weib geboren. –
+Der Schwerter lach' ich, spotte der Gefahr,
+Womit ein Mann dräut, den ein Weib gebar.
+
+Er geht ab.
+Getümmel. Macduff kommt.
+
+
+
+MACDUFF.
+
+Dort ist der Lärm: – Zeig' dein Gesicht, Tyrann!
+Fällst du, und nicht von meinem Schwert, so werden
+Mich meines Weibs, der Kinder Geister quälen;
+Ich kann auf armes Kernenvolk nicht schlagen,
+Die in gedungner Hand die Lanze führen.
+Nur du, Macbeth, – wo nicht, kehrt schartenlos
+Und ohne Tat mein Schwert zurück zur Scheide.
+Dort mußt du sein; dies mächt'ge Tosen kündet,
+Daß dort vom ersten Range einer kämpft.
+O Glück! eins bitt' ich nur: laß mich ihn finden!
+
+Er geht ab.
+Getümmel. Malcolm und Siward kommen.
+
+
+SIWARD.
+
+Hieher, mein Prinz! – Das Schloß ergab sich willig.
+Auf beiden Seiten kämpft des Wüt'richs Volk;
+Die edlen Thans tun wackre Kriegesdienste;
+Der Tag hat sich fast schon für Euch entschieden,
+Nur wenig ist zu tun.
+
+
+
+MALCOLM.
+
+Wir trafen Feinde,
+Die uns vorbei haun.
+
+
+
+SIWARD.
+Kommt, Prinz, in die Festung!
+Sie gehen ab.
+Getümmel. Macbeth kommt.
+
+
+MACBETH.
+
+Weshalb sollt' ich den röm'schen Narren spielen,
+Sterbend durchs eigene Schwert? Solange Leben
+Noch vor mir sind, stehn denen Wunden besser.
+
+Macduff kommt zurück.
+
+
+MACDUFF.
+Zu mir, du Höllenhund, zu mir!
+
+
+MACBETH.
+
+Von allen Menschen mied ich dich allein:
+Du, mach' dich nur zurück, mit Blut der Deinen
+Ist meine Seele schon zu sehr beladen.
+
+
+
+MACDUFF.
+
+Ich habe keine Worte, meine Stimme
+Ist nur in meinem Schwert. Du Schurke, blut'ger,
+Als Sprache Worte hat!
+
+Sie fechten.
+
+
+MACBETH.
+
+Verlorne Müh'!
+So leicht magst du die unteilbare Luft
+
+Mit scharfem Schwert durchhaun, als mich verletzen:
+Auf Schädel, die verwundbar, schwing' den Stahl;
+Mein Leben ist gefeit, kann nicht erliegen
+Einem vom Weib Gebornen.
+
+
+
+MACDUFF.
+
+So verzweifle
+An deiner Kunst; und sage dir der Engel,
+Dem du von je gedient, daß vor der Zeit
+Macduff geschnitten ward aus Mutterleib!
+
+
+
+MACBETH.
+
+Verflucht die Zunge, die mir dies verkündet,
+Denn meine beste Mannheit schlägt sie nieder!
+Und keiner trau' dem Gaukelspiel der Hölle,
+Die uns mit doppelsinn'ger Rede äfft,
+Die Wort nur hält dem Ohr mit Glücksverheißung
+Und es der Wahrheit bricht! – Mit dir nicht kämpf' ich.
+
+
+
+MACDUFF.
+
+Nun, so ergib dich, Memme!
+Und leb' als Wunderschauspiel für die Welt!
+Wir wollen dich als seltnes Ungeheuer
+Im Bild auf Stangen führen, mit der Schrift:
+»Hier zeigt man den Tyrannen.«
+
+
+
+MACBETH.
+
+Ich will mich nicht ergeben, um zu küssen;
+Den Boden vor des Knaben Malcolm Fuß,
+Gehetzt zu werden von des Pöbels Flüchen.
+Ob Birnams Wald auch kam nach Dunsinan,
+Ob meinen Gegner auch kein Weib gebar,
+Doch wag' ich noch das Letzte: Vor die Brust
+Werf' ich den mächt'gen Schild: Nun magst dich wahren,
+Wer »Halt!« zuerst ruft, soll zur Hölle fahren!
+
+Sie gehen kämpfend ab.
+Rückzug. Trompeten. Es treten auf mit Trommeln und Fahnen Malcolm, Siward, Rosse,
+              Lenox, Angus, Cathness, Menteth.
+
+
+MALCOLM.
+Oh, wären lebend die vermißten Freunde!
+
+
+SIWARD.
+
+Mancher muß drauf gehn; doch, so viel ich sehe,
+Ist dieser große Tag wohlfeil erkauft.
+
+
+
+MALCOLM.
+Vermißt wird Macduff und Eu'r edler Sohn.
+
+
+ROSSE.
+
+Eu'r Sohn, Mylord, hat Kriegerschuld gezahlt:
+Er lebte nur, bis er ein Mann geworden;
+In seiner Kühnheit war dies kaum bewährt
+
+Durch unverzagten Kampf in blut'ger Schlacht,
+Als er starb wie ein Mann.
+
+
+
+SIWARD.
+So ist er tot?
+
+
+ROSSE.
+
+Ja, und getragen aus dem Feld. Eu'r Schmerz
+Muß nicht nach seinem Wert gemessen werden,
+Sonst wär' er endlos.
+
+
+
+SIWARD.
+Hat er vorn die Wunden?
+
+
+ROSSE.
+Ja, auf der Stirn.
+
+
+SIWARD.
+
+Wohl: sei er Gottes Kriegsmann!
+Hätt' ich so viele Söhn', als Haar' ich habe,
+Ich wünschte keinem einen schönern Tod:
+Das ist sein Grabgeläut'.
+
+
+
+MALCOLM.
+
+Mehr Leid verdient er,
+Und das vergelt' ich ihm.
+
+
+
+SIWARD.
+
+Mehr tun ist Schwäche.
+Er schied geehrt und zahlte seine Zeche;
+So, Gott sei mit ihm! – Seht, den neusten Trost!
+
+Macduff kommt mit Macbeths Kopf.
+
+
+MACDUFF.
+
+Heil, König! denn das bist du. Schau', hier steht
+Des Usurpators Haupt: die Zeit ist frei.
+Ich seh' umringt dich von des Reiches Perlen,
+Die meinen Gruß im Herzen mit mir sprechen,
+Und deren lautes Wort ich jetzt erheische:
+Dem König Schottlands Heil!
+
+
+
+ALLE.
+Heil, Schottlands König!
+Trompetenstoß.
+
+
+MALCOLM.
+
+Wir wollen nicht vergeblich Zeit verschwenden,
+Mit eurer Liebe einzeln abzurechnen
+Und quitt mit euch zu werden. Thans und Vettern.
+Hinfort seid Grafen, die zuerst in Schottland
+Mit dieser Ehre prangen. Was zu tun noch,
+Was nun gepflanzt muß werden mit der Zeit:
+– Als Rückberufung der verbannten Freunde,
+Die des Tyrannen list'ger Schling' entflohn;
+Einziehn der blut'gen Schergen dieses toten
+Bluthunds und seiner höll'schen Königin,
+
+Die, wie man glaubt, gewaltsam selbst ihr Leben
+Geendet, – alles, was uns sonst noch obliegt,
+Das, mit der ew'gen Gnade Gnadenhort,
+Vollenden wir nach Maß und Zeit und Ort.
+Euch allen werd' und jedem Dank und Lohn,
+Und jetzt zur Krönung lad' ich euch nach Scone.
+
+Trompeten. Alle ab.
+
+
+
+
