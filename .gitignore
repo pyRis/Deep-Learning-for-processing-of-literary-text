@@ -15,3 +15,4 @@ _book
 *.mobi
 *.pdf
 **/bart_large_xsum_samsum
+**/__pycache__
