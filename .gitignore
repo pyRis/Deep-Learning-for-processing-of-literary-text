@@ -14,3 +14,4 @@ _book
 *.epub
 *.mobi
 *.pdf
+**/bart_large_xsum_samsum
