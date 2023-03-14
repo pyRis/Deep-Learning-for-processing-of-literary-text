@@ -1,0 +1,984 @@
+Valentin
+Proteus
+Flink
+Julia
+Lucetta
+Antonio
+Panthino
+Silvia
+Lanz
+Thurio
+Herzog
+Diener
+Erster Räuber
+Zweiter Räuber
+Dritter Räuber
+Wirt
+Eglamour
+Comedy
+Q1152184 William Shakespeare
+Die beiden Veroneser
+Personen Der Herzog von Mailand
+Valentin Proteus zwei junge Veroneser
+Antonio, Vater des Proteus Thurio, Nebenbuhler des Valentin Eglamour Flink, Diener des Valentin Lanz, Diener des Proteus Panthino, Diener des Antonio Ein Wirt Räuber Julia, eine edle Veroneserin Silvia, des Herzogs Tochter Lucetta, Kammermädchen der Julia Diener. Musikanten
+Szene: Verona; Mailand; das Grenzgebiet Mantuas
+Erster Aufzug
+Erste Szene Platz in Verona. Valentin und Proteus treten auf.
+VALENTIN. Hör' auf mir zuzureden, teurer Proteus; Wer stets zu Haus bleibt, hat nur Witz fürs Haus. Wenn Neigung nicht dein junges Herz gefesselt Dem süßen Augenwinken deiner Schönen, Bät' ich dich eh'r, du möchtest mich begleiten, Die Wunder fremder Länder zu beschauen, Anstatt daheim im dumpfen Traum die Jugend In zierberaubter Muße zu vernutzen. Doch da du liebst, so lieb', und mit Gedeihn, Und lieb' ich einst, sei gleicher Segen mein.
+PROTEUS. Du gehst? Mein liebster Valentin, fahr' wohl! Denk' deines Proteus, wenn du Ding' erblickst, Die schön und merkenswert, auf deinen Reisen; Wünsch' mich zu dir, dein Glück mit dir zu teilen, Wenn Gutes dir begegnet; in Gefahr – Wenn jemals dich Gefahr umringt – empfiehl Dein Drangsal meinem heiligen Gebet; Denn ich will für dich beten, Valentin.
+VALENTIN. Und bet'st aus einem Liebesbuch für mich.
+PROTEUS. Jawohl, aus einem Buche, das ich liebe.
+VALENTIN. Das ist von tiefer Lieb' ein seichtes Märchen, Wie durch den Hellespont Leander schwamm.
+PROTEUS. Das ist ein tiefes Märchen tiefrer Liebe, Die Liebe ging ihm ja bis an den Hals.
+VALENTIN. Über die Ohren bist du drin versenkt, Und hast doch nie den Hellespont durchschwommen.
+PROTEUS. Nein, nur mit Ohren, Freund, verschone mich.
+VALENTIN. Du hast nur zu viel Ohr dafür zu lieben, Wo Hohn mit Gram erkauft wird, Sprödesehn Mit Herzensseufzern, ein Moment der Lust Mit zwanzig wachen, müden, langen Nächten. Gewonnen, ist's vielleicht ein schlimmes Gut; Verloren, ist doch schwere Müh' gewonnen. Und immer ist's durch Witz errungne Torheit, Wo nicht, ist's Witz, durch Torheit überwältigt.
+PROTEUS. Geht es nach dir, so nennst du mich 'nen Toren.
+VALENTIN. Und geht's nach dir, fürcht' ich, du wirst es sein.
+PROTEUS. Du höhnst die Lieb', ich bin nicht Liebe, nein.
+VALENTIN. Lieb' ist dein Meister, denn sie meistert dich; Und der, den eine Närrin spannt ins Joch, Den kann man nicht ins Buch der Weisen schreiben.
+PROTEUS. Doch liest man: so wie in der zart'sten Knospe Die Raupe nagend wohnt, so nagend wohne Die Liebe in dem allerfeinsten Sinn.
+VALENTIN. Auch sagt das Buch: so wie die frühste Knospe Vom Wurm zernagt wird, eh' sie aufgeblüht, So wandl' auch jungen, zarten Sinn die Liebe In Torheit, daß vergiftet wird die Knospe, Daß schon das Grün im ersten Lenz verwelkt Und jeder künft'gen Hoffnung schöne Frucht. Doch, was verschwend' ich Zeit, um dir zu raten, Dem Priester schwärmerischen Liebeswahns? Nochmals, leb wohl! Es wartet auf der Reede Mein Vater, um mich eingeschifft zu sehn.
+PROTEUS. Ich will dich hin begleiten, Valentin.
+VALENTIN. Mein Proteus, nein: jetzt laß uns Abschied nehmen! Zu Mailand laß durch Briefe mich erfahren Von deiner Liebe Glück, und was sonst Neues Sich hier ereignet, während fern dein Freund; So werd' auch ich dich schriftlich oft besuchen.
+PROTEUS. Begegne dir zu Mailand alles Glück!
+VALENTIN. Nicht minder dir daheim! Und so leb wohl! Valentin geht ab.
+PROTEUS. Er jagt der Ehre nach, und ich der Liebe; Läßt Freund', um ihrer würdiger zu werden; Mich, Freund' und alles lass' ich für die Liebe. Du, süße Julia, du hast mich verwandelt; Verhaßt ist Wissenschaft, die Zeit verlier' ich, Trotz biet' ich gutem Rat, die Welt nichts achtend; Krank ist mein trüber Sinn, in Leid verschmachtend.
+Flink tritt auf.
+FLINK. Gegrüßt, Herr Proteus! Saht Ihr meinen Herrn?
+PROTEUS. Soeben schifft er sich nach Mailand ein.
+FLINK. So mußten sie sobald ins Schiff ihn schaffen? Dann bin ich eins von den verlornen Schafen.
+PROTEUS. Ja; leicht verirrt ein armes Schäfchen sich, Sobald der Schäfer von der Herde wich.
+FLINK. Ihr schließt, daß mein Herr ein Schäfer, ich eins von den Schafen?
+PROTEUS. Das tu' ich.
+FLINK. So sind meine Hörner die seinen, mag ich wachen oder schlafen.
+PROTEUS. Eine einfält'ge Antwort; so ziemt sie den Schafen.
+FLINK. Dies macht mich alles zu einem Schaf.
+PROTEUS. Sicherlich; und deinen Herrn zum Schäfer.
+FLINK. Nein; das kann ich durch einen Beweis widerlegen.
+PROTEUS. Das wird schwer sein; ich will das Gegenteil beweisen.
+FLINK. Der Schäfersucht das Schaf, und nicht das Schaf den Schäfer; aber ich suche meinen Herrn, und mein Herr nicht mich; deswegen bin ich kein Schaf.
+PROTEUS. Das Schaf folgt des Futters halb dem Schäfer, der Schäfer nicht der Speise halb dem Schaf. Du folgst des Lohnes halb deinem Herrn, dein Herr nicht des Lohnes wegen dir; deshalb bist du ein Schaf.
+FLINK. Nur noch einen solchen Beweis, und ich muß schreien: Ba!
+PROTEUS. Doch höre, Freund, gabst du den Brief an Julia?
+FLINK. Ja, Herr! Ich, ein verdutztes Lamm, gab ihr, dem geputzten Lamm, Euren Brief; und sie, das geputzte Lamm, gab mir, dem verdutzten Lamm, nichts für meine Mühe.
+PROTEUS. Welch eine Menge Lämmer! Sage mir, was die alle von mir wollen.
+FLINK. Ist's Euch um Wolle zu tun, so müßt Ihr sie scheren.
+PROTEUS. Ja, dich will ich scheren.
+FLINK. Nein, mir solltet Ihr lieber etwas bescheren, für mein Brieftragen.
+PROTEUS. Du irrst; ich meinte, ich wollte dich scheren.
+FLINK. Ach! scheren statt bescheren. Geht, laßt mich ungeschoren! Ich trag' Euch keinen Brief mehr, wenn so die Müh' verloren.
+PROTEUS. Nun, was sagte sie? Merktest du, ob meine Worte sie zu gewinnen taugen?
+FLINK. Nichts.
+PROTEUS. Taugen nichts? Ei, das ist Taugenichts.
+FLINK. Ihr versteht falsch, Herr; ich sage nur, ich merkte nichts, ob Eure Worte für sie taugen.
+PROTEUS. Nun, zusammengesetzt ist das: Taugenichts.
+FLINK. Ihr habt Euch die Mühe gegeben, es zusammen zu setzen, so nehmt es denn für Eure Mühe.
+PROTEUS. Nein, du sollst es dafür haben, daß du meinen Brief hingetragen hast.
+FLINK. Gut, ich sehe wohl, daß ich geduldig sein muß, um Euch zu ertragen.
+PROTEUS. Nun, was hast du denn von mir zu ertragen?
+FLINK. Wahrhaftig, Herr, ich trug den Brief sehr ordentlich, und habe doch nichts als das Wort Taugenichts für meine Mühe davon getragen.
+PROTEUS. Ei, du hast einen behenden Witz.
+FLINK. Und doch kann er Eure langsame Börse nicht einholen.
+PROTEUS. Nun, mach' fort! Was sagte sie? Heraus mit deiner Botschaft!
+FLINK. Heraus mit Eurer Börse, damit Lohn und Botschaft zugleich überliefert werden!
+PROTEUS. Gut, hier ist für deine Mühe. Was sagte sie?
+FLINK. Mein' Seel', Herr, ich glaube, Ihr werdet sie schwerlich gewinnen.
+PROTEUS. Warum? Konntest du so viel aus ihr herausbringen?
+FLINK. Herr, ich konnte durchaus nichts aus ihr herausbringen, nicht einmal einen Dukaten für die Überlief'rung Eures Briefs. Und da sie so hart war gegen mich, der Euer Herz brachte, so fürchte ich, daß sie eben so hart gegen Euch sein wird, Euch ihre Gesinnung kund zu tun. Gebt Ihr kein Geschenk als Steine, denn sie ist so hart wie Stahl.
+PROTEUS. Wie? Sagte sie nichts?
+FLINK. Nein, nicht einmal: »Nimm das für deine Mühe!« Ich werde stets huldreich gegen Euch sein; denn Ihr habt mich um einige Gulden reicher gemacht; zum Dank dafür tragt künftig Eure Briefe selbst; und so will ich Euch meinem Herrn empfehlen.
+PROTEUS. Geh, geh, vor Schiffbruch Euer Schiff zu hüten, Es kann nicht scheitern, hat es dich an Bord. Du bist bestimmt zu trocknem Tod am Lande. – Ich muß schon einen bessern Boten senden; Nicht achtet, fürcht' ich, Julia meiner Zeilen, Wenn sie aus beßrer Hand sie nicht empfängt.
+Gehen nach verschiedenen Seiten ab.
+Zweite Szene Garten. Julia und Lucetta treten auf.
+JULIA. Jetzt sprich, Lucetta, denn wir sind allein: Du rätst, ich soll mein Herz der Lieb' eröffnen?
+LUCETTA. Ja, Fräulein, schließt Ihr's der Vernunft nicht zu.
+JULIA. Doch von der schönen Auswahl edler Männer, Die im gesell'gen Kreis ich täglich sehe, Wer scheint am meisten dir der Liebe wert?
+LUCETTA. Ich bitt' Euch, nennt sie mir, so sag' ich Euch Nach schwacher, schlichter Einsicht meine Meinung.
+JULIA. Wie denkst du von dem schönen Eglamour?
+LUCETTA. Er ist ein Ritter, wohlberedt und fein; Doch wär' ich Ihr, er würde nimmer mein.
+JULIA. Wie denkst du von dem reichen Herrn Mercatio?
+LUCETTA. Von seinem Reichtum gut, von ihm so so.
+JULIA. Nun sprich, wie du vom jungen Proteus denkst?
+LUCETTA. O Torheit! wie du uns so ganz befängst!
+JULIA. Sein Name schon kann dir Besinnung nehmen?
+LUCETTA. Verzeiht, mein Fräulein, denn ich muß mich schämen. Glaubt Ihr, daß ich Unwürd'ge schätzen kann Solch anmutvollen, edlen, jungen Mann?
+JULIA. Warum nicht Proteus, wie die andern Gäste?
+LUCETTA. Nun denn, von Guten scheint er mir der Beste.
+JULIA. Dein Grund?
+LUCETTA. Kein andrer ist's, als eines Weibes Grund; Er scheint mir so, nur weil er mir so scheint.
+JULIA. So rätst du, meine Lieb' auf ihn zu werfen?
+LUCETTA. Ja, glaubt Ihr nicht die Liebe weggeworfen.
+JULIA. Er nur allein bewegte nie mich schmerzlich.
+LUCETTA. Doch er allein nur liebt gewiß Euch herzlich.
+JULIA. Er spricht fast nie: das ist nicht Leidenschaft.
+LUCETTA. Verdecktes Feuer brennt mit größrer Kraft.
+JULIA. Nicht liebt, wer nimmer offenbart die Liebe.
+LUCETTA. Und minder liebt, wer andern zeigt die Liebe.
+JULIA. Oh! wüßt' ich, wie er denkt!
+LUCETTA. Lest, Fräulein, dies Papier!
+JULIA. »An Julia.« Sprich, von wem?
+LUCETTA. Der Inhalt sagt es Euch.
+JULIA. Doch sprich: wer gab es dir?
+LUCETTA. Der Page Valentins, den, denk' ich, Proteus schickte; Euch wollt' er's geben selbst, doch ich kam ihm entgegen, Empfing's an Eurer Statt; verzeiht, war ich verwegen.
+JULIA. Bei meiner Sittsamkeit! Du, Liebesbotin? Wagst du, verliebte Zeilen anzunehmen? Verschwörung, Fallstrick' meiner Jugend legen? Nun, auf mein Wort, das ist ein ehrbar Amt, Und du Beamter, schicklich für die Würde. Da nimm das Blatt, laß es ihm wieder geben; Sonst komm du nie vor meine Augen wieder!
+LUCETTA. Der Liebe Dienst soll Lohn, nicht Haß gewinnen.
+JULIA. So gehst du nicht?
+LUCETTA. Nun könnt Ihr Euch besinnen. Lucetta geht ab.
+JULIA. Und doch, – hätt' ich den Brief nur durchgelesen! Doch Schande wär's, sie wieder herzurufen, Bitten um das, was ich Verbrechen schalt. Die Närrin! weiß, daß ich ein Mädchen bin, Und zwingt mich nicht, daß ich den Brief erbreche.
+Nein sagt ein Mädchen, weil's die Sitte will, Und wünscht, daß es der Frager deut' als Ja. Pfui! Wie verkehrt ist diese tör'ge Liebe: Ein wildes Kindchen, kratzt sie erst die Amme Und küßt in Demut gleich darauf die Rute. Wie ungestüm schalt' ich Lucetta fort, Da ich so gern sie hier behalten hätte! Wie zornig lehrt' ich meine Stirn sich falten, Da innre Lust mein Herz zum Lächeln zwang! Die Strafe sei, daß ich Lucetta rufe Und meine vor'ge Torheit so vergüte. Heda! Lucetta!
+Lucetta kommt zurück.
+LUCETTA. Was befiehlt Eu'r Gnaden?
+JULIA. Ist noch nicht Essenzeit?
+LUCETTA. Ich wollt', es wär'; Dann kühltet Ihr den Zorn an Eurer Mahlzeit, Statt an der Dienerin.
+JULIA. Was nimmst du auf So hastig?
+LUCETTA. Nichts.
+JULIA. Weshalb denn bückst du dich?
+LUCETTA. Ich nahm ein Blatt auf, das ich fallen ließ.
+JULIA. Und ist das Blatt denn nichts?
+LUCETTA. Nichts, was mich angeht.
+JULIA. Dann laß für die es liegen, die es angeht!
+LUCETTA. Es wird für die nicht lügen, die es angeht, Wenn es nicht irgendeiner falsch erklärt.
+JULIA. Es schrieb dir ein Verehrer wohl in Versen?
+LUCETTA. Daß ich's im rechten Tone singen möge. Gebt mir die Weis': Ihr, Fräulein, könnt sie setzen.
+JULIA. Für solchen Tand, so leicht als möglich ist: Drum sing es in dem Ton leichtsinn'ge Liebe.
+LUCETTA. Es ist zu schwer für solchen leichten Ton.
+JULIA. Zu schwer? So ist es wohl vierstimm'ger Satz?
+LUCETTA. Es ist melodisch nur, singt Ihr's allein.
+JULIA. Warum nicht du?
+LUCETTA. Es ist für mich zu hoch.
+JULIA. Zeig' her dein Lied! – Nun, Schätzchen, was ist das?
+LUCETTA. Nein, bleibt im Ton, wollt Ihr's zu Ende singen; Und doch gefällt mir dieser Ton nicht recht.
+JULIA. Weshalb denn nicht?
+LUCETTA. Er ist zu schneidend, Fräulein.
+JULIA. Du bist zu vorlaut.
+LUCETTA. Nein, nun wird es matt. Einstimm'ges Lied hat keine Harmonie; Die Mittelstimme fehlt.
+JULIA. Die heisre Stimme Der Mittlerin zerstört die Harmonie.
+LUCETTA. Proteus bedarf wohl der Vermittlung nicht.
+JULIA. Nicht länger ärgre mich all dies Geschwätz; Welch ein verwirrtes Hin- und Her-Gerede! –
+Sie zerreißt den Brief.
+Geh, mach' dich fort! Laß die Papiere liegen; Du hätt'st sie gern in Händen, mir zum Trotz.
+LUCETTA. Sie treibt es weit; doch wär's ihr wohl am liebsten, Würd' sie durch einen zweiten Brief geärgert.
+Lucetta geht ab.
+JULIA. Nein, könnte mich derselbe Brief nur ärgern! Verhaßte Finger, Liebesschrift zerreißt ihr? Mordsücht'ge Wespen, saugt des Honigs Süße Und stecht zu Tod die Biene, die ihn gab? – Zur Sühnung küss' ich jedes Stück Papier. Sieh' – güt'ge Julia – hier; ungüt'ge Julia! Und so, um deinen Undank zu bestrafen, Werf' ich den Namen auf den harten Stein Und trete höhnend so auf deinen Stolz. – Oh! sieh, hier steht – der liebeswunde Proteus – Oh! Armer du! Mein Busen, wie ein Bett,
+Herberge dich, bis ganz die Wunde heilte; Und so erprüf' ich sie mit heil'gem Kuß. – Doch zwei-, dreimal steht Proteus hier geschrieben. Still, guter Wind, entführe mir kein Stückchen, Bis jedes Wort des Briefs ich wieder fand. Nur meinen Namen nicht; den trag' ein Sturm Zu einem furchtbar zackig schroffen Fels Und schleudr' ihn dann ins wilde Meer hinab! – Sieh, zweimal hier sein Nam' in einer Zeile – Der arme Proteus, Proteus, gramverloren, – Der süßen Julia. – Nein, das reiß' ich ab; Doch will ich's nicht, da er so allerliebst Ihn paart mit seinem schwermutsvollen Namen; So will ich einen auf den andern falten: Nun küßt, umarmt euch, zankt, tut, was ihr wollt!
+Lucetta kommt zurück.
+LUCETTA. Fräulein, zur Mahlzeit, Euer Vater wartet.
+JULIA. Gut, gehn wir.
+LUCETTA. Wie, laßt Ihr die Papier' als Schwätzer liegen?
+JULIA. Hältst du sie wert, so hebe sie gut auf!
+LUCETTA. Schlecht nahmt Ihr's auf, da ich sie niederlegte; Doch soll'n sie fort, daß sie sich nicht erkälten.
+JULIA. Ich seh', du hast zu ihnen ein Gelüst.
+LUCETTA. Ja, sagt nur immer, was Ihr meint zu sehn; Auch ich seh' klar, denkt Ihr schon, ich sei blind.
+JULIA. Komm, komm! Beliebt's hinein zu gehn? Sie gehn ab.
+Dritte Szene Zimmer. Antonio und Panthino treten auf.
+ANTONIO. Panthino, sprich, mit welcher ernsten Rede Hielt dich mein Bruder in dem Kreuzgang auf?
+PANTHINO. Von Proteus, seinem Neffen, Eurem Sohn.
+ANTONIO. Doch was von ihm?
+PANTHINO. Ihn wundert, daß Euer Gnaden Daheim ihn seine Jugend läßt verbringen; Da mancher, der geringer ist als Ihr, Den Sohn auf Reisen schickt, sich auszuzeichnen; Der, in den Krieg, um dort sein Glück zu suchen; Der, zur Entdeckung weit entlegner Inseln; Der, zur berühmten Universität. Er meint, daß einer, ja selbst all die Wege Dem Proteus, Eurem Sohne, wohl geziemen; Mir trug er auf, es Euch ans Herz zu legen, Daß Ihr ihn länger nicht daheim behaltet; Er würd' es einst im Alter noch beklagen, Hätt' er die Welt als Jüngling nicht gesehn.
+ANTONIO. Nun, dazu darfst du mich nicht eben drängen, Worauf ich schon seit einem Monat sinne. Wohl hab' ich selbst den Zeitverlust erwogen, Und wie er ein vollkommner Mann nicht ist, Eh' ihn die Welt erzogen und geprüft; Erfahrung wird durch Fleiß und Müh' erlangt Und durch den raschen Lauf der Zeit gereift; Doch sprich, wohin ich ihn am besten sende.
+PANTHINO. Ich denk', Eu'r Gnaden ist nicht unbekannt, Wie jetzt sein Freund, der junge Valentin, Am Hof dem Kaiser seine Dienste widmet.
+ANTONIO. Ich weiß es wohl.
+PANTHINO. Ich mein', Euer Gnaden sollt' ihn dahin senden; Dort übt er sich im Stechen und Turnieren, Hört fein Gespräch, bekannt wird er dem Adel, Und so wird jede Übung ihm geläufig, Die seiner Jugend ziemt und seinem Rang.
+ANTONIO. Dein Rat gefällt mir; wohl hast du's erwogen; Und daß du siehst, wie sehr er mir gefällt, Soll's deutlich dir durch die Vollstreckung werden. So will ich gleich denn mit der schnellsten Eile Alsbald ihn an des Kaisers Hof verschicken.
+PANTHINO. So hört, daß morgen Don Alphonso reist Mit andern jungen Herren hohen Ranges,
+Dem Kaiser ihre Huldigung zu bringen Und ihren Dienst dem Herrscher anzubieten.
+ANTONIO. In der Gesellschaft soll auch Proteus reisen, Und grade recht, – jetzt will ich's ihm verkünden.
+Proteus tritt auf.
+PROTEUS. O süße Lieb'! o süße Zeilen! süßes Leben! Ja, hier ist ihre Hand, des Herzens Bürge; Hier ist ihr Liebesschwur, der Ehre Pfand; Oh! daß die Väter unsern Liebesbund Und unser Glück durch ihren Beifall krönten! Oh, Engel! Julia! –
+ANTONIO. Wie steht's? Was für ein Brief ist's, den du liesest?
+PROTEUS. Mein gnäd'ger Vater, wen'ge Zeilen nur, In denen Valentin sich mir empfiehlt, Und die ein Freund mir bringt, der ihn gesprochen.
+ANTONIO. Gib mir den Brief; laß sehn, was er enthält!
+PROTEUS. Durchaus nichts Neues, Herr; er schreibt mir nur, Wie glücklich er dort lebt, wie sehr geliebt, Und täglich wachsend in des Kaisers Gnade; Er wünscht mich hin, sein Glück mit ihm zu teilen.
+ANTONIO. Und fühlst du seinem Wunsche dich geneigt?
+PROTEUS. Herr, Eurem Willen bin ich untertan, Und nicht darf mir des Freunde Wunschgebieten.
+ANTONIO. Mein Wille trifft mit seinem Wunsch zusammen; Sei nicht erstaunt, daß ich so schnell verfahre, Denn was ich will, das will ich; kurz und gut, Beschlossen ist es, daß du ein'ge Zeit Mit Valentin am Hof des Kaisers lebst; Was ihm zum Unterhalt die Seinen geben, Sollst du von mir auch ebenfalls empfangen. Auf morgen halt dich fertig abzugehn; Kein Einwand gilt, unwiderruflich bleibt's.
+PROTEUS. Herr, nicht so schnell ist alles vorbereitet; Nur ein, zwei Tag', ich bitte, schiebt es auf!
+ANTONIO. Ei, was du brauchst, das schicken wir dir nach; Kein längres Zögern, morgen mußt du fort. –
+Panthino, komm, du sollst mir Hülfe leisten, Um eiligst seine Reise zu befördern.
+Antonio und Panthino gehn ab.
+PROTEUS. Das Feuer wollt' ich fliehn, nicht zu verbrennen, Und stürzte mich ins Meer, wo ich ertrinke; Dem Vater wollt' ich Julias Brief nicht zeigen, Aus Furcht, er könne meine Liebe schelten; Und aus dem Vorwand der Entschuldigung Wird ihm die stärkste Hemmung meiner Liebe. Oh! daß der Liebe Frühling, immer wechselnd, Gleich des Apriltags Herrlichkeit uns funkelt; Er zeigt die Sonn' in ihrer vollen Pracht, Bis plötzlich eine Wolk' ihr Licht verdunkelt!
+Panthino kommt zurück.
+PANTHINO. Herr Proteus, Euer Vater ruft nach Euch; Er ist sehr eilig; bitte, folgt mir gleich!
+PROTEUS. Mein Herz ergibt sich, denn es muß ja sein; Doch ruft es tausendmal mit Schmerzen, nein!
+Sie gehn ab.
+Zweiter Aufzug
+Erste Szene Palast in Mailand. Valentin und Flink treten auf.
+FLINK. Herr, Euer Handschuh!
+VALENTIN. Das ist nicht der meine. – Ha! laß mich sehn! Ja, gib ihn, er ist mein; – O süßer Schmuck! der Köstliches hüllt ein! – Ach Silvia! Silvia!
+FLINK. Fräulein Silvia! Fräulein Silvia!
+VALENTIN. Was soll das, Bursch?
+FLINK. Sie ist nicht zu errufen.
+VALENTIN. Ei, wer heißt dich, sie rufen?
+FLINK. Euer Gnaden, oder ich müßte es falsch verstanden haben.
+VALENTIN. Ja, du bist immer zu voreilig.
+FLINK. Und doch ward ich neulich gescholten, daß ich zu langsam sei.
+VALENTIN. Wohlan, sage mir, kennst du Fräulein Silvia?
+FLINK. Sie, die Euer Gnaden liebt?
+VALENTIN. Nun, woher weißt du, daß ich liebe?
+FLINK. Wahrhaftig, an diesen besondern Kennzeichen: Fürs erste habt Ihr gelernt, wie Herr Proteus, Eure Arme in einander zu winden wie ein Mißvergnügter; an einem Liebesliede Geschmack zu finden wie ein Rotkehlchen; allein einherzuschreiten wie ein Pestkranker; zu ächzen wie ein Schulknabe, der sein ABC verloren hat; zu weinen wie eine junge Dirne, die ihre Großmutter begrub; zu fasten wie einer, der in der Hungerkur liegt; zu wachen wie einer, der Einbruch fürchtet; winselnd zu reden wie ein Bettler am  Allerheiligentage. Ihr pflegtet sonst, wenn Ihr lachtet, wie ein Hahn zu krähen; wenn Ihr einher ginget, wie ein Löwe zu wandeln; wenn Ihr fastetet, war es gleich nach dem Essen; wenn Ihr finster blicktet, war es, weil Euch Geld fehlte; und jetzt seid Ihr von Eurer Dame verwandelt, daß, wenn ich Euch ansehe, ich Euch kaum für meinen Herrn halten kann.
+VALENTIN. Bemerkt man alles dies in mir?
+FLINK. Man bemerkt das alles außer Euch.
+VALENTIN. Außer mir? Das ist nicht möglich.
+FLINK. Außer Euch? Nein, das ist gewiß, denn außer Euch wird kein Mensch so einfältig handeln; aber Ihr seid so außer diesen Torheiten, daß diese Torheiten in Euch sind und durchscheinen in Euch, wie Wasser in einem Uringlase, so daß kein Auge Euch sieht, das nicht gleich zum Arzt wird und Eure Krankheit erkennt.
+VALENTIN. Doch sage mir, kennst du Fräulein Silvia?
+FLINK. Die, welche Ihr so anstarret, wenn sie bei Tische sitzt?
+VALENTIN. Hast du das bemerkt? Eben die meine ich.
+FLINK. Nun, Herr, ich kenne sie nicht.
+VALENTIN. Kennst du sie an meinem Anstarren, und kennst sie doch nicht?
+FLINK. Ist es nicht die, die häßlich gewachsen ist?
+VALENTIN. Sie ist schön, Bursche, und noch herrlicher gewachsen.
+FLINK. Das weiß ich recht gut.
+VALENTIN. Was weißt du?
+FLINK. Daß sie nicht so schön ist, und brauner als Wachs.
+VALENTIN. Ich meine, ihre Schönheit ist ausbündig, aber die Herrlichkeit ihres Wuchses unaussprechlich.
+FLINK. Das macht, weil das eine gemalt, und das andre nicht in Rechnung zu stellen ist.
+VALENTIN. Wie gemalt, und wie nicht in Rechnung zu stellen?
+FLINK. Nun, sie ist so gemalt, um sie schön zu machen, daß kein Mensch ihre Schönheit berechnen kann.
+VALENTIN. Was meinst du von mir? Ich stelle ihre Schönheit hoch in Rechnung.
+FLINK. Ihr saht sie niemals, seit sie häßlich ist.
+VALENTIN. Seit wann ist sie häßlich?
+FLINK. Seitdem Ihr sie liebt.
+VALENTIN. Ich habe sie immer geliebt, seit ich sie sah, und doch sehe ich sie reich an Schönheit.
+FLINK. Wenn Ihr sie liebt, könnt Ihr sie nicht sehn.
+VALENTIN. Warum?
+FLINK. Weil Liebe blind ist. Oh! daß Ihr meine Augen hättet, oder Eure Augen hätten die Klarheit, welche sie hatten, als Ihrden Herrn Proteus schaltet, daß er ohne Kniebänder ging.
+VALENTIN. Was würde ich dann sehn?
+FLINK. Eure gegenwärtige Torheit und ihre übergroße Häßlichkeit; denn er, weil er verliebt war, konnte nicht sehn, um sein Knieband zu schnallen; und Ihr, weil Ihr verliebt seid, könnt gar nicht einmal sehn, ob Ihr Strümpfe anhabt oder nicht.
+VALENTIN. So scheint's, Bursche, du bist verliebt; denn gestern morgen konntest du nicht sehen, ob meine Schuhe geputzt waren.
+FLINK. Wahrhaftig, Herr, ich war in mein Bett verliebt; ich danke Euch, daß Ihr mich meiner Liebe wegen wamstet, denn das macht mich um so kühner, Euch um die Eure zu schelten.
+VALENTIN. Ich stehe ganz in Flammen.
+FLINK. Oh! wenn Ihr Euch doch setztet!
+VALENTIN. Gestern abend trug sie mir auf, einige Verse an jemand zu schreiben, den sie liebt.
+FLINK. Und tatet Ihr's?
+VALENTIN. Ja.
+FLINK. Und sind sie nicht sehr lahm geschrieben?
+VALENTIN. Nein, Bursch, so gut wie ich nur konnte; – still, hier kommt sie. Silvia kommt.
+FLINK. O herrliches Puppenspiel! O vortreffliche Marionetten! Jetzt wird er nun ausdeuten.
+VALENTIN. Fräulein und Gebieterin, tausend gute Morgen!
+FLINK beiseit. Oh! einen guten Abend dazu. Über die Millionen von Komplimenten!
+SILVIA. Ritter Valentin und Diener, ich gebe Euch zweitausend.
+FLINK beiseit. Er sollte ihr Zinsen geben, und sie gibt sie ihm.
+VALENTIN. Wie Ihr befahlt, hab' ich den Brief geschrieben An den geheimen, namenlosen Freund; Sehr ungern ließ ich mich dazu gebrauchen, Geschah's aus Pflicht für Euer Gnaden nicht.
+SILVIA. Dank, edler Diener: recht geschickt vollführt.
+VALENTIN. Glaubt mir, mein Fräulein, es ging schwer vonstatten; Denn, unbekannt, an wen es war gerichtet, Schrieb ich aufs Ungefähr und unbestimmt.
+SILVIA. Ihr achtet wohl zu viel so viele Mühe?
+VALENTIN. Nein, Fräulein; nützt es Euch, so will ich schreiben, Wenn Ihr's befehlt, noch tausendmal so viel. Und doch –
+SILVIA. Ein schöner Schluß! Ich rate, was soll folgen; Doch nenn' ich's nicht; – doch kümmert es mich nicht; – Und doch, nehmt dies zurück – und doch, ich dank' Euch; Und will Euch künftig niemals mehr bemühn.
+FLINK beiseit. Und doch geschieht's gewiß; und doch, und doch.
+VALENTIN. Was meint Euer Gnaden? Ist es Euch nicht recht?
+SILVIA. Ja, ja; die Verse sind recht gut geschrieben; Doch, da Ihr's ungern tatet, nehmt sie wieder; Hier, nehmt sie hin!
+VALENTIN. Fräulein, sie sind für Euch.
+SILVIA. Ja, ja; Ihr schriebt sie, Herr, auf mein Ersuchen; Ich aber will sie nicht; sie sind für Euch; Ich hätte gern sie rührender gehabt.
+VALENTIN. Wenn Ihr befehlt, schreib' ich ein andres Blatt.
+SILVIA. Und schriebt Ihr es, so lest es durch statt meiner; Gefällt es Euch, dann gut; wo nicht, auch gut.
+VALENTIN. Und wenn es mir gefällt, Fräulein, was dann?
+SILVIA. Gefällt es Euch, so nehmt's für Eure Mühe; Und so, mein lieber Diener, guten Morgen!
+Silvia geht ab.
+FLINK. O unsichtbares Späßchen! das zu ergründen nicht geht! Wie der Wetterhahn auf dem Turm, wie die Nas' im Gesicht steht! Es dient mein Herr und fleht ihr; doch sie wünscht ihn sich dreister
+Und macht aus ihrem Schüler sich selber den Schulmeister. O auserlesnes Kunststück! Gab's je von dem Gelichter? Mein Herr, als Sekretär, schreibt an sich selbst als Dichter.
+VALENTIN. Was räsonierst du so mit dir selbst?
+FLINK. Nein, ich meinte nur; die Räson habt Ihr.
+VALENTIN. Um was zu tun?
+FLINK. Freiwerber für Fräulein Silvia zu sein.
+VALENTIN. Für wen?
+FLINK. Für Euch selbst, und sie wirbt um Euch figürlich.
+VALENTIN. Wie denn figürlich?
+FLINK. Durch einen Brief, wollt' ich sagen.
+VALENTIN. Sie hat ja an mich nicht geschrieben.
+FLINK. Was braucht sie's, da sie Euch an Euch selbst hat schreiben lassen? Nun, merkt Ihr den Spaß?
+VALENTIN. Nichts, wahrlich!
+FLINK. Ihr nehmt nichts wahr, in der Tat, Herr. Aber merktet Ihr nicht ihren Ernst?
+VALENTIN. Es ward mir keiner, als ein zornig Wort.
+FLINK. Sie gab Euch ja einen Brief.
+VALENTIN. Das ist der Brief, den ich an ihren Freund geschrieben habe.
+FLINK. Und den Brief hat sie bestellt, und damit gut.
+VALENTIN. Ich wollte, es wäre nicht schlimmer.
+FLINK. Ich bürge Euch dafür, es ist grade so gut; Denn oft geschrieben habt Ihr ihr, und sie, aus Sittsamkeit, Weil Muß' ihr auch vielleicht gefehlt, gab nimmer Euch Bescheid; Vielleicht auch bang, daß Boten wohl Betrügerei verübten, Hat sie die Liebe selbst gelehrt zu schreiben dem Geliebten. Das sprech' ich wie gedruckt, denn ich sah's gedruckt. – Was steht Ihr in Gedanken? Es ist Essenzeit.
+VALENTIN. Ich habe gegessen.
+FLINK. Ja, aber hört, Herr: wenn auch das Chamäleon Liebe sich mit Luft sättigen kann, ich bin einer, der sich von Speise nährt, und möchte gern essen. Ach! seid nicht wie Eure Dame, laßt Euch rühren! laßt Euch rühren! Beide gehn ab.
+Zweite Szene Juliens Zimmer. Proteus und Julia treten auf.
+PROTEUS. Geduldig, liebe Julia!
+JULIA. Ich muß, wo keine Hülfe ist.
+PROTEUS. Sobald ich irgend kann, kehr' ich zurück.
+JULIA. Verkehrt sich Euer Sinn nicht, kehrt Ihr bald; Nehmt dies als Eurer Julia Angedenken.
+Sie gibt ihm einen Ring.
+PROTEUS. So tauschen wir; nimm dies und denke mein!
+JULIA. Laß heil'gen Kuß des Bundes Siegel sein!
+PROTEUS. Nimm meine Hand als Zeichen ew'ger Treue, Und wenn im Tag mir eine Stund' entschlüpft, In der ich nicht um dich, o Julia, seufze, Mag in der nächsten Stund' ein schweres Unheil Mich für Vergessenheit der Liebe strafen! Mein Vater wartet mein; oh! sage nichts; Die Flut ist da: nicht deiner Tränen Flut, Die hält mich länger, als ich bleiben sollte.
+Julia geht ab.
+Julia, leb wohl! – Wie? Ohn' ein Wort gegangen? Ja, treue Lieb' ist so, sie kann nicht sprechen. Mit Taten schmückt sich Treu' und nicht mit Worten.
+Panthino tritt auf.
+PANTHINO. Man wartet schon.
+PROTEUS. Ich komme, geh nur fort! Ach! Trennung macht verstummen Liebeswort.
+Beide gehn ab.
+Dritte Szene Straße. Lanz tritt auf und führt einen Hund am Strick.
+LANZ. Nein, in einer ganzen Stunde werde ich nicht mit Weinen fertig; alle Lanze haben nun einmal den Fehler. Ich habe mein Erbteil empfangen, wie der verlorne Sohn, und gehe mit Herrn Proteus an den kaiserlichen Hof. Ich denke, Krabb, mein Hund, ist der allerhartherzigste Hund auf der ganzen Welt; meine Mutter weinte, mein Vater jammerte, meine Schwester schrie, unsre Magd heulte, unsre Katze rang die Hände, und unser ganzes Haus war im erbärmlichsten Zustand, da vergoß dieser tyrannische Köter nicht eine Träne; er ist ein Stein, ein wahrer Kieselstein, und hat nicht mehr Nächstenliebe als ein Hund; ein Jude würde geweint haben, wenn er unsern Abschied gesehn hätte; ja, meine Großmutter, die keine Augen mehr hat, seht ihr, die weinte sich blind bei meinem Fortgehn. Ich will euch zeigen, wie es herging: dieser Schuh ist mein Vater; nein, dieser linke Schuh ist mein Vater, – nein, dieser linke Schuh ist meine Mutter; nein, so kann es nicht sein; – ja, es ist so, es ist so; er hat die schlechteste Sohle; dieser Schuh mit dem Loch ist meine Mutter, und dieser mein Vater; hol' mich der Henker! so ist's; nun dieser Stock ist meine Schwester, denn seht ihr, sie ist so weiß wie eine Lilie und schlank wie eine Gerte; dieser Hut ist Hanne, unsre Magd, ich bin der Hund, – nein, der Hund ist er selbst, und ich bin der Hund, – ach! der Hund ist ich, und ich bin auch ich selbst; ja, ja, so ist's. Nun komme ich zu meinem Vater; Vater, Euern Segen; nun kann der Schuh vor Weinen kein Wort sprechen; nun küsse ich meinen Vater; gut, er weint fort; – nun komme ich zu meiner Mutter (oh, daß sie nur sprechen könnte, wie ein Weib, das von Sinnen ist!); gut, ich küsse sie; ja, das ist wahr: das ist meiner Mutter Atem ganz und gar; nun komme ich zu meiner Schwester; gebt acht, wie sie ächzt; nun vergießt der Hund keine Träne, und spricht während der ganzen Zeit kein Wort; und ihr seht doch, wie ich den Staub mit meinen Tränen lösche.
+Panthino tritt auf.
+PANTHINO. Fort, fort, Lanz, an Bord; dein Herr ist eingeschifft, und du mußt hinterher rudern. Was ist das? Was weinst du, Kerl? Fort, Esel; du wirst dich ohne Not verstricken und das Schiff verlieren, wenn du länger wartest.
+LANZ. Das tut nichts, denn es ist die hartherzigste Verstrickung, die jemals ein Mensch am Strick mit sich führte.
+PANTHINO. Welche hartherzige Verstrickung meinst du?
+LANZ. Die ich hier am Strick habe; Krabb, mein Hund.
+PANTHINO. Schweig', Kerl! Ich meine, du wirst die Flut verlieren, und wenn du die Flut verlierst, deine Reise verlieren, und wenn du die Reise verlierst, deinen Herrn verlieren, und wenn du deinen Herrn verlierst, deinen Dienst verlieren, und wenn du deinen Dienst verlierst – Warum hältst du mir den Mund zu?
+LANZ. Aus Furcht, du möchtest deine Zunge verlieren. – Mag ich Flut, Reise, Herrn und Dienst verlieren! Flut! – Ja, Mann, wenn der Strom vertrocknet wäre, bin ich imstande, ihn mit meinen Tränen zu füllen; wenn der Wind sich gelegt hätte, könnte ich das Boot mit meinen Seufzern treiben.
+PANTHINO. Komm, komm fort, Kerl, ich bin her geschickt, dich zu holen.
+LANZ. Hol' dich der Henker!
+PANTHINO. Wirst du gehn?
+LANZ. Ja, ich will gehn. Beide gehn ab.
+Vierte Szene Palast in Mailand. Valentin, Silvia, Thurio und Flink treten auf.
+SILVIA. Diener –
+VALENTIN. Gebieterin?
+FLINK. Herr, Thurio runzelt gegen Euch die Stirn.
+VALENTIN. Ja, Bursch, aus Liebe.
+FLINK. Nicht zu Euch.
+VALENTIN. Zu meiner Dame also.
+FLINK. Es wäre gut, Ihr gäbet ihm eins.
+SILVIA. Diener, Ihr seid mißlaunig.
+VALENTIN. In Wahrheit, Fräulein, ich scheine so.
+SILVIA. Scheint Ihr, was Ihr nicht seid?
+VALENTIN. Vielleicht.
+THURIO. Das tun Gemälde.
+VALENTIN. Das tut Ihr.
+THURIO. Was scheine ich, das ich nicht bin?
+VALENTIN. Weise.
+THURIO. Welch ein Beweis vom Gegenteil!
+VALENTIN. Eure Torheit.
+THURIO. Und wo bemerkt Ihr meine Torheit?
+VALENTIN. In Eurem Wams.
+THURIO. Mein Wams ist gedoppelt.
+VALENTIN. Nun, so wird auch Eure Torheit doppelt sein.
+THURIO. Wie?
+SILVIA. Wie, erzürnt, Ritter Thurio? Verändert Ihr die Farbe?
+VALENTIN. Gestattet es ihm, Fräulein; er ist eine Art Chamäleon.
+THURIO. Das mehr Lust hat, Euer Blut zu trinken, als in Eurer Luft zu leben.
+VALENTIN. Ihr habt gesprochen, Herr.
+THURIO. Ja, Herr, und für diesmal auch geendigt.
+VALENTIN. Ich weiß es wohl, Herr, daß Ihr immer geendigt habt, ehe Ihr anfangt.
+SILVIA. Eine hübsche Artillerie von Worten, edle Herren, und munter geschossen.
+VALENTIN. So ist es in der Tat, Fräulein; und wir danken dem Geber.
+SILVIA. Wer ist das, Diener?
+VALENTIN. Ihr selbst, holdes Fräulein; denn Ihr gebt das Feuer; Herr Thurio borgt seinen Witz von Euer Gnaden Blicken und verschwendet, was er borgt, mildtätig in Eurer Gesellschaft.
+THURIO. Herr, wenn Ihr Wort auf Wort mit mir verschwendet, so werde ich Euren Witz bankerott machen.
+VALENTIN. Das weiß ich wohl, Herr; Ihr habt einen Schatz von Worten, und keine andere Münze Euren Dienern zu geben; denn es zeigt sich an ihren kahlen Livreien, daß sie von Euren kahlen Worten leben.
+SILVIA. Nicht weiter, nicht weiter, edle Herren; hier kommt mein Vater. Der Herzog tritt auf.
+HERZOG. Nun, Tochter Silvia, du bist hart belagert. Herr Valentin, Eu'r Vater ist gesund; Was sagt Ihr wohl zu Briefen aus der Heimat Mit guter Zeitung?
+VALENTIN. Dankbar, gnäd'ger Herr, Empfang' ich jeden frohen Abgesandten.
+HERZOG. Kennt Ihr Antonio, Euren Landsmann, wohl?
+VALENTIN. Ja, gnäd'ger Herr, ich kenne diesen Mann, Daß er geehrt ist und in hoher Achtung Und nach Verdienst im besten Rufe steht.
+HERZOG. Hat er nicht einen Sohn?
+VALENTIN. Ja, einen Sohn, mein Fürst, der wohl verdient, Daß er des Vaters Ruf und Ansehn erbe.
+HERZOG. Ihr kennt ihn näher?
+VALENTIN. Ich kenn' ihn wie mich selbst; denn seit der Kindheit Vereint als Freunde lebten wir zusammen; Und war auch ich ein träger Müßiggänger, Der nicht den Wert der Zeit zu schätzen wußte, Um meine Jugend engelgleich zu kleiden: So nutzt' hingegen Proteus, denn so heißt er, Mit schönem Vorteil seine Tag' und Stunden; Er ist an Jahren jung, alt an Erfahrung; Unreif sein Alter, doch sein Wissen reif; Mit einem Wort (denn hinter seinem Wert Bleibt jedes Lob zurück, das ich ihm gebe), Er ist vollkommen an Gestalt und Geist, An jeder Zierde reich, die Edle ziert.
+HERZOG. Wahrhaftig, wenn er Euer Wort bewährt, So ist er würdig einer Kais'rin Liebe Und gleich geschickt für eines Kaisers Rat. Wohl! dieser Edelmann ist angelangt
+Und bringt Empfehlung mir von mächt'gen Herren; Hier denkt er ein'ge Zeit sich aufzuhalten: Die Nachricht, mein' ich, muß Euch sehr erfreuen.
+VALENTIN. Blieb etwas mir zu wünschen, so war er's.
+HERZOG. Nun, so bewillkommt ihn, wie er's verdient: Dich, Silvia, fodr' ich auf und, Thurio, Euch, Denn Valentin bedarf nicht der Ermahnung; Ich geh' und will sogleich ihn zu Euch senden.
+Der Herzog geht ab.
+VALENTIN. Dies, Fräulein, ist der Mann, von dem ich sagte, Er wäre mir gefolgt, wenn die Geliebte Sein Auge nicht mit Strahlenblick gefesselt.
+SILVIA. So hat sie ihm die Augen frei gegeben Und andres Pfand für seine Treu' behalten.
+VALENTIN. Gewiß hält sie sie als Gefangne noch.
+SILVIA. So muß er blind sein; und wie kann ein Blinder Nur seinen Weg sehn, um Euch aufzusuchen?
+VALENTIN. Ei, Liebe sieht mit mehr als funfzig Augen.
+THURIO. Man sagt, daß Liebe gar kein Auge hat.
+VALENTIN. Um solche Liebende zu sehn als Euch; Sie sieht hinweg, naht ihr ein nüchtern Wesen.
+SILVIA. Genug, genug! Hier kommt der Fremde schon. Proteus tritt auf.
+VALENTIN. Willkommen, teurer Freund! – Ich bitt' Euch, Herrin, Bestätigt durch besondre Huld den Willkomm!
+SILVIA. Sein eigner Wert ist Bürge seines Willkomms. Ist er's, von dem Ihr oft zu hören wünschtet?
+VALENTIN. Er ist's, Gebiet'rin; gönnt ihm, holdes Fräulein, Daß er, gleich mir, sich Eurem Dienste weihe!
+SILVIA. Zu niedre Herrin für so hohen Diener.
+PROTEUS. Nein, holdes Fräulein, zu geringer Diener, Daß solche hohe Herrin auf ihn schaue.
+VALENTIN. Laßt jetzt Unfähigkeit auf sich beruhn. – Nehmt, holdes Fräulein, ihn als Diener an!
+PROTEUS. Ergebenheit, nichts andres kann ich rühmen.
+SILVIA. Und immer fand Ergebenheit den Lohn. Wie wertlos auch die Herrin, grüßt sie dich.
+PROTEUS. Wer außer Euch so spräche, müßte sterben.
+SILVIA. Daß Ihr willkommen seid?
+PROTEUS. Nein, daß Ihr wertlos. Ein Diener tritt auf.
+DIENER. Eu'r Vater will Euch sprechen, gnäd'ges Fräulein.
+SILVIA. Ich bin zu seinem Dienst. Diener geht ab.
+Kommt, Ritter Thurio, Geht mit! – Nochmals willkommen, neuer Diener! Jetzt mögt ihr von Familiensachen sprechen; Ist das geschehn, erwarten wir euch wieder.
+PROTEUS. Wir werden beid' Euch unsre Dienste widmen. Silvia, Thurio und Flink gehn ab.
+VALENTIN. Nun sprich, wie ging es allen, da du schiedest?
+PROTEUS. Gesund sind deine Freund' und grüßen herzlich.
+VALENTIN. Wie geht's den Deinen?
+PROTEUS. Alle waren wohl.
+VALENTIN. Wie steht's um deine Dam' und deine Liebe?
+PROTEUS. Liebesgespräche waren dir zur Last; Ich weiß, du hörst nicht gern von Liebessachen.
+VALENTIN. Ja, Proteus, doch dies Leben ist verwandelt; Gebüßt hab' ich, weil ich verschmäht die Liebe; Ihr hohes Herrscherwort hat mich gestraft Mit strengem Fasten, reuig bittrer Klage, Mit Tränen nächtlich, tags mit Herzensseufzern; Denn, um der Liebe Hohn an mir zu rächen, Nahm sie den Schlaf den Augen ihres Knechts, Daß sie des Herzensgrames Wächter wurden. Oh, Liebster, Amor ist ein mächt'ger Fürst Und hat mich so gebeugt, daß ich bekenne, Es gibt kein Weh, das seiner Strafe glich', Doch gibt's nicht größre Lust, als ihm zu dienen. Jetzt kein Gespräch, als nur von Lieb' allein;
+Jetzt ist mir Frühstück, Mittag-, Abendmahl, Schlummer und Schlaf das bloße Wort schon: Liebe.
+PROTEUS. Genug; denn schon dein Auge spricht dein Glück. War dies der Abgott, dem du huldigest?
+VALENTIN. Ja; ist sie nicht ein himmlisch Heil'genbild?
+PROTEUS. Nein; doch sie ist ein irdisch Musterbild.
+VALENTIN. Nenn' göttlich sie!
+PROTEUS. Nicht schmeicheln will ich ihr.
+VALENTIN. Oh, schmeichle mir; des Lobs freut sich die Liebe.
+PROTEUS. Mir, als ich krank war, gabst du bittre Pillen; Jetzt reich' ich dir dieselbe Arzenei.
+VALENTIN. So sprich von ihr die Wahrheit; wenn nicht göttlich, Laß sie doch eine Hoheit sein, erhaben Vor allen Kreaturen auf der Erde.
+PROTEUS. Nur Julia nehm' ich aus.
+VALENTIN. Nimm keine aus; Du nimmst zu viel dir gegen sie heraus.
+PROTEUS. Hab' ich nicht Grund, die meine vorzuziehn?
+VALENTIN. Und ich will ihr zum höchsten Vorzug helfen: Sie soll gewürdigt sein der hohen Ehre, – Zu tragen Silvias Schleppe; daß dem Kleid Die harte Erde keinen Kuß entwende Und, durch so große Gunst von Stolz gebläht, Zu tragen weigert sommersüße Blumen Und rauhen Winter ewigdauernd halte.
+PROTEUS. Was, lieber Valentin, ist das für Schwulst?
+VALENTIN. Verzeih! Mit ihr verglichen ist das nichts, Ihr Wert macht jeden andern Wert zum Nichts; So einzig ist sie.
+PROTEUS. Bleib' sie einzig denn!
+VALENTIN. Nicht um die Welt! Ja, Freund, sie ist schon mein, Und ich so reich in des Juwels Besitz, Als zwanzig Meere, all ihr Sand von Perlen, Nektar die Flut, gediegnes Gold die Felsen. Verzeih'! auch kein Gedanke mehr an dich, Denn jeder ist Begeist'rung für die Liebste.
+Mein Nebenbuhl, der Tor, den um sein großes Vermögen nur der Vater schätzen kann, Ging fort mit ihr; und eilig muß ich nach, Denn Liebe, weißt du, ist voll Eifersucht.
+PROTEUS. Doch sie liebt dich?
+VALENTIN. Ja, und wir sind verlobt; Noch mehr, die Stunde der Vermählung selbst, Und auch die List, wie wir entfliehen mögen; Beredet schon, wie ich zum Fenster steige Auf seilgeknüpfter Leiter; jedes Mittel Erdacht und fest bestimmt zu meinem Glück. Geh, guter Proteus, mit mir auf mein Zimmer, Daß mir dein Rat in dieser Sache helfe.
+PROTEUS. Geh nur voran; ich will dich schon erfragen. Ich muß zur Reed', um ein'ges auszuschiffen, Was mir von meinen Sachen nötig ist; Und dann bin ich zu deinen Diensten gleich.
+VALENTIN. Und kommst du bald?
+PROTEUS. Gewiß, in kurzer Frist. Valentin geht ab.
+Wie eine Glut die andre Glut vernichtet, So wie ein Keil den anderen vertreibt, Ganz so ist das Gedächtnis vor'ger Liebe Vor einem neuen Bild durchaus vergessen. Ist es mein Aug', ist's meines Freundes Lob, Ihr echter Wert, mein falscher Unbestand, Was Unvernunft so zum Vernünfteln treibt? Schön ist sie; so auch Julia, die ich liebe, – Nein liebte, denn mein Lieben ist zerronnen; Und, wie ein Wachsbild an des Feuers Glut, Schwand jeder Eindruck dessen, was sie war. Mich dünkt mein Eifer kalt für Valentin, Und daß ich ihn nicht liebe so wie sonst; Ach! doch sein Fräulein lieb' ich allzu sehr: Dies ist der Grund, ihn weniger zu lieben. Wie wird ein tiefrer Sinn sie einst vergöttern, Wo ich jetzt leicht gesinnt sie schon verehre!
+Nur ihr Gemälde hab' ich erst gesehn, Und das hat meines Denkens Licht geblendet; Wird sie mir erst im vollen Glanz erscheinen, Erstirbt das Denken, und ich werde blind. Kann ich verirrte Liebe heilen, sei's; Wo nicht, erring' ich sie um jeden Preis.
+Geht ab.
+Fünfte Szene Flink und Lanz treten auf.
+FLINK. Lanz! bei meiner Seele, du bist in Mailand willkommen.
+LANZ. Schwöre nicht falsch, liebes Kind; denn ich bin nicht willkommen. Ich sage es immer: ein Mann ist nicht eher verloren, bis er gehängt, und nicht eher an einem Ort willkommen, bis irgendeine Zeche bezahlt ist und die Wirtin zu ihm willkommen sagt.
+FLINK. Komm mit mir, du Narrenkopf, ich will gleich mit dir ins Bierhaus; wo du für fünf Stüber fünftausend Willkommen haben sollst. Aber, sage doch, wie schied dein Herr von Fräulein Julia?
+LANZ. Wahrhaftig, nachdem sie im Ernst miteinander geschlossen hatten, schieden sie ganz artig im Spaß.
+FLINK. Aber wird sie ihn heiraten?
+LANZ. Nein.
+FLINK. Wie denn? Wird er sie heiraten?
+LANZ. Nein, auch nicht.
+FLINK. Wie, sind sie auseinander?
+LANZ. Nein, sie sind beide so ganz, wie ein Fisch.
+FLINK. Nun denn, wie steht die Sache mit ihnen?
+LANZ. Ei so: wenn es mit ihm wohl steht, steht es wohl mit ihr.
+FLINK. Welch ein Esel bist du! du widerstehst mir immer.
+LANZ. Und du bist ein Klotz; denn mein Stock widersteht mir auch.
+FLINK. In deiner Meinung?
+LANZ. Nein, selbst in meinen Handlungen; denn sieh, ich lehne mich so rücklings auf ihn, und so widersteht mir mein Stock.
+FLINK. So steht er dir entgegen, das ist wahr.
+LANZ. Nun, widerstehn und entgegenstehn ist doch wohl dasselbe.
+FLINK. Aber sage mir die Wahrheit, gibt es eine Heirat?
+LANZ. Frage meinen Hund; wenn er ja sagt, gibt's eine; wenn er nein sagt, gibt's eine; wenn er den Schwanz schüttelt und nichts sagt, gibt's eine.
+FLINK. Der Schluß ist also, daß es eine gibt.
+LANZ. Du sollst niemals solch ein Geheimnis anders von mir herausbringen als durch ein Gleichnis.
+FLINK. Es ist mir recht, daß ich es so heraus bringe. Aber, Lanz, was sagst du, daß mein Herr so ein tüchtiger Reimsinger geworden ist?
+LANZ. Ich habe ihn nie anders gekannt.
+FLINK. Als wie?
+LANZ. Als einen tüchtigen Weinschlinger, wie du ihn eben rühmst.
+FLINK. Ei, du nichtsnutziger Esel, du verdrehst mir alles im Maul.
+LANZ. Ei, Narr, ich meinte ja nicht, daß du das Glas am Maul hast, sondern dein Herr.
+FLINK. Ich sage dir, mein Herr ist ein eifriger Reimsänger geworden.
+LANZ. Nun, ich sage dir, es ist mir gleich, wenn er sich auch die Lunge aus dem Halse singt. Willst du mit mir ins Bierhaus gehn: gut; wo nicht, so bist du ein Hebräer, ein Jude, und nicht wert, ein Christ zu heißen.
+FLINK. Warum?
+LANZ. Weil du nicht so viel Nächstenliebe in dir hast, mit einem Christen zu Biere zu gehn; willst du gehen?
+FLINK. Wie du befiehlst. Beide gehen ab.
+Sechste Szene Zimmer. Proteus tritt auf.
+PROTEUS. Verlass' ich meine Julia, ist es Meineid; Lieb' ich die schöne Silvia, ist es Meineid; Kränk' ich den Freund, das ist der höchste Meineid; Dieselbe Macht, die erst mich schwören ließ, Sie reizt mich jetzt, dreifachen Schwur zu brechen; Die Liebe zwang zum Eid und zwingt zum Meineid. O Liebe, süß verführend, wenn du sündigst, So lehr' auch den Verführten sich entschuld'gen! Erst huldigt' ich dem schimmernden Gestirn, Jetzt bet' ich an den Glanz der Himmelssonne. Man bricht bedachtsam unbedacht Gelübde, Und dem fehlt Witz, dem echter Wille fehlt, Den Witz zu brauchen, gut für schlecht zu wählen. – Pfui dir, du Lästerzunge! schlecht zu nennen, Die du als höchstes Gut so oft gepriesen Mit zwanzigtausend seelverbürgten Eiden. Nicht meiden kann ich Lieb', und doch geschieht's; Doch meid' ich dort sie, wo ich lieben sollte. Julia verlier' ich, und den Freund verlier' ich; Und sind sie mein, muß ich mich selbst verlieren; Verlier' ich sie, find' ich durch den Verlust, Für Valentin, mich selbst; für Julia, Silvia. Ich bin mir selber näher als der Freund, Und Lieb' ist in sich selbst am köstlichsten. Denn Silvia, – zeug', o Himmel, der sie schuf! – Stellt Julia mir als dunkle Mohrin dar. Vergessen will ich denn, daß Julia lebt, Nur denken, mein Gefühl für sie sei tot; Und Valentin will ich als Feind betrachten, Daß Silvia ich, den süßern Freund, erwerbe. Ich kann die Treu' mir selber nicht bewahren, Begeh' ich nicht Verrat an Valentin. – Die Nacht denkt er auf seilgeknüpfter Leiter Der Göttin Silvia Fenster zu ersteigen;
+Ich, der Vertraute, bin sein Nebenbuhler. Gleich will ich nun dem Vater Kunde geben Von dem Betrug und der beschloßnen Flucht; Der wird, im Zorn, dann Valentin verbannen, Da er die Tochter Thurio will ermählen. Doch, Valentin entfernt, durchkreuz' ich schnell Durch schlaue List des plumpen Thurio Werbung. Leih', Liebe, Schwingen, rasch zum Ziel zu streben, Wie du mir Witz gabst, diese List zu weben!
+Geht ab.
+Siebente Szene Zimmer. Julia und Lucetta treten auf.
+JULIA. Rat' mir, Lucetta; hilf mir, liebes Kind! Und bei der Liebe selbst beschwör' ich dich, – Du bist das Blatt, dem alle meine Wünsche In klaren Zügen eingeschrieben sind: Nun steh mir bei und nenne mir die Mittel, Wie ich mit Ehren unternehmen mag, Zu meinem teuren Proteus hinzureisen.
+LUCETTA. Ach! sehr beschwerlich ist der Weg und lang.
+JULIA. Der wahrhaft fromme Pilger bleibt entschlossen, Mit müdem Schritt Provinzen zu durchmessen: Wie mehr denn sie, beschwingt mit Liebesfittig, Und strebt der Flug zu dem so hoch geliebten, Göttlich begabten Mann, zu Proteus hin!
+LUCETTA. Doch harren lieber, bis er wiederkehrt.
+JULIA. Du weißt, sein Blick ist meiner Seele Nahrung; Dich jammert nicht der Mangel, der mich quält, Da ich so lang' nach dieser Nahrung schmachte? Oh! kenntest du die innre Kraft der Liebe, Du möchtest eh' mit Schnee ein Feuer zünden, Als Liebesglut durch Worte löschen wollen.
+LUCETTA. Nicht will ich Eurer Liebe Feuer löschen, Nur mäßigendes Feuers Ungestüm, Daß es der Klugheit Schranke nicht zerstöre.
+JULIA. Je mehr du's dämpfst, je heller flammt es auf; Der Bach, der nur mit sanftem Murmeln schleicht, Tobt ungeduldig, wird er eingehemmt; Doch wird sein schöner Lauf nicht aufgehalten, Spielt er ein süßes Lied mit Glanzgestein Und streift mit zartem Kuß jedwede Binse, Die er auf seinem Pilgerpfad berührt; So wandert er durch manche Schlangenwindung Mit leichtem Spiel zum wilden Ozean. Drum laß mich gehn und stör' nicht meinen Lauf; Ich bin geduldig, wie ein sanfter Strom, Und Kurzweil acht' ich jeden müden Schritt, Bis mich der letzte zum Geliebten bringt; Dort will ich ruhn, gleichwie nach Angstbedrängnis Ein sel'ger Geist wohnt in Elysium.
+LUCETTA. Allein in welcher Kleidung wollt Ihr gehn?
+JULIA. Nicht wie ein Mädchen; denn vermeiden möcht ich Den lockern Angriff ausgelass'ner Männer. Gute Lucetta, solch Gewand besorge, Wie's einem zücht'gen Edelknaben ziemt.
+LUCETTA. So müßt Ihr Euch der Locken ganz berauben.
+JULIA. Nein, Kind, ich flechte sie in seidne Schnüre Mit seltsam, künstlich, treuen Liebesknoten; Phantastisch so zu sein, ziemt selbst dem Jüngling, Der älter ist, als ich erscheinen werde.
+LUCETTA. Nach welchem Schnitt wollt Ihr das Beinkleid tragen?
+JULIA. Das klingt ganz so, als – »sagt mir, gnäd'ger Herr, Wie weit wollt Ihr wohl Euren Reifrock haben?« Nun, nach dem Schnitt, der dir gefällt, Lucetta.
+LUCETTA. Notwendig müßt Ihr dann mit Latz sie tragen.
+JULIA. Pfui, pfui, Lucetta! das wird häßlich sein.
+LUCETTA. Die runde Hos' ist keine Nadel wert. Ein Latz muß sein, um Nadeln drauf zu stecken.
+JULIA. Lucetta, liebst du mich, so schaffe mir, Was gut dir dünkt und sich am besten ziemt; Doch, Mädchen, sprich: wie wird die Welt mich richten,
+Wenn sie die unbedachte Reis' erfährt? Ich fürchte sehr, es schadet meinem Ruf.
+LUCETTA. Wenn Ihr das denkt, so bleibt und gehet nicht!
+JULIA. Das will ich nicht.
+LUCETTA. So lacht denn jeder Läst'rung und geht fort! Lobt Proteus nur die Reise, wenn Ihr kommt, So denkt nicht an den Tadler, seid Ihr fort; Ich fürcht', er wird sie schwerlich billigen.
+JULIA. Das ist, Lucetta, meine kleinste Sorge; Viel tausend Schwür', ein Ozean von Tränen Und Treugelübd' unzählbar, echter Liebe, Verbürgen, daß ich ihm zur Freude komme.
+LUCETTA. All dies ist trügerischen Männern dienstbar.
+JULIA. Zu schlechtem Zweck, gebraucht von schlechten Männern! Proteus' Geburt regierten treu're Sterne; Sein Wort ist heil'ges Band, sein Schwur Orakel, Treu seine Lieb' und seine Seele rein; Weint er, dies ist der Liebe treu' Gebärde, Der Lüge fern, wie Himmel von der Erde.
+LUCETTA. Mögt Ihr ihn so nur finden, wenn Ihr kommt!
+JULIA. Oh, liebst du mich, so kränk' ihn nicht so bitter, Daß seine Treue du in Zweifel ziehst; Nur wer ihn liebt, kann meine Lieb' erwerben. So folge mir denn auf mein Zimmer gleich, Zu überdenken, was mir nötig sei, Mich auszurüsten zur ersehnten Reise. Dir sei mein ganz Vermögen übergeben, So Hausrat, Länderei'n, wie guter Ruf; Dafür allein, hilf mir alsbald von hier! Antworte nicht, geh mit mir flugs hinein; Denn Ungeduld bringt jedes Zögern mir.
+Sie gehn ab.
+Dritter Aufzug
+Erste Szene Zimmer. Herzog, Proteus und Thurio treten auf.
+HERZOG. Verlaßt uns, Signor Thurio, kurze Zeit; Wir haben heimlich etwas zu besprechen. –
+Thurio geht ab. Jetzt, Proteus, sagt, was Ihr von mir begehrt!
+PROTEUS. Mein gnäd'ger Herr, was ich Euch wollt' entdecken, Heißt das Gesetz der Freundschaft mich verhehlen; Doch, wenn ich Eurer gnäd'gen Huld gedenke, Die Ihr dem Unverdienten reich geschenkt, So spornt mich meine Pflicht, Euch auszusprechen, Was sonst kein Gut der Welt mir je entrisse. Wißt, gnäd'ger Herzog: Valentin, mein Freund, Will Eure Tochter diese Nacht entführen; Mir ward der Anschlag von ihm selbst vertraut. Ich weiß, Ihr seid entschlossen, Signor Thurio Sie zu vermählen, den das Fräulein haßt; Und wenn man sie auf diese Art entführte, Es brächte Euerm Alter bittres Leid. Drum wählt' ich lieber, meiner Pflicht gemäß, Des Freundes Absicht so zu hintertreiben, Als, sie verhehlend, schwere Sorgen nieder Auf Euer Haupt zu ziehn, die, nicht gehoben, In ein frühzeitig Grab Euch nieder drückten.
+HERZOG. Dank, Proteus, für dein redliches Gemüt; Vergelten will ich ganz nach deinem Wunsch. Nicht unbemerkt von mir blieb diese Liebe,
+Wenn sie mich wohl fest eingeschlafen wähnten: Und oft schon dacht' ich, Valentin den Hof Und ihren Umgang streng zu untersagen. Doch, fürchtend, Argwohn geh' auf falscher Spur Und könne unverdient den Mann verletzen (Ein hastig Wesen, das ich stets vermied), Blickt' ich ihn freundlich an, dadurch zu finden Das, was du selber jetzt mir hast entdeckt. Und, daß du siehst, wie ich dies längst gefürchtet, Wohl wissend, leicht verführt sei zarte Jugend, Wohnt sie im hohen Turme jede Nacht. – Den Schlüssel nehm' ich in Verwahrung selbst; Unmöglich ist's, von dort sie weg zu bringen.
+PROTEUS. Wißt, gnäd'ger Herr, ein Mittel ist erdacht, Wie er ihr Kammerfenster mag erklimmen, Daß auf geflochtnem Seil sie niedersteigen; Dies holt der junge Liebende jetzt eben Und muß mit ihm sogleich hier wiederkommen; Auffangen könnt Ihr ihn, wenn's Euch gefällt. Doch, gnäd'ger Herr, tut es mit feiner Wendung, Daß mein Verrat nicht offenbar sich zeige; Denn Liebe nur zu Euch, nicht Haß zu ihm, Bewog mich, seinen Plan bekannt zu machen.
+HERZOG. Bei meiner Ehr', er soll es niemals wissen, Daß du mir hievon Winke hast gegeben.
+PROTEUS. Lebt wohl, mein Fürst; dort naht schon Valentin. Proteus geht ab. Valentin tritt auf.
+HERZOG. Freund Valentin, wohin in solcher Eil'?
+VALENTIN. Mit Eurer Gnaden Gunst, ein Bote wartet, Um meinen Freunden Briefe mitzunehmen, Und jetzo wollt' ich sie ihm übergeben.
+HERZOG. Ist viel daran gelegen?
+VALENTIN. Ihr Inhalt soll nur melden, wie gesund Und glücklich ich an Eurem Hofe lebe.
+HERZOG. So ist's nicht wichtig; weile noch bei mir, Denn ein Geschäft muß ich mit dir besprechen, Ganz in geheim, das nahe mich betrifft.
+Dir ist nicht unbekannt, daß ich die Tochter Mit Thurio, meinem Freund, vermählen wollte.
+VALENTIN. Ich weiß es wohl, mein Fürst; und die Verbindung Ist reich und ehrenvoll; auch ist der Mann Voll Tugend, Trefflichkeit und so begabt, Daß er solch edle Gattin wohl verdient. Könnt Ihr des Fräuleins Herz nicht zu ihm wenden?
+HERZOG. Durchaus nicht; sie ist albern, widerspenstig, Stolz, ungehorsam, starr und pflichtvergessen; Sie weigert mir die Liebe ganz des Kindes, Wie sie nicht Furcht vor ihrem Vater kennt; Und dieser Hochmut, kann ich dir vertrauen, Hat, wohlerwogen, ihr mein Herz entwendet. Ich hoffte sonst die letzten Lebensjahre Gepflegt von Kindesliebe hinzubringen; Doch jetzt ist mein Entschluß, mich zu vermählen, Und sie, entfremdet, wähle, wen sie will; Mög' ihre Schönheit ihre Mitgift sein, Denn mich und meine Güter schätzt sie nicht.
+VALENTIN. Was will Eu'r Gnaden, das ich hierin tu'?
+HERZOG. In eine Dame hier in Mailand, Freund, Bin ich verliebt; doch sie ist spröd' und kalt Und achtet nicht Beredsamkeit des Greises; Drum wollt' ich dich zu meinem Führer wählen (Denn längst vergaß ich schon den Hof zu machen; Auch hat der Zeiten Weise sich verändert), Wie und was Art ich mich betragen soll, Ihr sonnenhelles Aug' auf mich zu lenken.
+VALENTIN. Gewinnt sie durch Geschenk', schätzt sie nicht Worte; Juwelen sprechen oft mit stummer Kunst, Gewinnen mehr als Wort' des Weibes Gunst.
+HERZOG. Sie wies ein Kleinod ab, das ich geschickt.
+VALENTIN. Oft weist ein Weib zurück, was sie beglückt. Ein zweites schickt; ermüdet nicht im Lauf; Verschmähn zuerst weckt später Sehnsucht auf. Wenn sie Euch zürnt, ist's nicht, um Haß zu zeigen, Sie will, Ihr sollt ihr größre Liebe zeigen; Schilt sie Euch weg, so heißt das nicht: geht fort!
+Die Närrchen toben, nimmt man sie beim Wort. Abweisen laßt Euch nie, was sie auch spricht; Denn sagt sie: »Geht«, so meint sie: »Gehet nicht«; Lobt, schmeichelt, preist, vergöttert ihre Gaben; Auch schwarz, laßt sie ein Engelsantlitz haben. Der Mann, der nur 'ne Zung' hat, ist kein Mann, Des Wort nicht jedes Weib gewinnen kann.
+HERZOG. Doch, die ich meine, ward von ihren Freunden Versprochen einem jungen, edlen Herrn; Und streng von Männerumgang ausgeschlossen, Daß niemand sie am Tage sehen darf.
+VALENTIN. So würd' ich denn sie in der Nacht besuchen.
+HERZOG. Verschlossen ist die Tür, verwahrt der Schlüssel, Daß niemand nachts zu ihr gelangen mag.
+VALENTIN. Was hindert, durch das Fenster einzusteigen?
+HERZOG. Hoch ist ihr Zimmer, von dem Boden fern, Und steil gebaut, daß keiner auf mag klimmen, Der augenscheinlich nicht sein Leben wagt.
+VALENTIN. Nun, eine Leiter, wohlgeknüpft aus Schnüren, Hinauf zu werfen mit zwei Eisenklammern, Genügt, der Hero Turm selbst zu ersteigen, Wenn ein Leander kühn es wagen will.
+HERZOG. Fürwahr, du bist ein alter Edelmann: Gib Rat, wie solche Leiter anzuschaffen!
+VALENTIN. Wann braucht Ihr sie? Ich bitte, sagt mir das.
+HERZOG. In dieser Nacht; denn Liebe gleicht dem Kinde, Das alles will, was es erlangen kann.
+VALENTIN. Um sieben Uhr schaff' ich Euch solche Leiter.
+HERZOG. Noch eines; ich allein will zu ihr gehn; Wie läßt sich nun dorthin die Leiter bringen?
+VALENTIN. Leicht könnt Ihr, gnäd'ger Herr, sie selber tragen, Ist Euer Mantel nur von ein'ger Länge.
+HERZOG. Ein Mantel, so wie deiner, möchte passen.
+VALENTIN. Ja, gnäd'ger Herr.
+HERZOG. Zeig' deinen Mantel mir, Ich lass' mir einen machen von der Länge.
+VALENTIN. Ein jeder Mantel, gnäd'ger Herr, ist passend.
+HERZOG. Wie stell' ich mich nur an mit solchem Mantel? –
+Ich bitte, laß mich deinen überhängen! Was ist das für ein Brief? was gibt's? – An Silvia? Und hier ein Instrument, so wie ich's brauche? Vergönnt, daß ich diesmal das Siegel breche! Liest. »Ihr wohnt bei Silvia, meine Nachtgedanken; Als Sklaven send' ich euch dorthin zu fliegen: Oh, könnt' ihr Herr so leicht gehn durch die Schranken, Um da zu ruhn, wo sie gefühllos liegen! Ja, die Gedanken schließ' in sel'ge Brust ein, Wie ich, ihr König, der sie eifernd schickt, Verwünschend wünscht, er möcht' in solcher Lust sein, Weil mehr als er die Diener sind beglückt. Weil ich sie sende, drum verwünsch' ich mich, Wo selbst ich sollte ruhn, erfreun sie sich.« – Was gibt es hier? »Silvia, in dieser Nacht befrei' ich dich!« So ist es; und dazu ist dies die Leiter. – Ha, Phaeton (denn du bist Merops' Sohn), Erfrechst du dich des Himmelswagens Lenkung, Im Übermut die Erde zu verbrennen? Greifst du nach Sternen, weil ihr Glanz dir strahlt? Wahnsinn'ger Sklav'! der frech sich eingedrängt, Gewinn' dir Gleiches durch dein grinsend Lächern! Dank' meiner Nachsicht mehr als deinem Wert, Daß du noch lebend darfst von hier entfliehen; Dies preise mehr als all die Gunstbezeugung, Die ich, nur weggeworfen, dir erwies. Doch, wenn du länger weilst in meinem Land, Als nötig ist zur schnellsten Vorbereitung, Von unserm königlichen Hof zu scheiden, Dann wahrlich will ich dir weit grimm'ger zürnen, Als ich mein Kind je oder dich geliebt. Fort denn und schweig' mit nichtiger Entschuld'gung: Liebst du dein Leben, fort in schnellster Eil'!
+Herzog geht ab.
+VALENTIN. Ha! lieber tot als leben auf der Folter! Zu sterben, ist von mir verbannt zu sein, Und Silvia ist ich selbst; verbannt von ihr, Ist selbst von selbst: o tödliche Verbannung!
+Ist Licht noch Licht, wenn ich nicht Silvia sehe? Ist Lust noch Lust, wo Silvia nicht zugegen? Und war sie's nicht, dacht' ich sie mir zugegen, Entzückt vom Schattenbild der Göttlichkeit. Nur wenn ich in der Nacht bei Silvia bin, Singt meinem Ohr Musik die Nachtigall; Nur wenn ich Silvia kann am Tage sehn, Nur dann strahlt meinem Auge Tag sein Licht: Sie ist mein Lebenselement; ich sterbe, Werd' ich durch ihren Himmelseinfluß nicht Erfrischt, verklärt, gehegt, bewahrt im Leben. Tod folgt mir, flieh' ich seinen Todesspruch; Verweil' ich hier, erwart' ich nur den Tod; Doch Flucht von hier ist aus dem Leben Flucht.
+Proteus und Lanz treten auf.
+PROTEUS. Lauf, Bursch, lauf, lauf und such' ihn mir!
+LANZ. Holla! Holla!
+PROTEUS. Was siehst du?
+LANZ. Den, den wir suchen; es ist nicht ein Haar auf seinem Kopfe, das nicht ein Valentin ist.
+PROTEUS. Valentin?
+VALENTIN. Nein.
+PROTEUS. Wer denn? Sein Geist?
+VALENTIN. Auch nicht.
+PROTEUS. Was denn?
+VALENTIN. Niemand.
+LANZ. Kann niemand sprechen? Herr, soll ich schlagen?
+PROTEUS. Wen willst du schlagen?
+LANZ. Niemand.
+PROTEUS. Zurück, Tölpel!
+LANZ. Nun, Herr, ich will niemand schlagen: Ich bitte Euch –
+PROTEUS. Zurück, sag' ich; Freund Valentin, ein Wort!
+VALENTIN. Mein Ohr ist taub jedweder guten Zeitung, So sehr ist es von Unheil ganz erfüllt.
+PROTEUS. Dann will ich mein' in tiefes Schweigen senken, Denn sie ist rauh, voll Übellaut und schlimm.
+VALENTIN. Ist Silvia tot?
+PROTEUS. Nicht, Valentin.
+VALENTIN. Jawohl, nicht Valentin für Silvias Himmel! Von ihr Verwerfung denn?
+PROTEUS. Nicht, Valentin.
+VALENTIN. Nicht Valentin, wenn Silvia mich verwarf! – Was gibt es denn?
+LANZ. Herr, man rief aus, daß Ihr von hier verbannt.
+PROTEUS. Daß du verbannt bist, ach, das ist die Botschaft: Von hier, von Silvia und von deinem Freund.
+VALENTIN. Von diesen Schmerzen hab' ich schon gezehrt, Das Übermaß wird jetzt mich übersätt'gen. Und weiß es Silvia schon, daß ich verbannt?
+PROTEUS. Ja, ihr entströmte bei dem strengen Spruch (Der unabwendbar bleibt, in kräft'ger Wirkung) Ein Meer von Perlen, Tränen sonst genannt: Die goß sie zu des harten Vaters Füßen; Auf ihre Knie' warf sie sich bittend hin, Die Hände ringend, deren Weiß erglänzte, Als würden sie erst jetzt so bleich aus Gram; Doch nicht gebeugtes Knie, erhobne Hand, Noch Seufzer, Klagen, Silberflut der Tränen Durchdrang des unmitleid'gen Vaters Herz: Nein, Valentin, ergreift man ihn, muß sterben. Ihr Fürwort reizt' ihn noch zu größerm Zorn, Als sie für deine Rückberufung bat: In enge Haft, befahl er, schließt sie ein, Und drohte zornig, nie sie zu befrein.
+VALENTIN. Nichts mehr! wenn nicht dein nächstes Wort, gesprochen, Mit tötender Gewalt mein Leben trifft: Ist's so, dann bitt' ich, hauch' es in mein Ohr, Als Klageschluß endlosen Wehgesangs.
+PROTEUS. Nein, klage nicht, wo du nicht helfen kannst, Und such' zu helfen dem, was du beklagst, Die Zeit ist Amm' und Mutter alles Guten. Verweilst du hier, siehst du nicht die Geliebte; Auch drohet dein Verweilen deinem Leben. Hoffnung ist Liebesstab; zieh' hin mit ihm, Er sei dir gegen die Verzweiflung Stütze.
+Schick' deine Briefe her, bist du auch fern; Die sende mir, und ich befördre sie In den milchweißen Busen deiner Silvia. Zu Klageliedern ist jetzt keine Zeit! Komm, ich begleite dich durchs Tor der Stadt, Und eh' wir scheiden, sprechen wir ausführlich, Was noch zu tun für deiner Liebe Glück. Bei Silvias Liebe, meide die Gefahr Um sie, wenn nicht um dich, und komm mit mir!
+VALENTIN. Lanz! wenn du meinen Pagen sehen solltest, Heiß' eilen ihn und mich am Nordtor treffen!
+PROTEUS. Geh, hörst du, such' ihn auf! Komm, Valentin!
+VALENTIN. Oh, teure Silvia! Armer Valentin! Proteus und Valentin gehn ab.
+LANZ. Ich bin nur ein Narr, seht ihr; und doch habe ich den Verstand, zu merken, daß mein Herr eine Art von Spitzbube ist; das ist alles eins, wenn er nur ein ganzer Spitzbube wäre. Der soll noch geboren werden, der da weiß, daß ich verliebt bin; und doch bin ich verliebt; aber ein Gespann Pferde soll das aus mir nicht heraus ziehen; und auch nicht, in wen ich verliebt bin, und doch ist's ein Weibsbild; aber was für ein Weibsbild, das will ich nicht einmal mir selbst gestehen, und doch ist's ein Milchmädchen; doch ist's kein Mädchen, denn sie hat Kindtaufe gehalten, und doch ist's ein Mädchen, denn sie ist ihres Herrn Mädchen und dient um Lohn. Sie hat mehr Qualitäten als ein Hühnerhund, – und das ist viel für einen Christenmenschen. Hier ist der Katzenlog Zieht ein Papier heraus. von ihren Eigenschaften. Imprimis, sie kann tragen und holen. Nun, ein Pferd kann nicht mehr; ein Pferd kann nicht holen, sondern nur tragen; deswegen ist sie besser als eine Mähre. Item, sie kann melken; seht ihr, eine allerliebste Tugend an einem Mädchen, das saubre Hände hat. Flink tritt auf.
+FLINK. Heda, Signor Lanz, wo ist mein Gebieter?
+LANZ. Dein Gebiet, er? Ich dachte, du wärest sein Gebiet.
+FLINK. Ei, immer dein alter Spaß, die Worte zu verdrehen. Was gibt es denn für Neuigkeiten in deinem Papier?
+LANZ. Die schwärzeste Neuigkeit, von der du jemals gehört hast.
+FLINK. Nun, Bursch, wie schwarz?
+LANZ. Ei, so schwarz wie Tinte.
+FLINK. Laß mich sie lesen!
+LANZ. Fort mit dir, Dummkopf; du kannst nicht lesen.
+FLINK. Du lügst, ich kann.
+LANZ. Ich will dich auf die Probe stellen; sage mir das: wer zeugte dich?
+FLINK. Wahrhaftig, der Sohn meines Großvaters.
+LANZ. O du unstudierter Grützkopf! es war der Sohn deiner Großmutter: das beweist, daß du nicht lesen kannst.
+FLINK. Komm, Narr, komm, mach' die Probe an deinem Papier.
+LANZ. Hier, und Sankt Nikolas steh' dir bei!
+FLINK. Imprimis, sie kann melken.
+LANZ. Ja, das kann sie.
+FLINK. Item, sie brauet gutes Bier.
+LANZ. Und daher kommt das Sprichwort: Glück zu, ihr braut gutes Bier.
+FLINK. Item, sie kann nähen und sticken.
+LANZ. Nun, besser als erwürgen.
+FLINK. Item, sie kann stricken.
+LANZ. So braucht der Mann nicht um einen Strick zu sorgen, wenn die Frau stricken kann.
+FLINK. Item, sie kann waschen und scheuern.
+LANZ. Das ist eine besondere Tugend; denn da braucht man sie nicht zu waschen und zu scheuern.
+FLINK. Item, sie kann spinnen.
+LANZ. So kann ich als Fliege ausfliegen, wenn sie sich mit Spinnen forthilft.
+FLINK. Item, sie hat viele namenlose Tugenden.
+LANZ. Das will sagen, Bastardtugenden; die kennen eben ihre Väter nicht und haben darum keine Namen.
+FLINK. Jetzt folgen ihre Fehler.
+LANZ. Den Tugenden hart auf dem Fuße.
+FLINK. Item, sie ist wegen ihres Atems nüchtern nicht gut zu küssen.
+LANZ. Nun, der Fehler kann durch ein Frühstück gehoben werden; lies weiter!
+FLINK. Sie hat einen süßen Mund.
+LANZ. Das ist ein Ersatz für ihren sauern Atem.
+FLINK. Item, sie spricht im Schlaf.
+LANZ. Das ist besser, als wenn sie im Sprechen schliefe.
+FLINK. Item, sie ist langsam im Reden.
+LANZ. O Schurke, das unter ihre Fehler zu setzen! Langsam im Reden zu sein, ist eines Weibes einzige Tugend; ich bitte dich, streich' das aus und stelle es unter ihre Tugenden obenan!
+FLINK. Item, sie ist eitel.
+LANZ. Weg mit dem dazu; es war Evas Erbteil und kann nicht von ihr genommen werden.
+FLINK. Item, sie hat keine Zähne.
+LANZ. Daraus mache ich mir auch nichts, denn ich liebe die Rinden.
+FLINK. Item, sie ist zänkisch.
+LANZ. Gut; das beste ist, sie hat keine Zähne zum Beißen.
+FLINK. Item, sie lobt sich einen guten Schluck.
+LANZ. Wenn der Schluck gut ist, soll sie's; wenn sie nicht will, tu' ich's; denn was gut ist, muß gelobt werden.
+FLINK. Item, sie ist zu freigebig.
+LANZ. Mit ihrer Zunge kann sie's nicht, denn es steht geschrieben, daß sie langsam damit ist; mit ihrem Beutel soll sie's nicht, denn den will ich verschlossen halten; nun könnte sie es sonst noch mit etwas, und da kann ich nicht helfen. Gut, weiter!
+FLINK. Item, sie hat mehr Haar als Witz, und mehr Fehler als Haare, und mehr Geld als Fehler.
+LANZ. Halt hier; ich will sie haben: sie war mein und nicht mein, zwei- oder dreimal bei diesem letzten Artikel; wiederhole das noch einmal!
+FLINK. Item, sie hat mehr Haar als Witz –
+LANZ. Mehr Haar als Witz, – das mag sein; das will ich beweisen: der Deckel des Salzfasses verbirgt das Salz, und darum ist er mehr als das Salz; das Haar, das den Witz bedeckt, ist mehr als der Witz; denn das Größere verbirgt das Kleinere. Was ist das Nächste?
+FLINK. Und mehr Fehler als Haare –
+LANZ. Das ist schrecklich; wenn das heraus wäre!
+FLINK. Und mehr Geld als Fehler.
+LANZ. Ach, das Wort macht die Fehler zu Tugenden. Gut, ich will sie haben; und wenn das eine Heirat gibt, wie kein Ding unmöglich ist –
+FLINK. Was denn?
+LANZ. Nun, dann will ich dir sagen, daß dein Herr am Nordtor auf dich wartet.
+FLINK. Auf mich?
+LANZ. Auf dich? ja; wer bist du? Er hat schon auf beßre Leute gewartet, als du bist.
+FLINK. Und muß ich zu ihm gehn?
+LANZ. Du mußt zu ihm laufen; denn du hast so lange hier gewartet, daß Gehen schwerlich hinreicht.
+FLINK. Warum sagtest du mir das nicht früher? Hol' der Henker deinen Liebesbrief! Geht ab.
+LANZ. Jetzt kriegt er Prügel, weil er meinen Brief gelesen hat; ein unverschämter Kerl, der sich in Geheimnisse drängen will! – Ich will hinterher und an des Bengels Züchtigung meine Freude haben. Geht ab.
+Zweite Szene Palast. Der Herzog und Thurio treten auf. Proteus nach ihnen.
+HERZOG. Nichts fürchtet, Thurio: lieben wird sie Euch, Nun Valentin aus ihrem Blick verbannt ist.
+THURIO. Seit seiner Flucht hat sie mich ausgehöhnt, Verschworen meinen Umgang, mich gescholten, Daß ich verzweifeln muß, sie zu gewinnen.
+HERZOG. So schwacher Liebeseindruck gleicht dem Bild In Eis geschnitten; eine Stunde Wärme Löst es zu Wasser auf und tilgt die Form. Ein wenig Zeit schmelzt ihren frost'gen Sinn Und macht den niedern Valentin vergessen. –
+Wie nun, Herr Proteus? Sagt, ist Euer Landsmann, Gemäß des strengen Ausrufs, abgereist?
+PROTEUS. Ja, gnäd'ger Herr.
+HERZOG. Betrübt ist meine Tochter um sein Gehn.
+PROTEUS. Bald wird die Zeit, mein Fürst, den Gram vertilgen.
+HERZOG. Das glaub' ich auch; doch Thurio denkt nicht so. – Die gute Meinung, die ich von dir habe (Denn Proben deines Werts hast du gegeben), Macht, daß ich um so eh'r mich dir vertraue.
+PROTEUS. Zeig' ich mich jemals unwert Eurer Gnade, Laßt mich für immer tot sein Eurer Gnade!
+HERZOG. Du weißt, wie sehr ich zu vollziehen wünsche Thurios Verbindung mit der Tochter Silvia.
+PROTEUS. Ich weiß es, gnäd'ger Fürst.
+HERZOG. Und also, denk' ich auch, ist dir bekannt, Wie sie sich meinem Willen widersetzt.
+PROTEUS. Sie tat es nur, als Valentin zugegen.
+HERZOG. Ja, und verkehrten Sinns bleibt sie verkehrt. Was tun wir, daß die Dirne bald vergesse, Wie jenen sie geliebt, und Thurio liebe?
+PROTEUS. Am besten, Valentin so zu verleumden, Als sei er untreu, feig und niedrer Abkunft: Drei Dinge, stets den Weibern sehr verhaßt.
+HERZOG. Doch wird sie denken, daß man spricht in Haß.
+PROTEUS. Ja, wird von einem Feind dies vorgebracht; Drum muß es mit Beweisen der erklären, Der ihr als Freund des Valentin erscheint.
+HERZOG. Ihn zu verleumden, wärest du der nächste.
+PROTEUS. Mit Widerwillen nur, mein gnäd'ger Fürst; Es ziemt sich schlecht für einen Edelmann, Besonders gegen seinen wahren Freund.
+HERZOG. Wo Euer Lob ihm nicht von Nutzen ist, Kann Euer Lästern ihm nicht Schaden bringen; Und drum kann solch ein Dienst Euch nicht verletzen, Da Euch ein Freund um dieses Opfer bittet.
+PROTEUS. Ihr sollt mich überstimmen, gnäd'ger Herr;
+Kann mein Entstellen etwas auf sie wirken, Soll ihre Neigung bald verschwunden sein. Doch, reißt dies Valentin aus ihrem Herzen, Liebt sie deshalb noch Signor Thurio nicht.
+THURIO. Drum, wie die Gunst von ihm Ihr abgewickelt, Daß sie sich nicht ganz unbrauchbar verwirre, Müßt Ihr bei mir sie anzuzetteln suchen; Und das geschieht, wenn Ihr mich so erhebt, Wie Ihr den Signor Valentin erniedrigt.
+HERZOG. Und, Proteus, hierin dürfen wir Euch trauen, Da wir durch Valentins Erzählung wissen, Daß Ihr schon treuen Dienst der Liebe schwuret Und nicht den Sinn zum Meineid wandeln könnt. In dem Vertrau'n sei Zutritt Euch gewährt, Wo Ihr mit Silvia alles könnt besprechen; Sie ist verdrießlich, düster, melancholisch Und wird, des Freundes halb, Euch gern empfangen; Da mögt Ihr sie durch Überredung stimmen, Zu hassen Valentin, den Freund zu lieben.
+PROTEUS. Was ich nur irgend kann, soll gern geschehn. Ihr aber, Thurio, zeigt zu wenig Eifer; Leimruten stellt, um ihren Sinn zu fangen, Durch klagendes Sonett, das, süß gereimt, Ergebnen Dienst in jedem Wort verkündet.
+HERZOG. Ja, viel kann Poesie, das Himmelskind.
+PROTEUS. Singt, daß Ihr auf der Schönheit Weihaltar Ihr Eure Tränen, Seufzer bringt, das Herz; Schreibt, bis die Tinte trocknet, macht sie fließen Mit Euren Tränen; rührend sei der Vers, Daß er beglaub'gen mag die Herzensliebe: – Denn Orpheus' Laut' erklang von Dichtersehnen; Dem goldnen Ton erweicht' sich Stein und Erz, Zahm ward der Leu, der Leviathansriese Entstieg der Flut, um auf dem Strand zu tanzen. Habt Ihr ein rührend Klagelied gesungen, So bringt in stillen Nächten vor ihr Fenster Harmon'schen Gruß, weint zu den Instrumenten Ein weiches Lied; das Schweigen toter Nacht
+Wird gut zum Laut der süßen Wehmut stimmen: So, oder niemals, ist sie zu erringen.
+HERZOG. Die Vorschrift zeigt, wie sehr du selbst geliebt.
+THURIO. Heut nacht noch üb' ich aus, was du geraten: Drum, teurer Proteus, du mein Liebeslehrer, Laß augenblicklich in die Stadt uns gehn Und wohlgeübte Musikanten suchen; Ich hab' schon ein Sonett, das trefflich paßt, Als deines Unterrichtes erste Probe.
+HERZOG. So macht euch dran, ihr Herrn!
+PROTEUS. Bis nach der Tafel warten wir Euch auf, Und dann sogleich beginnen wir das Werk.
+HERZOG. Nein, tut es alsobald; ich geb' euch frei. Alle ab.
+Vierter Aufzug
+Erste Szene Wald. Einige Räuber treten auf.
+ERSTER RÄUBER. Gesellen, halt; dort kommt ein Reisender.
+ZWEITER RÄUBER. Und wären's zehn, bangt nicht und macht sie nieder! Valentin und Flink kommen.
+DRITTER RÄUBER. Steht, Herr, werft hin das, was Ihr bei Euch tragt: Sonst setzen wir Euch hin, Euch auszuplündern.
+FLINK. Wir sind verloren, Herr! Das sind die Schufte, Vor denen alle Reisenden sich fürchten.
+VALENTIN. Ihr Freunde –
+ERSTER RÄUBER. Das sind wir nicht, Herr; wir sind Eure Feinde.
+ZWEITER RÄUBER. Still; hört ihn an!
+DRITTER RÄUBER. Bei meinem Bart, das woll'n wir; Er ist ein feiner Mann.
+VALENTIN. So wißt, ich habe wenig zu verlieren. Ich bin ein Mann, den Unglück niederschlug; Mein Reichtum sind nur diese armen Kleider: Wenn ihr von denen mich entblößen wollt, Nehmt ihr mir alles, meine ganze Habe.
+ERSTER RÄUBER. Wohin reist Ihr?
+VALENTIN. Nach Verona.
+ERSTER RÄUBER. Woher kommt Ihr?
+VALENTIN. Von Mailand.
+DRITTER RÄUBER. Habt Ihr Euch lang' da aufgehalten?
+VALENTIN. An sechzehn Mond'; und blieb' gern länger dort, Wenn nicht das häm'sche Glück mir widerstrebte.
+ERSTER RÄUBER. Seid Ihr von dort verbannt?
+VALENTIN. Ich bin's.
+ZWEITER RÄUBER. Für welch Vergehn?
+VALENTIN. Für etwas, das mich quält, wenn ich's erzähle: Ich tötet' einen Mann, was sehr mich reut; Doch schlug ich ihn im ehrlichen Gefecht, Ohn' falschen Vorteil oder niedre Tücke.
+ERSTER RÄUBER. Ei, laßt es Euch nicht reu'n, wenn's so geschah; Doch seid Ihr um so kleine Schuld verbannt?
+VALENTIN. Ich bin's, und war noch froh des milden Spruchs.
+ERSTER RÄUBER. Versteht Ihr Sprachen?
+VALENTIN. Ja, meinen Jugendreisen dank' ich das. Sonst wär' es mir wohl manchmal schlimm ergangen.
+DRITTER RÄUBER. Der Bursch wär', bei der Glatz' von Robin Hoods Dickwanst'gem Mönch, für unsre Band' ein König!
+ERSTER RÄUBER. Wir woll'n ihn haben; hört –
+FLINK. Geht unter sie; Es ist 'ne ehrenwerte Dieberei.
+VALENTIN. Schweig', Schlingel!
+ZWEITER RÄUBER. Sagt, habt Ihr was, worauf Ihr Hoffnung setzt?
+VALENTIN. Nichts als mein Glück.
+DRITTER RÄUBER. Wißt denn, ein Teil von uns sind Edelleute, Die wildes Blut und ungezähmte Jugend Aus der Gesellschaft Rechtlicher gestoßen. Mich selbst hat von Verona man verbannt, Weil ich ein Fräulein zu entführen suchte, Die reich war und dem Herzog nah verwandt.
+ZWEITER RÄUBER. Und mich von Mantua, weil ich, wutentbrannt, Dort einem Edelmann das Herz durchstach.
+ERSTER RÄUBER. Und mich um solch gering Versehn wie diese. Doch nun zum Zweck – (denn unsre Fehler hört Ihr, Damit sie unsern Räuberstand entschuld'gen): Wir sehn, Ihr seid ein gut gebauter Mann, Von angenehmer Bildung, und Ihr rühmt Euch
+Der Sprachen; solches Manns, der so vollendet, Bedürfen wir in unsrer Profession.
+ZWEITER RÄUBER. In Wahrheit, weil Ihr ein Verbannter seid, Deshalb, vor allem andern, fragen wir: Gefällt's Euch, unser General zu werden? Wollt Ihr 'ne Tugend machen aus der Not Und mit uns hier in diesen Wäldern leben?
+DRITTER RÄUBER. Sprich, willst du unsrer Bande zugehören? Sag ja und sei der Hauptmann von uns allen: Wir huld'gen dir und folgen deinem Wort Und lieben dich als unsern Herrn und König.
+ERSTER RÄUBER. Doch stirbst du, wenn du unsre Gunst verschmähst.
+ZWEITER RÄUBER. Nicht sollst du prahlen je mit unserm Antrag.
+VALENTIN. Den Antrag nehm' ich an, mit euch zu leben, Mit dem Beding, daß ihr nicht Unbill übt An schwachen Frau'n und armen Reisenden.
+DRITTER RÄUBER. Nein, wir verschmäh'n so ehrlos feige Taten. Komm mit, wir bringen dich zu unsrer Schar Und zeigen dir den Schatz, den wir gehäuft; Und dieser, so wie wir, sind dir zu Dienst.
+Alle ab.
+Zweite Szene Palast. Proteus tritt auf.
+PROTEUS. Erst war ich treulos gegen Valentin, Nun muß ich auch an Thurio unrecht handeln: Mit falschem Schein, als spräch' ich seinethalb, Nutz' ich den Zutritt eignem Liebeswerben. Doch Silvia ist zu schön, zu treu, zu heilig, Gehör zu geben niedriger Bestechung. Beteur' ich treuergebnen Sinn für sie, Wirft sie mir vor die Falschheit an dem Freund; Und weih' ich ihrer Schönheit meinen Schwur,
+Heißt sie mich meines Meineids gleich gedenken, Weil Julien ich mein Liebeswort gebrochen. Doch, wie sie mich auch immer quält und martert, Genug, um jede Hoffnung zu ertöten, Stärkt sich nur meine Lieb' und schmeichelt ihr, Dem Hündchen gleich, je mehr zurückgestoßen. Doch Thurio kommt, jetzt müssen wir zum Fenster Und ihrem Ohr ein nächtlich Ständchen bringen.
+Thurio kommt mit Musikanten.
+THURIO. Wie, Proteus? Seid Ihr mir vorausgeschlichen?
+PROTEUS. Ja, werter Thurio! denn Ihr wißt, daß Liebe Zum Dienst hinschleicht, wo sie nicht gehen kann.
+THURIO. Ja, Herr; doch hoff' ich, daß Ihr hier nicht liebt.
+PROTEUS. Ich tu' es doch, sonst wär' ich fern von hier.
+THURIO. Wen? Silvia?
+PROTEUS. Ja, Silvia – um Euretwegen.
+THURIO. So dank' ich Euretwegen. Jetzt, ihr Herrn, Stimmt nun, und gleich darauf fangt fröhlich an!
+In der Entfernung treten auf der Wirt, und Julia in Pagentracht.
+WIRT. Nun, mein junger Gast! mich dünkt, Ihr leidet an der Mehlcholik; ich bitte Euch, warum?
+JULIA. Ei, mein guter Wirt, weil ich nicht fröhlich sein kann.
+WIRT. Kommt. Ihr sollt fröhlich sein; ich will Euch hinbringen, wo Ihr Musik hören und den Edelmann sehen werdet, nach dem Ihr fragtet.
+JULIA. Aber werde ich ihn sprechen hören?
+WIRT. Ja: das werdet Ihr!
+JULIA. Das wird Musik sein. Die Musik beginnt.
+WIRT. Hört! Hört!
+JULIA. Ist er unter denen?
+WIRT. Ja, aber still, laßt uns zuhören:
+Gesang Wer ist Silvia? Was ist sie, Die aller Welt Verehrung?
+Heilig, schön und weis' ist sie, In himmlischer Verklärung. Lob und Preis ihr, dort und hie. Ist sie nicht so schön als gut? Denn Schön' und Güte weilt hie. Amor ihr im Auge ruht, Ihn von Blindheit heilt sie. Er, dort blickend, Wunder tut. Dich, o Silvia, singen wir, Die hoch als Fürstin thronet; Du besiegst an Huld und Zier, Was auf Erden wohnet. Kränzt das Haupt mit Rosen ihr!
+WIRT. Nun? Seid Ihr noch schwermütiger als zuvor? Was ist Euch, Freund? Gefällt Euch die Musik nicht?
+JULIA. Ihr irrt; der Musikant gefällt mir nicht.
+WIRT. Warum, mein artiges Kind?
+JULIA. Er spielt falsch, Vater.
+WIRT. Wie? Greift er unrecht in die Saiten?
+JULIA. Das nicht; aber er reißt so in die Saiten, daß er die Saiten meines Herzens zerreißt.
+WIRT. Ihr habt ein zartes Ohr.
+JULIA. Oh, ich wollte, ich wäre taub; es macht mein Herz schwer.
+WIRT. Ich merke, Ihr habt keine Freude an Musik.
+JULIA. Nicht die geringste, wenn sie so mißlautet.
+WIRT. Hört, welch ein schöner Wechsel in der Musik!
+JULIA. Ach, dieser Wechsel ist das Böse.
+WIRT. Ihr wollt, daß sie immer dasselbe spielen?
+JULIA. Ich wollte, daß derselbe immer dasselbe spielte. Aber, Wirt, findet sich dieser Herr Proteus, von dem wir sprechen, oft bei dem Fräulein ein?
+WIRT. Ich sage Euch, was Lanz, sein Diener, mir gesagt hat, – er liebt sie über alle Maßen.
+JULIA. Wo ist Lanz?
+WIRT. Er ist fort, seinen Hund zu suchen, den er morgen, auf seines Herrn Befehl, der Dame zum Geschenk bringen muß.
+JULIA. Still! Geh bei Seit', die Gesellschaft entfernt sich.
+PROTEUS. Thurio, seid unbesorgt! Ich spreche so, Daß Ihr die List selbst rühmt, wie sie gelingt.
+THURIO. Wo treffen wir uns?
+PROTEUS. Bei Sankt Gregors Brunnen.
+THURIO. Lebt wohl! Thurio und die Musikanten ab. Silvia erscheint oben am Fenster.
+PROTEUS. Fräulein, ich biet' Euer Gnaden guten Abend.
+SILVIA. Ich danke, meine Herrn, für die Musik; Wer ist's, der sprach?
+PROTEUS. Mein Fräulein, kenntet Ihr sein treues Herz, Ihr würdet bald ihn an der Stimm' erkennen.
+SILVIA. Herr Proteus, hört' ich recht.
+PROTEUS. Proteus, mein edles Fräulein, Euer Diener.
+SILVIA. Was ist Euer Wille?
+PROTEUS. Euern zu erlangen.
+SILVIA. Euer Wunsch ist schon erfüllt; mein Will' ist dieser: Daß Ihr sogleich nach Haus und schlafen geht. Du schlau, meineidig, falsch, treuloser Mann! Glaubst du, ich sei so schwach, so unverständig, Daß mich verführte deine Schmeichelei, Der du mit Schwüren schon so manche trogst? Zur Heimat kehre, deine Braut zu sühnen! Denn, – hör' es, blasse Königin der Nacht, – Ich bin so fern, mich deinem Flehn zu neigen, Daß ich dein schmachvoll Werben tief verachte; Und schon beginn' ich selbst mit mir zu hadern, Daß ich noch Zeit verschwende, dich zu sprechen.
+PROTEUS. Ich will's gestehn, mein Herz, ich liebt' ein Fräulein; Doch sie ist tot.
+JULIA beiseit.
+Falsch wär's, wenn ich so spräche; Denn ich bin sicher, sie ist nicht begraben.
+SILVIA. Sei's, wie du sagst; doch Valentin, dein Freund, Lebt noch; dem ich, du bist desselber Zeuge, Verlobte bin; und hast du keine Scham, Ihn durch dein freches Dringen so zu kränken?
+PROTEUS. Man sagte mir, auch Valentin sei tot.
+SILVIA. So denk', ich sei es auch; denn in sein Grab, Des sei gewiß, versenk' ich meine Liebe.
+PROTEUS. Laßt, Teure, mich sie aus der Erde scharren!
+SILVIA. Geh, rufe Juliens Lieb' aus ihrer Gruft, Und kannst du's nicht, begrabe dort die deine!
+JULIA beiseit. Das hört er nicht.
+PROTEUS. Fräulein, wenn Euer Herz so grausam ist, Bewilligt doch Eu'r Bildnis meiner Liebe, Das Bildnis, das in Eurem Zimmer hängt: Zu diesem will ich reden, seufzen, weinen; Denn, da das wahre Selbst von Eurer Schönheit Sich weggeschenkt, bin ich ein Schatten nur, Und Eurem Schatten will ich liebend huld'gen.
+JULIA beiseit.
+Wär' es ein wahres Selbst, betrögst du es, Und machtest es zum Schatten, wie ich bin.
+SILVIA. Mich freut es nicht, zum Götzen Euch zu dienen; Doch, da es gut für Eure Falschheit paßt, Nur Schatten, falsch Gebilde, anzubeten, Schickt zu mir morgen früh, ich send' es Euch; Und so schlaft wohl!
+PROTEUS. Wie, wer verurteilt liegt Und morgen seine Hinrichtung erwartet.
+Proteus geht ab und Silvia von oben hinweg.
+JULIA. Wirt, wollt Ihr gehen?
+WIRT. Meiner Treu, ich war fest eingeschlafen.
+JULIA. Sagt mir, wo wohnt Proteus?
+WIRT. Ei, in meinem Hause. Wahrhaftig, ich glaube, es ist beinahe Tag.
+JULIA. Das nicht; doch ist's die längste Nacht gewesen, Die ich je durchgewacht, und auch die bängste.
+Sie gehn ab.
+Dritte Szene Platz. Eglamour tritt auf.
+EGLAMOUR. Um diese Zeit hat Silvia mich bestellt, Und jetzt soll ich erfahren, was sie wünscht; Zu etwas Wicht'gem will sie mich gebrauchen. – Fräulein!
+Silvia erscheint oben am Fenster.
+SILVIA. Wer ruft?
+EGLAMOUR. Eu'r Diener und Eu'r Freund, Der Euren gnädigen Befehl erwartet.
+SILVIA. Herr Eglamour, viel tausend gute Morgen!
+EGLAMOUR. So viele, wertes Fräulein, wünsch' ich Euch. Nach Euer Gnaden Willen und Geheiß Kam ich so früh, zu hören, welchen Dienst Es Euch gefallen wird mir aufzutragen.
+SILVIA. O Eglamour, du bist ein Edelmann (Ich schmeichle nicht, ich schwör', ich tu' es nicht), Gewissenhaft, klug, tapfer ohne Tadel. Dir ist nicht unbekannt, welch holden Sinn Ich dem verbannten Valentin gehegt, Noch, wie mein Vater mich mit Zwang will geben Dem albern' Thurio, den mein Herz verabscheut. Du hast geliebt, und sagen hört' ich dich, Kein Schmerz kam deinem Herzen je so nah, Als deiner Braut, der treu geliebten, Tod, Auf deren Grab du ew'ge Keuschheit schwurest. Herr Eglamour, ich wünschte Valentin In Mantua aufzusuchen, wo er lebt; Und, da die Wege jetzt gefährlich sind, So wünsch' ich deine adlige Gesellschaft Nur im Vertraun auf deine wahre Ehre. Sprich von des Vaters Zorn nicht, Eglamour, Mein Leid nur sei dir wichtig, einer Dame; Bedenk', mit welchem Recht ich fliehen muß, Mich vor gottlosem Ehebund zu schützen, Den Welt und Himmel heim mit Strafen suchen.
+Ich bitte flehend dich, mit einem Herzen So voll von Trübsal, wie die See voll Sand, Gefährte mir zu sein und mit zu gehn; Wo nicht, so berge, was ich dir entdeckt, Daß ich allein mein Abenteuer wage.
+EGLAMOUR. Mich jammert, Fräulein, Euer schwer Bedrängnis, Und da ich Eures Herzens Tugend kenne, Geb' ich den Willen drein, mit Euch zu reisen; Nicht achtend, was mich irgend fährden könnte, Wie ich nur eifrig Eure Wohlfahrt wünsche. Wann wollt Ihr reisen?
+SILVIA. Wie der Abend kommt.
+EGLAMOUR. Wo treff' ich Euch?
+SILVIA. In Bruder Patriks Zelle, Wohin zur heil'gen Beicht' ich mich verfüge.
+EGLAMOUR. Ich werd' Euch, teures Fräulein, nicht verfehlen. Prinzessin, guten Morgen!
+SILVIA. Habt guten Morgen, teurer Eglamour! Gehn ab.
+Vierte Szene Platz. Lanz tritt auf mit seinem Hunde.
+LANZ. Wenn eines Menschen Angehöriger sich recht hündisch gegen ihn beträgt, seht ihr, das muß einen kränken; einer, den ich vom Frühsten aufgezogen habe; einen, den ich vom Ersäufen gerettet, da drei oder vier seiner blinden Brüder daran mußten! – Ich habe ihn abgerichtet – gerade wie wenn einer sich recht ausdrücklich vornimmt: So möchte ich einen Hund abgerichtet haben. Ich war abgeschickt, ihn Fräulein Silvia zum Geschenk von meinem Herrn zu überbringen, und kaum bin ich in den Speisesaal getreten, so läuft er hin zu ihrem Teller und stiehlt ihr einen Kapaunenschenkel. Oh, es ist ein böses Ding, wenn sich ein Köter nicht in jeder Gesellschaft zu benehmen weiß! Ich wollte, daß einer der, sozusagen, es auf sich genommen hat, ein wahrer Hund zu  sein, daß er dann, sozusagen, auch ein Hund in allen Dingen wäre. Wenn ich nicht mehr Verstand gehabt hätte, als er, und den Fehler auf mich genommen, den er beging, so glaube ich wahrhaftig, er wäre dafür gehängt. So wahr ich lebe, sie hätten ihn dafür hingerichtet! Urteilt selbst: da schiebt er sich ein in die Gesellschaft von drei oder vier wohlgebornen Hunden unter des Herzogs Tafel; da steckt er kaum (solltet ihr's glauben!) so lange, daß ein Mensch drei Schluck tun könnte, so riecht ihn auch schon der ganze Saal. »Hinaus mit dem Hunde«, sagt einer; »was für ein Köter ist das?« sagt ein andrer; »peitscht ihn hinaus«, ruft der dritte; »hängt ihn auf«, sagt der Herzog. Ich, der ich gleich den Geruch wieder kannte, wußte, daß es Krabb war, und gehe denn so zu dem Kerl hin, der die Hunde peitscht. »Freund«, sage ich, »Ihr seid willens, den Hund zu peitschen?« »Ja, wahrhaftig, das bin ich«, sagt er. »So tut Ihr ihm himmelschreiend Unrecht«, antworte ich; »ich tat das Ding, was Ihr wohl wißt.« Der macht auch weiter keine Umstände und peitscht mich zum Saal hinaus. Wie viele Herren würden das für ihre Diener tun? Ja, ich kann's beschwören, ich habe im Stock gesessen für die Würste, die er gestohlen hat, sonst wäre es ihm ans Leben gegangen; ich habe am Pranger gestanden für Gänse, die er gewürgt hat, sonst hätten sie ihn dafür hingerichtet; das hast du nun schon vergessen! – Nein, ich denke noch an den Streich, den du mir spieltest, als ich mich von Fräulein Silvia beurlaubte; hieß ich dich nicht immer auf mich acht geben und es so machen wie ich? Wann hast du gesehn, daß ich mein Bein aufhob und an einer Dame Reifrock mein Wasser abschlug? Hast du je solche Streiche von mir gesehn? Proteus und Julia treten auf.
+PROTEUS. Sebastian ist dein Name? Du gefällst mir, Ich will dich gleich zu einem Dienst gebrauchen.
+JULIA. Was Euch beliebt; ich will tun, was ich kann.
+PROTEUS. Das, hoff' ich, wirst du. – Zu Lanz.
+Wie, nichtsnutz'ger Lümmel! Wo hast du seit zwei Tagen nur gesteckt?
+LANZ. Ei, Herr, ich brachte Fräulein Silvia den Hund, wie Ihr mich hießet.
+PROTEUS. Und was sagte sie zu meiner kleinen Perle?
+LANZ. Ei, sie sagte, Euer Hund wäre ein Köter; und meinte, ein hündischer Dank wäre genug für solch ein Geschenk.
+PROTEUS. Aber sie nahm meinen Hund?
+LANZ. Nein, wahrhaftig! das tat sie nicht; hier hab' ich ihn wieder mitgebracht.
+PROTEUS. Was, diesen wolltest du ihr von mir schenken?
+LANZ. Ja, Herr; das andre Eichhörnchen wurde mir von des Scharfrichters Buben auf dem Markt gestohlen, und da schenkte ich ihr meinen eignen; der Hund ist so dick wie zehn von den andern, und um so größer ist auch das Präsent.
+PROTEUS. Geh, mach' dich fort und bring' mir meinen Hund, Sonst komm mir niemals wieder vors Gesicht! Fort, sag ich; stehst du mich zu ärgern hier? Ein Schurke, der mir stets nur Schande macht!
+Lanz geht ab.
+Ich nahm, Sebastian, dich in meinen Dienst, Teils, weil ich einen solchen Knaben brauche, Der mit Verstand vollführt, was ich ihn heiße, Denn kein Verlaß ist auf den dummen Tölpel: Doch mehr um dein Gesicht und dein Betragen, Die (wenn mich meine Ahnung nicht betrügt) Von guter Bildung zeugen, Glück und Treue; Dies merk', denn deshalb hab' ich dich genommen. So geh denn augenblicks mit diesem Ring, Den übergib an Fräulein Silvia; Wohl liebte die mich, die ihn mir gegeben.
+JULIA. Ihr also liebt sie nicht, da Ihr ihn weggebt. Sie ist wohl tot?
+PROTEUS. Das nicht; ich glaub', sie lebt.
+JULIA. Weh mir!
+PROTEUS. Weshalb rufst du, weh mir?
+JULIA. Ich kann nicht anders, ich muß sie beklagen.
+PROTEUS. Weshalb beklagst du sie?
+JULIA. Weil mich bedünkt, sie liebte Euch so sehr, Als Ihr nur Euer Fräulein Silvia liebt; Sie sinnt nur ihn, der schon vergaß ihr Lieben, Ihr brennt für sie, die abweist Euer Lieben. O Jammer, daß sich Lieben so zerstört! Und des gedenkend mußt' ich klagen: weh mir!
+PROTEUS. Gut; gib ihr diesen Ring und auch zugleich Den Brief; – hier ist ihr Zimmer. – Sag dem Fräulein, Ich fodr' ihr himmlisch Bild, das sie versprochen. Dies ausgerichtet, eil' zu meiner Kammer, Wo du mich traurig, einsam finden wirst.
+Proteus geht ab.
+JULIA. Wie wen'ge Frauen brächten solche Botschaft! Ach! armer Proteus! du erwählst den Fuchs, Um dir als Hirt die Lämmer zu behüten; Ach, arme Törin! was beklag' ich den, Der mich mit vollem Herzen jetzt verachtet? Weil er sie liebt, verachtet er mich nun; Weil ich ihn liebte, muß ich ihn beklagen. Ich gab ihm diesen Ring, da wir uns trennten, Als Angedenken meiner Gunst und Treue; Nun schickt man mich (o unglücksel'ger Bote!) Zu fodern, was ich nicht gewinnen möchte; Zu bringen, was ich abgeschlagen wünschte; Den treu zu loben, den ich untreu schelte. Ich bin die wahr' Verlobte meines Herrn; Doch kann ich nicht sein wahrer Diener sein, Wenn ich nicht an mir selbst Verräter werde. Zwar will ich für ihn werben, doch so kalt, Wie ich, beim Himmel! die Erwid'rung wünschte.
+Silvia tritt auf mit Begleitung.
+Gegrüßt seid, Kammerfrau! Ich bitt' Euch, macht, Daß ich mit Fräulein Silvia sprechen kann.
+SILVIA. Was wolltet Ihr von ihr, wenn ich es wäre?
+JULIA. Wenn Ihr es seid, so bitt' ich, mit Geduld Die Botschaft anzuhören, die ich bringe.
+SILVIA. Von wem?
+JULIA. Von Signor Proteus, meinem Herrn.
+SILVIA. Ach! – Wegen eines Bildes schickt er Euch?
+JULIA. Ja, Fräulein.
+SILVIA. So bring' denn, Ursula, mein Bildnis her! Das Bild wird gebracht.
+Geht, gebt das Eurem Herrn; sagt ihm von mir: Die Julia, die sein falsches Herz vergaß, Ziemt besser, als der Schatten, seinem Zimmer.
+JULIA. Fräulein, gefällt's Euch, diesen Brief zu lesen? – Verzeiht, mein Fräulein, ich gab unvorsichtig Euch ein Papier, das nicht für Euch bestimmt; Dies ist der rechte Brief an Euer Gnaden.
+SILVIA. Ich bitte, laß mich das noch einmal sehn!
+JULIA. Es kann nicht sein; mein Fräulein, Ihr verzeiht!
+SILVIA. Hier, nimm! Ich will die Zeilen deines Herrn nicht lesen. Ich weiß, sie sind mit Schwüren angefüllt Und neu erfundnen Eiden, die er bricht, So leicht, als ich jetzt dieses Blatt zerreiße.
+JULIA. Fräulein, er schickt Eu'r Gnaden diesen Ring.
+SILVIA. Ihm Schmach so mehr, mir diesen Ring zu schicken; Denn tausendmal hab' ich ihn sagen hören, Wie seine Julia ihn beim Abschied gab. Hat auch sein falscher Finger ihn entweiht, Soll meiner Julien nicht solch Unrecht tun.
+JULIA. Sie dankt Euch.
+SILVIA. Was sagst du?
+JULIA. Ich dank' Euch, Fräulein, für dies Zartgefühl. Das arme Kind! Herr Proteus kränkt sie sehr.
+SILVIA. Kennst du sie?
+JULIA. Beinah' so gut, als ich mich selber kenne; Gedenk' ich ihres Wehs, bei meiner Seele! Schon hundertmal hab' ich um sie geweint.
+SILVIA. So glaubt sie wohl, daß Proteus sie verlassen?
+JULIA. Ich glaub' es selbst, und das ist auch ihr Gram.
+SILVIA. Ist sie sehr schön?
+JULIA. Sie war einst schöner, Fräulein, als sie ist; Da sie noch glaubte, daß mein Herr sie liebe.
+War sie, wie mich bedünkt, so schön als Ihr; Doch, seit sie ihren Spiegel hat vergessen, Die Maske wegwarf, die vor Sonne schützte, Sind von der Luft gebleicht der Wangen Rosen Und ihrer Stirne Lilienglanz gedunkelt, Daß sie so schwarz geworden ist wie ich.
+SILVIA. Wie groß war sie?
+JULIA. Sie ist von meinem Wuchse; denn zu Pfingsten, Als man sich heitrer Mummerei erfreute, Gab mir das junge Volk die Frauenrolle Und putzte mich mit Juliens Kleidern aus; Die paßten mir so gut, wie alle sagten, Als wäre das Gewand für mich geschnitten; Davon weiß ich, sie ist so hoch wie ich. Und zu der Zeit macht' ich sie recht zu weinen, Denn traurig war die Rolle, die ich spielte; Ariadne, Fräulein, war's, wie sie beklagt Des Theseus Falschheit und geheime Flucht; Das spielten meine Tränen so lebendig, Daß meine arme Herrin, tief gerührt, Recht herzlich weint'; und sterben will ich gleich, Wenn ich im Geist nicht ihren Kummer fühlte!
+SILVIA. Sie ist dir sehr verpflichtet, lieber Knabe! – Ach, armes Mädchen! trostlos und verlassen! – Ich weine selbst, denk' ich an deine Worte. Hier, Knab', ist meine Börse; nimm die Gabe Um deiner Herrin willen, die du liebst. Leb wohl!
+Silvia geht ab.
+JULIA. Sie wird Euch danken, lernt Ihr je sie kennen. – Ein edles Fräulein, sanft und voller Huld. Mein Herr wird hoffentlich kalt aufgenommen, Da sie so warm für meine Herrin eifert. Wie hintergeht sich Liebe selbst im Spiel! Hier ist ihr Bildnis. Laßt mich sehn: ich denke, Hätt' ich nur solchen Anzug, mein Gesicht, Es wäre ganz so lieblich wie das ihre; Doch hat der Maler etwas ihr geschmeichelt, Wenn ich nicht allzu viel mir selber schmeichle.
+Ihr Haar ist bräunlich, meins vollkommen blond; Wenn das den Ausschlag gibt in seiner Liebe, So trag' ich falsches Haar von dieser Farbe. Ihr Aug' ist klares Blau, und so das meine; Doch ihre Stirn ist klein und meine groß. Was ist es, das ihn hier bezaubern kann, Das nicht durch mich denselben Zauber übte, Wär' kind'sche Liebe nicht ein blinder Gott? So nimm denn, Schatten, diesen Schatten mit, Er ist dein Nebenbuhler. Leblos Bild! Du wirst verehrt, geküßt und angebetet; Und fühltest du bei seinem Götzendienst, Mein Wesen möchte Bild statt deiner sein. Ich will dir freundlich sein der Herrin wegen, So war sie mir; sonst, bei dem Jupiter, Kratzt' ich dir die gemalten Augen aus, Daß nicht mein Herr sich mehr in sie vergafft.
+Geht ab.
+Fünfter Aufzug
+Erste Szene Platz. Eglamour tritt auf.
+EGLAMOUR. Die Sonne rötet schon den Abendhimmel; Die Stund' ist da, die Silvia mir bestimmte, Hier bei Patricius' Zell' auf sie zu warten. Sie bleibt nicht aus, denn Liebende verfehlen Die Stunde nur, um vor der Zeit zu kommen. Weil sie die Eile selbst noch spornen möchten.
+Silvia tritt auf. Hier kommt sie schon; glücksel'gen Abend, Fräulein!
+SILVIA. Geb's Gott! Geh weiter, guter Eglamour! Hinaus zum Pförtchen an der Klostermauer; Ich bin besorgt, daß Laurer auf mich achten.
+EGLAMOUR. Sorgt nicht; der Wald ist kaum drei Meilen weit: Ist der erreicht, sind wir in Sicherheit.
+Sie gehn ab.
+Zweite Szene Palast. Thurio, Proteus und Julia treten auf.
+THURIO. Was sagt zu meinem Werben Silvia?
+PROTEUS. Oh, Herr, ich fand sie milder als bisher; Doch hat sie viel an Euch noch auszustellen.
+THURIO. Was, daß mein Bein zu lang ist?
+PROTEUS. Nein; zu dünn.
+THURIO. So trag' ich Stiefeln, daß es runder wird.
+PROTEUS. Was Liebe scheut, wer kann sie dazu spornen?
+THURIO. Und mein Gesicht?
+PROTEUS. Sie sagt, es sei zu weiß.
+THURIO. Da lügt der Schalk; denn mein Gesicht ist schwarz.
+PROTEUS. Doch weiß sind Perlen; und das Sprichwort sagt: Ein schwarzer Mann ist Perl' in Damenaugen.
+JULIA beiseit.
+Ja, Perlen, die der Damen Augen kränken; Denn lieber wegsehn, als auf sie zu blicken.
+THURIO. Gefällt ihr mein Gespräch?
+PROTEUS. Schlecht, redet Ihr von Krieg.
+THURIO. Doch gut, wenn ich von Lieb' und Frieden redet?
+JULIA beiseit. Am besten, sicher, wenn Ihr friedlich schweigt.
+THURIO. Was aber sagte sie von meinem Mut?
+PROTEUS. Oh, Herr, darüber hat sie keinen Zweifel.
+JULIA beiseit. Nicht nötig, weil sie seine Feigheit kennt.
+THURIO. Doch was von meiner Abkunft?
+PROTEUS. Daß Ihr sehr hoch herab gekommen seid.
+JULIA beiseit. Gewiß; vom Edelmann zum Narr'n herab.
+THURIO. Erwägt sie auch mein großes Gut?
+PROTEUS. Ja, mit Bedauern.
+THURIO. Weshalb?
+JULIA beiseit. Weil einem Esel es gehört.
+PROTEUS. Weil Ihr's nicht selbst verwaltet.
+JULIA. Hier kommt der Herzog. Der Herzog tritt auf.
+HERZOG. Wie steht's, Herr Proteus? Thurio, wie steht's? Wer von euch sah den Eglamour seit kurzem?
+THURIO. Ich nicht.
+PROTEUS. Ich auch nicht.
+HERZOG. Saht ihr Silvia?
+PROTEUS. Nein.
+HERZOG. So floh sie hin zu Valentin, dem Knecht; Und Eglamour ist es, der sie begleitet. Gewiß; denn Bruder Lorenz traf sie beide, Als im Gebet er durch die Waldung ging; Ihn kannt' er wohl und glaubt' auch, sie zu kennen;
+Doch macht' ihn ihre Maske ungewiß; Auch gab sie vor, sie woll' am Abend beichten In des Patricius Zell', und war nicht dort; Durch diese Zeichen wird die Flucht bestätigt. Deswegen, bitt' ich, weilt nicht lang beratend, Nein, gleich zu Pferd; und trefft mich beide dort Am Fuße des Gebirges, auf dem Hügel, Der sich nach Mantua zieht: da flohn sie hin; Beeilt euch, teure Herrn, und folgt mir nach!
+Geht ab.
+THURIO. Nun ja, da haben wir das kind'sche Ding. Die ihrem Glück entflieht, wenn es ihr folgt. Nach! mehr, um mich an Eglamour zu rächen, Als, weil ich Silvia noch, die Törin, liebe.
+Geht ab.
+PROTEUS. Ich folge, mehr, weil Silvia meine Liebe, Als Eglamour, der mit ihr geht, mein Haß!
+Geht ab.
+JULIA. Ich folge, mehr, zu kreuzen diese Liebe, Als Silvia hassend, die geflohn aus Liebe.
+Geht ab.
+Dritte Szene Wald. Silvia und die Räuber kommen.
+RÄUBER. Kommt, kommt! Geduld, wir bringen Euch zu unserm Hauptmann.
+SILVIA. Durch tausend große Unglücksfälle lernt' ich Den heutigen ertragen mit Geduld.
+ZWEITER RÄUBER. Kommt, führt sie weg!
+ERSTER RÄUBER. Wo ist der Edelmann, der bei ihr war?
+DRITTER RÄUBER. Geschwind von Füßen, ist er uns entlaufen, Doch Moses und Valerius folgen ihm. Geh mit ihr nach des Waldes Abendseite, Dort ist der Hauptmann; wir dem Flücht'gen nach; Das Dickicht ist besetzt, er kann nicht durch.
+ERSTER RÄUBER. Kommt, Ihr müßt mit zu unsers Hauptmanns Höhle; Seid unbesorgt, er ist von edlem Sinn, Und keinem Weibe fügt er Unrecht zu.
+SILVIA. O Valentin, das duld' ich deinethalb! Alle ab.
+Vierte Szene Wald. Valentin tritt auf.
+VALENTIN. Wie wird dem Menschen Übung doch Gewohnheit! Der unbesuchte Wald, die dunkle Wüste Gefällt mir mehr als volkreich blüh'nde Städte; Hier kann ich einsam sitzen, ungesehn, Und, zu der Nachtigallen Klageliedern, Mein Leid und Weh in Trauertönen singen. O du, Beherrscherin von dieser Brust, Laß nicht dein Haus so lang' verödet stehn, Daß nicht der Bau verfalle und zertrümmre Und kein Gedächtnis bleibe, was er war! Komm, Silvia, das Gebäude herzustellen; Erfreu' den Jammernden, du holde Nymphe! Welch Lärmen, welch ein Aufruhr ist das heut? Die Bande schwärmt, Willkür ist ihr Gesetz. Sie machen Jagd auf arme Wandersleute; Sie lieben mich, doch hab' ich viel zu tun, Wenn ich will rohe Ungebühr verhüten. Verbirg dich, Valentin; wer kommt dort her?
+Erzieht sich zurück. Proteus, Silvia und Julia treten auf.
+PROTEUS. Prinzessin, was ich jetzt für Euch getan (Obgleich Ihr keinen Dienst des Dieners achtet), Mein Leben wagend, Euch von dem zu retten, Der Eure Ehr' und Gunst bewält'gen wollte, Darf einen holden Blick zum Lohn erwarten; Geringern Preis als den kann ich nicht bitten, Und wen'ger, sicherlich, könnt Ihr nicht geben.
+VALENTIN beiseit.
+Ist dies ein Traum, was ich hier seh' und höre? Leih', Liebe, mir Geduld, noch jetzt zu schweigen!
+SILVIA. O Elend', Unglücksel'ge, die ich bin!
+PROTEUS. Unglücklich wart Ihr, Fräulein, eh' ich kam; Doch durch mein Kommen wart Ihr glücklich wieder.
+SILVIA. Durch dein Herannahn ward ich erst recht elend.
+JULIA beiseit. Und ich, wenn er Euch wirklich näher kommt.
+SILVIA. Wär' ich vom Leu'n, dem hungrigen, ergriffen! Viel lieber Speise sein dem Ungetüm, Als daß der falsche Proteus mich errettet! Du, Himmel, weißt, wie Valentin ich liebe, Sein Leben mir so wert wie meine Seele; Und ganz so (dieses ist der höchste Schwur) Ist Abscheu mir der falsch', meineid'ge Proteus. Drum fort! und quäl' mich nicht mit läst'gem Werben!
+PROTEUS. Dem kühnsten Unternehmen, todgefährlich, Entwich ich nicht um einen milden Blick. Es ist der Liebe Fluch bewährt geblieben, Daß nie ein Weib den, der sie liebt, kann lieben.
+SILVIA. Daß Proteus nicht die, die ihn liebt, kann lieben. Gedenke Julias, deiner ersten Liebe, Um deren Gunst du deine Treu' gespalten In tausend Schwür'; und alle diese Schwüre In Meineid' umgewandt, um mich zu lieben. Nun hast du keine Treu' mehr, wenn nicht zwei, Was schlimmer wär' als keine: besser keine Als Doppeltreu', die ist zu viel um eine: Du Trüger deines wahren Freunds!
+PROTEUS. In Liebe, Wem gilt da Freundschaft?
+SILVIA. Jedem, außer Proteus!
+PROTEUS. Nun, wenn der milde Geist beredter Worte Auf keine Art zu sanfter Weis' Euch stimmt, So werb' ich, wie Soldaten, mit Gewalt; Und Liebe wird, sich selbst entartet, Zwang.
+SILVIA. O Himmel!
+PROTEUS. Mit Gewalt bezwing' ich dich.
+VALENTIN. Du Ehrenräuber, frei laß deine Beute, Du Freund von schlechter Sitte!
+PROTEUS. Valentin!
+VALENTIN. Gemeiner Freund, das heißt, treulos und lieblos (Denn so sind Freunde jetzt), Verräter, du! Du trogst mein Hoffen; meinem Aug' allein Konnt' ich dies glauben; nun darf ich nicht sagen, Mir lebt ein Freund; du würd'st mich Lügen strafen.
+Wem ist zu traun, wenn unsre rechte Hand Sich gegen unsre Brust empört? O Proteus, Ich fürchte, nie kann ich dir wieder traun Und muß um dich die Welt als Fremdling achten. O schlimme Zeit! o schmerzliches Verwunden! Daß ich den Freund als schlimmsten Feind gefunden!
+PROTEUS. Oh, Scham und Schuld vernichtet mich! – Vergib mir, Valentin; wenn Herzensreue Genügen kann, die Sünde abzubüßen, So sieh mein Leid; die Schuld ist größer nicht Als jetzt mein Schmerz.
+VALENTIN. So bin ich ausgesöhnt; Und wieder acht' ich dich als ehrenvoll. – Wen Reue nicht entwaffnen kann, der frommt Nicht Erd' noch Himmel; beide fühlen mild; Durch Reue wird des Ew'gen Zorn gestillt; – Und, daß vollkommen werde mein Verzeihn, Geb' ich dir alles, was in Silvien mein.
+JULIA. Weh mir, verloren! Sie wird ohnmächtig.
+PROTEUS. Seht, was fehlt dem Knaben?
+VALENTIN. Ei, Knabe! Kind! Was gibt's? Was stößt dir zu? Blick' auf, sprich!
+JULIA. O Signor, mein Herr befahl mir, An Fräulein Silvia diesen Ring zu bringen, Den ich vergaß und noch nicht abgegeben.
+PROTEUS. Wo ist der Ring?
+JULIA. Hier ist er. Gibt ihm einen Ring.
+PROTEUS. Laß mich sehn; Ha, diesen Ring schenkt' ich an Julia.
+JULIA. Verzeiht mir, Herr, ich habe mich geirrt; Dies ist der Ring, den Ihr an Silvia sandtet.
+Zeigt einen andern.
+PROTEUS. Allein, wie kamst du zu dem Ring? Beim Abschied Gab ich ihn Julien.
+JULIA. Und Julia gab ihn mir; Und Julia selbst hat ihn hieher gebracht.
+PROTEUS. Wie? Julia!
+JULIA. Schau sie, die tausend Eide dir errangen, Die alle tief im Herzen sie bewahrte; Und wie zerbrach dein Meineid dann dies Herz! O Proteus, dich beschäme diese Tracht! Erröte du, daß solch unziemend Kleid Ich angelegt; wenn Liebe in Verkleidung Sich je entehren kann: Mag Sitt' entscheiden, wer am schwersten fehle, Vertauscht ein Weib das Kleid, ein Mann die Seele.
+PROTEUS. Ein Mann die Seele? Wahr, o Himmel! Treue Nur fehlt dem Mann, vollkommen sich zu nennen; Der Mangel macht uns jeder Sünd' ergeben; Treulosigkeit stirbt ab, noch vor dem Leben. Was ist in Silvia nur, das frischer nicht Die Treue sieht in Juliens Angesicht?
+VALENTIN. Kommt denn, und reiche jeder seine Hand: Den schönen Bund müßt ihr mich schließen lassen; Nicht länger darf solch Freundespaar sich hassen.
+PROTEUS. Du, Himmel, weißt, mein Wunsch ist mir erfüllt!
+JULIA. Der meine mir. Räuber kommen mit dem Herzog und Thurio.
+RÄUBER. Ha, Beute, Beute!
+VALENTIN. Zurück! Es ist der Fürst, mein gnäd'ger Herzog. Euer Gnaden sei gegrüßt dem gnadentblößten, Verbannten Valentin!
+HERZOG. Wie, Valentin?
+THURIO. Silvia ist dort, und Silvia ist mein!
+VALENTIN. Wollt Ihr nicht sterben, Thurio, fort, entweicht! Kommt nicht so nah, daß Euch mein Zorn erreicht! Nicht nenne Silvia dein; wag's noch einmal, So soll dich Mailand nicht mehr sehn. Hier steht sie, Nicht ihres Kleides Saum darfst du berühren; – Ja, wag' nicht anzublicken die Geliebte!
+THURIO. Herr Valentin, ich frage nichts nach ihr; Den halt' ich töricht, der sein Leben wagt Um eines Mädchens halb, die ihn nicht liebt! Ich will sie nicht, und darum sei sie dein.
+HERZOG. Um so nichtswürd'ger bist und schlechter du,
+So sehr nach ihr zu streben, wie du tatest, Und auf so feige Art sie zu verlassen! Nun, bei der Ehr' und Würde meiner Ahnen, Mich freut dein Mut! Du, Valentin, verdienst Die Liebe selbst der höchsten Kaiserin. Wie du mich hast gekränkt, das sei vergessen: Ich widerrufe, ausgesöhnt, den Bann. – Dein Hochverdienst gibt dir den neuen Stand, Den ich bestät'ge, – Ritter Valentin, Du bist ein Edelmann von altem Blut; Nimm deine Silvia, du hast sie verdient.
+VALENTIN. Ich dank' Eu'r Gnaden! Mich beglückt die Gabe. Ich bitt' Euch nun, um Eurer Tochter willen, Gewährt mir eine Gunst, um die ich flehe!
+HERZOG. Gewährt, um deinetwillen, was es sei!
+VALENTIN. Herr, die Verbannten, die mit mir gelebt, Sind Männer, ausgezeichnet in Verdiensten; Seht ihnen, was sie hier begingen, nach Und ruft aus der Verbannung sie zurück; Sie sind gebessert, mild und wohl geartet, Geschickt zu großen Diensten, gnäd'ger Herr.
+HERZOG. Es sei gewährt; Verzeihung dir und ihnen! Gib ihnen Stellen, die dir passend scheinen. Kommt, laßt uns gehn; begraben sei Verdruß In Spiel und Lust und seltner Festlichkeit!
+VALENTIN. Und unterwegs, mein gnäd'ger Fürst, versuch' ich, Euch im Gespräch ein Lächeln zu erregen; Was denkt Ihr von dem Pagen, hoher Herr?
+HERZOG. Anmutig ist der Knabe; er errötet.
+VALENTIN. Anmutig mehr, als Knabe, gnäd'ger Fürst.
+HERZOG. Was meint Ihr mit dem Scherz?
+VALENTIN. Gefällt's Euch, so erzähl' ich Euch im Gehn, Was Euch verwundern wird, wie sich's begab. – Komm, Proteus! dies sei deine Strafe nur, Zu hören die Geschichte deiner Liebe; Und dann sei unser Hochzeitstag der deine;
+Ein Fest, ein Haus und ein gedoppelt Glück!
+Alle gehn ab.
