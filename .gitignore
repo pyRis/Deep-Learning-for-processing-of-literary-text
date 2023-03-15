@@ -16,3 +16,4 @@ _book
 *.pdf
 **/bart_large_xsum_samsum
 **/__pycache__
+.vscode/settings.json
