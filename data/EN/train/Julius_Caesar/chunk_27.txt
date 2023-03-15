@@ -1,0 +1,42 @@
+GHOST : Thy evil spirit , Brutus .
+BRUTUS : Why comest thou ?
+GHOST : To tell thee thou shalt see me at Philippi .
+BRUTUS : Well ; then I shall see thee again ?
+GHOST : Ay , at Philippi .
+BRUTUS : Why , I will see thee at Philippi , then . Exit Ghost Now I have taken heart thou vanishest : Ill spirit , I would hold more talk with thee . Boy , Lucius ! Varro ! Claudius ! Sirs , awake ! Claudius !
+LUCIUS : The strings , my lord , are false .
+BRUTUS : He thinks he still is at his instrument . Lucius , awake !
+LUCIUS : My lord ?
+BRUTUS : Didst thou dream , Lucius , that thou so criedst out ?
+LUCIUS : My lord , I do not know that I did cry .
+BRUTUS : Yes , that thou didst : didst thou see any thing ?
+LUCIUS : Nothing , my lord .
+BRUTUS : Sleep again , Lucius . Sirrah Claudius ! To VARRO Fellow thou , awake !
+VARRO : My lord ?
+CLAUDIUS : My lord ?
+BRUTUS : Why did you so cry out , sirs , in your sleep ?
+VARRO CLAUDIUS : Did we , my lord ?
+BRUTUS : Ay : saw you any thing ?
+VARRO : No , my lord , I saw nothing .
+CLAUDIUS : Nor I , my lord .
+BRUTUS : Go and commend me to my brother Cassius ; Bid him set on his powers betimes before , And we will follow .
+VARRO CLAUDIUS : It shall be done , my lord . Enter OCTAVIUS , ANTONY , and their army
+OCTAVIUS : Now , Antony , our hopes are answered : You said the enemy would not come down , But keep the hills and upper regions ; It proves not so : their battles are at hand ; They mean to warn us at Philippi here , Answering before we do demand of them .
+ANTONY : Tut , I am in their bosoms , and I know Wherefore they do it : they could be content To visit other places ; and come down With fearful bravery , thinking by this face To fasten in our thoughts that they have courage ; But ' tis not so . Enter a Messenger
+Messenger : Prepare you , generals : The enemy comes on in gallant show ; Their bloody sign of battle is hung out , And something to be done immediately .
+ANTONY : Octavius , lead your battle softly on , Upon the left hand of the even field .
+OCTAVIUS : Upon the right hand I ; keep thou the left .
+ANTONY : Why do you cross me in this exigent ?
+OCTAVIUS : I do not cross you ; but I will do so . March Drum . Enter BRUTUS , CASSIUS , and their Army ; LUCILIUS , TITINIUS , MESSALA , and others
+BRUTUS : They stand , and would have parley .
+CASSIUS : Stand fast , Titinius : we must out and talk .
+OCTAVIUS : Mark Antony , shall we give sign of battle ?
+ANTONY : No , Caesar , we will answer on their charge . Make forth ; the generals would have some words .
+OCTAVIUS : Stir not until the signal .
+BRUTUS : Words before blows : is it so , countrymen ?
+OCTAVIUS : Not that we love words better , as you do .
+BRUTUS : Good words are better than bad strokes , Octavius .
+ANTONY : In your bad strokes , Brutus , you give good words : Witness the hole you made in Caesar 's heart , Crying ' Long live ! hail , Caesar ! '
+CASSIUS : Antony , The posture of your blows are yet unknown ; But for your words , they rob the Hybla bees , And leave them honeyless .
+ANTONY : Not stingless too .
+BRUTUS : O , yes , and soundless too ; For you have stol 'n their buzzing , Antony , And very wisely threat before you sting .

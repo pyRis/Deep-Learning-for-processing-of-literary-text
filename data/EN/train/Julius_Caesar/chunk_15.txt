@@ -1,0 +1,32 @@
+CINNA : O Caesar , --
+CAESAR : Hence ! wilt thou lift up Olympus ?
+DECIUS BRUTUS : Great Caesar , --
+CAESAR : Doth not Brutus bootless kneel ?
+CASCA : Speak , hands for me ! CASCA first , then the other Conspirators and BRUTUS stab CAESAR
+CAESAR : Et tu , Brute ! Then fall , Caesar . Dies
+CINNA : Liberty ! Freedom ! Tyranny is dead ! Run hence , proclaim , cry it about the streets .
+CASSIUS : Some to the common pulpits , and cry out ' Liberty , freedom , and enfranchisement ! '
+BRUTUS : People and senators , be not affrighted ; Fly not ; stand stiff : ambition 's debt is paid .
+CASCA : Go to the pulpit , Brutus .
+DECIUS BRUTUS : And Cassius too .
+BRUTUS : Where 's Publius ?
+CINNA : Here , quite confounded with this mutiny .
+METELLUS CIMBER : Stand fast together , lest some friend of Caesar 's Should chance--
+BRUTUS : Talk not of standing . Publius , good cheer ; There is no harm intended to your person , Nor to no Roman else : so tell them , Publius .
+CASSIUS : And leave us , Publius ; lest that the people , Rushing on us , should do your age some mischief .
+BRUTUS : Do so : and let no man abide this deed , But we the doers . Re-enter TREBONIUS
+CASSIUS : Where is Antony ?
+TREBONIUS : Fled to his house amazed : Men , wives and children stare , cry out and run As it were doomsday .
+BRUTUS : Fates , we will know your pleasures : That we shall die , we know ; ' tis but the time And drawing days out , that men stand upon .
+CASSIUS : Why , he that cuts off twenty years of life Cuts off so many years of fearing death .
+BRUTUS : Grant that , and then is death a benefit : So are we Caesar 's friends , that have abridged His time of fearing death . Stoop , Romans , stoop , And let us bathe our hands in Caesar 's blood Up to the elbows , and besmear our swords : Then walk we forth , even to the market-place , And , waving our red weapons o 'er our heads , Let 's all cry ' Peace , freedom and liberty ! '
+CASSIUS : Stoop , then , and wash . How many ages hence Shall this our lofty scene be acted over In states unborn and accents yet unknown !
+BRUTUS : How many times shall Caesar bleed in sport , That now on Pompey 's basis lies along No worthier than the dust !
+CASSIUS : So oft as that shall be , So often shall the knot of us be call 'd The men that gave their country liberty .
+DECIUS BRUTUS : What , shall we forth ?
+CASSIUS : Ay , every man away : Brutus shall lead ; and we will grace his heels With the most boldest and best hearts of Rome . Enter a Servant
+BRUTUS : Soft ! who comes here ? A friend of Antony 's .
+Servant : Thus , Brutus , did my master bid me kneel : Thus did Mark Antony bid me fall down ; And , being prostrate , thus he bade me say : Brutus is noble , wise , valiant , and honest ; Caesar was mighty , bold , royal , and loving : Say I love Brutus , and I honour him ; Say I fear 'd Caesar , honour 'd him and loved him . If Brutus will vouchsafe that Antony May safely come to him , and be resolved How Caesar hath deserved to lie in death , Mark Antony shall not love Caesar dead So well as Brutus living ; but will follow The fortunes and affairs of noble Brutus Thorough the hazards of this untrod state With all true faith . So says my master Antony .
+BRUTUS : Thy master is a wise and valiant Roman ; I never thought him worse . Tell him , so please him come unto this place , He shall be satisfied ; and , by my honour , Depart untouch 'd .
+Servant : I 'll fetch him presently . Exit
+BRUTUS : I know that we shall have him well to friend .

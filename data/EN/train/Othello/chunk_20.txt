@@ -1,0 +1,25 @@
+OTHELLO : O , yes ; and went between us very oft .
+IAGO : Indeed !
+OTHELLO : Indeed ! ay , indeed : discern 'st thou aught in that ? Is he not honest ?
+IAGO : Honest , my lord !
+OTHELLO : Honest ! ay , honest .
+IAGO : My lord , for aught I know .
+OTHELLO : What dost thou think ?
+IAGO : Think , my lord !
+OTHELLO : Think , my lord ! By heaven , he echoes me , As if there were some monster in his thought Too hideous to be shown . Thou dost mean something : I heard thee say even now , thou likedst not that , When Cassio left my wife : what didst not like ? And when I told thee he was of my counsel In my whole course of wooing , thou criedst ' Indeed ! ' And didst contract and purse thy brow together , As if thou then hadst shut up in thy brain Some horrible conceit : if thou dost love me , Show me thy thought .
+IAGO : My lord , you know I love you .
+OTHELLO : I think thou dost ; And , for I know thou 'rt full of love and honesty , And weigh 'st thy words before thou givest them breath , Therefore these stops of thine fright me the more : For such things in a false disloyal knave Are tricks of custom , but in a man that 's just They are close delations , working from the heart That passion cannot rule .
+IAGO : For Michael Cassio , I dare be sworn I think that he is honest .
+OTHELLO : I think so too .
+IAGO : Men should be what they seem ; Or those that be not , would they might seem none !
+OTHELLO : Certain , men should be what they seem .
+IAGO : Why , then , I think Cassio 's an honest man .
+OTHELLO : Nay , yet there 's more in this : I prithee , speak to me as to thy thinkings , As thou dost ruminate , and give thy worst of thoughts The worst of words .
+IAGO : Good my lord , pardon me : Though I am bound to every act of duty , I am not bound to that all slaves are free to . Utter my thoughts ? Why , say they are vile and false ; As where 's that palace whereinto foul things Sometimes intrude not ? who has a breast so pure , But some uncleanly apprehensions Keep leets and law-days and in session sit With meditations lawful ?
+OTHELLO : Thou dost conspire against thy friend , Iago , If thou but think 'st him wrong 'd and makest his ear A stranger to thy thoughts .
+IAGO : I do beseech you-- Though I perchance am vicious in my guess , As , I confess , it is my nature 's plague To spy into abuses , and oft my jealousy Shapes faults that are not--that your wisdom yet , From one that so imperfectly conceits , Would take no notice , nor build yourself a trouble Out of his scattering and unsure observance . It were not for your quiet nor your good , Nor for my manhood , honesty , or wisdom , To let you know my thoughts .
+OTHELLO : What dost thou mean ?
+IAGO : Good name in man and woman , dear my lord , Is the immediate jewel of their souls : Who steals my purse steals trash ; ' tis something , nothing ; ' Twas mine , ' tis his , and has been slave to thousands : But he that filches from me my good name Robs me of that which not enriches him And makes me poor indeed .
+OTHELLO : By heaven , I 'll know thy thoughts .
+IAGO : You cannot , if my heart were in your hand ; Nor shall not , whilst ' tis in my custody .
+OTHELLO : Ha !

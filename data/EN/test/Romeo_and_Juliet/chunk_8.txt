@@ -1,0 +1,27 @@
+TYBALT : This , by his voice , should be a Montague . Fetch me my rapier , boy . What dares the slave Come hither , cover 'd with an antic face , To fleer and scorn at our solemnity ? Now , by the stock and honour of my kin , To strike him dead , I hold it not a sin .
+CAPULET : Why , how now , kinsman ! wherefore storm you so ?
+TYBALT : Uncle , this is a Montague , our foe , A villain that is hither come in spite , To scorn at our solemnity this night .
+CAPULET : Young Romeo is it ?
+TYBALT : ' Tis he , that villain Romeo .
+CAPULET : Content thee , gentle coz , let him alone ; He bears him like a portly gentleman ; And , to say truth , Verona brags of him To be a virtuous and well-govern 'd youth : I would not for the wealth of all the town Here in my house do him disparagement : Therefore be patient , take no note of him : It is my will , the which if thou respect , Show a fair presence and put off these frowns , And ill-beseeming semblance for a feast .
+TYBALT : It fits , when such a villain is a guest : I 'll not endure him .
+CAPULET : He shall be endured : What , goodman boy ! I say , he shall : go to ; Am I the master here , or you ? go to . You 'll not endure him ! God shall mend my soul ! You 'll make a mutiny among my guests ! You will set cock-a-hoop ! you 'll be the man !
+TYBALT : Why , uncle , ' tis a shame .
+CAPULET : Go to , go to ; You are a saucy boy : is 't so , indeed ? This trick may chance to scathe you , I know what : You must contrary me ! marry , ' tis time . Well said , my hearts ! You are a princox ; go : Be quiet , or--More light , more light ! For shame ! I 'll make you quiet . What , cheerly , my hearts !
+TYBALT : Patience perforce with wilful choler meeting Makes my flesh tremble in their different greeting . I will withdraw : but this intrusion shall Now seeming sweet convert to bitter gall . Exit
+ROMEO : If I profane with my unworthiest hand This holy shrine , the gentle fine is this : My lips , two blushing pilgrims , ready stand To smooth that rough touch with a tender kiss .
+JULIET : Good pilgrim , you do wrong your hand too much , Which mannerly devotion shows in this ; For saints have hands that pilgrims ' hands do touch , And palm to palm is holy palmers ' kiss .
+ROMEO : Have not saints lips , and holy palmers too ?
+JULIET : Ay , pilgrim , lips that they must use in prayer .
+ROMEO : O , then , dear saint , let lips do what hands do ; They pray , grant thou , lest faith turn to despair .
+JULIET : Saints do not move , though grant for prayers ' sake .
+ROMEO : Then move not , while my prayer 's effect I take . Thus from my lips , by yours , my sin is purged .
+JULIET : Then have my lips the sin that they have took .
+ROMEO : Sin from thy lips ? O trespass sweetly urged ! Give me my sin again .
+JULIET : You kiss by the book .
+Nurse : Madam , your mother craves a word with you .
+ROMEO : What is her mother ?
+Nurse : Marry , bachelor , Her mother is the lady of the house , And a good lady , and a wise and virtuous I nursed her daughter , that you talk 'd withal ; I tell you , he that can lay hold of her Shall have the chinks .
+ROMEO : Is she a Capulet ? O dear account ! my life is my foe 's debt .
+BENVOLIO : Away , begone ; the sport is at the best .
+ROMEO : Ay , so I fear ; the more is my unrest .

@@ -1,0 +1,29 @@
+SILENCE : Thereafter as they be : a score of good ewes may be worth ten pounds .
+SHALLOW : And is old Double dead ?
+SILENCE : Here come two of Sir John Falstaff 's men , as I think . Enter BARDOLPH and one with him
+BARDOLPH : Good morrow , honest gentlemen : I beseech you , which is Justice Shallow ?
+SHALLOW : I am Robert Shallow , sir ; a poor esquire of this county , and one of the king 's justices of th e peace : What is your good pleasure with me ?
+BARDOLPH : My captain , sir , commends him to you ; my captain , Sir John Falstaff , a tall gentleman , by heaven , and a most gallant leader .
+SHALLOW : He greets me well , sir . I knew him a good backsword man . How doth the good knight ? may I ask how my lady his wife doth ?
+BARDOLPH : Sir , pardon ; a soldier is better accommodated than with a wife .
+SHALLOW : It is well said , in faith , sir ; and it is well said indeed too . Better accommodated ! it is good ; yea , indeed , is it : good phrases are surely , and ever were , very commendable . Accommodated ! it comes of ' accommodo ' very good ; a good phrase .
+BARDOLPH : Pardon me , sir ; I have heard the word . Phrase call you it ? by this good day , I know not the phrase ; but I will maintain the word with my sword to be a soldier-like word , and a word of exceeding good command , by heaven . Accommodated ; that is , when a man is , as they say , accommodated ; or when a man is , being , whereby a ' may be thought to be accommodated ; which is an excellent thing .
+SHALLOW : It is very just . Enter FALSTAFF Look , here comes good Sir John . Give me your good hand , give me your worship 's good hand : by my troth , you like well and bear your years very well : welcome , good Sir John .
+FALSTAFF : I am glad to see you well , good Master Robert Shallow : Master Surecard , as I think ?
+SHALLOW : No , Sir John ; it is my cousin Silence , in commission with me .
+FALSTAFF : Good Master Silence , it well befits you should be of the peace .
+SILENCE : Your good-worship is welcome .
+FALSTAFF : Fie ! this is hot weather , gentlemen . Have you provided me here half a dozen sufficient men ?
+SHALLOW : Marry , have we , sir . Will you sit ?
+FALSTAFF : Let me see them , I beseech you .
+SHALLOW : Where 's the roll ? where 's the roll ? where 's the roll ? Let me see , let me see , let me see . So , so : yea , marry , sir : Ralph Mouldy ! Let them appear as I call ; let them do so , let them do so . Let me see ; where is Mouldy ?
+MOULDY : Here , an 't please you .
+SHALLOW : What think you , Sir John ? a good-limbed fellow ; young , strong , and of good friends .
+FALSTAFF : Is thy name Mouldy ?
+MOULDY : Yea , an 't please you .
+FALSTAFF : ' Tis the more time thou wert used .
+SHALLOW : Ha , ha , ha ! most excellent , i ' faith ! Things that are mouldy lack use : very singular good ! in faith , well said , Sir John , very well said .
+FALSTAFF : Prick him .
+MOULDY : I was pricked well enough before , an you could have let me alone : my old dame will be undone now for one to do her husbandry and her drudgery : you need not to have pricked me ; there are other men fitter to go out than I.
+FALSTAFF : Go to : peace , Mouldy ; you shall go . Mouldy , it is time you were spent .
+MOULDY : Spent !

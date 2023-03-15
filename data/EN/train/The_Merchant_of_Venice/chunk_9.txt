@@ -1,0 +1,22 @@
+BASSANIO : One speak for both . What would you ?
+LAUNCELOT : Serve you , sir .
+GOBBO : That is the very defect of the matter , sir .
+BASSANIO : I know thee well ; thou hast obtain 'd thy suit : Shylock thy master spoke with me this day , And hath preferr 'd thee , if it be preferment To leave a rich Jew 's service , to become The follower of so poor a gentleman .
+LAUNCELOT : The old proverb is very well parted between my master Shylock and you , sir : you have the grace of God , sir , and he hath enough .
+BASSANIO : Thou speak 'st it well . Go , father , with thy son . Take leave of thy old master and inquire My lodging out . Give him a livery More guarded than his fellows ' : see it done .
+LAUNCELOT : Father , in . I cannot get a service , no ; I have ne 'er a tongue in my head . Well , if any man in Italy have a fairer table which doth offer to swear upon a book , I shall have good fortune . Go to , here 's a simple line of life : here 's a small trifle of wives : alas , fifteen wives is nothing ! eleven widows and nine maids is a simple coming-in for one man : and then to ' scape drowning thrice , and to be in peril of my life with the edge of a feather-bed ; here are simple scapes . Well , if Fortune be a woman , she 's a good wench for this gear . Father , come ; I 'll take my leave of the Jew in the twinkling of an eye .
+BASSANIO : I pray thee , good Leonardo , think on this : These things being bought and orderly bestow 'd , Return in haste , for I do feast to-night My best-esteem 'd acquaintance : hie thee , go .
+LEONARDO : My best endeavours shall be done herein . Enter GRATIANO
+GRATIANO : Where is your master ?
+LEONARDO : Yonder , sir , he walks . Exit
+GRATIANO : Signior Bassanio !
+BASSANIO : Gratiano !
+GRATIANO : I have a suit to you .
+BASSANIO : You have obtain 'd it .
+GRATIANO : You must not deny me : I must go with you to Belmont .
+BASSANIO : Why then you must . But hear thee , Gratiano ; Thou art too wild , too rude and bold of voice ; Parts that become thee happily enough And in such eyes as ours appear not faults ; But where thou art not known , why , there they show Something too liberal . Pray thee , take pain To allay with some cold drops of modesty Thy skipping spirit , lest through thy wild behavior I be misconstrued in the place I go to , And lose my hopes .
+GRATIANO : Signior Bassanio , hear me : If I do not put on a sober habit , Talk with respect and swear but now and then , Wear prayer-books in my pocket , look demurely , Nay more , while grace is saying , hood mine eyes Thus with my hat , and sigh and say ' amen , ' Use all the observance of civility , Like one well studied in a sad ostent To please his grandam , never trust me more .
+BASSANIO : Well , we shall see your bearing .
+GRATIANO : Nay , but I bar to-night : you shall not gauge me By what we do to-night .
+BASSANIO : No , that were pity : I would entreat you rather to put on Your boldest suit of mirth , for we have friends That purpose merriment . But fare you well : I have some business .
+GRATIANO : And I must to Lorenzo and the rest : But we will visit you at supper-time . Enter JESSICA and LAUNCELOT

@@ -1,0 +1,25 @@
+BUSHY : Well , we may meet again .
+BAGOT : I fear me , never . Enter HENRY BOLINGBROKE and NORTHUMBERLAND , with Forces
+HENRY BOLINGBROKE : How far is it , my lord , to Berkeley now ?
+NORTHUMBERLAND : Believe me , noble lord , I am a stranger here in Gloucestershire : These high wild hills and rough uneven ways Draws out our miles , and makes them wearisome , And yet your fair discourse hath been as sugar , Making the hard way sweet and delectable . But I bethink me what a weary way From Ravenspurgh to Cotswold will be found In Ross and Willoughby , wanting your company , Which , I protest , hath very much beguiled The tediousness and process of my travel : But theirs is sweetened with the hope to have The present benefit which I possess ; And hope to joy is little less in joy Than hope enjoy 'd : by this the weary lords Shall make their way seem short , as mine hath done By sight of what I have , your noble company .
+HENRY BOLINGBROKE : Of much less value is my company Than your good words . But who comes here ? Enter HENRY PERCY
+NORTHUMBERLAND : It is my son , young Harry Percy , Sent from my brother Worcester , whencesoever . Harry , how fares your uncle ?
+HENRY PERCY : I had thought , my lord , to have learn 'd his health of you .
+NORTHUMBERLAND : Why , is he not with the queen ?
+HENRY PERCY : No , my good Lord ; he hath forsook the court , Broken his staff of office and dispersed The household of the king .
+NORTHUMBERLAND : What was his reason ? He was not so resolved when last we spake together .
+HENRY PERCY : Because your lordship was proclaimed traitor . But he , my lord , is gone to Ravenspurgh , To offer service to the Duke of Hereford , And sent me over by Berkeley , to discover What power the Duke of York had levied there ; Then with directions to repair to Ravenspurgh .
+NORTHUMBERLAND : Have you forgot the Duke of Hereford , boy ?
+HENRY PERCY : No , my good lord , for that is not forgot Which ne 'er I did remember : to my knowledge , I never in my life did look on him .
+NORTHUMBERLAND : Then learn to know him now ; this is the duke .
+HENRY PERCY : My gracious lord , I tender you my service , Such as it is , being tender , raw and young : Which elder days shall ripen and confirm To more approved service and desert .
+HENRY BOLINGBROKE : I thank thee , gentle Percy ; and be sure I count myself in nothing else so happy As in a soul remembering my good friends ; And , as my fortune ripens with thy love , It shall be still thy true love 's recompense : My heart this covenant makes , my hand thus seals it .
+NORTHUMBERLAND : How far is it to Berkeley ? and what stir Keeps good old York there with his men of war ?
+HENRY PERCY : There stands the castle , by yon tuft of trees , Mann 'd with three hundred men , as I have heard ; And in it are the Lords of York , Berkeley , and Seymour ; None else of name and noble estimate . Enter LORD ROSS and LORD WILLOUGHBY
+NORTHUMBERLAND : Here come the Lords of Ross and Willoughby , Bloody with spurring , fiery-red with haste .
+HENRY BOLINGBROKE : Welcome , my lords . I wot your love pursues A banish 'd traitor : all my treasury Is yet but unfelt thanks , which more enrich 'd Shall be your love and labour 's recompense .
+LORD ROSS : Your presence makes us rich , most noble lord .
+LORD WILLOUGHBY : And far surmounts our labour to attain it .
+HENRY BOLINGBROKE : Evermore thanks , the exchequer of the poor ; Which , till my infant fortune comes to years , Stands for my bounty . But who comes here ? Enter LORD BERKELEY
+NORTHUMBERLAND : It is my Lord of Berkeley , as I guess .
+LORD BERKELEY : My Lord of Hereford , my message is to you .

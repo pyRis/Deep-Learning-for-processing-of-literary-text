@@ -1,0 +1,36 @@
+FROTH : I have so ; because it is an open room and good for winter .
+POMPEY : Why , very well , then ; I hope here be truths .
+ANGELO : This will last out a night in Russia , When nights are longest there : I 'll take my leave . And leave you to the hearing of the cause ; Hoping you 'll find good cause to whip them all .
+ESCALUS : I think no less . Good morrow to your lordship . Exit ANGELO Now , sir , come on : what was done to Elbow 's wife , once more ?
+POMPEY : Once , sir ? there was nothing done to her once .
+ELBOW : I beseech you , sir , ask him what this man did to my wife .
+POMPEY : I beseech your honour , ask me .
+ESCALUS : Well , sir ; what did this gentleman to her ?
+POMPEY : I beseech you , sir , look in this gentleman 's face . Good Master Froth , look upon his honour ; ' tis for a good purpose . Doth your honour mark his face ?
+ESCALUS : Ay , sir , very well .
+POMPEY : Nay ; I beseech you , mark it well .
+ESCALUS : Well , I do so .
+POMPEY : Doth your honour see any harm in his face ?
+ESCALUS : Why , no .
+POMPEY : I 'll be supposed upon a book , his face is the worst thing about him . Good , then ; if his face be the worst thing about him , how could Master Froth do the constable 's wife any harm ? I would know that of your honour .
+ESCALUS : He 's in the right . Constable , what say you to it ?
+ELBOW : First , an it like you , the house is a respected house ; next , this is a respected fellow ; and his mistress is a respected woman .
+POMPEY : By this hand , sir , his wife is a more respected person than any of us all .
+ELBOW : Varlet , thou liest ; thou liest , wicked varlet ! the time has yet to come that she was ever respected with man , woman , or child .
+POMPEY : Sir , she was respected with him before he married with her .
+ESCALUS : Which is the wiser here ? Justice or Iniquity ? Is this true ?
+ELBOW : O thou caitiff ! O thou varlet ! O thou wicked Hannibal ! I respected with her before I was married to her ! If ever I was respected with her , or she with me , let not your worship think me the poor duke 's officer . Prove this , thou wicked Hannibal , or I 'll have mine action of battery on thee .
+ESCALUS : If he took you a box o ' the ear , you might have your action of slander too .
+ELBOW : Marry , I thank your good worship for it . What is 't your worship 's pleasure I shall do with this wicked caitiff ?
+ESCALUS : Truly , officer , because he hath some offences in him that thou wouldst discover if thou couldst , let him continue in his courses till thou knowest what they are .
+ELBOW : Marry , I thank your worship for it . Thou seest , thou wicked varlet , now , what 's come upon thee : thou art to continue now , thou varlet ; thou art to continue .
+ESCALUS : Where were you born , friend ?
+FROTH : Here in Vienna , sir .
+ESCALUS : Are you of fourscore pounds a year ?
+FROTH : Yes , an 't please you , sir .
+ESCALUS : So . What trade are you of , sir ?
+POMPHEY : Tapster ; a poor widow 's tapster .
+ESCALUS : Your mistress ' name ?
+POMPHEY : Mistress Overdone .
+ESCALUS : Hath she had any more than one husband ?
+POMPEY : Nine , sir ; Overdone by the last .

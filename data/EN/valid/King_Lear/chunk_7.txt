@@ -1,0 +1,33 @@
+KING LEAR : Let me not stay a jot for dinner ; go get it ready . Exit an Attendant How now ! what art thou ?
+KENT : A man , sir .
+KING LEAR : What dost thou profess ? what wouldst thou with us ?
+KENT : I do profess to be no less than I seem ; to serve him truly that will put me in trust : to love him that is honest ; to converse with him that is wise , and says little ; to fear judgment ; to fight when I cannot choose ; and to eat no fish .
+KING LEAR : What art thou ?
+KENT : A very honest-hearted fellow , and as poor as the king .
+KING LEAR : If thou be as poor for a subject as he is for a king , thou art poor enough . What wouldst thou ?
+KENT : Service .
+KING LEAR : Who wouldst thou serve ?
+KENT : You .
+KING LEAR : Dost thou know me , fellow ?
+KENT : No , sir ; but you have that in your countenance which I would fain call master .
+KING LEAR : What 's that ?
+KENT : Authority .
+KING LEAR : What services canst thou do ?
+KENT : I can keep honest counsel , ride , run , mar a curious tale in telling it , and deliver a plain message bluntly : that which ordinary men are fit for , I am qualified in ; and the best of me is diligence .
+KING LEAR : How old art thou ?
+KENT : Not so young , sir , to love a woman for singing , nor so old to dote on her for any thing : I have years on my back forty eight .
+KING LEAR : Follow me ; thou shalt serve me : if I like thee no worse after dinner , I will not part from thee yet . Dinner , ho , dinner ! Where 's my knave ? my fool ? Go you , and call my fool hither . Exit an Attendant Enter OSWALD You , you , sirrah , where 's my daughter ?
+OSWALD : So please you , -- Exit
+KING LEAR : What says the fellow there ? Call the clotpoll back . Exit a Knight Where 's my fool , ho ? I think the world 's asleep . Re-enter Knight How now ! where 's that mongrel ?
+Knight : He says , my lord , your daughter is not well .
+KING LEAR : Why came not the slave back to me when I called him .
+Knight : Sir , he answered me in the roundest manner , he would not .
+KING LEAR : He would not !
+Knight : My lord , I know not what the matter is ; but , to my judgment , your highness is not entertained with that ceremonious affection as you were wont ; there 's a great abatement of kindness appears as well in the general dependants as in the duke himself also and your daughter .
+KING LEAR : Ha ! sayest thou so ?
+Knight : I beseech you , pardon me , my lord , if I be mistaken ; for my duty cannot be silent when I think your highness wronged .
+KING LEAR : Thou but rememberest me of mine own conception : I have perceived a most faint neglect of late ; which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness : I will look further into 't . But where 's my fool ? I have not seen him this two days .
+Knight : Since my young lady 's going into France , sir , the fool hath much pined away .
+KING LEAR : No more of that ; I have noted it well . Go you , and tell my daughter I would speak with her . Exit an Attendant Go you , call hither my fool . Exit an Attendant Re-enter OSWALD O , you sir , you , come you hither , sir : who am I , sir ?
+OSWALD : My lady 's father .
+KING LEAR : ' My lady 's father ' ! my lord 's knave : your whoreson dog ! you slave ! you cur !

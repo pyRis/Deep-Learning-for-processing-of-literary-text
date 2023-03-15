@@ -1,0 +1,23 @@
+CASSANDRA : O Priam , yield not to him !
+ANDROMACHE : Do not , dear father .
+HECTOR : Andromache , I am offended with you : Upon the love you bear me , get you in . Exit ANDROMACHE
+TROILUS : This foolish , dreaming , superstitious girl Makes all these bodements .
+CASSANDRA : O , farewell , dear Hector ! Look , how thou diest ! look , how thy eye turns pale ! Look , how thy wounds do bleed at many vents ! Hark , how Troy roars ! how Hecuba cries out ! How poor Andromache shrills her dolours forth ! Behold , distraction , frenzy and amazement , Like witless antics , one another meet , And all cry , Hector ! Hector 's dead ! O Hector !
+TROILUS : Away ! away !
+CASSANDRA : Farewell : yet , soft ! Hector ! take my leave : Thou dost thyself and all our Troy deceive . Exit
+HECTOR : You are amazed , my liege , at her exclaim : Go in and cheer the town : we 'll forth and fight , Do deeds worth praise and tell you them at night .
+PRIAM : Farewell : the gods with safety stand about thee !
+TROILUS : They are at it , hark ! Proud Diomed , believe , I come to lose my arm , or win my sleeve . Enter PANDARUS
+PANDARUS : Do you hear , my lord ? do you hear ?
+TROILUS : What now ?
+PANDARUS : Here 's a letter come from yond poor girl .
+TROILUS : Let me read .
+PANDARUS : A whoreson tisick , a whoreson rascally tisick so troubles me , and the foolish fortune of this girl ; and what one thing , what another , that I shall leave you one o ' these days : and I have a rheum in mine eyes too , and such an ache in my bones that , unless a man were cursed , I cannot tell what to think on 't . What says she there ?
+TROILUS : Words , words , mere words , no matter from the heart : The effect doth operate another way . Tearing the letter Go , wind , to wind , there turn and change together . My love with words and errors still she feeds ; But edifies another with her deeds . Alarums : excursions . Enter THERSITES
+THERSITES : Now they are clapper-clawing one another ; I 'll go look on . That dissembling abominable varlets Diomed , has got that same scurvy doting foolish young knave 's sleeve of Troy there in his helm : I would fain see them meet ; that that same young Trojan ass , that loves the whore there , might send that Greekish whore-masterly villain , with the sleeve , back to the dissembling luxurious drab , of a sleeveless errand . O ' the t 'other side , the policy of those crafty swearing rascals , that stale old mouse-eaten dry cheese , Nestor , and that same dog-fox , Ulysses , is not proved worthy a blackberry : they set me up , in policy , that mongrel cur , Ajax , against that dog of as bad a kind , Achilles : and now is the cur Ajax prouder than the cur Achilles , and will not arm to-day ; whereupon the Grecians begin to proclaim barbarism , and policy grows into an ill opinion . Soft ! here comes sleeve , and t 'other . Enter DIOMEDES , TROILUS following
+TROILUS : Fly not ; for shouldst thou take the river Styx , I would swim after .
+DIOMEDES : Thou dost miscall retire : I do not fly , but advantageous care Withdrew me from the odds of multitude : Have at thee !
+THERSITES : Hold thy whore , Grecian ! --now for thy whore , Trojan ! --now the sleeve , now the sleeve ! Enter HECTOR
+HECTOR : What art thou , Greek ? art thou for Hector 's match ? Art thou of blood and honour ?
+THERSITES : No , no , I am a rascal ; a scurvy railing knave : a very filthy rogue .
+HECTOR : I do believe thee : live . Exit

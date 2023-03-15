@@ -1,0 +1,27 @@
+GRUMIO : I confess the cape .
+Tailor : ' With a trunk sleeve : '
+GRUMIO : I confess two sleeves .
+Tailor : ' The sleeves curiously cut . ' 
+PETRUCHIO : Ay , there 's the villany .
+GRUMIO : Error i ' the bill , sir ; error i ' the bill . I commanded the sleeves should be cut out and sewed up again ; and that I 'll prove upon thee , though thy little finger be armed in a thimble .
+Tailor : This is true that I say : an I had thee in place where , thou shouldst know it .
+GRUMIO : I am for thee straight : take thou the bill , give me thy mete-yard , and spare not me .
+HORTENSIO : God-a-mercy , Grumio ! then he shall have no odds .
+PETRUCHIO : Well , sir , in brief , the gown is not for me .
+GRUMIO : You are i ' the right , sir : ' tis for my mistress .
+PETRUCHIO : Go , take it up unto thy master 's use .
+GRUMIO : Villain , not for thy life : take up my mistress ' gown for thy master 's use !
+PETRUCHIO : Why , sir , what 's your conceit in that ?
+GRUMIO : O , sir , the conceit is deeper than you think for : Take up my mistress ' gown to his master 's use ! O , fie , fie , fie !
+PETRUCHIO : Hortensio , say thou wilt see the tailor paid . Go take it hence ; be gone , and say no more .
+HORTENSIO : Tailor , I 'll pay thee for thy gown tomorrow : Take no unkindness of his hasty words : Away ! I say ; commend me to thy master . Exit Tailor
+PETRUCHIO : Well , come , my Kate ; we will unto your father 's Even in these honest mean habiliments : Our purses shall be proud , our garments poor ; For ' tis the mind that makes the body rich ; And as the sun breaks through the darkest clouds , So honour peereth in the meanest habit . What is the jay more precious than the lark , Because his fathers are more beautiful ? Or is the adder better than the eel , Because his painted skin contents the eye ? O , no , good Kate ; neither art thou the worse For this poor furniture and mean array. if thou account 'st it shame. lay it on me ; And therefore frolic : we will hence forthwith , To feast and sport us at thy father 's house . Go , call my men , and let us straight to him ; And bring our horses unto Long-lane end ; There will we mount , and thither walk on foot Let 's see ; I think ' tis now some seven o 'clock , And well we may come there by dinner-time .
+KATHARINA : I dare assure you , sir , ' tis almost two ; And ' twill be supper-time ere you come there .
+PETRUCHIO : It shall be seven ere I go to horse : Look , what I speak , or do , or think to do , You are still crossing it . Sirs , let 't alone : I will not go to-day ; and ere I do , It shall be what o 'clock I say it is .
+HORTENSIO : Why , so this gallant will command the sun . Enter TRANIO , and the Pedant dressed like VINCENTIO
+TRANIO : Sir , this is the house : please it you that I call ?
+Pedant : Ay , what else ? and but I be deceived Signior Baptista may remember me , Near twenty years ago , in Genoa , Where we were lodgers at the Pegasus .
+TRANIO : ' Tis well ; and hold your own , in any case , With such austerity as ' longeth to a father .
+Pedant : I warrant you . Enter BIONDELLO But , sir , here comes your boy ; ' Twere good he were school 'd .
+TRANIO : Fear you not him . Sirrah Biondello , Now do your duty throughly , I advise you : Imagine ' twere the right Vincentio .
+BIONDELLO : Tut , fear not me .

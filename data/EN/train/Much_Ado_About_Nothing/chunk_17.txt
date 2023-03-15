@@ -1,0 +1,27 @@
+DOGBERRY : Are you good men and true ?
+VERGES : Yea , or else it were pity but they should suffer salvation , body and soul .
+DOGBERRY : Nay , that were a punishment too good for them , if they should have any allegiance in them , being chosen for the prince 's watch .
+VERGES : Well , give them their charge , neighbour Dogberry .
+DOGBERRY : First , who think you the most desertless man to be constable ?
+First Watchman : Hugh Otecake , sir , or George Seacole ; for they can write and read .
+DOGBERRY : Come hither , neighbour Seacole . God hath blessed you with a good name : to be a well-favoured man is the gift of fortune ; but to write and read comes by nature .
+Second Watchman : Both which , master constable , --
+DOGBERRY : You have : I knew it would be your answer . Well , for your favour , sir , why , give God thanks , and make no boast of it ; and for your writing and reading , let that appear when there is no need of such vanity . You are thought here to be the most senseless and fit man for the constable of the watch ; therefore bear you the lantern . This is your charge : you shall comprehend all vagrom men ; you are to bid any man stand , in the prince 's name .
+Second Watchman : How if a ' will not stand ?
+DOGBERRY : Why , then , take no note of him , but let him go ; and presently call the rest of the watch together and thank God you are rid of a knave .
+VERGES : If he will not stand when he is bidden , he is none of the prince 's subjects .
+DOGBERRY : True , and they are to meddle with none but the prince 's subjects . You shall also make no noise in the streets ; for , for the watch to babble and to talk is most tolerable and not to be endured .
+Watchman : We will rather sleep than talk : we know what belongs to a watch .
+DOGBERRY : Why , you speak like an ancient and most quiet watchman ; for I cannot see how sleeping should offend : only , have a care that your bills be not stolen . Well , you are to call at all the ale-houses , and bid those that are drunk get them to bed .
+Watchman : How if they will not ?
+DOGBERRY : Why , then , let them alone till they are sober : if they make you not then the better answer , you may say they are not the men you took them for .
+Watchman : Well , sir .
+DOGBERRY : If you meet a thief , you may suspect him , by virtue of your office , to be no true man ; and , for such kind of men , the less you meddle or make with them , why the more is for your honesty .
+Watchman : If we know him to be a thief , shall we not lay hands on him ?
+DOGBERRY : Truly , by your office , you may ; but I think they that touch pitch will be defiled : the most peaceable way for you , if you do take a thief , is to let him show himself what he is and steal out of your company .
+VERGES : You have been always called a merciful man , partner .
+DOGBERRY : Truly , I would not hang a dog by my will , much more a man who hath any honesty in him .
+VERGES : If you hear a child cry in the night , you must call to the nurse and bid her still it .
+Watchman : How if the nurse be asleep and will not hear us ?
+DOGBERRY : Why , then , depart in peace , and let the child wake her with crying ; for the ewe that will not hear her lamb when it baes will never answer a calf when he bleats .
+VERGES : ' Tis very true .

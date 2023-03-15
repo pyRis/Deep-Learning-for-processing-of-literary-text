@@ -1,0 +1,25 @@
+PORTIA : If I could bid the fifth welcome with so good a heart as I can bid the other four farewell , I should be glad of his approach : if he have the condition of a saint and the complexion of a devil , I had rather he should shrive me than wive me . Come , Nerissa . Sirrah , go before . Whiles we shut the gates upon one wooer , another knocks at the door . Enter BASSANIO and SHYLOCK
+SHYLOCK : Three thousand ducats ; well .
+BASSANIO : Ay , sir , for three months .
+SHYLOCK : For three months ; well .
+BASSANIO : For the which , as I told you , Antonio shall be bound .
+SHYLOCK : Antonio shall become bound ; well .
+BASSANIO : May you stead me ? will you pleasure me ? shall I know your answer ?
+SHYLOCK : Three thousand ducats for three months and Antonio bound .
+BASSANIO : Your answer to that .
+SHYLOCK : Antonio is a good man .
+BASSANIO : Have you heard any imputation to the contrary ?
+SHYLOCK : Oh , no , no , no , no : my meaning in saying he is a good man is to have you understand me that he is sufficient . Yet his means are in supposition : he hath an argosy bound to Tripolis , another to the Indies ; I understand moreover , upon the Rialto , he hath a third at Mexico , a fourth for England , and other ventures he hath , squandered abroad . But ships are but boards , sailors but men : there be land-rats and water-rats , water-thieves and land-thieves , I mean pirates , and then there is the peril of waters , winds and rocks . The man is , notwithstanding , sufficient . Three thousand ducats ; I think I may take his bond .
+BASSANIO : Be assured you may .
+SHYLOCK : I will be assured I may ; and , that I may be assured , I will bethink me . May I speak with Antonio ?
+BASSANIO : If it please you to dine with us .
+SHYLOCK : Yes , to smell pork ; to eat of the habitation which your prophet the Nazarite conjured the devil into . I will buy with you , sell with you , talk with you , walk with you , and so following , but I will not eat with you , drink with you , nor pray with you . What news on the Rialto ? Who is he comes here ? Enter ANTONIO
+BASSANIO : This is Signior Antonio .
+SHYLOCK : How like a fawning publican he looks ! I hate him for he is a Christian , But more for that in low simplicity He lends out money gratis and brings down The rate of usance here with us in Venice . If I can catch him once upon the hip , I will feed fat the ancient grudge I bear him . He hates our sacred nation , and he rails , Even there where merchants most do congregate , On me , my bargains and my well-won thrift , Which he calls interest . Cursed be my tribe , If I forgive him !
+BASSANIO : Shylock , do you hear ?
+SHYLOCK : I am debating of my present store , And , by the near guess of my memory , I cannot instantly raise up the gross Of full three thousand ducats . What of that ? Tubal , a wealthy Hebrew of my tribe , Will furnish me . But soft ! how many months Do you desire ? To ANTONIO Rest you fair , good signior ; Your worship was the last man in our mouths .
+ANTONIO : Shylock , although I neither lend nor borrow By taking nor by giving of excess , Yet , to supply the ripe wants of my friend , I 'll break a custom . Is he yet possess 'd How much ye would ?
+SHYLOCK : Ay , ay , three thousand ducats .
+ANTONIO : And for three months .
+SHYLOCK : I had forgot ; three months ; you told me so . Well then , your bond ; and let me see ; but hear you ; Methought you said you neither lend nor borrow Upon advantage .
+ANTONIO : I do never use it .

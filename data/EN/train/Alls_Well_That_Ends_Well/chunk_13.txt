@@ -1,0 +1,28 @@
+LAFEU : Do you hear , monsieur ? a word with you .
+PAROLLES : Your pleasure , sir ?
+LAFEU : Your lord and master did well to make his recantation .
+PAROLLES : Recantation ! My lord ! my master !
+LAFEU : Ay ; is it not a language I speak ?
+PAROLLES : A most harsh one , and not to be understood without bloody succeeding . My master !
+LAFEU : Are you companion to the Count Rousillon ?
+PAROLLES : To any count , to all counts , to what is man .
+LAFEU : To what is count 's man : count 's master is of another style .
+PAROLLES : You are too old , sir ; let it satisfy you , you are too old .
+LAFEU : I must tell thee , sirrah , I write man ; to which title age cannot bring thee .
+PAROLLES : What I dare too well do , I dare not do .
+LAFEU : I did think thee , for two ordinaries , to be a pretty wise fellow ; thou didst make tolerable vent of thy travel ; it might pass : yet the scarfs and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burthen . I have now found thee ; when I lose thee again , I care not : yet art thou good for nothing but taking up ; and that thou 't scarce worth .
+PAROLLES : Hadst thou not the privilege of antiquity upon thee , --
+LAFEU : Do not plunge thyself too far in anger , lest thou hasten thy trial ; which if--Lord have mercy on thee for a hen ! So , my good window of lattice , fare thee well : thy casement I need not open , for I look through thee . Give me thy hand .
+PAROLLES : My lord , you give me most egregious indignity .
+LAFEU : Ay , with all my heart ; and thou art worthy of it .
+PAROLLES : I have not , my lord , deserved it .
+LAFEU : Yes , good faith , every dram of it ; and I will not bate thee a scruple .
+PAROLLES : Well , I shall be wiser .
+LAFEU : Even as soon as thou canst , for thou hast to pull at a smack o ' the contrary . If ever thou be 'st bound in thy scarf and beaten , thou shalt find what it is to be proud of thy bondage . I have a desire to hold my acquaintance with thee , or rather my knowledge , that I may say in the default , he is a man I know .
+PAROLLES : My lord , you do me most insupportable vexation .
+LAFEU : I would it were hell-pains for thy sake , and my poor doing eternal : for doing I am past : as I will by thee , in what motion age will give me leave . Exit
+PAROLLES : Well , thou hast a son shall take this disgrace off me ; scurvy , old , filthy , scurvy lord ! Well , I must be patient ; there is no fettering of authority . I 'll beat him , by my life , if I can meet him with any convenience , an he were double and double a lord . I 'll have no more pity of his age than I would of--I 'll beat him , an if I could but meet him again . Re-enter LAFEU
+LAFEU : Sirrah , your lord and master 's married ; there 's news for you : you have a new mistress .
+PAROLLES : I most unfeignedly beseech your lordship to make some reservation of your wrongs : he is my good lord : whom I serve above is my master .
+LAFEU : Who ? God ?
+PAROLLES : Ay , sir .

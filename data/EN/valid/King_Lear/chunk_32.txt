@@ -1,0 +1,29 @@
+REGAN : Lord Edmund spake not with your lord at home ?
+OSWALD : No , madam .
+REGAN : What might import my sister 's letter to him ?
+OSWALD : I know not , lady .
+REGAN : ' Faith , he is posted hence on serious matter . It was great ignorance , Gloucester 's eyes being out , To let him live : where he arrives he moves All hearts against us : Edmund , I think , is gone , In pity of his misery , to dispatch His nighted life : moreover , to descry The strength o ' the enemy .
+OSWALD : I must needs after him , madam , with my letter .
+REGAN : Our troops set forth to-morrow : stay with us ; The ways are dangerous .
+OSWALD : I may not , madam : My lady charged my duty in this business .
+REGAN : Why should she write to Edmund ? Might not you Transport her purposes by word ? Belike , Something--I know not what : I 'll love thee much , Let me unseal the letter .
+OSWALD : Madam , I had rather--
+REGAN : I know your lady does not love her husband ; I am sure of that : and at her late being here She gave strange oeillades and most speaking looks To noble Edmund . I know you are of her bosom .
+OSWALD : I , madam ?
+REGAN : I speak in understanding ; you are ; I know 't : Therefore I do advise you , take this note : My lord is dead ; Edmund and I have talk 'd ; And more convenient is he for my hand Than for your lady 's : you may gather more . If you do find him , pray you , give him this ; And when your mistress hears thus much from you , I pray , desire her call her wisdom to her . So , fare you well . If you do chance to hear of that blind traitor , Preferment falls on him that cuts him off .
+OSWALD : Would I could meet him , madam ! I should show What party I do follow .
+REGAN : Fare thee well . Enter GLOUCESTER , and EDGAR dressed like a peasant
+GLOUCESTER : When shall we come to the top of that same hill ?
+EDGAR : You do climb up it now : look , how we labour .
+GLOUCESTER : Methinks the ground is even .
+EDGAR : Horrible steep . Hark , do you hear the sea ?
+GLOUCESTER : No , truly .
+EDGAR : Why , then , your other senses grow imperfect By your eyes ' anguish .
+GLOUCESTER : So may it be , indeed : Methinks thy voice is alter 'd ; and thou speak 'st In better phrase and matter than thou didst .
+EDGAR : You 're much deceived : in nothing am I changed But in my garments .
+GLOUCESTER : Methinks you 're better spoken .
+EDGAR : Come on , sir ; here 's the place : stand still . How fearful And dizzy ' tis , to cast one 's eyes so low ! The crows and choughs that wing the midway air Show scarce so gross as beetles : half way down Hangs one that gathers samphire , dreadful trade ! Methinks he seems no bigger than his head : The fishermen , that walk upon the beach , Appear like mice ; and yond tall anchoring bark , Diminish 'd to her cock ; her cock , a buoy Almost too small for sight : the murmuring surge , That on the unnumber 'd idle pebbles chafes , Cannot be heard so high . I 'll look no more ; Lest my brain turn , and the deficient sight Topple down headlong .
+GLOUCESTER : Set me where you stand .
+EDGAR : Give me your hand : you are now within a foot Of the extreme verge : for all beneath the moon Would I not leap upright .
+GLOUCESTER : Let go my hand . Here , friend , ' s another purse ; in it a jewel Well worth a poor man 's taking : fairies and gods Prosper it with thee ! Go thou farther off ; Bid me farewell , and let me hear thee going .
+EDGAR : Now fare you well , good sir .
