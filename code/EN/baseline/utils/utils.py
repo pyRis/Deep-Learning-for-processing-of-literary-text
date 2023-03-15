@@ -69,7 +69,7 @@ def replace_phrases(ctx):
 def clean_punc(ctx):
     puncs = json.load(
         open(
-            "/home/rishu/courses/software_project/code/EN/baseline/utils/clean_punc.json",
+            "/home/rishu/courses/sw_project/code/EN/baseline/utils/clean_punc.json",
             "r",
         )
     )
@@ -107,7 +107,7 @@ def rem_repeating(ctx):
 
 def rem_fillers(ctx):
     fill_file = open(
-        "/home/rishu/courses/software_project/code/EN/baseline/utils/fillers.txt",
+        "/home/rishu/courses/sw_project/code/EN/baseline/utils/fillers.txt",
         "r",
     )
     fillers = fill_file.read().split()
@@ -121,7 +121,7 @@ def rem_fillers(ctx):
 
 def rem_stopwords(ctx):
     stopfile = open(
-        "/home/rishu/courses/software_project/code/EN/baseline/utils/.txt",
+        "/home/rishu/courses/sw_project/code/EN/baseline/utils/.txt",
         "r",
     )
     stopwords = stopfile.read().split()
