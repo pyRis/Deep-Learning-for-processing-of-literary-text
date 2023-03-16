@@ -1,0 +1,30 @@
+PETRUCHIO : Peace , sirrah !
+HORTENSIO : Grumio , mum ! God save you , Signior Gremio .
+GREMIO : And you are well met , Signior Hortensio . Trow you whither I am going ? To Baptista Minola . I promised to inquire carefully About a schoolmaster for the fair Bianca : And by good fortune I have lighted well On this young man , for learning and behavior Fit for her turn , well read in poetry And other books , good ones , I warrant ye .
+HORTENSIO : ' Tis well ; and I have met a gentleman Hath promised me to help me to another , A fine musician to instruct our mistress ; So shall I no whit be behind in duty To fair Bianca , so beloved of me .
+GREMIO : Beloved of me ; and that my deeds shall prove .
+GRUMIO : And that his bags shall prove .
+HORTENSIO : Gremio , ' tis now no time to vent our love : Listen to me , and if you speak me fair , I 'll tell you news indifferent good for either . Here is a gentleman whom by chance I met , Upon agreement from us to his liking , Will undertake to woo curst Katharina , Yea , and to marry her , if her dowry please .
+GREMIO : So said , so done , is well . Hortensio , have you told him all her faults ?
+PETRUCHIO : I know she is an irksome brawling scold : If that be all , masters , I hear no harm .
+GREMIO : No , say 'st me so , friend ? What countryman ?
+PETRUCHIO : Born in Verona , old Antonio 's son : My father dead , my fortune lives for me ; And I do hope good days and long to see .
+GREMIO : O sir , such a life , with such a wife , were strange ! But if you have a stomach , to 't i ' God 's name : You shall have me assisting you in all . But will you woo this wild-cat ?
+PETRUCHIO : Will I live ?
+GRUMIO : Will he woo her ? ay , or I 'll hang her .
+PETRUCHIO : Why came I hither but to that intent ? Think you a little din can daunt mine ears ? Have I not in my time heard lions roar ? Have I not heard the sea puff 'd up with winds Rage like an angry boar chafed with sweat ? Have I not heard great ordnance in the field , And heaven 's artillery thunder in the skies ? Have I not in a pitched battle heard Loud ' larums , neighing steeds , and trumpets ' clang ? And do you tell me of a woman 's tongue , That gives not half so great a blow to hear As will a chestnut in a farmer 's fire ? Tush , tush ! fear boys with bugs .
+GRUMIO : For he fears none .
+GREMIO : Hortensio , hark : This gentleman is happily arrived , My mind presumes , for his own good and ours .
+HORTENSIO : I promised we would be contributors And bear his charging of wooing , whatsoe 'er .
+GREMIO : And so we will , provided that he win her .
+GRUMIO : I would I were as sure of a good dinner . Enter TRANIO brave , and BIONDELLO
+TRANIO : Gentlemen , God save you . If I may be bold , Tell me , I beseech you , which is the readiest way To the house of Signior Baptista Minola ?
+BIONDELLO : He that has the two fair daughters : is 't he you mean ?
+TRANIO : Even he , Biondello .
+GREMIO : Hark you , sir ; you mean not her to--
+TRANIO : Perhaps , him and her , sir : what have you to do ?
+PETRUCHIO : Not her that chides , sir , at any hand , I pray .
+TRANIO : I love no chiders , sir . Biondello , let 's away .
+LUCENTIO : Well begun , Tranio .
+HORTENSIO : Sir , a word ere you go ; Are you a suitor to the maid you talk of , yea or no ?
+TRANIO : And if I be , sir , is it any offence ?

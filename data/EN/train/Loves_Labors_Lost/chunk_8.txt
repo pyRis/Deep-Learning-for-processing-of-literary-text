@@ -1,0 +1,50 @@
+PRINCESS : Sweet health and fair desires consort your grace !
+FERDINAND : Thy own wish wish I thee in every place ! Exit
+BIRON : Lady , I will commend you to mine own heart .
+ROSALINE : Pray you , do my commendations ; I would be glad to see it .
+BIRON : I would you heard it groan .
+ROSALINE : Is the fool sick ?
+BIRON : Sick at the heart .
+ROSALINE : Alack , let it blood .
+BIRON : Would that do it good ?
+ROSALINE : My physic says ' ay . ' 
+BIRON : Will you prick 't with your eye ?
+ROSALINE : No point , with my knife .
+BIRON : Now , God save thy life !
+ROSALINE : And yours from long living !
+BIRON : I cannot stay thanksgiving . Retiring
+DUMAIN : Sir , I pray you , a word : what lady is that same ?
+BOYET : The heir of Alencon , Katharine her name .
+DUMAIN : A gallant lady . Monsieur , fare you well . Exit
+LONGAVILLE : I beseech you a word : what is she in the white ?
+BOYET : A woman sometimes , an you saw her in the light .
+LONGAVILLE : Perchance light in the light . I desire her name .
+BOYET : She hath but one for herself ; to desire that were a shame .
+LONGAVILLE : Pray you , sir , whose daughter ?
+BOYET : Her mother 's , I have heard .
+LONGAVILLE : God 's blessing on your beard !
+BOYET : Good sir , be not offended . She is an heir of Falconbridge .
+LONGAVILLE : Nay , my choler is ended . She is a most sweet lady .
+BOYET : Not unlike , sir , that may be . Exit LONGAVILLE
+BIRON : What 's her name in the cap ?
+BOYET : Rosaline , by good hap .
+BIRON : Is she wedded or no ?
+BOYET : To her will , sir , or so .
+BIRON : You are welcome , sir : adieu .
+BOYET : Farewell to me , sir , and welcome to you . Exit BIRON
+MARIA : That last is Biron , the merry madcap lord : Not a word with him but a jest .
+BOYET : And every jest but a word .
+PRINCESS : It was well done of you to take him at his word .
+BOYET : I was as willing to grapple as he was to board .
+MARIA : Two hot sheeps , marry .
+BOYET : And wherefore not ships ? No sheep , sweet lamb , unless we feed on your lips .
+MARIA : You sheep , and I pasture : shall that finish the jest ?
+BOYET : So you grant pasture for me . Offering to kiss her
+MARIA : Not so , gentle beast : My lips are no common , though several they be .
+BOYET : Belonging to whom ?
+MARIA : To my fortunes and me .
+PRINCESS : Good wits will be jangling ; but , gentles , agree : This civil war of wits were much better used On Navarre and his book-men ; for here ' tis abused .
+BOYET : If my observation , which very seldom lies , By the heart 's still rhetoric disclosed with eyes , Deceive me not now , Navarre is infected .
+PRINCESS : With what ?
+BOYET : With that which we lovers entitle affected .
+PRINCESS : Your reason ?

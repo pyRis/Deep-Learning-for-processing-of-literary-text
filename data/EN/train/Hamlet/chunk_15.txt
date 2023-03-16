@@ -1,0 +1,32 @@
+ROSENCRANTZ : As the indifferent children of the earth .
+GUILDENSTERN : Happy , in that we are not over-happy ; On fortune 's cap we are not the very button .
+HAMLET : Nor the soles of her shoe ?
+ROSENCRANTZ : Neither , my lord .
+HAMLET : Then you live about her waist , or in the middle of her favours ?
+GUILDENSTERN : ' Faith , her privates we .
+HAMLET : In the secret parts of fortune ? O , most true ; she is a strumpet . What 's the news ?
+ROSENCRANTZ : None , my lord , but that the world 's grown honest .
+HAMLET : Then is doomsday near : but your news is not true . Let me question more in particular : what have you , my good friends , deserved at the hands of fortune , that she sends you to prison hither ?
+GUILDENSTERN : Prison , my lord !
+HAMLET : Denmark 's a prison .
+ROSENCRANTZ : Then is the world one .
+HAMLET : A goodly one ; in which there are many confines , wards and dungeons , Denmark being one o ' the worst .
+ROSENCRANTZ : We think not so , my lord .
+HAMLET : Why , then , ' tis none to you ; for there is nothing either good or bad , but thinking makes it so : to me it is a prison .
+ROSENCRANTZ : Why then , your ambition makes it one ; ' tis too narrow for your mind .
+HAMLET : O God , I could be bounded in a nut shell and count myself a king of infinite space , were it not that I have bad dreams .
+GUILDENSTERN : Which dreams indeed are ambition , for the very substance of the ambitious is merely the shadow of a dream .
+HAMLET : A dream itself is but a shadow .
+ROSENCRANTZ : Truly , and I hold ambition of so airy and light a quality that it is but a shadow 's shadow .
+HAMLET : Then are our beggars bodies , and our monarchs and outstretched heroes the beggars ' shadows . Shall we to the court ? for , by my fay , I cannot reason .
+ROSENCRANTZ GUILDENSTERN : We 'll wait upon you .
+HAMLET : No such matter : I will not sort you with the rest of my servants , for , to speak to you like an honest man , I am most dreadfully attended . But , in the beaten way of friendship , what make you at Elsinore ?
+ROSENCRANTZ : To visit you , my lord ; no other occasion .
+HAMLET : Beggar that I am , I am even poor in thanks ; but I thank you : and sure , dear friends , my thanks are too dear a halfpenny . Were you not sent for ? Is it your own inclining ? Is it a free visitation ? Come , deal justly with me : come , come ; nay , speak .
+GUILDENSTERN : What should we say , my lord ?
+HAMLET : Why , any thing , but to the purpose . You were sent for ; and there is a kind of confession in your looks which your modesties have not craft enough to colour : I know the good king and queen have sent for you .
+ROSENCRANTZ : To what end , my lord ?
+HAMLET : That you must teach me . But let me conjure you , by the rights of our fellowship , by the consonancy of our youth , by the obligation of our ever-preserved love , and by what more dear a better proposer could charge you withal , be even and direct with me , whether you were sent for , or no ?
+ROSENCRANTZ : What say you ?
+HAMLET : Nay , then , I have an eye of you.--If you love me , hold not off .
+GUILDENSTERN : My lord , we were sent for .

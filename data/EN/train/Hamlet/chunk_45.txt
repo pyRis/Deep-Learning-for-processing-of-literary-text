@@ -1,0 +1,32 @@
+OSRIC : Your lordship speaks most infallibly of him .
+HAMLET : The concernancy , sir ? why do we wrap the gentleman in our more rawer breath ?
+OSRIC : Sir ?
+HORATIO : Is 't not possible to understand in another tongue ? You will do 't , sir , really .
+HAMLET : What imports the nomination of this gentleman ?
+OSRIC : Of Laertes ?
+HORATIO : His purse is empty already ; all 's golden words are spent .
+HAMLET : Of him , sir .
+OSRIC : I know you are not ignorant--
+HAMLET : I would you did , sir ; yet , in faith , if you did , it would not much approve me . Well , sir ?
+OSRIC : You are not ignorant of what excellence Laertes is--
+HAMLET : I dare not confess that , lest I should compare with him in excellence ; but , to know a man well , were to know himself .
+OSRIC : I mean , sir , for his weapon ; but in the imputation laid on him by them , in his meed he 's unfellowed .
+HAMLET : What 's his weapon ?
+OSRIC : Rapier and dagger .
+HAMLET : That 's two of his weapons : but , well .
+OSRIC : The king , sir , hath wagered with him six Barbary horses : against the which he has imponed , as I take it , six French rapiers and poniards , with their assigns , as girdle , hangers , and so : three of the carriages , in faith , are very dear to fancy , very responsive to the hilts , most delicate carriages , and of very liberal conceit .
+HAMLET : What call you the carriages ?
+HORATIO : I knew you must be edified by the margent ere you had done .
+OSRIC : The carriages , sir , are the hangers .
+HAMLET : The phrase would be more german to the matter , if we could carry cannon by our sides : I would it might be hangers till then . But , on : six Barbary horses against six French swords , their assigns , and three liberal-conceited carriages ; that 's the French bet against the Danish . Why is this ' imponed , ' as you call it ?
+OSRIC : The king , sir , hath laid , that in a dozen passes between yourself and him , he shall not exceed you three hits : he hath laid on twelve for nine ; and it would come to immediate trial , if your lordship would vouchsafe the answer .
+HAMLET : How if I answer ' no ' ?
+OSRIC : I mean , my lord , the opposition of your person in trial .
+HAMLET : Sir , I will walk here in the hall : if it please his majesty , ' tis the breathing time of day with me ; let the foils be brought , the gentleman willing , and the king hold his purpose , I will win for him an I can ; if not , I will gain nothing but my shame and the odd hits .
+OSRIC : Shall I re-deliver you e 'en so ?
+HAMLET : To this effect , sir ; after what flourish your nature will .
+OSRIC : I commend my duty to your lordship .
+HAMLET : Yours , yours . Exit OSRIC He does well to commend it himself ; there are no tongues else for 's turn .
+HORATIO : This lapwing runs away with the shell on his head .
+HAMLET : He did comply with his dug , before he sucked it . Thus has he--and many more of the same bevy that I know the dressy age dotes on--only got the tune of the time and outward habit of encounter ; a kind of yesty collection , which carries them through and through the most fond and winnowed opinions ; and do but blow them to their trial , the bubbles are out . Enter a Lord
+Lord : My lord , his majesty commended him to you by young Osric , who brings back to him that you attend him in the hall : he sends to know if your pleasure hold to play with Laertes , or that you will take longer time .

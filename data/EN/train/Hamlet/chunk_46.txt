@@ -1,0 +1,24 @@
+Lord : The king and queen and all are coming down .
+HAMLET : In happy time .
+Lord : The queen desires you to use some gentle entertainment to Laertes before you fall to play .
+HAMLET : She well instructs me . Exit Lord
+HORATIO : You will lose this wager , my lord .
+HAMLET : I do not think so : since he went into France , I have been in continual practise : I shall win at the odds . But thou wouldst not think how ill all 's here about my heart : but it is no matter .
+HORATIO : Nay , good my lord , --
+HAMLET : It is but foolery ; but it is such a kind of gain-giving , as would perhaps trouble a woman .
+HORATIO : If your mind dislike any thing , obey it : I will forestall their repair hither , and say you are not fit .
+HAMLET : Not a whit , we defy augury : there 's a special providence in the fall of a sparrow . If it be now , ' tis not to come ; if it be not to come , it will be now ; if it be not now , yet it will come : the readiness is all : since no man has aught of what he leaves , what is 't to leave betimes ? Enter KING CLAUDIUS , QUEEN GERTRUDE , LAERTES , Lords , OSRIC , and Attendants with foils , & c
+KING CLAUDIUS : Come , Hamlet , come , and take this hand from me . KING CLAUDIUS puts LAERTES ' hand into HAMLET 's
+HAMLET : Give me your pardon , sir : I 've done you wrong ; But pardon 't , as you are a gentleman . This presence knows , And you must needs have heard , how I am punish 'd With sore distraction . What I have done , That might your nature , honour and exception Roughly awake , I here proclaim was madness . Was 't Hamlet wrong 'd Laertes ? Never Hamlet : If Hamlet from himself be ta 'en away , And when he 's not himself does wrong Laertes , Then Hamlet does it not , Hamlet denies it . Who does it , then ? His madness : if 't be so , Hamlet is of the faction that is wrong 'd ; His madness is poor Hamlet 's enemy . Sir , in this audience , Let my disclaiming from a purposed evil Free me so far in your most generous thoughts , That I have shot mine arrow o 'er the house , And hurt my brother .
+LAERTES : I am satisfied in nature , Whose motive , in this case , should stir me most To my revenge : but in my terms of honour I stand aloof ; and will no reconcilement , Till by some elder masters , of known honour , I have a voice and precedent of peace , To keep my name ungored . But till that time , I do receive your offer 'd love like love , And will not wrong it .
+HAMLET : I embrace it freely ; And will this brother 's wager frankly play . Give us the foils . Come on .
+LAERTES : Come , one for me .
+HAMLET : I 'll be your foil , Laertes : in mine ignorance Your skill shall , like a star i ' the darkest night , Stick fiery off indeed .
+LAERTES : You mock me , sir .
+HAMLET : No , by this hand .
+KING CLAUDIUS : Give them the foils , young Osric . Cousin Hamlet , You know the wager ?
+HAMLET : Very well , my lord Your grace hath laid the odds o ' the weaker side .
+KING CLAUDIUS : I do not fear it ; I have seen you both : But since he is better 'd , we have therefore odds .
+LAERTES : This is too heavy , let me see another .
+HAMLET : This likes me well . These foils have all a length ? They prepare to play
+OSRIC : Ay , my good lord .

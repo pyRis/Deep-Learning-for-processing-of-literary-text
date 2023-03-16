@@ -1,0 +1,33 @@
+PRINCE HENRY : How now , blown Jack ! how now , quilt !
+FALSTAFF : What , Hal ! how now , mad wag ! what a devil dost thou in Warwickshire ? My good Lord of Westmoreland , I cry you mercy : I thought your honour had already been at Shrewsbury .
+WESTMORELAND : Faith , Sir John , ' tis more than time that I were there , and you too ; but my powers are there already . The king , I can tell you , looks for us all : we must away all night .
+FALSTAFF : Tut , never fear me : I am as vigilant as a cat to steal cream .
+PRINCE HENRY : I think , to steal cream indeed , for thy theft hath already made thee butter . But tell me , Jack , whose fellows are these that come after ?
+FALSTAFF : Mine , Hal , mine .
+PRINCE HENRY : I did never see such pitiful rascals .
+FALSTAFF : Tut , tut ; good enough to toss ; food for powder , food for powder ; they 'll fill a pit as well as better : tush , man , mortal men , mortal men .
+WESTMORELAND : Ay , but , Sir John , methinks they are exceeding poor and bare , too beggarly .
+FALSTAFF : ' Faith , for their poverty , I know not where they had that ; and for their bareness , I am sure they never learned that of me .
+PRINCE HENRY : No I 'll be sworn ; unless you call three fingers on the ribs bare . But , sirrah , make haste : Percy is already in the field .
+FALSTAFF : What , is the king encamped ?
+WESTMORELAND : He is , Sir John : I fear we shall stay too long .
+FALSTAFF : Well , To the latter end of a fray and the beginning of a feast Fits a dull fighter and a keen guest . Enter HOTSPUR , WORCESTER , DOUGLAS , and VERNON
+HOTSPUR : We 'll fight with him to-night .
+EARL OF WORCESTER : It may not be .
+EARL OF DOUGLAS : You give him then the advantage .
+VERNON : Not a whit .
+HOTSPUR : Why say you so ? looks he not for supply ?
+VERNON : So do we .
+HOTSPUR : His is certain , ours is doubtful .
+EARL OF WORCESTER : Good cousin , be advised ; stir not tonight .
+VERNON : Do not , my lord .
+EARL OF DOUGLAS : You do not counsel well : You speak it out of fear and cold heart .
+VERNON : Do me no slander , Douglas : by my life , And I dare well maintain it with my life , If well-respected honour bid me on , I hold as little counsel with weak fear As you , my lord , or any Scot that this day lives : Let it be seen to-morrow in the battle Which of us fears .
+EARL OF DOUGLAS : Yea , or to-night .
+VERNON : Content .
+HOTSPUR : To-night , say I.
+VERNON : Come , come it nay not be . I wonder much , Being men of such great leading as you are , That you foresee not what impediments Drag back our expedition : certain horse Of my cousin Vernon 's are not yet come up : Your uncle Worcester 's horse came but today ; And now their pride and mettle is asleep , Their courage with hard labour tame and dull , That not a horse is half the half of himself .
+HOTSPUR : So are the horses of the enemy In general , journey-bated and brought low : The better part of ours are full of rest .
+EARL OF WORCESTER : The number of the king exceedeth ours : For God 's sake. cousin , stay till all come in . The trumpet sounds a parley Enter SIR WALTER BLUNT
+SIR WALTER BLUNT : I come with gracious offers from the king , if you vouchsafe me hearing and respect .
+HOTSPUR : Welcome , Sir Walter Blunt ; and would to God You were of our determination ! Some of us love you well ; and even those some Envy your great deservings and good name , Because you are not of our quality , But stand against us like an enemy .

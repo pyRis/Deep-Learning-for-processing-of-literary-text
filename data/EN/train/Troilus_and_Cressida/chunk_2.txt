@@ -1,0 +1,50 @@
+CRESSIDA : But how should this man , that makes me smile , make Hector angry ?
+ALEXANDER : They say he yesterday coped Hector in the battle and struck him down , the disdain and shame whereof hath ever since kept Hector fasting and waking .
+CRESSIDA : Who comes here ?
+ALEXANDER : Madam , your uncle Pandarus . Enter PANDARUS
+CRESSIDA : Hector 's a gallant man .
+ALEXANDER : As may be in the world , lady .
+PANDARUS : What 's that ? what 's that ?
+CRESSIDA : Good morrow , uncle Pandarus .
+PANDARUS : Good morrow , cousin Cressid : what do you talk of ? Good morrow , Alexander . How do you , cousin ? When were you at Ilium ?
+CRESSIDA : This morning , uncle .
+PANDARUS : What were you talking of when I came ? Was Hector armed and gone ere ye came to Ilium ? Helen was not up , was she ?
+CRESSIDA : Hector was gone , but Helen was not up .
+PANDARUS : Even so : Hector was stirring early .
+CRESSIDA : That were we talking of , and of his anger .
+PANDARUS : Was he angry ?
+CRESSIDA : So he says here .
+PANDARUS : True , he was so : I know the cause too : he 'll lay about him to-day , I can tell them that : and there 's Troilus will not come far behind him : let them take heed of Troilus , I can tell them that too .
+CRESSIDA : What , is he angry too ?
+PANDARUS : Who , Troilus ? Troilus is the better man of the two .
+CRESSIDA : O Jupiter ! there 's no comparison .
+PANDARUS : What , not between Troilus and Hector ? Do you know a man if you see him ?
+CRESSIDA : Ay , if I ever saw him before and knew him .
+PANDARUS : Well , I say Troilus is Troilus .
+CRESSIDA : Then you say as I say ; for , I am sure , he is not Hector .
+PANDARUS : No , nor Hector is not Troilus in some degrees .
+CRESSIDA : ' Tis just to each of them ; he is himself .
+PANDARUS : Himself ! Alas , poor Troilus ! I would he were .
+CRESSIDA : So he is .
+PANDARUS : Condition , I had gone barefoot to India .
+CRESSIDA : He is not Hector .
+PANDARUS : Himself ! no , he 's not himself : would a ' were himself ! Well , the gods are above ; time must friend or end : well , Troilus , well : I would my heart were in her body . No , Hector is not a better man than Troilus .
+CRESSIDA : Excuse me .
+PANDARUS : He is elder .
+CRESSIDA : Pardon me , pardon me .
+PANDARUS : Th ' other 's not come to 't ; you shall tell me another tale , when th ' other 's come to 't . Hector shall not have his wit this year .
+CRESSIDA : He shall not need it , if he have his own .
+PANDARUS : Nor his qualities .
+CRESSIDA : No matter .
+PANDARUS : Nor his beauty .
+CRESSIDA : ' Twould not become him ; his own 's better .
+PANDARUS : You have no judgment , niece : Helen herself swore th ' other day , that Troilus , for a brown favour--for so ' tis , I must confess , -- not brown neither , --
+CRESSIDA : No , but brown .
+PANDARUS : ' Faith , to say truth , brown and not brown .
+CRESSIDA : To say the truth , true and not true .
+PANDARUS : She praised his complexion above Paris .
+CRESSIDA : Why , Paris hath colour enough .
+PANDARUS : So he has .
+CRESSIDA : Then Troilus should have too much : if she praised him above , his complexion is higher than his ; he having colour enough , and the other higher , is too flaming a praise for a good complexion . I had as lief Helen 's golden tongue had commended Troilus for a copper nose .
+PANDARUS : I swear to you . I think Helen loves him better than Paris .
+CRESSIDA : Then she 's a merry Greek indeed .

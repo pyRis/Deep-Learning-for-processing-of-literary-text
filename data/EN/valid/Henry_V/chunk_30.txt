@@ -1,0 +1,23 @@
+GOWER : Sir John Falstaff .
+FLUELLEN : That is he : I 'll tell you there is good men porn at Monmouth .
+GOWER : Here comes his majesty . Alarum . Enter KING HENRY , and forces ; WARWICK , GLOUCESTER , EXETER , and others
+KING HENRY V : I was not angry since I came to France Until this instant . Take a trumpet , herald ; Ride thou unto the horsemen on yon hill : If they will fight with us , bid them come down , Or void the field ; they do offend our sight : If they 'll do neither , we will come to them , And make them skirr away , as swift as stones Enforced from the old Assyrian slings : Besides , we 'll cut the throats of those we have , And not a man of them that we shall take Shall taste our mercy . Go and tell them so . Enter MONTJOY
+EXETER : Here comes the herald of the French , my liege .
+GLOUCESTER : His eyes are humbler than they used to be .
+KING HENRY V : How now ! what means this , herald ? know 'st thou not That I have fined these bones of mine for ransom ? Comest thou again for ransom ?
+MONTJOY : No , great king : I come to thee for charitable licence , That we may wander o 'er this bloody field To look our dead , and then to bury them ; To sort our nobles from our common men . For many of our princes--woe the while ! -- Lie drown 'd and soak 'd in mercenary blood ; So do our vulgar drench their peasant limbs In blood of princes ; and their wounded steeds Fret fetlock deep in gore and with wild rage Yerk out their armed heels at their dead masters , Killing them twice . O , give us leave , great king , To view the field in safety and dispose Of their dead bodies !
+KING HENRY V : I tell thee truly , herald , I know not if the day be ours or no ; For yet a many of your horsemen peer And gallop o 'er the field .
+MONTJOY : The day is yours .
+KING HENRY V : Praised be God , and not our strength , for it ! What is this castle call 'd that stands hard by ?
+MONTJOY : They call it Agincourt .
+KING HENRY V : Then call we this the field of Agincourt , Fought on the day of Crispin Crispianus .
+FLUELLEN : Your grandfather of famous memory , an 't please your majesty , and your great-uncle Edward the Plack Prince of Wales , as I have read in the chronicles , fought a most prave pattle here in France .
+KING HENRY V : They did , Fluellen .
+FLUELLEN : Your majesty says very true : if your majesties is remembered of it , the Welshmen did good service in a garden where leeks did grow , wearing leeks in their Monmouth caps ; which , your majesty know , to this hour is an honourable badge of the service ; and I do believe your majesty takes no scorn to wear the leek upon Saint Tavy 's day .
+KING HENRY V : I wear it for a memorable honour ; For I am Welsh , you know , good countryman .
+FLUELLEN : All the water in Wye cannot wash your majesty 's Welsh plood out of your pody , I can tell you that : God pless it and preserve it , as long as it pleases his grace , and his majesty too !
+KING HENRY V : Thanks , good my countryman .
+FLUELLEN : By Jeshu , I am your majesty 's countryman , I care not who know it ; I will confess it to all the ' orld : I need not to be ashamed of your majesty , praised be God , so long as your majesty is an honest man .
+KING HENRY V : God keep me so ! Our heralds go with him : Bring me just notice of the numbers dead On both our parts . Call yonder fellow hither .
+EXETER : Soldier , you must come to the king .
+KING HENRY V : Soldier , why wearest thou that glove in thy cap ?

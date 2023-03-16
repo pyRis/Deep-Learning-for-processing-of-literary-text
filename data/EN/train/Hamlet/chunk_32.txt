@@ -1,0 +1,33 @@
+ROSENCRANTZ : Take you me for a sponge , my lord ?
+HAMLET : Ay , sir , that soaks up the king 's countenance , his rewards , his authorities . But such officers do the king best service in the end : he keeps them , like an ape , in the corner of his jaw ; first mouthed , to be last swallowed : when he needs what you have gleaned , it is but squeezing you , and , sponge , you shall be dry again .
+ROSENCRANTZ : I understand you not , my lord .
+HAMLET : I am glad of it : a knavish speech sleeps in a foolish ear .
+ROSENCRANTZ : My lord , you must tell us where the body is , and go with us to the king .
+HAMLET : The body is with the king , but the king is not with the body . The king is a thing--
+GUILDENSTERN : A thing , my lord !
+HAMLET : Of nothing : bring me to him . Hide fox , and all after . Enter KING CLAUDIUS , attended
+KING CLAUDIUS : I have sent to seek him , and to find the body . How dangerous is it that this man goes loose ! Yet must not we put the strong law on him : He 's loved of the distracted multitude , Who like not in their judgment , but their eyes ; And where tis so , the offender 's scourge is weigh 'd , But never the offence . To bear all smooth and even , This sudden sending him away must seem Deliberate pause : diseases desperate grown By desperate appliance are relieved , Or not at all . Enter ROSENCRANTZ How now ! what hath befall 'n ?
+ROSENCRANTZ : Where the dead body is bestow 'd , my lord , We cannot get from him .
+KING CLAUDIUS : But where is he ?
+ROSENCRANTZ : Without , my lord ; guarded , to know your pleasure .
+KING CLAUDIUS : Bring him before us .
+ROSENCRANTZ : Ho , Guildenstern ! bring in my lord . Enter HAMLET and GUILDENSTERN
+KING CLAUDIUS : Now , Hamlet , where 's Polonius ?
+HAMLET : At supper .
+KING CLAUDIUS : At supper ! where ?
+HAMLET : Not where he eats , but where he is eaten : a certain convocation of politic worms are e 'en at him . Your worm is your only emperor for diet : we fat all creatures else to fat us , and we fat ourselves for maggots : your fat king and your lean beggar is but variable service , two dishes , but to one table : that 's the end .
+KING CLAUDIUS : Alas , alas !
+HAMLET : A man may fish with the worm that hath eat of a king , and cat of the fish that hath fed of that worm .
+KING CLAUDIUS : What dost you mean by this ?
+HAMLET : Nothing but to show you how a king may go a progress through the guts of a beggar .
+KING CLAUDIUS : Where is Polonius ?
+HAMLET : In heaven ; send hither to see : if your messenger find him not there , seek him i ' the other place yourself . But indeed , if you find him not within this month , you shall nose him as you go up the stairs into the lobby .
+KING CLAUDIUS : Go seek him there . To some Attendants
+HAMLET : He will stay till ye come .
+KING CLAUDIUS : Hamlet , this deed , for thine especial safety , -- Which we do tender , as we dearly grieve For that which thou hast done , --must send thee hence With fiery quickness : therefore prepare thyself ; The bark is ready , and the wind at help , The associates tend , and every thing is bent For England .
+HAMLET : For England !
+KING CLAUDIUS : Ay , Hamlet .
+HAMLET : Good .
+KING CLAUDIUS : So is it , if thou knew 'st our purposes .
+HAMLET : I see a cherub that sees them . But , come ; for England ! Farewell , dear mother .
+KING CLAUDIUS : Thy loving father , Hamlet .

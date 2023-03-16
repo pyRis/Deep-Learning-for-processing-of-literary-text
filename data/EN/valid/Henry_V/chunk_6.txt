@@ -1,0 +1,26 @@
+PISTOL : Sword is an oath , and oaths must have their course .
+BARDOLPH : Corporal Nym , an thou wilt be friends , be friends : an thou wilt not , why , then , be enemies with me too . Prithee , put up .
+NYM : I shall have my eight shillings I won of you at betting ?
+PISTOL : A noble shalt thou have , and present pay ; And liquor likewise will I give to thee , And friendship shall combine , and brotherhood : I 'll live by Nym , and Nym shall live by me ; Is not this just ? for I shall sutler be Unto the camp , and profits will accrue . Give me thy hand .
+NYM : I shall have my noble ?
+PISTOL : In cash most justly paid .
+NYM : Well , then , that 's the humour of 't . Re-enter Hostess
+Hostess : As ever you came of women , come in quickly to Sir John . Ah , poor heart ! he is so shaked of a burning quotidian tertian , that it is most lamentable to behold . Sweet men , come to him .
+NYM : The king hath run bad humours on the knight ; that 's the even of it .
+PISTOL : Nym , thou hast spoke the right ; His heart is fracted and corroborate .
+NYM : The king is a good king : but it must be as it may ; he passes some humours and careers .
+PISTOL : Let us condole the knight ; for , lambkins we will live . Enter EXETER , BEDFORD , and WESTMORELAND
+BEDFORD : ' Fore God , his grace is bold , to trust these traitors .
+EXETER : They shall be apprehended by and by .
+WESTMORELAND : How smooth and even they do bear themselves ! As if allegiance in their bosoms sat , Crowned with faith and constant loyalty .
+BEDFORD : The king hath note of all that they intend , By interception which they dream not of .
+EXETER : Nay , but the man that was his bedfellow , Whom he hath dull 'd and cloy 'd with gracious favours , That he should , for a foreign purse , so sell His sovereign 's life to death and treachery . Trumpets sound . Enter KING HENRY V , SCROOP , CAMBRIDGE , GREY , and Attendants
+KING HENRY V : Now sits the wind fair , and we will aboard . My Lord of Cambridge , and my kind Lord of Masham , And you , my gentle knight , give me your thoughts : Think you not that the powers we bear with us Will cut their passage through the force of France , Doing the execution and the act For which we have in head assembled them ?
+SCROOP : No doubt , my liege , if each man do his best .
+KING HENRY V : I doubt not that ; since we are well persuaded We carry not a heart with us from hence That grows not in a fair consent with ours , Nor leave not one behind that doth not wish Success and conquest to attend on us .
+CAMBRIDGE : Never was monarch better fear 'd and loved Than is your majesty : there 's not , I think , a subject That sits in heart-grief and uneasiness Under the sweet shade of your government .
+GREY : True : those that were your father 's enemies Have steep 'd their galls in honey and do serve you With hearts create of duty and of zeal .
+KING HENRY V : We therefore have great cause of thankfulness ; And shall forget the office of our hand , Sooner than quittance of desert and merit According to the weight and worthiness .
+SCROOP : So service shall with steeled sinews toil , And labour shall refresh itself with hope , To do your grace incessant services .
+KING HENRY V : We judge no less . Uncle of Exeter , Enlarge the man committed yesterday , That rail 'd against our person : we consider it was excess of wine that set him on ; And on his more advice we pardon him .
+SCROOP : That 's mercy , but too much security : Let him be punish 'd , sovereign , lest example Breed , by his sufferance , more of such a kind .

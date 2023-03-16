@@ -1,0 +1,35 @@
+LEONATO : Indeed , neighbour , he comes too short of you .
+DOGBERRY : Gifts that God gives .
+LEONATO : I must leave you .
+DOGBERRY : One word , sir : our watch , sir , have indeed comprehended two aspicious persons , and we would have them this morning examined before your worship .
+LEONATO : Take their examination yourself and bring it me : I am now in great haste , as it may appear unto you .
+DOGBERRY : It shall be suffigance .
+LEONATO : Drink some wine ere you go : fare you well . Enter a Messenger
+Messenger : My lord , they stay for you to give your daughter to her husband .
+LEONATO : I 'll wait upon them : I am ready .
+DOGBERRY : Go , good partner , go , get you to Francis Seacole ; bid him bring his pen and inkhorn to the gaol : we are now to examination these men .
+VERGES : And we must do it wisely .
+DOGBERRY : We will spare for no wit , I warrant you ; here 's that shall drive some of them to a non-come : only get the learned writer to set down our excommunication and meet me at the gaol . Enter DON PEDRO , DON JOHN , LEONATO , FRIAR FRANCIS , CLAUDIO , BENEDICK , HERO , BEATRICE , and Attendants
+LEONATO : Come , Friar Francis , be brief ; only to the plain form of marriage , and you shall recount their particular duties afterwards .
+FRIAR FRANCIS : You come hither , my lord , to marry this lady .
+CLAUDIO : No .
+LEONATO : To be married to her : friar , you come to marry her .
+FRIAR FRANCIS : Lady , you come hither to be married to this count .
+HERO : I do .
+FRIAR FRANCIS : If either of you know any inward impediment why you should not be conjoined , charge you , on your souls , to utter it .
+CLAUDIO : Know you any , Hero ?
+HERO : None , my lord .
+FRIAR FRANCIS : Know you any , count ?
+LEONATO : I dare make his answer , none .
+CLAUDIO : O , what men dare do ! what men may do ! what men daily do , not knowing what they do !
+BENEDICK : How now ! interjections ? Why , then , some be of laughing , as , ah , ha , he !
+CLAUDIO : Stand thee by , friar . Father , by your leave : Will you with free and unconstrained soul Give me this maid , your daughter ?
+LEONATO : As freely , son , as God did give her me .
+CLAUDIO : And what have I to give you back , whose worth May counterpoise this rich and precious gift ?
+DON PEDRO : Nothing , unless you render her again .
+CLAUDIO : Sweet prince , you learn me noble thankfulness . There , Leonato , take her back again : Give not this rotten orange to your friend ; She 's but the sign and semblance of her honour . Behold how like a maid she blushes here ! O , what authority and show of truth Can cunning sin cover itself withal ! Comes not that blood as modest evidence To witness simple virtue ? Would you not swear , All you that see her , that she were a maid , By these exterior shows ? But she is none : She knows the heat of a luxurious bed ; Her blush is guiltiness , not modesty .
+LEONATO : What do you mean , my lord ?
+CLAUDIO : Not to be married , Not to knit my soul to an approved wanton .
+LEONATO : Dear my lord , if you , in your own proof , Have vanquish 'd the resistance of her youth , And made defeat of her virginity , --
+CLAUDIO : I know what you would say : if I have known her , You will say she did embrace me as a husband , And so extenuate the ' forehand sin : No , Leonato , I never tempted her with word too large ; But , as a brother to his sister , show 'd Bashful sincerity and comely love .
+HERO : And seem 'd I ever otherwise to you ?

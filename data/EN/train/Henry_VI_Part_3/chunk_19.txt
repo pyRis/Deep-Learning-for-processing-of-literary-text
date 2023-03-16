@@ -1,0 +1,37 @@
+KING EDWARD IV : An easy task ; ' tis but to love a king .
+LADY GREY : That 's soon perform 'd , because I am a subject .
+KING EDWARD IV : Why , then , thy husband 's lands I freely give thee .
+LADY GREY : I take my leave with many thousand thanks .
+GLOUCESTER : The match is made ; she seals it with a curtsy .
+KING EDWARD IV : But stay thee , ' tis the fruits of love I mean .
+LADY GREY : The fruits of love I mean , my loving liege .
+KING EDWARD IV : Ay , but , I fear me , in another sense . What love , think 'st thou , I sue so much to get ?
+LADY GREY : My love till death , my humble thanks , my prayers ; That love which virtue begs and virtue grants .
+KING EDWARD IV : No , by my troth , I did not mean such love .
+LADY GREY : Why , then you mean not as I thought you did .
+KING EDWARD IV : But now you partly may perceive my mind .
+LADY GREY : My mind will never grant what I perceive Your highness aims at , if I aim aright .
+KING EDWARD IV : To tell thee plain , I aim to lie with thee .
+LADY GREY : To tell you plain , I had rather lie in prison .
+KING EDWARD IV : Why , then thou shalt not have thy husband 's lands .
+LADY GREY : Why , then mine honesty shall be my dower ; For by that loss I will not purchase them .
+KING EDWARD IV : Therein thou wrong 'st thy children mightily .
+LADY GREY : Herein your highness wrongs both them and me . But , mighty lord , this merry inclination Accords not with the sadness of my suit : Please you dismiss me either with ' ay ' or ' no . ' 
+KING EDWARD IV : Ay , if thou wilt say ' ay ' to my request ; No if thou dost say ' no ' to my demand .
+LADY GREY : Then , no , my lord . My suit is at an end .
+GLOUCESTER : The widow likes him not , she knits her brows .
+CLARENCE : He is the bluntest wooer in Christendom .
+KING EDWARD IV : Her looks do argue her replete with modesty ; Her words do show her wit incomparable ; All her perfections challenge sovereignty : One way or other , she is for a king ; And she shall be my love , or else my queen.-- Say that King Edward take thee for his queen ?
+LADY GREY : ' Tis better said than done , my gracious lord : I am a subject fit to jest withal , But far unfit to be a sovereign .
+KING EDWARD IV : Sweet widow , by my state I swear to thee I speak no more than what my soul intends ; And that is , to enjoy thee for my love .
+LADY GREY : And that is more than I will yield unto : I know I am too mean to be your queen , And yet too good to be your concubine .
+KING EDWARD IV : You cavil , widow : I did mean , my queen .
+LADY GREY : ' Twill grieve your grace my sons should call you father .
+KING EDWARD IV : No more than when my daughters call thee mother . Thou art a widow , and thou hast some children ; And , by God 's mother , I , being but a bachelor , Have other some : why , ' tis a happy thing To be the father unto many sons . Answer no more , for thou shalt be my queen .
+GLOUCESTER : The ghostly father now hath done his shrift .
+CLARENCE : When he was made a shriver , ' twas for shift .
+KING EDWARD IV : Brothers , you muse what chat we two have had .
+GLOUCESTER : The widow likes it not , for she looks very sad .
+KING EDWARD IV : You 'll think it strange if I should marry her .
+CLARENCE : To whom , my lord ?
+KING EDWARD IV : Why , Clarence , to myself .

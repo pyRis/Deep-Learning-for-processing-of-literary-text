@@ -1,0 +1,29 @@
+KING : Come hither , count ; do you know these women ?
+BERTRAM : My lord , I neither can nor will deny But that I know them : do they charge me further ?
+DIANA : Why do you look so strange upon your wife ?
+BERTRAM : She 's none of mine , my lord .
+DIANA : If you shall marry , You give away this hand , and that is mine ; You give away heaven 's vows , and those are mine ; You give away myself , which is known mine ; For I by vow am so embodied yours , That she which marries you must marry me , Either both or none .
+LAFEU : Your reputation comes too short for my daughter ; you are no husband for her .
+BERTRAM : My lord , this is a fond and desperate creature , Whom sometime I have laugh 'd with : let your highness Lay a more noble thought upon mine honour Than for to think that I would sink it here .
+KING : Sir , for my thoughts , you have them ill to friend Till your deeds gain them : fairer prove your honour Than in my thought it lies .
+DIANA : Good my lord , Ask him upon his oath , if he does think He had not my virginity .
+KING : What say 'st thou to her ?
+BERTRAM : She 's impudent , my lord , And was a common gamester to the camp .
+DIANA : He does me wrong , my lord ; if I were so , He might have bought me at a common price : Do not believe him . O , behold this ring , Whose high respect and rich validity Did lack a parallel ; yet for all that He gave it to a commoner o ' the camp , If I be one .
+COUNTESS : He blushes , and ' tis it : Of six preceding ancestors , that gem , Conferr 'd by testament to the sequent issue , Hath it been owed and worn . This is his wife ; That ring 's a thousand proofs .
+KING : Methought you said You saw one here in court could witness it .
+DIANA : I did , my lord , but loath am to produce So bad an instrument : his name 's Parolles .
+LAFEU : I saw the man to-day , if man he be .
+KING : Find him , and bring him hither . Exit an Attendant
+BERTRAM : What of him ? He 's quoted for a most perfidious slave , With all the spots o ' the world tax 'd and debosh 'd ; Whose nature sickens but to speak a truth . Am I or that or this for what he 'll utter , That will speak any thing ?
+KING : She hath that ring of yours .
+BERTRAM : I think she has : certain it is I liked her , And boarded her i ' the wanton way of youth : She knew her distance and did angle for me , Madding my eagerness with her restraint , As all impediments in fancy 's course Are motives of more fancy ; and , in fine , Her infinite cunning , with her modern grace , Subdued me to her rate : she got the ring ; And I had that which any inferior might At market-price have bought .
+DIANA : I must be patient : You , that have turn 'd off a first so noble wife , May justly diet me . I pray you yet ; Since you lack virtue , I will lose a husband ; Send for your ring , I will return it home , And give me mine again .
+BERTRAM : I have it not .
+KING : What ring was yours , I pray you ?
+DIANA : Sir , much like The same upon your finger .
+KING : Know you this ring ? this ring was his of late .
+DIANA : And this was it I gave him , being abed .
+KING : The story then goes false , you threw it him Out of a casement .
+DIANA : I have spoke the truth . Enter PAROLLES
+BERTRAM : My lord , I do confess the ring was hers .

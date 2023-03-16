@@ -1,0 +1,35 @@
+DESDEMONA : Why , stay , and hear me speak .
+CASSIO : Madam , not now : I am very ill at ease , Unfit for mine own purposes .
+DESDEMONA : Well , do your discretion . Exit CASSIO Enter OTHELLO and IAGO
+IAGO : Ha ! I like not that .
+OTHELLO : What dost thou say ?
+IAGO : Nothing , my lord : or if--I know not what .
+OTHELLO : Was not that Cassio parted from my wife ?
+IAGO : Cassio , my lord ! No , sure , I cannot think it , That he would steal away so guilty-like , Seeing you coming .
+OTHELLO : I do believe ' twas he .
+DESDEMONA : How now , my lord ! I have been talking with a suitor here , A man that languishes in your displeasure .
+OTHELLO : Who is 't you mean ?
+DESDEMONA : Why , your lieutenant , Cassio . Good my lord , If I have any grace or power to move you , His present reconciliation take ; For if he be not one that truly loves you , That errs in ignorance and not in cunning , I have no judgment in an honest face : I prithee , call him back .
+OTHELLO : Went he hence now ?
+DESDEMONA : Ay , sooth ; so humbled That he hath left part of his grief with me , To suffer with him . Good love , call him back .
+OTHELLO : Not now , sweet Desdemona ; some other time .
+DESDEMONA : But shall 't be shortly ?
+OTHELLO : The sooner , sweet , for you .
+DESDEMONA : Shall 't be to-night at supper ?
+OTHELLO : No , not to-night .
+DESDEMONA : To-morrow dinner , then ?
+OTHELLO : I shall not dine at home ; I meet the captains at the citadel .
+DESDEMONA : Why , then , to-morrow night ; or Tuesday morn ; On Tuesday noon , or night ; on Wednesday morn : I prithee , name the time , but let it not Exceed three days : in faith , he 's penitent ; And yet his trespass , in our common reason-- Save that , they say , the wars must make examples Out of their best--is not almost a fault To incur a private cheque . When shall he come ? Tell me , Othello : I wonder in my soul , What you would ask me , that I should deny , Or stand so mammering on . What ! Michael Cassio , That came a-wooing with you , and so many a time , When I have spoke of you dispraisingly , Hath ta 'en your part ; to have so much to do To bring him in ! Trust me , I could do much , --
+OTHELLO : Prithee , no more : let him come when he will ; I will deny thee nothing .
+DESDEMONA : Why , this is not a boon ; ' Tis as I should entreat you wear your gloves , Or feed on nourishing dishes , or keep you warm , Or sue to you to do a peculiar profit To your own person : nay , when I have a suit Wherein I mean to touch your love indeed , It shall be full of poise and difficult weight And fearful to be granted .
+OTHELLO : I will deny thee nothing : Whereon , I do beseech thee , grant me this , To leave me but a little to myself .
+DESDEMONA : Shall I deny you ? no : farewell , my lord .
+OTHELLO : Farewell , my Desdemona : I 'll come to thee straight .
+DESDEMONA : Emilia , come . Be as your fancies teach you ; Whate 'er you be , I am obedient .
+OTHELLO : Excellent wretch ! Perdition catch my soul , But I do love thee ! and when I love thee not , Chaos is come again .
+IAGO : My noble lord--
+OTHELLO : What dost thou say , Iago ?
+IAGO : Did Michael Cassio , when you woo 'd my lady , Know of your love ?
+OTHELLO : He did , from first to last : why dost thou ask ?
+IAGO : But for a satisfaction of my thought ; No further harm .
+OTHELLO : Why of thy thought , Iago ?

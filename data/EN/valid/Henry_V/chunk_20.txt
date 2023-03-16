@@ -1,0 +1,15 @@
+Constable : You have shot over .
+ORLEANS : ' Tis not the first time you were overshot . Enter a Messenger
+Messenger : My lord high constable , the English lie within fifteen hundred paces of your tents .
+Constable : Who hath measured the ground ?
+Messenger : The Lord Grandpre .
+Constable : A valiant and most expert gentleman . Would it were day ! Alas , poor Harry of England ! he longs not for the dawning as we do .
+ORLEANS : What a wretched and peevish fellow is this king of England , to mope with his fat-brained followers so far out of his knowledge !
+Constable : If the English had any apprehension , they would run away .
+ORLEANS : That they lack ; for if their heads had any intellectual armour , they could never wear such heavy head-pieces .
+RAMBURES : That island of England breeds very valiant creatures ; their mastiffs are of unmatchable courage .
+ORLEANS : Foolish curs , that run winking into the mouth of a Russian bear and have their heads crushed like rotten apples ! You may as well say , that 's a valiant flea that dare eat his breakfast on the lip of a lion .
+Constable : Just , just ; and the men do sympathize with the mastiffs in robustious and rough coming on , leaving their wits with their wives : and then give them great meals of beef and iron and steel , they will eat like wolves and fight like devils .
+ORLEANS : Ay , but these English are shrewdly out of beef .
+Constable : Then shall we find to-morrow they have only stomachs to eat and none to fight . Now is it time to arm : come , shall we about it ?
+ORLEANS : It is now two o 'clock : but , let me see , by ten We shall have each a hundred Englishmen . Enter Chorus

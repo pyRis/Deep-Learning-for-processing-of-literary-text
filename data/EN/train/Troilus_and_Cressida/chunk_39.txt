@@ -1,0 +1,29 @@
+ANDROMACHE : My dreams will , sure , prove ominous to the day .
+HECTOR : No more , I say . Enter CASSANDRA
+CASSANDRA : Where is my brother Hector ?
+ANDROMACHE : Here , sister ; arm 'd , and bloody in intent . Consort with me in loud and dear petition , Pursue we him on knees ; for I have dream 'd Of bloody turbulence , and this whole night Hath nothing been but shapes and forms of slaughter .
+CASSANDRA : O , ' tis true .
+HECTOR : Ho ! bid my trumpet sound !
+CASSANDRA : No notes of sally , for the heavens , sweet brother .
+HECTOR : Be gone , I say : the gods have heard me swear .
+CASSANDRA : The gods are deaf to hot and peevish vows : They are polluted offerings , more abhorr 'd Than spotted livers in the sacrifice .
+ANDROMACHE : O , be persuaded ! do not count it holy To hurt by being just : it is as lawful , For we would give much , to use violent thefts , And rob in the behalf of charity .
+CASSANDRA : It is the purpose that makes strong the vow ; But vows to every purpose must not hold : Unarm , sweet Hector .
+HECTOR : Hold you still , I say ; Mine honour keeps the weather of my fate : Lie every man holds dear ; but the brave man Holds honour far more precious-dear than life . Enter TROILUS How now , young man ! mean 'st thou to fight to-day ?
+ANDROMACHE : Cassandra , call my father to persuade . Exit CASSANDRA
+HECTOR : No , faith , young Troilus ; doff thy harness , youth ; I am to-day i ' the vein of chivalry : Let grow thy sinews till their knots be strong , And tempt not yet the brushes of the war . Unarm thee , go , and doubt thou not , brave boy , I 'll stand to-day for thee and me and Troy .
+TROILUS : Brother , you have a vice of mercy in you , Which better fits a lion than a man .
+HECTOR : What vice is that , good Troilus ? chide me for it .
+TROILUS : When many times the captive Grecian falls , Even in the fan and wind of your fair sword , You bid them rise , and live .
+HECTOR : O , ' tis fair play .
+TROILUS : Fool 's play , by heaven , Hector .
+HECTOR : How now ! how now !
+TROILUS : For the love of all the gods , Let 's leave the hermit pity with our mothers , And when we have our armours buckled on , The venom 'd vengeance ride upon our swords , Spur them to ruthful work , rein them from ruth .
+HECTOR : Fie , savage , fie !
+TROILUS : Hector , then ' tis wars .
+HECTOR : Troilus , I would not have you fight to-day .
+TROILUS : Who should withhold me ? Not fate , obedience , nor the hand of Mars Beckoning with fiery truncheon my retire ; Not Priamus and Hecuba on knees , Their eyes o 'ergalled with recourse of tears ; Not you , my brother , with your true sword drawn , Opposed to hinder me , should stop my way , But by my ruin . Re-enter CASSANDRA , with PRIAM
+CASSANDRA : Lay hold upon him , Priam , hold him fast : He is thy crutch ; now if thou lose thy stay , Thou on him leaning , and all Troy on thee , Fall all together .
+PRIAM : Come , Hector , come , go back : Thy wife hath dream 'd ; thy mother hath had visions ; Cassandra doth foresee ; and I myself Am like a prophet suddenly enrapt To tell thee that this day is ominous : Therefore , come back .
+HECTOR : AEneas is a-field ; And I do stand engaged to many Greeks , Even in the faith of valour , to appear This morning to them .
+PRIAM : Ay , but thou shalt not go .

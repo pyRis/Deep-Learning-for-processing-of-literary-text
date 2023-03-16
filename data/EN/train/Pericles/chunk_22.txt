@@ -1,0 +1,29 @@
+MARINA : What trade , sir ?
+LYSIMACHUS : Why , I cannot name 't but I shall offend .
+MARINA : I cannot be offended with my trade . Please you to name it .
+LYSIMACHUS : How long have you been of this profession ?
+MARINA : E 'er since I can remember .
+LYSIMACHUS : Did you go to ' t so young ? Were you a gamester at five or at seven ?
+MARINA : Earlier too , sir , if now I be one .
+LYSIMACHUS : Why , the house you dwell in proclaims you to be a creature of sale .
+MARINA : Do you know this house to be a place of such resort , and will come into ' t ? I hear say you are of honourable parts , and are the governor of this place .
+LYSIMACHUS : Why , hath your principal made known unto you who I am ?
+MARINA : Who is my principal ?
+LYSIMACHUS : Why , your herb-woman ; she that sets seeds and roots of shame and iniquity . O , you have heard something of my power , and so stand aloof for more serious wooing . But I protest to thee , pretty one , my authority shall not see thee , or else look friendly upon thee . Come , bring me to some private place : come , come .
+MARINA : If you were born to honour , show it now ; If put upon you , make the judgment good That thought you worthy of it .
+LYSIMACHUS : How 's this ? how 's this ? Some more ; be sage .
+MARINA : For me , That am a maid , though most ungentle fortune Have placed me in this sty , where , since I came , Diseases have been sold dearer than physic , O , that the gods Would set me free from this unhallow 'd place , Though they did change me to the meanest bird That flies i ' the purer air !
+LYSIMACHUS : I did not think Thou couldst have spoke so well ; ne 'er dream 'd thou couldst . Had I brought hither a corrupted mind , Thy speech had alter 'd it . Hold , here 's gold for thee : Persever in that clear way thou goest , And the gods strengthen thee !
+MARINA : The good gods preserve you !
+LYSIMACHUS : For me , be you thoughten That I came with no ill intent ; for to me The very doors and windows savour vilely . Fare thee well . Thou art a piece of virtue , and I doubt not but thy training hath been noble . Hold , here 's more gold for thee . A curse upon him , die he like a thief , That robs thee of thy goodness ! If thou dost Hear from me , it shall be for thy good . Re-enter BOULT
+BOULT : I beseech your honour , one piece for me .
+LYSIMACHUS : Avaunt , thou damned door-keeper ! Your house , but for this virgin that doth prop it , Would sink and overwhelm you . Away ! Exit
+BOULT : How 's this ? We must take another course with you . If your peevish chastity , which is not worth a breakfast in the cheapest country under the cope , shall undo a whole household , let me be gelded like a spaniel . Come your ways .
+MARINA : Whither would you have me ?
+BOULT : I must have your maidenhead taken off , or the common hangman shall execute it . Come your ways . We 'll have no more gentlemen driven away . Come your ways , I say . Re-enter Bawd
+Bawd : How now ! what 's the matter ?
+BOULT : Worse and worse , mistress ; she has here spoken holy words to the Lord Lysimachus .
+Bawd : O abominable !
+BOULT : She makes our profession as it were to stink afore the face of the gods .
+Bawd : Marry , hang her up for ever !
+BOULT : The nobleman would have dealt with her like a nobleman , and she sent him away as cold as a snowball ; saying his prayers too .

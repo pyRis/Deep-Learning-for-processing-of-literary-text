@@ -1,0 +1,28 @@
+KING HENRY V : An Englishman ?
+WILLIAMS : An 't please your majesty , a rascal that swaggered with me last night ; who , if alive and ever dare to challenge this glove , I have sworn to take him a box o ' th ' ear : or if I can see my glove in his cap , which he swore , as he was a soldier , he would wear if alive , I will strike it out soundly .
+KING HENRY V : What think you , Captain Fluellen ? is it fit this soldier keep his oath ?
+FLUELLEN : He is a craven and a villain else , an 't please your majesty , in my conscience .
+KING HENRY V : It may be his enemy is a gentleman of great sort , quite from the answer of his degree .
+FLUELLEN : Though he be as good a gentleman as the devil is , as Lucifer and Belzebub himself , it is necessary , look your grace , that he keep his vow and his oath : if he be perjured , see you now , his reputation is as arrant a villain and a Jacksauce , as ever his black shoe trod upon God 's ground and his earth , in my conscience , la !
+KING HENRY V : Then keep thy vow , sirrah , when thou meetest the fellow .
+WILLIAMS : So I will , my liege , as I live .
+KING HENRY V : Who servest thou under ?
+WILLIAMS : Under Captain Gower , my liege .
+FLUELLEN : Gower is a good captain , and is good knowledge and literatured in the wars .
+KING HENRY V : Call him hither to me , soldier .
+WILLIAMS : I will , my liege . Exit
+KING HENRY V : Here , Fluellen ; wear thou this favour for me and stick it in thy cap : when Alencon and myself were down together , I plucked this glove from his helm : if any man challenge this , he is a friend to Alencon , and an enemy to our person ; if thou encounter any such , apprehend him , an thou dost me love .
+FLUELLEN : Your grace doo 's me as great honours as can be desired in the hearts of his subjects : I would fain see the man , that has but two legs , that shall find himself aggrieved at this glove ; that is all ; but I would fain see it once , an please God of his grace that I might see .
+KING HENRY V : Knowest thou Gower ?
+FLUELLEN : He is my dear friend , an please you .
+KING HENRY V : Pray thee , go seek him , and bring him to my tent .
+FLUELLEN : I will fetch him . Exit
+KING HENRY V : My Lord of Warwick , and my brother Gloucester , Follow Fluellen closely at the heels : The glove which I have given him for a favour May haply purchase him a box o ' th ' ear ; It is the soldier 's ; I by bargain should Wear it myself . Follow , good cousin Warwick : If that the soldier strike him , as I judge By his blunt bearing he will keep his word , Some sudden mischief may arise of it ; For I do know Fluellen valiant And , touched with choler , hot as gunpowder , And quickly will return an injury : Follow and see there be no harm between them . Go you with me , uncle of Exeter . Enter GOWER and WILLIAMS
+WILLIAMS : I warrant it is to knight you , captain . Enter FLUELLEN
+FLUELLEN : God 's will and his pleasure , captain , I beseech you now , come apace to the king : there is more good toward you peradventure than is in your knowledge to dream of .
+WILLIAMS : Sir , know you this glove ?
+FLUELLEN : Know the glove ! I know the glove is glove .
+WILLIAMS : I know this ; and thus I challenge it . Strikes him
+FLUELLEN : ' Sblood ! an arrant traitor as any is in the universal world , or in France , or in England !
+GOWER : How now , sir ! you villain !
+WILLIAMS : Do you think I 'll be forsworn ?

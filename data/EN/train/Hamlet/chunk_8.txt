@@ -1,0 +1,28 @@
+HAMLET : It waves me still . Go on ; I 'll follow thee .
+MARCELLUS : You shall not go , my lord .
+HAMLET : Hold off your hands .
+HORATIO : Be ruled ; you shall not go .
+HAMLET : My fate cries out , And makes each petty artery in this body As hardy as the Nemean lion 's nerve . Still am I call 'd . Unhand me , gentlemen . By heaven , I 'll make a ghost of him that lets me ! I say , away ! Go on ; I 'll follow thee .
+HORATIO : He waxes desperate with imagination .
+MARCELLUS : Let 's follow ; ' tis not fit thus to obey him .
+HORATIO : Have after . To what issue will this come ?
+MARCELLUS : Something is rotten in the state of Denmark .
+HORATIO : Heaven will direct it .
+MARCELLUS : Nay , let 's follow him . Enter GHOST and HAMLET
+HAMLET : Where wilt thou lead me ? speak ; I 'll go no further .
+Ghost : Mark me .
+HAMLET : I will .
+Ghost : My hour is almost come , When I to sulphurous and tormenting flames Must render up myself .
+HAMLET : Alas , poor ghost !
+Ghost : Pity me not , but lend thy serious hearing To what I shall unfold .
+HAMLET : Speak ; I am bound to hear .
+Ghost : So art thou to revenge , when thou shalt hear .
+HAMLET : What ?
+Ghost : I am thy father 's spirit , Doom 'd for a certain term to walk the night , And for the day confined to fast in fires , Till the foul crimes done in my days of nature Are burnt and purged away . But that I am forbid To tell the secrets of my prison-house , I could a tale unfold whose lightest word Would harrow up thy soul , freeze thy young blood , Make thy two eyes , like stars , start from their spheres , Thy knotted and combined locks to part And each particular hair to stand on end , Like quills upon the fretful porpentine : But this eternal blazon must not be To ears of flesh and blood . List , list , O , list ! If thou didst ever thy dear father love--
+HAMLET : O God !
+Ghost : Revenge his foul and most unnatural murder .
+HAMLET : Murder !
+Ghost : Murder most foul , as in the best it is ; But this most foul , strange and unnatural .
+HAMLET : Haste me to know 't , that I , with wings as swift As meditation or the thoughts of love , May sweep to my revenge .
+Ghost : I find thee apt ; And duller shouldst thou be than the fat weed That roots itself in ease on Lethe wharf , Wouldst thou not stir in this . Now , Hamlet , hear : ' Tis given out that , sleeping in my orchard , A serpent stung me ; so the whole ear of Denmark Is by a forged process of my death Rankly abused : but know , thou noble youth , The serpent that did sting thy father 's life Now wears his crown .
+HAMLET : O my prophetic soul ! My uncle !

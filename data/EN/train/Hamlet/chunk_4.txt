@@ -1,0 +1,37 @@
+HORATIO : Hail to your lordship !
+HAMLET : I am glad to see you well : Horatio , --or I do forget myself .
+HORATIO : The same , my lord , and your poor servant ever .
+HAMLET : Sir , my good friend ; I 'll change that name with you : And what make you from Wittenberg , Horatio ? Marcellus ?
+MARCELLUS : My good lord--
+HAMLET : I am very glad to see you . Good even , sir . But what , in faith , make you from Wittenberg ?
+HORATIO : A truant disposition , good my lord .
+HAMLET : I would not hear your enemy say so , Nor shall you do mine ear that violence , To make it truster of your own report Against yourself : I know you are no truant . But what is your affair in Elsinore ? We 'll teach you to drink deep ere you depart .
+HORATIO : My lord , I came to see your father 's funeral .
+HAMLET : I pray thee , do not mock me , fellow-student ; I think it was to see my mother 's wedding .
+HORATIO : Indeed , my lord , it follow 'd hard upon .
+HAMLET : Thrift , thrift , Horatio ! the funeral baked meats Did coldly furnish forth the marriage tables . Would I had met my dearest foe in heaven Or ever I had seen that day , Horatio ! My father ! --methinks I see my father .
+HORATIO : Where , my lord ?
+HAMLET : In my mind 's eye , Horatio .
+HORATIO : I saw him once ; he was a goodly king .
+HAMLET : He was a man , take him for all in all , I shall not look upon his like again .
+HORATIO : My lord , I think I saw him yesternight .
+HAMLET : Saw ? who ?
+HORATIO : My lord , the king your father .
+HAMLET : The king my father !
+HORATIO : Season your admiration for awhile With an attent ear , till I may deliver , Upon the witness of these gentlemen , This marvel to you .
+HAMLET : For God 's love , let me hear .
+HORATIO : Two nights together had these gentlemen , Marcellus and Bernardo , on their watch , In the dead vast and middle of the night , Been thus encounter 'd . A figure like your father , Armed at point exactly , cap-a-pe , Appears before them , and with solemn march Goes slow and stately by them : thrice he walk 'd By their oppress 'd and fear-surprised eyes , Within his truncheon 's length ; whilst they , distilled Almost to jelly with the act of fear , Stand dumb and speak not to him . This to me In dreadful secrecy impart they did ; And I with them the third night kept the watch ; Where , as they had deliver 'd , both in time , Form of the thing , each word made true and good , The apparition comes : I knew your father ; These hands are not more like .
+HAMLET : But where was this ?
+MARCELLUS : My lord , upon the platform where we watch 'd .
+HAMLET : Did you not speak to it ?
+HORATIO : My lord , I did ; But answer made it none : yet once methought It lifted up its head and did address Itself to motion , like as it would speak ; But even then the morning cock crew loud , And at the sound it shrunk in haste away , And vanish 'd from our sight .
+HAMLET : ' Tis very strange .
+HORATIO : As I do live , my honour 'd lord , ' tis true ; And we did think it writ down in our duty To let you know of it .
+HAMLET : Indeed , indeed , sirs , but this troubles me . Hold you the watch to-night ?
+MARCELLUS BERNARDO : We do , my lord .
+HAMLET : Arm 'd , say you ?
+MARCELLUS BERNARDO : Arm 'd , my lord .
+HAMLET : From top to toe ?
+MARCELLUS BERNARDO : My lord , from head to foot .
+HAMLET : Then saw you not his face ?
+HORATIO : O , yes , my lord ; he wore his beaver up .
