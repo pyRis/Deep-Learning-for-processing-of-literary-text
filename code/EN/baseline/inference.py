@@ -24,7 +24,7 @@ def create_summary(segments: list) -> str:
             clean_up_tokenization_spaces=False
         )
         segmented_summ.append(summary)
-    return " ".join(segmented_summ)
+    return "".join(segmented_summ)
 
 
 def main() -> None:
