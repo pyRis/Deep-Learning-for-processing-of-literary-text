@@ -1,74 +1,43 @@
+"""Code for inference."""
 import torch
 import sys
-import re
-from utils.utils import (
-    gen_tsc,
-    gen_summary,
+from preprocessing import (
+    open_file, split_data
 )
-from utils.processing import (
-    process_single,
-)
-from utils.postprocessing import post_processing
-
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, set_seed
-import json
 
-device = torch.device("cuda")
-ending = sys.argv[1]
-out_dir = sys.argv[2]
-model_checkpoint = sys.argv[3]
-set_seed(42)
-pattern = r"[\(\[].*?[\)\]]"
 
-model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
-model.to(device)
-tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+def create_summary(segments: list) -> str:
+    """Create summary for each segment."""
+    device = torch.device("cuda")
+    set_seed(42)
+    model_checkpoint = sys.argv[3]
+    model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
+    model.to(device)
+    tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+    segmented_summ = []
+    for item in segments:
+        utterance = tokenizer(item, return_tensors="pt").to(device)
+        summary = tokenizer.decode(
+            model.generate(**utterance)[0],
+            skip_special_tokens=True,
+            clean_up_tokenization_spaces=False
+        )
+        segmented_summ.append(summary)
+    return " ".join(segmented_summ)
 
-# Read the input
 
-with open(ending, "r", encoding="utf-8") as f:
-    content = f.readlines()
-tran = [item.strip() for item in content]
-# Do some preprocessing
+def main() -> None:
+    """Driver function to create the summary."""
+    inp = sys.argv[1]
+    file_name = inp.split("/")[-2]
+    out_dir = sys.argv[2]
+    sentence_list = open_file(inp)
+    segments = split_data(sentence_list)
+    summary = create_summary(segments)
+    with open(f"{out_dir}/{file_name}_summary.txt", "w", encoding='utf-8') as f:
+        f.write(summary)
 
-person_dict = {}
-set_speaker = []
-fresh_line = []
-fresh_fresh_line = []
-id = ending.split("/")[-2]
 
-print(f"Now processing {id}")
-for i in tran:
-    val = re.sub(pattern, "", i)
-    if val.strip() and val[0] != "[" and val[0] != "(":
-        fresh_line.append(val)
-for val in fresh_line:
-    temp = val.split(":")
-    if 0 < len(temp[0].split()) < 4 and "," not in temp[0] and len(temp) == 2:
-        temp[0] = temp[0].replace("-", "").strip()
-        set_speaker.append(temp[0])
-        val = " : ".join(temp)
-        fresh_fresh_line.append(val)
-set_speaker = list(set(set_speaker))
-final_transcript = "\n".join(fresh_fresh_line)
-count = 0
-for val in set_speaker:
-    person_dict[val] = f"(PERSON{count})"
-    count += 1
-for key in person_dict:
-    final_transcript = final_transcript.replace(key, person_dict[key])
-
-person_dict = {v.replace("(","").replace(")",""): k.title() for k, v in person_dict.items()}
-
-with open(f"person_mapping/{id}.json", "w+") as outfile:
-    json.dump(person_dict, outfile)
-final_transcript = final_transcript.replace(":", "")
-
-tsc = process_single(final_transcript, id)
-
-tsc_preprocessed = gen_tsc(tsc, tokenizer, 768)
-s2, filename = gen_summary(tsc_preprocessed, model, tokenizer, out_dir)
-summ = " ".join([item.strip() for item in s2[0]])
-summ = post_processing(summ, person_dict)
-with open(f"summary/{id}.txt", "w+") as f:
-    f.write(summ)
+if __name__ == "__main__":
+    main()
