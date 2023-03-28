@@ -1,0 +1,40 @@
+FLINK : Item , sie ist eitel .
+LANZ : Weg mit dem dazu ; es war Evas Erbteil und kann nicht von ihr genommen werden .
+FLINK : Item , sie hat keine Zähne .
+LANZ : Daraus mache ich mir auch nichts , denn ich liebe die Rinden .
+FLINK : Item , sie ist zänkisch .
+LANZ : Gut ; das beste ist , sie hat keine Zähne zum Beißen .
+FLINK : Item , sie lobt sich einen guten Schluck .
+LANZ : Wenn der Schluck gut ist , soll sie 's ; wenn sie nicht will , tu ' ich 's ; denn was gut ist , muß gelobt werden .
+FLINK : Item , sie ist zu freigebig .
+LANZ : Mit ihrer Zunge kann sie 's nicht , denn es steht geschrieben , daß sie langsam damit ist ; mit ihrem Beutel soll sie 's nicht , denn den will ich verschlossen halten ; nun könnte sie es sonst noch mit etwas , und da kann ich nicht helfen . Gut , weiter !
+FLINK : Item , sie hat mehr Haar als Witz , und mehr Fehler als Haare , und mehr Geld als Fehler .
+LANZ : Halt hier ; ich will sie haben : sie war mein und nicht mein , zwei- oder dreimal bei diesem letzten Artikel ; wiederhole das noch einmal !
+FLINK : Item , sie hat mehr Haar als Witz –
+LANZ : Mehr Haar als Witz , – das mag sein ; das will ich beweisen : der Deckel des Salzfasses verbirgt das Salz , und darum ist er mehr als das Salz ; das Haar , das den Witz bedeckt , ist mehr als der Witz ; denn das Größere verbirgt das Kleinere . Was ist das Nächste ?
+FLINK : Und mehr Fehler als Haare –
+LANZ : Das ist schrecklich ; wenn das heraus wäre !
+FLINK : Und mehr Geld als Fehler .
+LANZ : Ach , das Wort macht die Fehler zu Tugenden . Gut , ich will sie haben ; und wenn das eine Heirat gibt , wie kein Ding unmöglich ist –
+FLINK : Was denn ?
+LANZ : Nun , dann will ich dir sagen , daß dein Herr am Nordtor auf dich wartet .
+FLINK : Auf mich ?
+LANZ : Auf dich ? ja ; wer bist du ? Er hat schon auf beßre Leute gewartet , als du bist .
+FLINK : Und muß ich zu ihm gehn ?
+LANZ : Du mußt zu ihm laufen ; denn du hast so lange hier gewartet , daß Gehen schwerlich hinreicht .
+FLINK : Warum sagtest du mir das nicht früher ? Hol ' der Henker deinen Liebesbrief ! Geht ab .
+Geht ab .
+LANZ : Jetzt kriegt er Prügel , weil er meinen Brief gelesen hat ; ein unverschämter Kerl , der sich in Geheimnisse drängen will ! – Ich will hinterher und an des Bengels Züchtigung meine Freude haben . Geht ab .
+Geht ab .
+Palast .
+Der Herzog und Thurio treten auf . Proteus nach ihnen .
+HERZOG : Nichts fürchtet , Thurio : lieben wird sie Euch , Nun Valentin aus ihrem Blick verbannt ist .
+THURIO : Seit seiner Flucht hat sie mich ausgehöhnt , Verschworen meinen Umgang , mich gescholten , Daß ich verzweifeln muß , sie zu gewinnen .
+HERZOG : So schwacher Liebeseindruck gleicht dem Bild In Eis geschnitten ; eine Stunde Wärme Löst es zu Wasser auf und tilgt die Form . Ein wenig Zeit schmelzt ihren frost'gen Sinn Und macht den niedern Valentin vergessen . – Wie nun , Herr Proteus ? Sagt , ist Euer Landsmann , Gemäß des strengen Ausrufs , abgereist ?
+PROTEUS : Ja , gnäd'ger Herr .
+HERZOG : Betrübt ist meine Tochter um sein Gehn .
+PROTEUS : Bald wird die Zeit , mein Fürst , den Gram vertilgen .
+HERZOG : Das glaub ' ich auch ; doch Thurio denkt nicht so . – Die gute Meinung , die ich von dir habe ( Denn Proben deines Werts hast du gegeben ) , Macht , daß ich um so eh ' r mich dir vertraue .
+PROTEUS : Zeig ' ich mich jemals unwert Eurer Gnade , Laßt mich für immer tot sein Eurer Gnade !
+HERZOG : Du weißt , wie sehr ich zu vollziehen wünsche Thurios Verbindung mit der Tochter Silvia .
+PROTEUS : Ich weiß es , gnäd'ger Fürst .

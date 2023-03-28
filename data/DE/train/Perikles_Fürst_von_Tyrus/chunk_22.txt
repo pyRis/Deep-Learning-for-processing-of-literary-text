@@ -1,0 +1,33 @@
+Bolz kommt .
+BOLZ : Ich bitt ' , Eu ' r Gnaden , mir ein Stück !
+LYSIMACHUS : Weg , schändlicher Türhüter ! Euer Haus , Wenn diese Jungfrau nicht es unterstützte , Stürzt ' ein , euch alle zu verschütten . Weg !
+Geht ab .
+BOLZ : Was ist das ? Mit Euch müssen wir eine andere Einrichtung treffen . Ehe Eu 're lumpige Keuschheit , die kein Frühstück in der wohlfeilsten Gegend unter der Sonne wert ist , eine ganze Haushaltung zugrunde richten soll , will ich mich wie einen Hühnerhund verschneiden lassen . Kommt gleich !
+MARINA : Wohin soll ich kommen ?
+BOLZ : Eu 're Jungfrauschaft muß herunter , oder der Stadthenker soll sie hinrichten . Kommt gleich ! Hier werden keine vornehme Herren mehr weggejagt ! Gleich kommt , sag ' ich !
+Die Kupplerin kommt .
+KUPPLERIN : Nun ? Wie steht 's ?
+BOLZ : Schlimmer und schlimmer , Frau ; da hat sie hier heilige Reden mit dem Lord Lysimachus geführt .
+KUPPLERIN : O , abscheulich !
+BOLZ : Sie macht unsre Hantierung gleichsam stinkend vor dem Angesichte der Götter .
+KUPPLERIN : An den Galgen mit ihr !
+BOLZ : Der edle Herr würde sich wie ein edler Herr gegen sie aufgeführt haben , und da schickt sie ihn weg , so kalt , wie einen Schneeball , und er sagt noch sein Gebet dazu her .
+KUPPLERIN : Bolz , nimm sie hin , tu mit ihr nach Gefallen , zerbrich das Glas ihrer Jungfrauschaft , daß sich das übrige nachher hämmern läßt .
+BOLZ : Wäre sie ein noch dorniger Grundstück als sie ist , so sollte sie doch umgepflügt werden .
+MARINA : Hört ! Hört ! Ihr Götter !
+KUPPLERIN : Sie beschwört ; fort mit ihr ! Wäre sie doch nie über meine Schwelle gekommen ! Sie ist zu unserm Ruin geboren . Du willst den Weg nicht gehen , den alle Menschen geh'n ? Ja , hat sich was ! Du Gericht Keuschheit mit Rosmarin und Lorbeer ! Geht ab .
+Geht ab .
+BOLZ : Nun kommt , Fräulein , nun gleich mit mir !
+MARINA : Wohin soll ich geh'n ?
+BOLZ : Euch das Juwel zu nehmen , das Ihr so teuer haltet .
+MARINA : Ich bitte , sagt mir erst Eins .
+BOLZ : Nun , her mit Eurem Einem .
+MARINA : Was wünschest du wohl , daß dein Feind sein möchte ?
+BOLZ : Nun , ich wünschte ihm , er wäre mein Herr , oder lieber noch die Frau .
+MARINA : Doch keiner ist so schlecht , als du es bist , Denn höher steh'n sie , da sie dir gebieten . Du hast ein Amt , das der gequälteste Teufel Der Hölle nicht mit dir aus Ehrgeiz tauschte ; Hünd'scher Türhüter bist du jedem Lump , Der sich nur zeigt , nach seinem Mensch zu fragen ; Dein Ohr gibt jedes Schuftes zorn'ger Faust Sich preis ; ja deine Speise selbst ist schon Verpestet von dem Hauch verdorbner Lungen .
+BOLZ : Was soll ich denn aber tun ? In den Krieg geh'n ? wo man sieben Jahr ' um den Verlust eines Beines dienen kann und am Ende nicht Geld genug hat , um sich ein hölzernes zu kaufen ?
+MARINA : Tu ' jedes Ding , nur nicht das , was du tu'st , Kanäle rein'ge , schmutzige Kloake ; Verdinge als Knecht dich dem gemeinen Henker , Denn jeder Stand ist besser als dein jetz'ger ; Ein Pavian , wenn er nur sprechen könnte , Würd ' sich zu teuer achten Du zu sein . O möchten mich die Götter nur erretten Aus diesem Hause ! Hier ist Gold für dich ; Und wünscht dein Herr durch mich Gewinn zu zieh'n , Ruf ' aus , ich singe , nähe , tanze , Kann manches noch , was ich nicht rühmen will ; Ich unternehm ' es , Unterricht zu geben , Und zweifle nicht , daß diese große Stadt Mir manche Schülerinnen liefern wird .
+BOLZ : Aber könnt Ihr auch wirklich in allen diesen Dingen Unterricht geben ?
+MARINA : Ist es nicht wahr , so nimm mich wieder her , Und gib mich preis dem niedrigsten der Knechte , Der Euer Haus besucht .
+BOLZ : Nun gut , ich will seh'n , was ich für dich tun kann ; kann ich dich wo unterbringen , so will ich es tun .
+MARINA : Aber doch bei sittsamen Frauen ?

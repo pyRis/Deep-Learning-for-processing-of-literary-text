@@ -1,0 +1,18 @@
+öffnet das bleierne Kästchen .
+er küßt sie
+PORZIA : Ihr seht mich , Don Bassanio , wo ich stehe , So wie ich bin : obschon , für mich allein , Ich nicht ehrgeizig wär ' in meinem Wunsch , Viel besser mich zu wünschen ; doch für Euch Wollt ' ich verdreifacht zwanzigmal ich selbst sein , Noch tausendmal so schön , zehntausendmal So reich . – Nur um in Eurer Schätzung hoch zu stehn , Möcht ' ich an Gaben , Reizen , Gütern , Freunden Unschätzbar sein ; doch meine volle Summa Macht etwas nur : das ist , in Bausch und Bogen , Ein unerzognes , ungelehrtes Mädchen , Darin beglückt , daß sie noch nicht zu alt Zum Lernen ist ; noch glücklicher , daß sie Zum Lernen nicht zu blöde ward geboren . Am glücklichsten , weil sich ihr weich Gemüt Dem Euren überläßt , daß Ihr sie lenkt , Als ihr Gemahl , ihr Führer und ihr König . Ich selbst und was nur mein , ist Euch und Eurem Nun zugewandt : noch eben war ich Eigner Des schönen Guts hier , Herrin meiner Leute , Monarchin meiner selbst ; und eben jetzt Sind Haus und Leut ' , und eben dies Ich selbst Eu ' r eigen , Herr : nehmt sie mit diesem Ring ! Doch trennt Ihr Euch von ihm , verliert , verschenkt ihn , So prophezei ' es Eurer Liebe Fall , Und sei mein Anspruch , gegen Euch zu klagen .
+BASSANIO : Fräulein , Ihr habt der Worte mich beraubt , Mein Blut nur in den Adern spricht zu Euch ; Verwirrung ist in meinen Lebensgeistern , Wie sie nach einer wohlgesprochnen Rede Von einem teuren Prinzen wohl im Kreis Der murmelnden zufriednen Meng ' erscheint , Wo jedes Etwas , in einander fließend , Zu einem Chaos wird von nichts als Freude , Laut oder sprachlos . – Doch weicht dieser Ring Von diesem Finger , dann weicht hier das Leben : O dann sagt kühn , Bassanio sei tot !
+NERISSA : Mein Herr und Fräulein , jetzt ist unsre Zeit , Die wir dabei gestanden und die Wünsche Gelingen sehn , zu rufen : Freud ' und Heil ! Habt Freud ' und Heil , mein Fräulein und mein Herr !
+GRAZIANO : Mein Freund Bassanio und mein wertes Fräulein , Ich wünsch ' euch , was für Freud ' ihr wünschen könnt , Denn sicher wünscht ihr keine von mir weg . Und wenn ihr beiderseits zu feiern denkt Den Austausch eurer Treue , bitt ' ich euch , Daß ich zugleich mich auch verbinden dürfe .
+BASSANIO : Von Herzen gern , kannst du ein Weib dir schaffen .
+GRAZIANO : Ich dank ' Euch , Herr : Ihr schafftet mir ein Weib . Mein Auge kann so hurtig schaun als Eures ; Ihr saht das Fräulein , ich die Dienerin ; Ihr liebtet , und ich liebte : denn Verzug Steht mir nicht besser an als Euch , Bassanio . Eu ' r eignes Glück hing an den Kästchen dort , Und so auch meines , wie es sich gefügt . Denn werbend hier , bis ich in Schweiß geriet , Und schwörend , bis mein Gaum von Liebesschwüren Ganz trocken war : ward ich zuletzt – geletzt Durch ein Versprechen dieser Schönen hier , Mir Liebe zu erwidern , wenn Eu ' r Glück Ihr Fräulein erst gewönne .
+PORZIA : Ist 's wahr , Nerissa ?
+NERISSA : Ja , Fräulein , wenn Ihr Euren Beifall gebt .
+BASSANIO : Und meint Ihr 's , Graziano , recht im Ernst ?
+GRAZIANO : Ja , auf mein Wort .
+BASSANIO : Ihr ehrt durch Eure Heirat unser Fest .
+GRAZIANO : Doch wer kommt hier ? Lorenzo und sein Heidenkind ? Wie ? und mein alter Landsmann , Freund Salerio ?
+Lorenzo , Jessica und Salerio treten auf .
+BASSANIO : Lorenzo und Salerio , seid willkommen , Wofern die Jugend meines Ansehns hier Willkommenheißen darf . Erlaubet mir , Ich heiße meine Freund ' und Landesleute Willkommen , holde Porzia .
+PORZIA : Ich mit Euch ; Sie sind mir sehr willkommen .
+LORENZO : Dank Euer Gnaden ! – Was mich angeht , Herr , Mein Vorsatz war es nicht , Euch hier zu sehn ; Doch da ich unterwegs Salerio traf , So bat er mich , daß ich 's nicht weigern konnte , Hieher ihn zu begleiten .

@@ -1,0 +1,30 @@
+HAMLET : Ich bitte Euch , vergeßt nicht !
+Hamlet nötigt ihn , den Hut aufzusetzen .
+OSRICK : Erlaubt mir , wertester Prinz , zu meiner eignen Bequemlichkeit . Vor kurzem , Herr , ist Laertes hier an den Hof gekommen : auf meine Ehre , ein vollkommner Kavalier , von den vortrefflichsten Auszeichnungen , von einer sehr gefälligen Unterhaltung und glänzendem Äußern . In der Tat , um mit Sinn von ihm zu sprechen , er ist die Musterkarte der feinen Lebensart , denn Ihr werdet in ihm den Inbegriff aller Gaben finden , die ein Kavalier nur wünschen kann zu sehn .
+HAMLET : Seine Erörterung , Herr , leidet keinen Verlust in Eurem Munde , ob ich gleich weiß , daß es die Rechenkunst des Gedächtnisses irre machen würde , ein vollständiges Verzeichnis seiner Eigenschaften aufzustellen . Und doch würde es nur aus dem Groben sein , in Rücksicht seines behenden Fluges . Aber im heiligsten Ernste der Lobpreisung , ich halte ihn für einen Geist von großem Umfange , und seine innere Begabung so köstlich und selten , daß , um uns wahrhaft über ihn auszudrücken , nur sein Spiegel seinesgleichen ist , und wer sonst seiner Spur nachgehn will , sein Schatten , nichts weiter .
+OSRICK : Eure Hoheit spricht ganz untrüglich von ihm .
+HAMLET : Der Betreff , Herr ? Warum lassen wir den rauhen Atem unsrer Rede über diesen Kavalier gehen ?
+OSRICK : Prinz ?
+HAMLET : Was bedeutet die Nennung dieses Kavaliers ?
+OSRICK : Des Laertes ?
+HORATIO : Sein Beutel ist schon leer ; alle seine goldnen Worte sind ausgegeben .
+HAMLET : Ja , des nämlichen .
+OSRICK : Ich weiß , Ihr seid nicht ununterrichtet –
+HAMLET : Ich wollte , Ihr wüßtet es , Herr , ob es mich gleich , bei meiner Ehre ! noch nicht sehr empfehlen würde . – Nun wohl , Herr ?
+OSRICK : Ihr seid nicht ununterrichtet , welche Vollkommenheit Laertes besitzt –
+HAMLET : Ich darf mich dessen nicht rühmen , um mich nicht mit ihm an Vollkommenheit zu vergleichen : einen andern Mann aus dem Grunde kennen , hieße sich selbst kennen .
+OSRICK : Ich meine , Herr , was die Führung der Waffen betrifft ; nach der Beimessung , die man ihm erteilt , ist er darin ohnegleichen .
+HAMLET : Was ist seine Waffe ?
+OSRICK : Degen und Stoßklinge .
+HAMLET : Das wäre denn zweierlei Waffen ; doch weiter !
+OSRICK : Der König , Herr , hat mit ihm sechs Barberhengste gewettet ; wogegen er , wie ich höre , sechs französische Degen samt Zubehör , als Gürtel , Gehenke und so weiter , verpfändet hat . Drei von den Gestellen sind in der Tat dem Auge sehr gefällig , den Gefäßen sehr angemessen , unendlich zierliche Gestelle , und von sehr geschmackvoller Erfindung .
+HAMLET : Was nennt Ihr die Gestelle ?
+HORATIO : Ich wußte , Ihr würdet Euch noch an seinen Randglossen erbauen müssen , ehe das Gespräch zu Ende wäre .
+OSRICK : Die Gestelle sind die Gehenke .
+HAMLET : Der Ausdruck würde schicklicher für die Sache sein , wenn wir eine Kanone an der Seite führen könnten ; bis dahin laßt es immer Gehenke bleiben . Aber weiter : sechs Barberhengste gegen sechs französische Degen , ihr Zubehör , und drei geschmackvoll erfundne Gestelle : das ist eine französische Wette gegen eine dänische . Weswegen haben sie dies verpfändet , wie Ihr 's nennt ?
+OSRICK : Der König , Herr , hat gewettet , daß Laertes in zwölf Stößen von beiden Seiten nicht über drei vor Euch voraushaben soll ; er hat auf zwölf gegen neun gewettet ; und es würde sogleich zum Versuch kommen , wenn Eure Hoheit zu der Erwiderung geneigt wäre .
+HAMLET : Wenn ich nun erwidre : nein ?
+OSRICK : Ich meine , gnädiger Herr , die Stellung Eurer Person zu dem Versuche .
+HAMLET : Ich will hier im Saale auf und ab gehn ; wenn es Seiner Majestät gefällt , es ist jetzt bei mir die Stunde , frische Luft zu schöpfen . Laßt die Rapiere bringen ; hat Laertes Lust , und bleibt der König bei seinem Vorsatze , so will ich für ihn gewinnen , wenn ich kann ; wo nicht , so werde ich nichts als die Schande und die überzähligen Stöße davontragen .
+OSRICK : Soll ich Eure Meinung so erklären ?
+HAMLET : In diesem Sinne , Herr , mit Ausschmückungen nach Eurem Geschmack .

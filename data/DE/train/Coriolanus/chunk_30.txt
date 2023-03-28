@@ -1,0 +1,41 @@
+VOLSKER : Coriolan verbannt ?
+RÖMER : Ja , verbannt .
+VOLSKER : Mit der Nachricht werdet Ihr willkommen sein , Nikanor .
+RÖMER : Das Wetter ist jetzt gut für euch . Man pflegt zu sagen , die beste Zeit , eine Frau zu verführen , sei , wenn sie sich mit ihrem Manne überworfen hat . Euer edler Tullus Aufidius kann sich in diesem Kriege hervortun , da sein großer Gegner Coriolanus jetzt für sein Vaterland nichts tut .
+VOLSKER : Das kann ihm nicht fehlen . Wie glücklich war ich , Euch so unvermutet zu begegnen ! Ihr habt meinem Geschäft ein Ende gemacht , und ich will Euch nun freudig nach Hause begleiten .
+RÖMER : Ich kann Euch vor dem Abendessen noch höchst sonderbare Dinge von Rom erzählen , die ihren Feinden sämtlich zum Vorteil gereichen . Habt ihr ein Heer bereit ? Wie ?
+VOLSKER : Ja , und ein wahrhaft königliches . Die Centurionen und ihre Mannschaft sind schon förmlich verteilt und stehn im Sold , so daß sie jede Stunde aufbrechen können .
+RÖMER : Es freut mich , daß sie so marschfertig sind , und ich denke , ich bin der Mann , der sie sogleich in Bewegung setzen wird . Also herzlich willkommen , und höchst vergnügt durch Eure Gesellschaft !
+VOLSKER : Ihr nehmt mir die Worte aus dem Munde ; ich habe die meiste Ursach ' , mich dieser Zusammenkunft zu freuen .
+RÖMER : Gut , laßt uns gehn !
+Sie gehn ab .
+Antium . Vor Aufidius ' Haus . Coriolanus tritt auf in geringem Anzuge , verkleidet und verhüllt .
+CORIOLANUS : Dies Antium ist ein hübscher Ort . O Stadt ! Ich schuf dir deine Witwen . Manchen Erben Der schönen Häuser hört ' ich in der Schlacht Stöhnen und sterben . – Kenne mich drum nicht , Sonst morden mich mit Bratspieß ' deine Weiber , In kind'scher Schlacht mit Steinen deine Knaben .
+Es kommt ein Bürger ,
+DER BÜRGER : Und Euch !
+CORIOLANUS : Zeigt mir , ich bitte . Wo Held Aufidius wohnt . Ist er in Antium ?
+BÜRGER : Ja , und bewirtet heut in seinem Haus Die Ersten unsrer Stadt .
+CORIOLANUS : Wo ist sein Haus ?
+BÜRGER : Dies ist 's , Ihr steht davor .
+CORIOLANUS : O Welt ! du rollend Rad ! Geschworne Freunde , Die in zwei Busen nur ein Herz getragen , Die Zeit und Bett und Mahl und Arbeit teilten , Vereinigt stets , als wie ein Zwillingspaar , In ungetrennter Liebe , brechen aus Urplötzlich durch den Hader um ein Nichts In bittern Haß . – So auch erboste Feinde , Die Haß und Grimm nicht schlafen ließ vor Planen , Einander zu vertilgen , durch 'nen Zufall , Ein Ding , kein Ei wert , werden Herzensfreunde , Und Doppelgatten ihre Kinder . So auch ich . Ich hasse den Geburtsort , liebe hier Die Feindesstadt . – Hinein ! Erschlägt er mich , So übt er gutes Recht ; nimmt er mich auf , So dien ' ich seinem Land .
+Der Bürger geht ab .
+Geht ab .
+Man hört Musik von innen ; es kommt ein Diener .
+ERSTER DIENER : Wein , Wein ! Was ist das für Aufwartung ? – Ich glaube , die Bursche sind alle im Schlaf .
+Geht ab .
+Ein zweiter Diener kommt .
+ZWEITER DIENER : Wo ist Cotus ? Der Herr ruft ihn . Cotus !
+Geht ab .
+Coriolanus tritt auf .
+CORIOLANUS : Ein hübsches Haus ; das Mahl riecht gut . Doch ich Seh ' keinem Gaste gleich .
+Der erste Diener kommt wieder .
+ERSTER DIENER : Was wollt Ihr , Freund ? Woher kommt Ihr ? Hier ist kein Platz für Euch . Bitte , macht Euch fort !
+CORIOLANUS : Ich habe bessern Willkomm nicht verdient , Wenn Coriolan ich bin .
+Der weite Diener kommt .
+ZWEITER DIENER : Wo kommst du her , Freund ? Hat der Pförtner keine Augen im Kopf , daß er solche Gesellen herein läßt ? Bitte , mach ' dich fort !
+CORIOLANUS : Hinweg !
+ZWEITER DIENER : Hinweg ? Geh du hinweg !
+CORIOLANUS : Du bist mir lästig .
+ZWEITER DIENER : Bist du so trotzig ? Man wird schon mit dir sprechen .
+Der dritte Diener kommt .
+DRITTER DIENER : Was ist das für ein Mensch ?

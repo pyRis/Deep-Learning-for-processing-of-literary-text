@@ -1,0 +1,28 @@
+Geht ab .
+Dionysa , Leonin .
+DIONYSA : Gedenke deines Eids , du schwurst die Tat ; Ein einz'ger Streich , den hier kein Mensch kann seh'n , Im kurzen Augenblick ist es gescheh'n , Was dir viel Nutzen schafft ; laß das Gewissen , Das kalt ist , nicht die Brust zu Lieb ' entflammen , Töricht entflammen , noch laß auch das Mitleid , Das selbst die Weiber abgelegt , dich schmelzen , Standhaftigkeit erzeige als Soldat .
+LEONIN : Ich tu 's ! doch ist sie wohl ein trefflich Wesen .
+DIONYSA : So besser paßt sie für die Götter . Sieh , Sie kommt und weint um ihrer Lieben Tod . Du bist entschlossen ?
+LEONIN : Ja , ich bin entschlossen .
+Marina kommt mit einem Korbe voll Blumen .
+MARINA : Nein , ich will Tellus ihres Schmucks berauben , Zu streu'n dein Grab voll Blumen , gelbe , blaue , Die Purpurveilchen und die Ringelblumen : Sie sollen Teppich gleich dein Grab bedecken , So lang der Sommer währt . Ich armes Mädchen , Im Sturm geboren , als die Mutter starb , Noch immer ist die Welt für mich ein Sturm , Der mich von meinen Freunden scheucht .
+DIONYSA : Wie geht 's , Marina ? Warum so allein ? Wie kömmt 's , daß meine Tochter nicht bei dir ? Verzehre nicht mit Kummer so dein Blut ; Ich bin dir , wie die Amm ' – ei ! Wie verwandelt Von diesem schlimmen Gram ! Gib mir die Blumen , Und geh ' mit Leonin , bevor die See Eintritt , lustwandeln dort ; die Luft ist frisch , Und schärft , wie sie durchdringt , den Hunger . Komm ! Fass ' , Leonin , sie an , und geh ' mit ihr .
+MARINA : Ich will Euch Euers Dieners nicht berauben .
+DIONYSA : Komm , komm , den König , deinen Vater und auch dich Lieb ' ich mit inn'gem Herzen ; jeden Tag Erwarten wir ihn , kommt er nun , und findet So blaß sein weltberühmtes Schönheitsbild , So reu't ihn nur die mächtig weite Reise , Er tadelt mich und meinen Mann , daß wir Nicht mehr auf dich geachtet . Geh , ich bitte , Spazier ' , und sei von Herzen wieder froh ; Bewahr ' die hohe Schönheit , welche Jung Und Alt die Augen stahl , und meinethalb Sei unbesorgt , ich geh ' allein nach Hause .
+MARINA : Ich geh , doch treibt mich nicht mein Wunsch dazu .
+DIONYSA : Komm , komm , ich weiß , es ist dir gut . Geh , Leonin , 'ne halbe Stunde mind'stens . Vergiß nicht , was ich sagte .
+LEONIN : Ganz gewiß nicht .
+DIONYSA : Ich lasse dich ein Weilchen , süßes Mädchen ; Langsam spazier ' , erhitze nicht dein Blut . Ja , ja , viel Sorg ' hab ' ich um dich .
+MARINA : Dank , Liebste . Ist das ein Westwind , der jetzt weht ?
+Dionysa geht ab .
+LEONIN : Südwest .
+MARINA : Nord war der Wind , als ich geboren .
+LEONIN : So ?
+MARINA : Mein Vater , sprach die Amm ' , war nicht in Angst , Rief : brave Seeleut ' ! den Matrosen zu , Rieb wund die Königshand mit Zieh'n der Taue , Den Mast umklammernd hielt er solche See aus , Die das Verdeck fast wegriß .
+LEONIN : Wann war das ?
+MARINA : Als ich geboren ward . Nie waren Wog ' und Wind so stürmisch je ; Aus der Strickleiter ward herabgespült Ein Schiffersjung ; ha ! Nimmt 's dich ? Ruft ein anderer ; Sie springen taumelnd hin und her , vom Schnabel Zum Hinterteil , es tönt des Bootmanns Pfeife , Es schrei't der Schiffspatron und mehrt den Wirrwarr .
+LEONIN : Kommt , betet gleich .
+MARINA : Was wollt Ihr machen ?
+LEONIN : Begehrt Ihr einen Augenblick zum Beten , Der ist gewährt ; nur betet nicht zu lange , Die Götter haben schnell Gehör , und rasch Mein Werk tu'n schwur ich .
+MARINA : Warum denn mich töten ?
+LEONIN : Weil 's meine Herrin so befahl .

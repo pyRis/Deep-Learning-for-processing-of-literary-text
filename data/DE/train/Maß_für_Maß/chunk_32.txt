@@ -1,0 +1,30 @@
+ESCALUS : Es liegt mir dran , recht bald alles Dunkle zu erklären .
+LUCIO : Recht so , erklärt Ihr Euer Anliegen im Dunkeln .
+ESCALUS : Tretet näher , junges Mädchen ; hier dieses Frauenzimmer widerspricht allem , was Ihr gesagt habt .
+LUCIO : Gnädiger Herr , hier kommt der Schurke , von dem ich sprach – hier , mit dem Schließer .
+ESCALUS : Eben recht ; redet Ihr jedoch nicht zu ihm , bis wir Euch aufrufen .
+LUCIO : Mum .
+ESCALUS : Näher , guter Freund ! Habt Ihr diese Weiber angestiftet , Lord Angelo zu verleumden ? Sie haben bekannt , daß Ihr es tatet .
+HERZOG : Das ist falsch .
+ESCALOS : Was ? Wißt Ihr , wo Ihr seid ?
+HERZOG : Ehrfurcht vor Eurer Würde ! Selbst den Teufel Ehrt mancher wohl um seinen Flammenthron . –
+ESCALUS : Er ist in uns ; Ihr sollt uns Rede stehn ; Gebt acht und redet ziemlich !
+HERZOG : Kühnlich gewiß . Doch ach ! Ihr armen Kinder ! Kamt ihr , das Lamm beim Fuchse hier zu fodern ? Nun , gute Nacht , Ersatz ! Der Herzog ging ? Dann geht auch ihr zu Grunde ! Euer Herzog Ist ungerecht , daß er von sich zurückweist Eu ' r laut gewordenes Rechtgesuch an ihn Und in des Schurken Mund eu ' r Urteil legt , Den ihr hier angeklagt ! –
+LUCIO : Dies ist der Schuft ! Der ist 's , von dem ich sprach .
+ESCALUS : Wie , du unheil'ger , unehrwürd'ger Mönch , War 's nicht genug , die Frau'n hier anzustiften Wider den würd'gen Herrn ? Noch jetzt mit Läst'rung , – Ja hier , vor seinem eignen Ohre – wagst du 's , Und nennst ihn Schurke ? Und schielst von ihm sogar noch auf den Fürsten , Und schiltst ihn ungerecht ? Führt ihn hinweg ! – Fort , auf die Folter ! Zerrt ihm Glied für Glied , Bis er den Plan bekennt ! Was , ungerecht ! –
+HERZOG : Seid nicht so hitzig ! Euer Herzog Wagt nicht , mir nur den Finger anzurühren , Nicht mehr , als er den eignen foltern wird . Auch bin ich ihm nicht untertan , Noch hier vom Sprengel . Meiner Sendung Amt Ließ manches mich erleben hier in Wien : Ich sah , wie hier Verderbnis dampft und siedet . Und überschäumt : Gesetz für jede Sünde ; Doch Sünden so beschützt , daß Eure Satzung Wie Warnungstafeln in des Baders Stube Da steht und , was verpönt , nur wird verhöhnt .
+ESCALUS : Den Staat geschmäht ? Fort , bringt ihn in den Kerker !
+ANGELO : Wes könnt Ihr ihn verklagen , Signor Lucio ? Ist dies der Mann , von dem Ihr uns gesagt ?
+LUCIO : Derselbige , gnädiger Herr . Kommt heran , Gevatter Kahlkopf , kennt Ihr mich ?
+HERZOG : Ich erinnere mich Eurer , Herr , an dem Ton Eurer Stimme ; ich traf Euch während des Herzogs Abwesenheit im Kerker . –
+LUCIO : So ? Traft Ihr mich ? Und erinnert Ihr Euch noch , was Ihr vom Herzog sagtet ?
+HERZOG : Vollkommen , Signor .
+LUCIO : Wirklich , Herr ? Und läuft der Herzog den Dirnen nach ? Und ist er ein Geck und eine Memme , wie Ihr von ihm sagtet ?
+HERZOG : Ihr müßt erst unsre Rollen tauschen , Herr , eh ' Ihr mich das sagen laßt ; Ihr allerdings spracht so von ihm , und viel mehr , viel schlimmer .
+LUCIO : Ei , du lästerlicher Bursch , zog ich dich nicht bei der Nase , wie du so sprachst ?
+HERZOG : Ich versichre , daß ich den Herzog so sehr liebe , als mich selbst .
+ANGELO : Hört doch , wie der Schurke jetzt abbrechen möchte , nachdem er verräterische Lästerungen ausgestoßen ! –
+ESCALUS : Mit solchem Kerl muß man kein Wort verlieren : fort mit ihm ins Gefängnis ! Wo ist der Schließer ? Fort mit ihm ins Gefängnis ! – Legt ihm Eisen genug an , laßt ihn nicht weiter reden ; und nun auch fort mit den leichtfertigen Dirnen und ihren andern Spießgesellen .
+Der Schließer legt Hand an den Herzog .
+HERZOG : Halt da ! Haltet ein ! –
+ANGELO : Was ? Er widersetzt sich ? Helft ihm , Lucio !

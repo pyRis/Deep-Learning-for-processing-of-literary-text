@@ -1,0 +1,39 @@
+FLINK : Ihr schließt , daß mein Herr ein Schäfer , ich eins von den Schafen ?
+PROTEUS : Das tu ' ich .
+FLINK : So sind meine Hörner die seinen , mag ich wachen oder schlafen .
+PROTEUS : Eine einfält'ge Antwort ; so ziemt sie den Schafen .
+FLINK : Dies macht mich alles zu einem Schaf .
+PROTEUS : Sicherlich ; und deinen Herrn zum Schäfer .
+FLINK : Nein ; das kann ich durch einen Beweis widerlegen .
+PROTEUS : Das wird schwer sein ; ich will das Gegenteil beweisen .
+FLINK : Der Schäfersucht das Schaf , und nicht das Schaf den Schäfer ; aber ich suche meinen Herrn , und mein Herr nicht mich ; deswegen bin ich kein Schaf .
+PROTEUS : Das Schaf folgt des Futters halb dem Schäfer , der Schäfer nicht der Speise halb dem Schaf . Du folgst des Lohnes halb deinem Herrn , dein Herr nicht des Lohnes wegen dir ; deshalb bist du ein Schaf .
+FLINK : Nur noch einen solchen Beweis , und ich muß schreien : Ba !
+PROTEUS : Doch höre , Freund , gabst du den Brief an Julia ?
+FLINK : Ja , Herr ! Ich , ein verdutztes Lamm , gab ihr , dem geputzten Lamm , Euren Brief ; und sie , das geputzte Lamm , gab mir , dem verdutzten Lamm , nichts für meine Mühe .
+PROTEUS : Welch eine Menge Lämmer ! Sage mir , was die alle von mir wollen .
+FLINK : Ist 's Euch um Wolle zu tun , so müßt Ihr sie scheren .
+PROTEUS : Ja , dich will ich scheren .
+FLINK : Nein , mir solltet Ihr lieber etwas bescheren , für mein Brieftragen .
+PROTEUS : Du irrst ; ich meinte , ich wollte dich scheren .
+FLINK : Ach ! scheren statt bescheren . Geht , laßt mich ungeschoren ! Ich trag ' Euch keinen Brief mehr , wenn so die Müh ' verloren .
+PROTEUS : Nun , was sagte sie ? Merktest du , ob meine Worte sie zu gewinnen taugen ?
+FLINK : Nichts .
+PROTEUS : Taugen nichts ? Ei , das ist Taugenichts .
+FLINK : Ihr versteht falsch , Herr ; ich sage nur , ich merkte nichts , ob Eure Worte für sie taugen .
+PROTEUS : Nun , zusammengesetzt ist das : Taugenichts .
+FLINK : Ihr habt Euch die Mühe gegeben , es zusammen zu setzen , so nehmt es denn für Eure Mühe .
+PROTEUS : Nein , du sollst es dafür haben , daß du meinen Brief hingetragen hast .
+FLINK : Gut , ich sehe wohl , daß ich geduldig sein muß , um Euch zu ertragen .
+PROTEUS : Nun , was hast du denn von mir zu ertragen ?
+FLINK : Wahrhaftig , Herr , ich trug den Brief sehr ordentlich , und habe doch nichts als das Wort Taugenichts für meine Mühe davon getragen .
+PROTEUS : Ei , du hast einen behenden Witz .
+FLINK : Und doch kann er Eure langsame Börse nicht einholen .
+PROTEUS : Nun , mach ' fort ! Was sagte sie ? Heraus mit deiner Botschaft !
+FLINK : Heraus mit Eurer Börse , damit Lohn und Botschaft zugleich überliefert werden !
+PROTEUS : Gut , hier ist für deine Mühe . Was sagte sie ?
+FLINK : Mein ' Seel ' , Herr , ich glaube , Ihr werdet sie schwerlich gewinnen .
+PROTEUS : Warum ? Konntest du so viel aus ihr herausbringen ?
+FLINK : Herr , ich konnte durchaus nichts aus ihr herausbringen , nicht einmal einen Dukaten für die Überlief'rung Eures Briefs . Und da sie so hart war gegen mich , der Euer Herz brachte , so fürchte ich , daß sie eben so hart gegen Euch sein wird , Euch ihre Gesinnung kund zu tun . Gebt Ihr kein Geschenk als Steine , denn sie ist so hart wie Stahl .
+PROTEUS : Wie ? Sagte sie nichts ?
+FLINK : Nein , nicht einmal : » Nimm das für deine Mühe ! « Ich werde stets huldreich gegen Euch sein ; denn Ihr habt mich um einige Gulden reicher gemacht ; zum Dank dafür tragt künftig Eure Briefe selbst ; und so will ich Euch meinem Herrn empfehlen .

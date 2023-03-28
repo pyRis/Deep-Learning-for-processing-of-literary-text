@@ -1,0 +1,40 @@
+HERZOG : Hat er nicht einen Sohn ?
+VALENTIN : Ja , einen Sohn , mein Fürst , der wohl verdient , Daß er des Vaters Ruf und Ansehn erbe .
+HERZOG : Ihr kennt ihn näher ?
+VALENTIN : Ich kenn ' ihn wie mich selbst ; denn seit der Kindheit Vereint als Freunde lebten wir zusammen ; Und war auch ich ein träger Müßiggänger , Der nicht den Wert der Zeit zu schätzen wußte , Um meine Jugend engelgleich zu kleiden : So nutzt ' hingegen Proteus , denn so heißt er , Mit schönem Vorteil seine Tag ' und Stunden ; Er ist an Jahren jung , alt an Erfahrung ; Unreif sein Alter , doch sein Wissen reif ; Mit einem Wort ( denn hinter seinem Wert Bleibt jedes Lob zurück , das ich ihm gebe ) , Er ist vollkommen an Gestalt und Geist , An jeder Zierde reich , die Edle ziert .
+HERZOG : Wahrhaftig , wenn er Euer Wort bewährt , So ist er würdig einer Kais'rin Liebe Und gleich geschickt für eines Kaisers Rat . Wohl ! dieser Edelmann ist angelangt Und bringt Empfehlung mir von mächt'gen Herren ; Hier denkt er ein'ge Zeit sich aufzuhalten : Die Nachricht , mein ' ich , muß Euch sehr erfreuen .
+VALENTIN : Blieb etwas mir zu wünschen , so war er 's .
+HERZOG : Nun , so bewillkommt ihn , wie er 's verdient : Dich , Silvia , fodr ' ich auf und , Thurio , Euch , Denn Valentin bedarf nicht der Ermahnung ; Ich geh ' und will sogleich ihn zu Euch senden .
+Der Herzog geht ab .
+VALENTIN : Dies , Fräulein , ist der Mann , von dem ich sagte , Er wäre mir gefolgt , wenn die Geliebte Sein Auge nicht mit Strahlenblick gefesselt .
+SILVIA : So hat sie ihm die Augen frei gegeben Und andres Pfand für seine Treu ' behalten .
+VALENTIN : Gewiß hält sie sie als Gefangne noch .
+SILVIA : So muß er blind sein ; und wie kann ein Blinder Nur seinen Weg sehn , um Euch aufzusuchen ?
+VALENTIN : Ei , Liebe sieht mit mehr als funfzig Augen .
+THURIO : Man sagt , daß Liebe gar kein Auge hat .
+VALENTIN : Um solche Liebende zu sehn als Euch ; Sie sieht hinweg , naht ihr ein nüchtern Wesen .
+SILVIA : Genug , genug ! Hier kommt der Fremde schon .
+Proteus tritt auf .
+VALENTIN : Willkommen , teurer Freund ! – Ich bitt ' Euch , Herrin , Bestätigt durch besondre Huld den Willkomm !
+SILVIA : Sein eigner Wert ist Bürge seines Willkomms . Ist er 's , von dem Ihr oft zu hören wünschtet ?
+VALENTIN : Er ist 's , Gebiet'rin ; gönnt ihm , holdes Fräulein , Daß er , gleich mir , sich Eurem Dienste weihe !
+SILVIA : Zu niedre Herrin für so hohen Diener .
+PROTEUS : Nein , holdes Fräulein , zu geringer Diener , Daß solche hohe Herrin auf ihn schaue .
+VALENTIN : Laßt jetzt Unfähigkeit auf sich beruhn . – Nehmt , holdes Fräulein , ihn als Diener an !
+PROTEUS : Ergebenheit , nichts andres kann ich rühmen .
+SILVIA : Und immer fand Ergebenheit den Lohn . Wie wertlos auch die Herrin , grüßt sie dich .
+PROTEUS : Wer außer Euch so spräche , müßte sterben .
+SILVIA : Daß Ihr willkommen seid ?
+PROTEUS : Nein , daß Ihr wertlos .
+Ein Diener tritt auf .
+DIENER : Eu ' r Vater will Euch sprechen , gnäd'ges Fräulein .
+SILVIA : Kommt , Ritter Thurio , Geht mit ! – Nochmals willkommen , neuer Diener ! Jetzt mögt ihr von Familiensachen sprechen ; Ist das geschehn , erwarten wir euch wieder .
+Diener geht ab .
+PROTEUS : Wir werden beid ' Euch unsre Dienste widmen .
+Silvia , Thurio und Flink gehn ab .
+VALENTIN : Nun sprich , wie ging es allen , da du schiedest ?
+PROTEUS : Gesund sind deine Freund ' und grüßen herzlich .
+VALENTIN : Wie geht 's den Deinen ?
+PROTEUS : Alle waren wohl .
+VALENTIN : Wie steht 's um deine Dam ' und deine Liebe ?
+PROTEUS : Liebesgespräche waren dir zur Last ; Ich weiß , du hörst nicht gern von Liebessachen .

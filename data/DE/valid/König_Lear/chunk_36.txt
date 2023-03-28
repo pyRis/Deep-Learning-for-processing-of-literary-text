@@ -1,0 +1,51 @@
+CORDELIA : Kein Grund ! Kein Grund !
+LEAR : Bin ich in Frankreich ?
+CORDELIA : In Eurem eignen Königreich , Mylord !
+LEAR : Betrügt mich nicht !
+ARZT : Seid ruhig , hohe Frau ! Die große Wut ist , wie Ihr seht , geheilt ; Doch wär 's gefährlich , die verlorne Zeit Ihm zu erklären . Führt ihn jetzt hinein ! Und stört ihn nicht , bis er sich mehr erholt !
+CORDELIA : Beliebt es Euch , hineinzugehn , mein König ?
+LEAR : O habt Geduld mit mir ! Bitte , vergeßt , Vergebt , denn ich bin alt und kindisch .
+Lear , Cordelia , Arzt und Bediente gehn ab .
+EDELMANN : Bestätigt sich 's , Daß Herzog Cornwall so erschlagen ward ?
+KENT : Ja , Herr !
+EDELMANN : Wer ist der Führer seines Heers ?
+KENT : Man sagt , der Bastard Glosters .
+EDELMANN : Sein verbannter Sohn Edgar , heißt 's , lebt mit dem Grafen Kent In Deutschland .
+KENT : Das Gerücht ist unverbürgt . 's ist Zeit , sich umzuschaun ; das Heer des Reichs Rückt schleunig vor .
+EDELMANN : Nun , die Entscheidung wird sehr blutig sein . Gehabt Euch wohl !
+Geht ab .
+KENT : Und meine Schale senkt sich oder steigt , Gut oder schlimm , wie jetzt der Sieg sich neigt .
+Geht ab .
+Feldlager bei Dover .
+Es treten auf mit Trommeln und Fahnen Edmund , Regan , Edelleute und Soldaten .
+EDMUND : Den Herzog fragt : ob 's bleibt beim letzten Wort , Oder seitdem ihn was bewog , den Plan Zu ändern : denn er ist voll Widerspruch Und schwankend : meld ' uns seinen festen Willen !
+Hauptmann ab .
+REGAN : Der Schwester Boten traf gewiß ein Unfall .
+EDMUND : Ich fürcht ' es , gnäd'ge Frau !
+REGAN : Nun , lieber Graf , Ihr wißt , was ich Euch Gutes zugedacht – Sagt mir – doch redlich , sagt die lautre Wahrheit – Liebt Ihr nicht meine Schwester ? –
+EDMUND : Ganz in Ehren .
+REGAN : Doch fandet Ihr nie meines Bruders Weg Zu der verbotnen Stätte ? –
+EDMUND : Falscher Argwohn !
+REGAN : Ich fürcht ' , Ihr seid mit ihr schon längst vereint Aufs innigste , so viel es möglich ist .
+EDMUND : Nein , gnäd'ge Frau , auf Ehre !
+REGAN : Sie ist mir unerträglich ; teurer Lord , Seid nicht vertraut mit ihr !
+EDMUND : Das fürchtet nicht ! Sie und der Herzog , ihr Gemahl –
+Albanien , Goneril und Soldaten treten auf .
+GONERIL Eh ' daß mir diese Schwester ihn entfremdet , Möcht ' ich die Schlacht verlieren .
+beiseit .
+ALBANIEN : Verehrte Schwester , seid uns sehr willkommen ! – Man sagt , der König kam zu seiner Tochter Mit andern , so die Strenge unsrer Herrschaft Zur Klage zwang . Ich war noch niemals tapfer , Wo ich nicht ehrlich konnte sein : wir fechten , Weil Frankreich unser Land hier überzog , Nicht , weil 's dem König hilft und jenen , welche , Aus trift'gem Grunde , fürcht ' ich , mit ihm halten .
+EDMUND : Ihr sprecht sehr tugendlich .
+REGAN : Wozu dies Klügeln ?
+GONERIL : Dem Feind entgegen steht vereint zusammen ! Für diesen häuslichen besondern Zwist Ist jetzt nicht Zeit .
+ALBANIEN : So laßt uns denn den Ratschluß Mit Kriegserfahrnen fassen , was zu tun .
+EDMUND : Gleich werd ' ich bei Euch sein in Eurem Zelt .
+REGAN : Ihr geht doch mit uns , Schwester ?
+GONERIL : Nein .
+REGAN : Der Wohlstand fordert 's , bitt ' Euch , geht mit uns !
+GONERIL Oho , ich weiß das Rätsel . Ich will gehn .
+beiseit .
+Da sie gehn wollen , kommt Edgar verkleidet .
+EDGAR : Sprach Euer Gnaden je so armen Mann , Gönnt mir ein Wort !
+ALBANIEN : Ich will euch folgen ; redet ! –
+Edmund , Regan , Goneril und Gefolge gehen ab .
+EDGAR : Eh ' Ihr die Schlacht beginnt , lest diesen Brief ! Wird Euch der Sieg , laßt die Trompete laden Den , welcher ihn gebracht ; so arm ich scheine , Kann ich 'nen Kämpfer stellen , zu bewähren , Was hier behauptet wird . Doch wenn Ihr fallt , Dann hat Eu ' r Tun auf dieser Welt ein Ende , Und alle Ränke schweigen . Glück mit Euch !

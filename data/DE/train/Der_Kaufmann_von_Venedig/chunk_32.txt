@@ -1,0 +1,25 @@
+ANTONIO : Ich bin der Unglücksgrund von diesem Zwist .
+PORZIA : Es kränk ' Euch nicht ; willkommen seid Ihr dennoch .
+BASSANIO : Vergebt mir , Porzia , mein gezwungnes Unrecht , Und vor den Ohren aller dieser Freunde Schwör ' ich dir , ja , bei deinen holden Augen , Worin ich selbst mich sehe –
+PORZIA : Gebt doch acht ! In meinen Augen sieht er selbst sich doppelt , In jedem Aug ' einmal , – beruft Euch nur Auf Euer doppelt Selbst , das ist ein Eid , Der Glauben einflößt .
+BASSANIO : Hört mich doch nur an ! Verzeiht dies , und bei meiner Seele schwör ' ich , Ich breche nie dir wieder einen Eid .
+ANTONIO : Ich lieh einst meinen Leib hin für sein Gut ; Ohn ' ihn , der Eures Gatten Ring bekam , War er dahin ; ich darf mich noch verpflichten , Zum Pfande meine Seele , Eu ' r Gemahl Wird nie mit Vorsatz mehr die Treue brechen .
+PORZIA : So seid denn Ihr sein Bürge : gebt ihm den , Und heißt ihn besser hüten als den andern !
+ANTONIO : Hier , Don Bassanio : schwört , den Ring zu hüten !
+BASSANIO : Beim Himmel ! eben den gab ich dem Doktor .
+PORZIA : Ich hab ' ihn auch von ihm : verzeiht , Bassanio , Für diesen Ring gewann der Doktor mich .
+NERISSA : Und Ihr , verzeiht , mein artiger Graziano : Denn jener kleine Bursch , des Doktors Schreiber , War , um den Preis hier , letzte Nacht bei mir .
+GRAZIANO : Nun , das sieht aus wie Wegebesserung Im Sommer , wenn die Straßen gut genug . Was ? sind wir Hahnrei ' , eh ' wir 's noch verdient ?
+PORZIA : Sprecht nicht so gröblich ! – Ihr seid all ' erstaunt ; Hier ist ein Brief , lest ihn bei Muße durch , Er kommt von Padua , vom Bellario : Da könnt Ihr finden , Porzia war der Doktor , Nerissa dort ihr Schreiber ; hier Lorenzo Kann zeugen , daß ich gleich nach euch gereist , Und eben erst zurück bin : ich betrat Mein Haus noch nicht . – Antonio , seid willkommen : Ich habe beßre Zeitung noch im Vorrat , Als Ihr erwartet . Diesen Brief erbrecht ; Ihr werdet sehn , drei Eurer Galeonen Sind reich beladen plötzlich eingelaufen ; Ich sag ' Euch nicht , was für ein eigner Zufall Den Brief mir zugespielt hat .
+ANTONIO : Ich verstumme .
+BASSANIO : Wart Ihr der Doktor , und ich kannt ' Euch nicht ?
+GRAZIANO : Wart Ihr der Schreiber , der mich krönen soll ?
+NERISSA : Ja , doch der Schreiber , der es niemals tun will , Wenn er nicht lebt , bis er zum Mann erwächst .
+BASSANIO : Ihr müßt mein Bettgenoß sein , schönster Doktor : Wenn ich nicht da bin , liegt bei meiner Frau !
+ANTONIO : Ihr gabt mir Leben , Teure , und zu leben : Hier les ' ich für gewiß , daß meine Schiffe Im Hafen sicher sind .
+PORZIA : Wie steht 's , Lorenzo ? Mein Schreiber hat auch guten Trost für Euch .
+NERISSA : Ja , und er soll ihn ohne Sporteln haben . Hier übergeb ' ich Euch und Jessica Vom reichen Juden eine Schenkungsakte Auf seinen Tod , von allem , was er nachläßt .
+LORENZO : Ihr schönen Frau'n streut Manna Hungrigen In ihren Weg .
+PORZIA : Es ist beinahe Morgen , Und doch , ich weiß gewiß , seht ihr noch nicht Den Hergang völlig ein . – Laßt uns hineingehn , Und da vernehmt auf Fragartikel uns , Wir wollen euch auf alles wahrhaft dienen .
+GRAZIANO : Ja , tun wir das ; der erste Fragartikel , Worauf Nerissa schwören muß , ist der : Ob sie bis morgen lieber warten mag , Ob schlafen gehn , zwei Stunden nur vor Tag ? Doch käm ' der Tag , ich wünscht ' ihn seiner Wege , Damit ich bei des Doktors Schreiber läge . Gut ! lebenslang hüt ' ich kein ander Ding Mit solchen Ängsten als Nerissas Ring .
+Alle ab .

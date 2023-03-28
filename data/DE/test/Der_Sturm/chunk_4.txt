@@ -1,0 +1,31 @@
+PROSPERO : Dein Auftrag , Ariel . ist genau erfüllt , Doch gibt 's noch mehr zu tun . Was ist 's am Tage ?
+ARIEL : Schon über Mittagszeit .
+PROSPERO : Zwei Stundengläser Aufs wenigste . Die Zeit von hier bis sechs Bedürfen wir zum kostbarsten Gebrauch .
+ARIEL : Mehr Arbeit noch ? Da du mir Mühe gibst , So laß mich dich an dein Versprechen mahnen , Das mir noch nicht erfüllt ist .
+PROSPERO : Seht mir ! Mürrisch ? Was kannst du denn verlangen ?
+ARIEL : Meine Freiheit .
+PROSPERO : Eh ' deine Zeit noch um ? Kein Wort !
+ARIEL : O bitte ! Bedenk ' , ich hab ' dir braven Dienst getan ; Ich log dir nie was vor , versah dir nichts , Und murrt ' und schmollte niemals . Du versprachst mir Ein volles Jahr Erlaß .
+PROSPERO : Vergißt du denn , Von welcher Qual ich dich befreite ?
+ARIEL : Nein .
+PROSPERO : Ja doch , und achtest groß es , zu betreten Der salzen Tiefe Schlamm , Zu rennen auf des Nordens scharfem Wind , Mein Werk zu schaffen in der Erde Adern , Wann sie von Froste starrt .
+ARIEL : Fürwahr nicht , Herr .
+PROSPERO : Du lügst , boshaftes Ding ! Vergaßest du Die Hexe Sycorax , die Neid und Alter Gekrümmt in einen Reif ? Vergaßt du sie ?
+ARIEL : Nein , Herr .
+PROSPERO : Ja , sag ' ich . Sprich , wo war sie her ?
+ARIEL : Aus Algier , Herr .
+PROSPERO : Ha , so ? Ich muß dir einmal In jedem Mond vorhalten , was du bist ; Denn du vergißt es . Die verruchte Hexe , Die Sycorax , ward für unzähl'ge Frevel Und Zauberei'n , wovor ein menschlich Ohr Erschrecken muß , von Algier , wie du weißt , Verbannt ; um eines willen , das sie tat , Verschonten sie ihr Leben . Ist 's nicht wahr ?
+ARIEL : Ja , Herr .
+PROSPERO : Die Unholdin ward schwanger hergebracht . Hier ließen sie die Schiffer . Du , mein Sklav ' ( So sagst du selbst aus ) , warst ihr Diener damals . Allein da du , ein allzuzarter Geist , Ihr schnödes fleischliches Geheiß zu tun , Dich ihrem großen Werk entzogst , verschloß sie Mit ihrer stärkern Diener Hülfe dich , In ihrer höchsten unbezähmbar'n Wut , In einer Fichte Spalt ; ein Dutzend Jahre Hielt diese Kluft dich peinlich eingeklemmt . Sie starb in dieser Zeit und ließ dich da , Wo du Gestöhn ausstießest , unablässig , Wie Mühlenräder klappern . Damals zierte ( Bis auf ein scheckig Wechselbalg , den Sohn , Den sie hier warf ) noch menschliche Gestalt Dies Eiland nicht .
+ARIEL : Ja , Caliban , ihr Sohn .
+PROSPERO : So sag ' ich , dummes Ding ! Der Caliban , Der jetzt mir dienstbar ist . Du weißt am besten , In welcher Marter ich dich fand . Dein Ächzen Durchdrang der nie gezähmten Bären Brust Und machte Wölfe heulen ; eine Marter War 's für Verdammte , welche Sycorax Nicht wieder lösen konnte : meine Kunst , Als ich hieher kam und dich hörte , hieß Die Fichte gähnen und heraus dich lassen .
+ARIEL : Ich dank ' dir , Meister .
+PROSPERO : Wenn du mehr noch murrst , So will ich einen Eichbaum spalten und Dich in sein knot'ges Eingeweide keilen , Bis du zwölf Winter durchgeheult .
+ARIEL : Verzeih ' ! Ich will mich ja Befehlen fügen , Herr , Und ferner zierlich spüken .
+PROSPERO : Tu ' das , und in zwei Tagen Entlass ' ich dich .
+ARIEL : Das sprach mein edler Meister . Was soll ich tun ? O sag , was soll ich tun ?
+PROSPERO : Geh , werde gleich 'ner Nymphe ! Dich erkenne Nur mein und dein Gesicht : sei unsichtbar Für jedes Auge sonst . Nimm diese Bildung Und komm darin zurück . Geh ! Fort ! mit Eile ! Erwach ' , mein Herz ! Erwach ' ! Hast wohl geschlafen : Erwach ' !
+Ariel ab .
+MIRANDA : Das Wunderbare der Geschichte Befing mit Schlaf mich .
+PROSPERO : Schüttl ' ihn ab ! Komm , laß uns Zu Caliban , dem Sklaven , gehn , der nie Uns freundlich Antwort gibt .
+MIRANDA : Er ist ein Bösewicht , Den ich nicht ansehn mag .

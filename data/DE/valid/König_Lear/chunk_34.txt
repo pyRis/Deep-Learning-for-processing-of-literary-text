@@ -1,0 +1,38 @@
+EDGAR : Heil , edler Herr !
+EDELMANN : Seid kurz , mein Freund ! Was wollt Ihr ?
+EDGAR : Vernahmt Ihr , Herr , ob 's bald ein Treffen gibt ?
+EDELMANN : Nun , das ist weltbekannt , ein jeder weiß es , Der Ohren hat zu hören .
+EDGAR : Doch erlaubt , Wie nahe steht der Feind ?
+EDELMANN : Nah und in schnellem Anmarsch ; stündlich kann Die Hauptmacht hier sein .
+EDGAR : Dank Euch ! Das war alles .
+EDELMANN : Weilt gleich die Königin aus Gründen hier , Ist doch das Heer schon vorgerückt .
+EDGAR : Ich dank ' Euch .
+Edelmann geht ab .
+GLOSTER : Ihr ewig güt'gen Götter , nehmt mein Leben , Daß nicht mein böser Sinn mich nochmals treibt , Zu sterben , eh ' es euch gefällt .
+EDGAR : So betet Ihr trefflich , Vater ! –
+GLOSTER : Nun , mein Freund , wer seid Ihr ?
+EDGAR : Der ärmste Mensch , gezähmt durch Schicksalsschläge , Der durch die Schule selbstempfundnen Grams Empfänglich ward für Mitleid . – Gebt die Hand mir , Ich führ ' Euch in ein Haus .
+GLOSTER : Von Herzen Dank ! Des Himmels Huld und reicher Segen geb ' Euch Lohn auf Lohn ! –
+Der Haushofmeister tritt auf .
+HAUSHOFMEISTER : Ein Preis verdient ! Willkommen ! – Dein augenloser Kopf ward darum Fleisch , Mein Glück zu gründen . Alter Hochverräter , Bedenke schnell dein Heil : das Schwert ist bloß , Das dich vernichten soll .
+GLOSTER : So brauch ' mit Kraft Die Freundeshand !
+Edgar setzt sich zur Wehre .
+HAUSHOFMEISTER : Was , frecher Bauer , willst du Verteid'gen solchen Hochverräter ? Fort ! – Daß seines Schicksals Pest nicht auch auf dich Ansteckend falle ! Laß den Arm ihm los !
+EDGAR : Will nit los losse , Herr , muß erst anders kumme .
+HAUSHOFMEISTER : Laß los , Sklav ' , oder du stirbst !
+EDGAR : Lieber Herr , gehn Eures Wegs und loßt arme Leut ' in Ruh ' . Wann ich mich sollt mit eim große Maul ums Lebe bringe losse , da hätt ' ich 's schun vor vierzehn Täg los werde künne . Kummt mer dem alte Mann nit nah ; macht Euch furt , rat ' ich , oder ich will emohl versuche , was stärker is , Eu ' r Hirnkaste oder mei Knippel . Ich sog 's Euch grod ' raus .
+HAUSHOFMEISTER : Ei , du Bauerflegel ! –
+EDGAR : Ich ward ' Euch die Zähne stochern , Herr : was schiern mich Eure Finte !
+Sie fechten , und Edgar schlägt ihn zu Boden .
+HAUSHOFMEISTER : Sklav ' , du erschlugst mich ! – Schuft , nimm meinen Beutel ; Soll 's dir je wohl gehn , so begrabe mich , Und gib die Briefe , die du bei mir find'st , An Edmund , Grafen Gloster ! Such ' ihn auf In Englands Heer – O Tod zur Unzeit –Tod ! –
+Er stirbt .
+EDGAR : Ich kenne dich : ein dienstbeflißner Bube , Den Lastern der Gebiet'rin so geneigt , Als Bosheit wünschen mag .
+GLOSTER : Was , ist er tot ?
+EDGAR : Laß sehn die Taschen ; jene Briefe können Mir guten Dienst tun . Er ist tot ; nur schade , Daß ich sein Henker mußte sein . Laßt sehn ! Erlaube , liebes Wachs , und schilt nicht , Sitte : Man risse ja , des Feindes Sinn zu spähn , Sein Herz auf ; seine Briefe geht schon eher . O unenthüllter Raum des Weiberwillens ! Ein Plan auf ihres biedern Mannes Leben , Und der Ersatz : mein Bruder ! – Hier im Sande Verscharr ' ich dich , unsel'ger Bote du , Mordsücht'ger Buhler ; und zur rechten Zeit Bring ' ich dies frevle Blatt vors Angesicht Des todumgarnten Herzogs . Wohl ihm dann , Daß deinen Tod und Plan ich melden kann !
+Beiseit .
+Laut .
+Beiseit .
+Er liest den Brief .
+Edgar schleppt den Leichnam hinaus .
+GLOSTER : Der König rast . Wie starr ist meine Seele , Daß ich noch aufrecht steh ' und scharf empfinde Mein schweres Los ! Besser , ich wär ' verrückt : Dann wär ' mein Geist getrennt von meinem Gram , Und Schmerz in eiteln Phantasie'n verlöre Bewußtsein seiner selbst .
+Edgar kommt zurück .

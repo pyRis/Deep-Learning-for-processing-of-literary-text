@@ -1,0 +1,45 @@
+Gehen nach verschiedenen Seiten ab .
+Garten .
+Julia und Lucetta treten auf .
+JULIA : Jetzt sprich , Lucetta , denn wir sind allein : Du rätst , ich soll mein Herz der Lieb ' eröffnen ?
+LUCETTA : Ja , Fräulein , schließt Ihr 's der Vernunft nicht zu .
+JULIA : Doch von der schönen Auswahl edler Männer , Die im gesell'gen Kreis ich täglich sehe , Wer scheint am meisten dir der Liebe wert ?
+LUCETTA : Ich bitt ' Euch , nennt sie mir , so sag ' ich Euch Nach schwacher , schlichter Einsicht meine Meinung .
+JULIA : Wie denkst du von dem schönen Eglamour ?
+LUCETTA : Er ist ein Ritter , wohlberedt und fein ; Doch wär ' ich Ihr , er würde nimmer mein .
+JULIA : Wie denkst du von dem reichen Herrn Mercatio ?
+LUCETTA : Von seinem Reichtum gut , von ihm so so .
+JULIA : Nun sprich , wie du vom jungen Proteus denkst ?
+LUCETTA : O Torheit ! wie du uns so ganz befängst !
+JULIA : Sein Name schon kann dir Besinnung nehmen ?
+LUCETTA : Verzeiht , mein Fräulein , denn ich muß mich schämen . Glaubt Ihr , daß ich Unwürd'ge schätzen kann Solch anmutvollen , edlen , jungen Mann ?
+JULIA : Warum nicht Proteus , wie die andern Gäste ?
+LUCETTA : Nun denn , von Guten scheint er mir der Beste .
+JULIA : Dein Grund ?
+LUCETTA : Kein andrer ist 's , als eines Weibes Grund ; Er scheint mir so , nur weil er mir so scheint .
+JULIA : So rätst du , meine Lieb ' auf ihn zu werfen ?
+LUCETTA : Ja , glaubt Ihr nicht die Liebe weggeworfen .
+JULIA : Er nur allein bewegte nie mich schmerzlich .
+LUCETTA : Doch er allein nur liebt gewiß Euch herzlich .
+JULIA : Er spricht fast nie : das ist nicht Leidenschaft .
+LUCETTA : Verdecktes Feuer brennt mit größrer Kraft .
+JULIA : Nicht liebt , wer nimmer offenbart die Liebe .
+LUCETTA : Und minder liebt , wer andern zeigt die Liebe .
+JULIA : Oh ! wüßt ' ich , wie er denkt !
+LUCETTA : Lest , Fräulein , dies Papier !
+JULIA : » An Julia. « Sprich , von wem ?
+LUCETTA : Der Inhalt sagt es Euch .
+JULIA : Doch sprich : wer gab es dir ?
+LUCETTA : Der Page Valentins , den , denk ' ich , Proteus schickte ; Euch wollt ' er 's geben selbst , doch ich kam ihm entgegen , Empfing 's an Eurer Statt ; verzeiht , war ich verwegen .
+JULIA : Bei meiner Sittsamkeit ! Du , Liebesbotin ? Wagst du , verliebte Zeilen anzunehmen ? Verschwörung , Fallstrick ' meiner Jugend legen ? Nun , auf mein Wort , das ist ein ehrbar Amt , Und du Beamter , schicklich für die Würde . Da nimm das Blatt , laß es ihm wieder geben ; Sonst komm du nie vor meine Augen wieder !
+LUCETTA : Der Liebe Dienst soll Lohn , nicht Haß gewinnen .
+JULIA : So gehst du nicht ?
+LUCETTA : Nun könnt Ihr Euch besinnen .
+Lucetta geht ab .
+JULIA : Und doch , – hätt ' ich den Brief nur durchgelesen ! Doch Schande wär 's , sie wieder herzurufen , Bitten um das , was ich Verbrechen schalt . Die Närrin ! weiß , daß ich ein Mädchen bin , Und zwingt mich nicht , daß ich den Brief erbreche . Nein sagt ein Mädchen , weil 's die Sitte will , Und wünscht , daß es der Frager deut ' als Ja . Pfui ! Wie verkehrt ist diese tör'ge Liebe : Ein wildes Kindchen , kratzt sie erst die Amme Und küßt in Demut gleich darauf die Rute . Wie ungestüm schalt ' ich Lucetta fort , Da ich so gern sie hier behalten hätte ! Wie zornig lehrt ' ich meine Stirn sich falten , Da innre Lust mein Herz zum Lächeln zwang ! Die Strafe sei , daß ich Lucetta rufe Und meine vor'ge Torheit so vergüte . Heda ! Lucetta !
+Lucetta kommt zurück .
+LUCETTA : Was befiehlt Eu ' r Gnaden ?
+JULIA : Ist noch nicht Essenzeit ?
+LUCETTA : Ich wollt ' , es wär ' ; Dann kühltet Ihr den Zorn an Eurer Mahlzeit , Statt an der Dienerin .
+JULIA : Was nimmst du auf So hastig ?
+LUCETTA : Nichts .

@@ -1,0 +1,28 @@
+GRAZIANO : Ein zweiter Daniel , ein Daniel , Jude ! Ungläubiger , ich hab ' dich bei der Hüfte .
+PORZIA : Was hält den Juden auf ? Nimm deine Buße !
+SHYLOCK : Gebt mir mein Kapital , und laßt mich gehn !
+BASSANIO : Ich hab ' es schon für dich bereit : hier ist 's .
+PORZIA : Er hat 's vor offenem Gericht geweigert : Sein Recht nur soll er haben , und den Schein .
+GRAZIANO : Ich sag ' , ein Daniel , ein zweiter Daniel ! Dank , Jude , daß du mich das Wort gelehrt .
+SHYLOCK : Soll ich nicht haben bloß mein Kapital ?
+PORZIA : Du sollst nichts haben als die Buße , Jude , Die du auf eigene Gefahr magst nehmen .
+SHYLOCK : So lass ' es ihm der Teufel wohl bekommen ! Ich will nicht länger Rede stehn .
+PORZIA : Wart ' , Jude , Das Recht hat andern Anspruch noch an dich . Es wird verfügt in dem Gesetz Venedigs , Wenn man es einem Fremdling dargetan , Daß er durch Umweg oder grade zu Dem Leben eines Bürgers nachgestellt , Soll die Partei , auf die sein Anschlag geht , Die Hälfte seiner Güter an sich ziehn ; Die andre Hälfte fällt dem Schatz anheim , Und an des Dogen Gnade hängt das Leben Des Schuld'gen einzig , gegen alle Stimmen . In der Benennung , sag ' ich , stehst du nun , Denn es erhellt aus offenbarem Hergang , Daß du durch Umweg und auch grade zu Recht eigentlich gestanden dem Beklagten Nach Leib und Leben : und so trifft dich denn Die Androhung , die ich zuvor erwähnt . Drum nieder , bitt ' um Gnade bei dem Doge !
+GRAZIANO : Bitt ' um Erlaubnis , selber dich zu hängen : Und doch , da all dein Gut dem Staat verfällt , Behältst du nicht den Wert von einem Strick ; Man muß dich hängen auf des Staates Kosten .
+DOGE : Damit du siehst , welch andrer Geist uns lenkt , So schenk ' ich dir dein Leben , eh ' du bittest . Dein halbes Gut gehört Antonio , Die andre Hälfte fällt dem Staat anheim , Was Demut mildern kann zu einer Buße .
+PORZIA : Ja , für den Staat , nicht für Antonio .
+SHYLOCK : Nein , nehmt mein Leben auch , schenkt mir das nicht ! Ihr nehmt mein Haus , wenn ihr die Stütze nehmt , Worauf mein Haus beruht ; ihr nehmt mein Leben , Wenn ihr die Mittel nehmt , wodurch ich lebe .
+PORZIA : Was könnt Ihr für ihn tun , Antonio ?
+GRAZIANO : Ein Strick umsonst ! nichts mehr , um Gottes willen !
+ANTONIO : Beliebt mein gnäd'ger Herr und das Gericht Die Buße seines halben Guts zu schenken , So bin ich es zufrieden , wenn er mir Die andre Hälfte zum Gebrauche läßt , Nach seinem Tod dem Mann sie zu erstatten , Der kürzlich seine Tochter stahl . Noch zweierlei beding ' ich : daß er gleich Für diese Gunst das Christentum bekenne ; Zum andern , stell ' er eine Schenkung aus , Hier vor Gericht , von allem , was er nachläßt , An seinen Schwiegersohn und seine Tochter .
+DOGE : Das soll er tun , ich widerrufe sonst Die Gnade , die ich eben hier erteilt .
+PORZIA : Bist du 's zufrieden , Jude ? Nun , was sagst du ?
+SHYLOCK : Ich bin 's zufrieden .
+PORZIA : Ihr , Schreiber , setzt die Schenkungsakte auf !
+SHYLOCK : Ich bitt ' , erlaubt mir , weg von hier zu gehn : Ich bin nicht wohl , schickt mir die Akte nach , Und ich will zeichnen .
+DOGE : Geh denn , aber tu 's !
+GRAZIANO : Du wirst zwei Paten bei der Taufe haben : Wär ' ich dein Richter , kriegtest du zehn mehr , Zum Galgen , nicht zum Taufstein , dich zu bringen .
+Shylock ab .
+DOGE : Ich lad ' Euch , Herr , zur Mahlzeit bei mir ein .
+PORZIA : Ich bitt ' Eu ' r Hoheit um Entschuldigung : Ich muß vor Abends fort nach Padua , Und bin genötigt , gleich mich aufzumachen .
+DOGE : Es tut mir leid , daß Ihr Verhind'rung habt . Antonio , zeigt Euch dankbar diesem Mann : Ihr seid ihm sehr verpflichtet , wie mich dünkt .

@@ -1,0 +1,34 @@
+SCHWÄCHLICH : Ich will nach besten Kräften tun , Herr , Ihr könnt nicht mehr verlangen .
+FALSTAFF : Wohlgesprochen , guter Frauenschneider ! Wohlgesprochen , beherzter Schwächlich ! Du wirst so tapfer sein wie die ergrimmte Taube oder allergroßmütigste Maus . – Gebt dem Frauenschneider einen guten Strich , Herr Schaal ; tüchtig , Herr Schaal !
+SCHWÄCHLICH : Ich wollte , Warze wäre mitgegangen , Herr .
+FALSTAFF : Ich wollte , du wärst ein Mannsschneider , damit du ihn könntest flicken und geschickt machen , mitzugehn . Ich kann den nicht zum gemeinen Soldaten machen , der der Anführer von so vielen Tausenden ist . Laß dir das genügen , allergewaltigster Schwächlich !
+SCHWÄCHLICH : Ich lasse es mir genügen , Herr .
+FALSTAFF : Ich bin dir sehr verbunden , ehrwürdiger Schwächlich . – Wer kommt zunächst ?
+SCHAAL : Peter Bullenkalb von der Wiese .
+FALSTAFF : Ei ja , laßt uns Bullenkalb sehen !
+BULLENKALB : Hier , Herr .
+FALSTAFF : Weiß Gott , ein ansehnlicher Kerl ! – Kommt , streicht mir Bullenkalb , bis er noch einmal brüllt !
+BULLENKALB : O Jesus ! Bester Herr Kapitän , –
+FALSTAFF : Was ? Brüllst du , eh ' du gestrichen wirst ?
+BULLENKALB : O Jesus , Herr , ich bin ein kranker Mensch .
+FALSTAFF : Was für eine Krankheit hast du ?
+BULLENKALB : Einen verfluchten Schnupfen , Herr ; einen Husten , Herr ; ich habe ihn vom Glockenläuten in des Königs Geschäften gekriegt , an seinem Krönungstage , Herr .
+FALSTAFF : Komm nur , du sollst in einem Schlafrock zu Felde ziehn , wir wollen deinen Schnupfen vertreiben , und ich will es so einrichten , daß deine Freunde für dich läuten sollen . – Sind das alle ?
+SCHAAL : Es sind schon zwei über die Zahl aufgerufen , Ihr bekommt hier nur viere , Herr ; und somit bitte ich Euch , bleibt bei mir zum Essen !
+FALSTAFF : Wohlan , ich will mit Euch eins trinken , aber die Mahlzeit kann ich nicht abwarten . Ich bin erfreut , Euch zu sehn , auf mein Wort , Herr Schaal .
+SCHAAL : O Sir John , erinnert Ihr Euch noch , wie wir die ganze Nacht in der Windmühle auf St. Georgenfeld zubrachten ?
+FALSTAFF : Nichts weiter davon , lieber Herr Schaal , nichts weiter davon !
+SCHAAL : Ha , das war eine lustige Nacht . Und lebt Hanne Nachtrüstig noch ?
+FALSTAFF : Ja , sie lebt , Herr Schaal .
+SCHAAL : Sie konnte niemals mit mir auskommen .
+FALSTAFF : Niemals , niemals ; sie pflegte immer zu sagen , sie könnte Herrn Schaal nicht ausstehn .
+SCHAAL : Weiß der Himmel , ich konnte sie bis aufs Blut ärgern . Sie war damals lose Ware . Hält sie sich noch gut ?
+FALSTAFF : Alt , alt , Herr Schaal .
+SCHAAL : Freilich , sie muß alt sein , sie kann nicht anders als alt sein ; alt ist sie ganz gewiß : sie hatte schon den Ruprecht Nachtrüstig vom alten Nachtrüstig , eher ich nach Clemens-Hof kam .
+STILLE : Das ist fünfundfunfzig Jahre her .
+SCHAAL : Ach , Vetter Stille , wenn du das gesehen hättest , was dieser Ritter und ich gesehen haben ! He , Sir John , hab ' ich recht ?
+FALSTAFF : Wir haben die Glocken um Mitternacht spielen hören , Herr Schaal .
+SCHAAL : Ja , das haben wir , das haben wir , das haben wir ; meiner Treu , Sir John , das haben wir ! Unsre Parole war : » He , Bursche ! « Kommt , laßt uns zu Tisch gehn , laßt uns zu Tisch gehn ! O über die Tage , die wir gesehn haben ! Kommt , kommt !
+Falstaff , Schaal und Stille ab .
+BULLENKALB : Lieber Herr Korperad Bardolph , legt ein gut Wort für mich ein , und hier sind auch vier Zehnschillingsstücke in französischen Kronen für Euch . In rechtem Ernst , Herr , ich ließe mich eben so gern hängen , als daß ich mitgehe ; zwar für meine Person frag ' ich nichts darnach , sondern vielmehr , weil ich keine Lust habe , und für meine Person ein Verlangen trage , bei meinen Freunden zu bleiben ; sonst , Herr , wollte ich für meine Person nicht so viel darnach fragen .
+BARDOLPH : Gut , tretet beiseit !

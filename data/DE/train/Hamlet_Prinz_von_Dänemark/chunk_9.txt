@@ -1,0 +1,51 @@
+HORATIO Mein Prinz ! Mein Prinz !
+hinter der Szene .
+MARCELLUS Prinz Hamlet !
+hinter der Szene .
+HORATIO Gott beschütz ' ihn !
+hinter der Szene .
+HAMLET : So sei es !
+MARCELLUS Heda ! Ho ! Mein Prinz !
+hinter der Szene .
+HAMLET : Ha ! heisa , Junge ! Komm , Vögelchen , komm !
+Horatio und Marcellus kommen .
+MARCELLUS : Wie steht 's , mein gnäd'ger Herr ?
+HORATIO : Was gibt 's , mein Prinz ?
+HAMLET : Oh , wunderbar !
+HORATIO : Sagt , bester , gnäd'ger Herr !
+HAMLET : Nein , ihr verratet 's .
+HORATIO : Ich nicht , beim Himmel , Prinz .
+MARCELLUS : Ich gleichfalls nicht .
+HAMLET : Was sagt ihr ? Sollt 's 'ne Menschenseele denken ? – Doch ihr wollt schweigen ? –
+HORATIO , MARCELLUS : Ja , beim Himmel , Prinz !
+HAMLET : Es lebt kein Schurk ' im ganzen Dänemark , Der nicht ein ausgemachter Bube wär ' .
+HORATIO : Es braucht kein Geist vom Grabe herzukommen , Um das zu sagen .
+HAMLET : Richtig ; Ihr habt recht . Und so , ohn ' alle weitre Förmlichkeit , Denk ' ich , wir schütteln uns die Händ ' und scheiden ; Ihr tut , was euch Beruf und Neigung heißt – Dann jeder Mensch hat Neigung und Beruf , Wie sie denn sind – , ich , für mein armes Teil , Seht ihr , will beten gehn .
+HORATIO : Dies sind nur wirblichte und irre Worte , Herr .
+HAMLET : Es tut mir leid , daß sie Euch ärgern , herzlich ; Ja , mein ' Treu ' , herzlich .
+HORATIO : Kein Ärgernis , mein Prinz .
+HAMLET : Doch , bei Sankt Patrick , gibt es eins , Horatio , Groß Ärgernis . Was die Erscheinung angeht , Ich sag ' euch , 's ist ein ehrliches Gespenst . Die Neugier , was es zwischen uns doch gibt , Bemeistert , wie ihr könnt ! Und nun , ihr Lieben , Wofern ihr Freunde seid , Mitschüler , Krieger , Gewährt ein Kleines mir !
+HORATIO : Was ist 's ? Wir sind bereit .
+HAMLET : Macht nie bekannt , was ihr die Nacht gesehn !
+HORATIO , MARCELLUS : Wir wollen 's nicht , mein Prinz .
+HAMLET : Gut , aber schwört !
+HORATIO : Auf Ehre , Prinz , ich nicht !
+MARCELLUS : Ich gleichfalls nicht , auf Ehre !
+HAMLET : Auf mein Schwert !
+MARCELLUS : Wir haben schon geschworen , gnäd'ger Herr .
+HAMLET : Im Ernste , auf mein Schwert , im Ernste !
+GEIST Schwört !
+unter der Erde .
+HAMLET : Haha , Bursch ! sagst du das ? Bist du da , Grundehrlich ? Wohlan – ihr hört im Keller den Gesellen – Bequemt euch zu schwören !
+HORATIO : Sagt den Eid !
+HAMLET : Niemals von dem , was ihr gesehn , zu sprechen , Schwört auf mein Schwert !
+GEIST Schwört !
+unter der Erde .
+HAMLET : Hic et ubique ? Wechseln wir die Stelle ! – Hieher , ihr Herren , kommt , Und legt die Hände wieder auf mein Schwert : Schwört auf mein Schwert , Niemals von dem , was ihr gehört , zu sprechen !
+GEIST Schwört auf sein Schwert !
+unter der Erde .
+HAMLET : Brav , alter Maulwurf ! Wühlst so hurtig fort ? O trefflicher Minierer ! – Nochmals weiter , Freunde !
+HORATIO : Beim Sonnenlicht , dies ist erstaunlich fremd .
+HAMLET : So heiß ' als einen Fremden es willkommen . Es gibt mehr Ding ' im Himmel und auf Erden , Als Eure Schulweisheit sich träumt , Horatio . Doch kommt ! Hier , wie vorhin , schwört mir , so Gott euch helfe , Wie fremd und seltsam ich mich nehmen mag , Da mir 's vielleicht in Zukunft dienlich scheint , Ein wunderliches Wesen anzulegen : Ihr wollet nie , wenn ihr alsdann mich seht , Die Arme so verschlingend , noch die Köpfe So schüttelnd , noch durch zweifelhafte Reden , Und solch verstohlnes Deuten mehr , verraten , Daß ihr von mir was wisset : dieses schwört , So Gott in Nöten und sein Heil euch helfe !
+GEIST Schwört !
+unter der Erde .

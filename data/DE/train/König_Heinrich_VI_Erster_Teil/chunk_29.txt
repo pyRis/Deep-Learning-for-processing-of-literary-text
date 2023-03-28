@@ -1,0 +1,40 @@
+SUFFOLK : Fräulein , weswegen sprecht Ihr so ?
+MARGARETA : Verzeiht mir , es ist nur ein Quidproquo .
+SUFFOLK : Prinzessin , sagt : pries't Ihr die Banden nicht Für glücklich , die zur Königin Euch machten ?
+MARGARETA : In Banden Königin zu sein , ist schnöder , Als Knecht zu sein in niedrer Dienstbarkeit ; Denn Fürsten sollten frei sein .
+SUFFOLK : Und das sollt Ihr , Ist nur des reichen Englands König frei .
+MARGARETA : Nun , was geht seine Freiheit mich wohl an ?
+SUFFOLK : Ich mache dich zu Heinrichs Eh'gemahl , Geb ' in die Hand ein goldnes Szepter dir Und setz ' aufs Haupt dir eine reiche Krone , Wenn du herab dich läßt zu meiner –
+MARGARETA : Was ?
+SUFFOLK : Zu seiner Trauten .
+MARGARETA : Ich bin unwürdig , Heinrichs Weib zu sein .
+SUFFOLK : Nein , edles Fräulein ; ich bin nur nicht würdig , Für ihn zu frein um solche holde Schöne – Und selbst nicht Anteil an der Wahl zu haben . Was sagt Ihr , Fräulein ? Seid Ihr es zufrieden ?
+MARGARETA : Ich bin 's zufrieden , wenn mein Vater will .
+SUFFOLK : Ruft unsre Führer dann und Fahnen vor ; Und , gnäd'ge Frau , vor Eures Vaters Burg Werd ' er von uns geladen zum Gespräch .
+Truppen kommen vorwärts .
+Eine Einladung zur Unterredung wird geblasen .
+Reignier erscheint auf den Mauern .
+SUFFOLK : Sieh , Reignier , sieh gefangen deine Tochter .
+REIGNIER : Bei wem ?
+SUFFOLK : Bei mir .
+REIGNIER : Suffolk , wie steht zu helfen ? Ich bin ein Krieger , nicht geneigt zum Weinen , Noch über Wankelmut des Glücks zu schrein .
+SUFFOLK : Ja , Herr , zu helfen steht dabei genug . Gewähre ( tu 's um deiner Ehre willen ) Zu meines Herrn Gemahlin deine Tochter , Den ich mit Müh ' dazu gewonnen habe ; Und diese flüchtige Gefangenschaft Hat königliche Freiheit ihr erworben .
+REIGNIER : Spricht Suffolk , wie er denkt ?
+SUFFOLK : Die schöne Margareta weiß , daß Suffolk Zu schmeicheln und zu heucheln nicht versteht .
+REIGNIER : Ich steige auf dein fürstlich Wort hinab , Zur Antwort auf dein billiges Begehren .
+Oben von der Mauer ab .
+SUFFOLK : Und hier erwart ' ich deine Ankunft .
+Trompeten . Reignier tritt unten ein .
+REIGNIER : Willkommen , wackrer Graf , in unsern Landen ! Befehlt in Anjou , was Euch nur beliebt .
+SUFFOLK : Dank , Reignier , den solch süßes Kind beglückt , Geschaffen zur Genossin eines Königs . Was für Bescheid gibt Eure Hoheit mir ?
+REIGNIER : Weil ihren kleinen Wert du würdig achtest Um sie zu frein , als Braut für solchen Herrn : Wofern ich nur mich ruhig meines Eignen , Der Grafschaft Maine und Anjou , mag erfreun , Von Unterdrückung frei und Kriegsgewalt , Vermähl ' ich sie mit Heinrich , wenn er will .
+SUFFOLK : Das ist ihr Lösegeld ; nehmt sie zurück ! Auch nehm ' ich es auf mich , daß Eure Hoheit Die beiden Länder ruhig soll genießen .
+REIGNIER : Und ich hinwieder geb ' , in Heinrichs Namen , Dir , als Vertreter dieses hohen Herrn , Der Tochter Hand , zum Pfand gelobter Treu ' .
+SUFFOLK : Reignier , empfange königlichen Dank , Weil dies der Handel eines Königs ist . Und dennoch , dünkt mich , möcht ' ich lieber noch Mein eigner Anwalt sein in diesem Fall . – Ich will nach England mit der Neuigkeit Und der Vermählung Feier dort betreiben . Reignier , leb wohl ! Faß diesen Diamant In goldene Paläste , wie sich 's ziemt .
+Beiseit .
+REIGNIER : Laß dich umarmen , wie ich König Heinrich , Dein christlich Haupt , umarmte , wär ' er hier .
+MARGARETA : Lebt wohl , Herr ! Gute Wünsche , Lob , Gebete Wird Margareta stets für Suffolk haben .
+Will gehen .
+SUFFOLK : Lebt wohl , mein Fräulein ! Doch , Margareta , hört : Kein fürstlicher Empfehl an meinen Herrn ?
+MARGARETA : Sagt ihm Empfehle , wie sie einer Magd Und Jungfrau , seiner Dienerin , geziemen .
+SUFFOLK : Bescheidne Wort ' , und anmutsvoll gestellt ! Doch , Fräulein , nochmals muß ich Euch beschweren : Kein Liebespfand für Seine Majestät ?

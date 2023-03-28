@@ -1,0 +1,30 @@
+ANGELO : Mein Fürst , fürwahr , so weit bezeug ' ich 's ihm , Er speiste nicht zu Haus , man sperrt ' ihn aus .
+HERZOG : Doch , gabst du ihm die Kette , oder nicht ?
+ANGELO : Ich gab sie ihm ; und als er hier hinein lief , Sah'n alle noch die Kett ' an seinem Hals .
+KAUFMANN : Zudem versichr ' ich : hier mit eignen Ohren Hört ' ich Euch eingestehn der Kett ' Empfang , Nachdem Ihr 's auf dem Markt erst abgeleugnet , Und deshalb zog ich gegen Euch den Degen . Darauf verbargt Ihr Euch in der Abtei , Aus der Ihr , scheint mir 's , durch ein Wunder kamt .
+ANTIPHOLUS VON EPHESUS : Niemals betrat ich diesen Klosterhof , Noch zogst du je den Degen gegen mich . Die Kette sah ich nie , so helf ' mir Gott ! Und falsch ist alles , des ihr mich beschuldigt .
+HERZOG : Ei , was ist dies für ein verwirrter Handel ! Ich glaub ' , ihr alle trankt aus Circes Becher . Verschloßt ihr ihn im Kloster , wär ' er drin ; Wär ' er verrückt , er spräche nicht so ruhig ; Ihr sagt , er aß daheim ; der Goldschmied hier Spricht dem entgegen : – Bursche , was sagst du ?
+DROMIO VON EPHESUS : Mein Fürst , er aß mit der im Stachelschwein .
+KURTISANE : Er tat 's und riß vom Finger mir den Ring .
+ANTIPHOLUS VON EPHESUS : 's ist wahr , mein Fürst , ich hab ' den Ring von ihr .
+HERZOG : Sahst du 's mit an , wie er ins Kloster ging ?
+KURTISANE : Ja , Herr , so wahr ich Eure Hoheit sehe .
+HERZOG : Nun , das ist seltsam ! Ruft mir die Äbtissin ; Ihr alle seid verwirrt , wo nicht verrückt .
+Einer von des Herzogs Gefolge geht in die Abtei .
+ÄGEON : Erhabner Herzog , gönnt mir jetzt ein Wort ! Ich fand zum Glück den Freund , der mich erlöst Und zahlt die Summe , die mir Freiheit schafft .
+HERZOG : Sprich offen , Syrakuser , was du willst .
+ÄGEON : Herr , ist Eu ' r Name nicht Antipholus ? Heißt dieser Sklav ' , an Euern Dienst gebunden , Nicht Dromio ?
+DROMIO VON EPHESUS : Ja , gewiß , ich war gebunden : Allein Gott Lob ! er biß das Band entzwei ; Nun bin ich Dromio , sein entbundner Diener .
+ÄGEON : Ich weiß , ihr beid ' erinnert euch noch mein !
+DROMIO VON EPHESUS : An uns sind wir durch Euch erinnert , Herr , Denn jüngst noch waren wir gleich Euch gebunden . Hat Zwick Euch in der Kur ? Ich will nicht hoffen .
+ÄGEON : Was tut Ihr denn so fremd ? Ihr kennt mich wohl !
+ANTIPHOLUS VON EPHESUS : Ich sah Euch nie im Leben , Herr , bis jetzt .
+ÄGEON : Oh ! Gram hat mich gewelkt , seit Ihr mich saht , Und Sorg ' und die entstell'nde Hand der Zeit Schrieb fremde Furchen in mein Angesicht . Doch sag mir , kennst du meine Stimme nicht ?
+ANTIPHOLUS VON EPHESUS : Auch diese nicht .
+ÄGEON : Du auch nicht , Dromio ?
+DROMIO VON EPHESUS : Nein , in der Tat nicht , Herr .
+ÄGEON : Ich weiß , du kennst sie .
+DROMIO VON EPHESUS : Ich , Herr ? Ich weiß gewiß , ich kenne Euch nicht . Und was jemand auch immer leugnen mag , Ihr seid jetzt verbunden , ihm zu glauben .
+ÄGEON : Auch nicht die Stimm ' ? O Allgewalt der Zeit ! Lähmst und entnervst du so die arme Zunge In sieben kurzen Jahren , daß mein Sohn Nicht meines Grams verstimmten Laut mehr kennt ? Ward gleich mein runzlig Angesicht umhüllt Vom flock'gen Schnee des saftverzehr'nden Winters ; Erstarrten gleich die Adern meines Bluts , Doch hat die Nacht des Lebens noch Gedächtnis , Mein fast erloschnes Licht noch matten Schein , Mein halbbetäubtes Ohr vernimmt noch Töne , Und all die alten Zeugen trügen nicht Und nennen dich mein Kind Antipholus !
+ANTIPHOLUS VON EPHESUS : Nie sah ich meinen Vater , seit ich lebe !
+ÄGEON : Du weißt doch , Sohn , es sind jetzt sieben Jahr Seit du wegzogst von Syrakus ; vielleicht Schämst du dich , mich im Elend zu erkennen ?

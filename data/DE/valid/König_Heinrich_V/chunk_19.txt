@@ -1,0 +1,44 @@
+CONNETABLE : Doch nicht mein Pferd zur Geliebten , noch irgend so ein Sprichwort , das so wenig zur Sache paßt .
+RAMBURES : Herr Connetable , die Rüstung , die ich heute nacht in Eurem Zelte sah : sind das Sonnen oder Sterne , was Ihr darauf habt ?
+CONNETABLE : Sterne .
+DAUPHIN : Einige davon werden morgen fallen , hoffe ich .
+CONNETABLE : Und doch wird mein Himmel voll sein .
+DAUPHIN : Das mag sein , denn Ihr tragt ihrer viel überflüssige , und es würde Euch mehr Ehre bringen , wenn einige weg wären .
+CONNETABLE : Gerade so , wie Euer Pferd Eure Lobpreisungen trägt ; es würde eben so gut traben , wenn einige Eurer Prahlereien aus dem Sattel geworfen wären .
+DAUPHIN : Ich wollte , ich wär ' fähig , ihm sein Verdienst aufzuladen . – Will es denn niemals Tag werden ? Ich will morgen eine Meile traben , und mein Weg soll mit englischen Gesichtern gepflastert sein .
+CONNETABLE : Das will ich nicht sagen , aus Furcht , der Weg möchte mir Gesichter schneiden . Aber ich wollte , es wäre Morgen , denn ich möchte die Engländer gern bei den Ohren haben .
+RAMBURES : Wer will sich mit mir an einen Wurf um zwanzig englische Gefangne wagen ?
+CONNETABLE : Ihr müßt Euch selbst daran wagen , ehe Ihr sie habt .
+DAUPHIN : Es ist Mitternacht , ich will gehn und meine Waffen anlegen . Ab .
+Ab .
+ORLEANS : Der Dauphin verlangt nach dem Morgen .
+RAMBURES : Er verlangt die Englischen aufzuessen .
+CONNETABLE : Ich denke , er wird alle aufessen , die er umbringt .
+ORLEANS : Bei der weißen Hand meiner Dame , er ist ein braver Prinz .
+CONNETABLE : Schwört bei ihrem Fuße , damit sie den Schwur austreten kann .
+ORLEANS : Er ist ohne Frage der geschäftigste Herr in Frankreich .
+CONNETABLE : Vordrängen ist Geschäftigkeit , und er drängt sich immer vor .
+ORLEANS : Ich habe nicht gehört , daß er jemals einem was zu Leide tat .
+CONNETABLE : Er wird es auch morgen nicht , er wird diesen guten Namen behaupten .
+ORLEANS : Ich weiß , daß er tapfer ist .
+CONNETABLE : Mir hat es jemand gesagt , der ihn besser kennt als Ihr .
+ORLEANS : Wer war das ?
+CONNETABLE : Ei , er sagte es mir selbst ; und er sagte , er kümmerte sich nicht darum , wer es erführe .
+ORLEANS : Das braucht er auch nicht , es ist keine versteckte Tugend an ihm .
+CONNETABLE : Ja , meiner Treu , das ist sie : niemand hat sie je gesehn , außer sein Lakai . Es ist eine verkappte Tapferkeit , und wenn sie ans Tageslicht kömmt , wird sie die Augen zudrücken .
+ORLEANS : Übler Wille führt keine gute Nachrede .
+CONNETABLE : Auf dies Sprichwort setze ich ein andres Freundschaft ist eine Schmeichlerin .
+ORLEANS : Und das nehme ich auf , mit : Auch dem Teufel kein Unrecht tun .
+CONNETABLE : Gut angebracht : Euer Freund steht da für den Teufel , und um Eurem Sprichworte recht zu Leibe zu gehn , sage ich : Ich frage den Teufel darnach .
+ORLEANS : Ihr seid stärker in Sprichwörtern , aber : eines Narren Bolzen sind bald verschossen .
+CONNETABLE : Ihr habt über das Ziel hinausgeschossen .
+ORLEANS : Es ist nicht das erstemal , daß über Euch hinausgeschossen wird .
+Ein Bote tritt auf .
+BOTE : Herr Connetable , die Englischen liegen nur funfzehnhundert Schritte weit von Eurem Zelte .
+CONNETABLE : Wer hat das Feld gemessen ?
+BOTE : Der gnädige Herr Grandpré .
+CONNETABLE : Ein wackrer und erfahrner Herr . – Ich wollte , es wäre Tag ! – Ach , der arme Heinrich von England ! Er verlangt nicht nach der Morgendämmerung wie wir .
+ORLEANS : Was für ein armseliger und einfältiger Geselle ist dieser König von England , daß er mit seinen grützköpfigen Leuten so ganz durchhinkömmt !
+CONNETABLE : Wenn die Engländer nur die geringste Besinnung hätten , so würden sie davonlaufen .
+ORLEANS : Daran fehlt 's ihnen : denn hätten ihre Köpfe irgendeine geistige Rüstung , so könnten sie nicht so schwere Sturmhauben tragen .
+RAMBURES : Dies Inselland erzeugt sehr tapfre Kreaturen : ihre Bullenbeißer sind von unvergleichlichem Mute .

@@ -1,0 +1,31 @@
+MÖRDER : So ist es Banquos .
+MACBETH : Viel besser draußen an dir , als er hier drinnen . So ist er abgetan ?
+MÖRDER : Herr , seine Kehle Ist durchgeschnitten ; – das tat ich für ihn .
+MACBETH : Du bist der beste Kehlabschneider ; doch Auch der ist gut , der das für Fleance getan ; Warst du 's , so hast du deinesgleichen nicht .
+MÖRDER : Mein königlicher Herr , Fleance ist entwischt .
+MACBETH : So bin ich wieder krank ; sonst wär ' ich stark , Gesund wie Marmor , fest wie Fels gegründet , Weit , allgemein , wie Luft und Windeshauch ; Doch jetzt bin ich umschränkt , gepfercht , umpfählt , Geklemmt von niederträcht'ger Furcht und Zweifeln . Doch Banquo ist uns sicher ?
+MÖRDER : Ja , teurer Herr ! im Graben liegt er sicher : In seinem Kopfe zwanzig tiefe Wunden , Die kleinst ' ein Lebenstod .
+MACBETH : Nun , dafür Dank ! Da liegt Die ausgewachsne Schlange ; das entfloh'ne Gewürm ist giftig einst , nach seiner Art ; Doch zahnlos jetzt . – Nun mach ' dich fort ; auf morgen Vernehm ich mehr .
+Mörder geht ab .
+LADY MACBETH : Mein königlicher Herr , Ihr seid kein heitrer Wirt . Das Fest ist feil , Wird nicht das Mahl durch Freundlichkeit gewürzt , Durch Willkomm erst geschenkt . Man speist am besten Daheim ; doch auswärts macht die Höflichkeit Den Wohlgeschmack der Speisen : nüchtern wäre Gesellschaft sonst .
+MACBETH : Du holde Mahnerin ! – Nun , auf die Eßlust folg ' ein gut Verdauen , Gesundheit beiden !
+LENOX : Gefällt es Eurer Hoheit , sich zu setzen ?
+Banquos Geist kommt und setzt sich auf Macbeths Platz .
+MACBETH : Beisammen wär ' uns hier des Landes Adel , Wenn unser Freund nicht , unser Banquo , fehlte ; Doch möcht ' ich lieber ihn unfreundlich schelten , Als eines Unfalls wegen ihn bedauern .
+LENOX : Da er nicht kommt , verletzt er sein Versprechen . Gefällt 's Eu ' r Majestät , uns zu beglücken , Indem Ihr Platz in unsrer Mitte nehmt ?
+MACBETH : Die Tafel ist voll .
+LENOX : Hier ist ein Platz noch .
+MACBETH : Wo ?
+LENOX : Hier , teurer König . Was erschreckt Eu ' r Hoheit ?
+MACBETH : Wer von euch tat das ?
+LORDS : Was , mein guter Herr ?
+MACBETH : Du kannst nicht sagen , daß ich 's tat . Oh , schüttle Nicht deine blut'gen Locken gegen mich !
+ROSSE : Steht auf , ihr Herrn , dem König ist nicht wohl .
+LADY MACBETH : Bleibt sitzen , Herrn : der König ist oft so , Und war 's von Jugend an – oh , steht nicht auf ! Schnell geht der Anfall über ; augenblicks Ist er dann wohl . Beachtet ihr ihn viel , So reizt ihr ihn , und länger währt das Übel . Eßt , seht ihn gar nicht an ! – Bist du ein Mann ?
+MACBETH : Ja , und ein kühner , der das wagt zu schauen , Wovor der Teufel blaß wird .
+LADY MACBETH : Schönes Zeug ! Das sind die wahren Bilder deiner Furcht ; Das ist der luft'ge Dolch , der , wie du sagtest , Zu Duncan dich geführt ! – Ha ! dieses Zucken , Dies Starr'n , Nachäffung wahren Schrecks , sie paßten Zu einem Weibermärchen am Kamin , Bestätigt von Großmütterchen . – Oh , schäme dich ! Was machst du für Gesichter ! denn am Ende ; Schaust du nur auf 'nen Stuhl .
+MACBETH : In bitt ' dich , sieh ! blick ' auf ! schau ' an ! was sagst du ? – Ha ! meinethalb ! Wenn du kannst nicken , sprich auch ! Wenn Grab und Beingewölb ' uns wieder schickt Die wir begruben , sei der Schlund der Geier Uns Totengruft !
+Der Geist geht fort .
+LADY MACBETH : Was ! ganz entmannt von Torheit !
+MACBETH : So wahr ich leb ' , ich sah ihn !
+LADY MACBETH : O der Schmach !

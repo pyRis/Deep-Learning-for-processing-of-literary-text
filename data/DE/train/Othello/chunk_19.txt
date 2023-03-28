@@ -1,0 +1,40 @@
+EMILIA : Gnäd'ge Frau , hier kommt Der General .
+CASSIO : Ich nehme meinen Abschied .
+DESDEMONA : Ei , bleibt und hört mich reden !
+CASSIO : Gnäd'ge Frau , Jetzt nicht , ich bin nicht unbefangen , wenig Geschickt für meine Absicht .
+DESDEMONA : Meinethalb , Tut nach Belieben !
+Cassio geht .
+JAGO : Ha ! – Das gefällt mir nicht !
+OTHELLO : Was sagst du da ?
+JAGO : Nichts , gnäd'ger Herr ; doch wenn , – ich weiß nicht , was .
+OTHELLO : War das nicht Cassio , der mein Weib verließ ?
+JAGO : Cassio , Gen'ral ? Gewiß , ich dächt ' es nicht , Daß er wie schuldbewußt wegschleichen würde , Da er Euch kommen sieht .
+OTHELLO : Ich glaub ' , er war 's .
+DESDEMONA : Ei sieh , mein lieber Herr ! – So eben sprach ein Bittender mit mir , Ein Mann , durch dein Mißfallen ganz entmutigt .
+OTHELLO : Wer ist es , den du meinst ?
+DESDEMONA : Nun , deinen Leutnant Cassio . Teurer Freund , Hat meine Liebe Kraft , dich zu bewegen , Dann augenblicks versöhne dich mit ihm ! – Ist er nicht einer , der dich wahrhaft liebt , Aus Übereilung fehlt ' , und nicht aus Vorsatz , Versteh ' ich schlecht mich auf ein ehrlich Auge : – Bitt ' dich , ruf ' ihn zurück !
+OTHELLO : Ging er jetzt fort ?
+DESDEMONA : Ja wahrlich , so gebeugt , Daß er ein Teil von seinem Gram mir ließ , Mit ihm zu leiden . Liebster , ruf ' ihn wieder !
+OTHELLO : Jetzt nicht , geliebtes Herz , ein andermal .
+DESDEMONA : Doch bald ?
+OTHELLO : Sobald als möglich , deinethalb .
+DESDEMONA : Zum Abendessen denn .
+OTHELLO : Nein , heute nicht .
+DESDEMONA : Dann morgen mittag ?
+OTHELLO : Ich speise nicht zu Haus ; Die Offiziere luden mich zur Festung .
+DESDEMONA : Nun , morgen abend ? oder Dienstag morgen , Zu Mittag oder Abend – Mittwoch früh ? – O nenne mir die Zeit , doch laß es höchstens Drei Tage sein : Gewiß , es reut ihn sehr ; Und sein Vergehn , nach unsrer schlichten Einsicht – Wiewohl der Krieg ein Beispiel fordert , sagt man , Am Besten selbst – ist nur ein Fehl , geeignet Für heimlichen Verweis . – Wann darf er kommen ? Sprich doch , Othello : ich begreife nicht , Was ich dir weigerte , das du verlangtest , Oder so schaudernd schwieg . Ei , Michael Cassio , Der für dich warb , und manches liebe Mal , Wenn ich von dir nicht immer günstig sprach , Dich treu verfocht – den kostet 's so viel Müh ' Dir zu versöhnen ? Traun , ich täte viel –
+OTHELLO : Ich bitt ' dich , laß – er komme , wann er will ; Ich will dir nichts versagen .
+DESDEMONA : Es ist ja nicht für mich : Es ist , als bät ' ich dich , Handschuh ' zu tragen , Dich warm zu halten , kräft'ge Kost zu nehmen , Oder als riet ' ich dir besondre Sorgfalt Für deine Pflege – nein , hab ' ich zu bitten , Was deine Liebe recht in Anspruch nimmt , Dann muß es schwierig sein und voll Gewicht , Und mißlich die Gewährung .
+OTHELLO : Ich will dir nichts versagen ; Dagegen bitt ' ich dich , gewähr ' mir dies : – Laß mich ein wenig nur mit mir allein !
+DESDEMONA : Soll ich 's versagen ? Nein : leb wohl , mein Gatte !
+OTHELLO : Leb wohl , mein Herz ! Ich folge gleich dir nach .
+DESDEMONA : Tu ' , wie dich Laune treibt ; Was es auch sei , gehorsam bin ich dir .
+Zu Othello .
+Geht ab mit Emilien .
+OTHELLO : Holdselig Ding ! Verdammnis meiner Seele , Lieb ' ich dich nicht ! Und wenn ich dich nicht liebe , Dann kehrt das Chaos wieder .
+JAGO : Mein edler General –
+OTHELLO : Was sagst du , Jago ?
+JAGO : Hat Cassio , als Ihr warbt um Eure Gattin , Gewußt um Eure Liebe ?
+OTHELLO : Vom Anfang bis zu Ende : warum fragst du ?
+JAGO : Um nichts , als meine Neugier zu befried'gen ; Nichts Arges sonst .
+OTHELLO : Warum die Neugier , Jago ?

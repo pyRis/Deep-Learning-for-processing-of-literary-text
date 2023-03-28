@@ -1,0 +1,26 @@
+( Ein Hofherr tritt auf . )
+HOFHERR : Vom Herzog , Eurem Bruder , Die Meldung , daß die Prinzen angekommen .
+EMILIA : Den Streit zu enden ?
+HOFHERR : Ja !
+EMILIA : O , wär ' ich todt ! Keusche Diana , was hab ' ich verbrochen , Daß Fürstenblut die Reinheit meiner Jugend Beflecken muß , daß meine Jungfrauschaft Der Altar sein soll , wo zwei Liebende , So schön und edel , wie noch keine Mutter Sie je beglückt , als Opfer fallen müssen !
+( Theseus , Hippolyta , Pirithous nebst Gefolge treten auf . )
+THESEUS : Führt schneller sie hierher und zögert nicht ! Begierig bin ich , sie zu sehen . Schwester , Die beiden Freier sind jetzt wieder da Zum Kampf um dich , mit seinen Rittern jeder . Nun mußt du einen lieben !
+EMILIA : Besser wär 's , Wenn ihrer keiner um mich sterben müßte !
+THESEUS : Hat jemand sie gesehn ?
+PIRITHOUS : Ich , Herr !
+HOFHERR : Und ich .
+( Ein Bote tritt auf . )
+THESEUS : Wo kommst du her ?
+BOTE : Ich komme von den Rittern .
+THESEUS : So sprich ! Du sahst sie , was für Leute sind 's ?
+BOTE : Die Wahrheit sag ' ich Euch : sechs bess 're Männer Dem Aussehn nach , als diese Prinzen brachten , Sah ich noch nie , und las von solchen nie . Der Vornehmste von dem Gefolg ' Arcit 's Ist stark gebaut , sein Antlitz eines Fürsten , Die Farbe des Gesichts mehr braun als schwarz ; Voll Ernst und Würde schaut er um sich her , Furchtlos und kühn , verachtend die Gefahr . Aus seinen Augen sprüht der Seele Feuer , So gleichet einem zorn'gen Löwen er . Sein langes Haar hängt dunkelschwarz und glänzend Auf breite Schultern ihm wie Rabenfitt'che . Vom Scheitel bis zum Fuß ist er gewaffnet , Und auf der Hüft ' , an seltsam reichem Gurt , Trägt er ein Schwert , um seinem Willen Nachdruck Zu leihen , wenn er zürnt . So wahr ich lebe , Bessern Gefährten kann kein Krieger haben !
+THESEUS : Du hast ihn gut geschildert .
+PIRITHOUS : Doch mich dünkt Palämon 's Erster übertrifft ihn noch !
+THESEUS : Ich bitte , Freund , berichte .
+PIRITHOUS : Er nicht minder Scheint mir ein Fürst zu sein , vielleicht ein größ'rer , Denn er trägt an sich aller Ehren Schmuck . Ein wenig dicker ist er als der andre , Doch sein Gesicht , das eine Farbe hat Wie reife Trauben , scheint mir angenehmer . Man sieht 's ihm an , er liebt , wofür er ficht , Des Freundes Sache gilt ihm als die seine . In seinen Mienen spiegelt sich Vertrau'n Auf glücklichen Erfolg . Ist er erzürnt , Durchströmt ihn eine ruh'ge Tapferkeit , Von Uebertreibung fern , indeß sein Arm Zu kräft'ger That sich spannt . Furcht kennt er nicht , So schwache Regung ist ihm gänzlich fremd . Sein Haar ist blond und hart und krausgelockt , Wie dichtverschlungner Epheu , den kein Sturm So leicht verwirrt . Auf seinen Wangen trägt Er blendend Roth und Weiß , der Schlachtenjungfrau'n Livrey , denn noch fehlt ihm des Mannes Bart . In seinen roll'nden Augen thront der Sieg , Als wollt ' er seinen Liebling nie verlassen . Der Schwung der Nase zeigt den Mann von Ehre , Und seiner Lippen Roth ist wohl geschickt , Nach Kampf und Schlacht um Frauengunst zu buhlen .
+EMILIA : Und diese wären auch dem Tod geweiht !
+PIRITHOUS : Hörst du ihn sprechen , schallt 's aus seiner Brust Wie Kriegsdrommete ; jedes seiner Glieder Ist stark und kräftig , wie es nur ein Mann Sich wünschen kann . In seinen Händen schwingt er Ein gutgestähltes Beil mit gold'nem Stiel . Sein Alter , – etwa fünfundzwanzig Jahr .
+BOTE : Da ist ein andrer noch , ein kleiner Mann , Doch voller Muth und Kraft , wie irgendeiner , Der größer ist . Gewiß , er leistet mehr , Als man 's von solchem Knirps erwarten sollte .
+PIRITHOUS : Du meinst den mit den Sommersprossen ?
+BOTE : Ja ! 's sind alles tücht'ge Leute .
+PIRITHOUS : Meine Ansicht !

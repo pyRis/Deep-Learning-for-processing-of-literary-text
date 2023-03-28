@@ -1,0 +1,23 @@
+KÖNIG : Wir kommen zum Besuch und sind bereit , Euch einzuführen in der Hofburg Hallen .
+PRINZESSIN : Ich bleib ' im Zelte , bleibt auch Ihr im Eid : Am Treubruch hat nicht Gott noch ich Gefallen .
+KÖNIG : Laßt nicht , was Ihr verschuldet , mich entgelten : Die Tugend Eures Aug 's bricht meinen Schwur .
+PRINZESSIN : Nennt 's Tugend nicht ! Das Laster müßt Ihr schelten , Denn Treu ' und Eide bricht das Laster nur . Vernehmt , bei meiner Jungfrau'nehre , rein Wie fleckenlose Lilienblüten , schwör ' ich , Und sollt ' ich dulden alle Qual und Pein : Nie Eures Hauses Gast zu sein gewähr ' ich , So sehr empört mich 's , brecht Ihr jenen Eid , Den Ihr dem Himmel lautern Sinns geweiht .
+KÖNIG : Wie in der öden Wüste wohnt Ihr hier , Einsam , verlassen , sehr zu unsrer Schmach .
+PRINZESSIN : Dem ist nicht so , mein König , glaubt es mir : Anmut'ger Scherz und Kurzweil folgt uns nach ; Noch eben sahn wir edle Russen vier .
+KÖNIG : Wie , Fürstin , Russen ? –
+PRINZESSIN : Allerdings , Mylord ; Schmuck und galant , voll Anstand und Manier .
+ROSALINE : Sprecht wahr , Prinzessin ; 's ist nicht so , Mylord ; Die Fürstin , nach dem Modeton der Zeit , Lobt über die Gebühr aus Höflichkeit . Uns vier , mein Fürst , besucht ' ein Viergespann Von Russen ; wohl ein Stündchen hört ' ich 's an ; Man sprach gar viel und schnell , und in der Stunde Kam nicht ein kluges Wort aus ihrem Munde . Ich will sie Narr'n nicht nennen ; doch das weiß ich , Sind sie beim Glas , so zechen Narren fleißig .
+BIRON : Der Spaß bedünkt mich trocken . – Schönste Frau'n , Eu ' r Witz macht Weisheit schal : denn wenn wir schaun Der Sonne Glut mit Augen noch so hell , Wird Licht uns Nacht ; so scharf , so fein und schnell Sprüht euer Geist , daß seiner Blitze Flammen Weisheit als schal , Reichtum als arm verdammen .
+ROSALINE : Dann seid Ihr weis ' und reich ; denn seh ' ich recht , –
+BIRON : Bin ich ein Narr , ein ganz armsel'ger Knecht .
+ROSALINE : Ihr nahmt , was Euer nur , sonst würd ' ich schmälen ; Ist 's recht , das Wort vom Mund uns wegzustehlen ? –
+BIRON : Oh , ich bin Eu ' r , samt allem , was ich habe .
+ROSALINE : Der ganze Narr ? –
+BIRON : Wollt Ihr noch größre Gabe ?
+ROSALINE : Sagt , welche Maske war 's , die Ihr geborgt ? –
+BIRON : Wo ? Welche ? Wann ? Wozu die Frag ' an mich ?
+ROSALINE : Dort ; jene ; dann ; der müß'ge Überbau , Der Schlechtes barg und Beßres trug zur Schau .
+KÖNIG : Wir sind durchschaut , sie spotten uns zu Tode .
+DUMAIN : Gestehn wir 's nur und wenden 's noch zum Scherz ! –
+PRINZESSIN : Ihr seid bestürzt ? Ist Euch nicht wohl , mein König ? –
+ROSALINE : O reibt die Schläfen ihm ! Wie seht Ihr blaß ! – Seekrank vielleicht , da Ihr von Moskau schifftet ? –

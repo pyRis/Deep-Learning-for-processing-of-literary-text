@@ -1,0 +1,41 @@
+LADY GREY : Lieb ' in den Tod , Dank und Gebet für Euch ; Wie Tugend Liebe bittet und gewährt .
+KÖNIG EDUARD : Nein , solche Liebe mein ' ich nicht , mein ' Treu ' .
+LADY GREY : Nun wohl , dann meint Ihr nicht so , wie ich dachte .
+KÖNIG EDUARD : Nun aber merkt Ihr meinen Sinn zum Teil .
+LADY GREY : Mein Sinn gibt nimmer zu , was , wie ich merke , Eu ' r Hoheit denket , denk ' ich anders recht .
+KÖNIG EDUARD : Bei dir zu liegen denk ' ich , grad ' heraus .
+LADY GREY : Und grad ' heraus , ich läg ' im Kerker lieber .
+KÖNIG EDUARD : Nun , so bekommst du nicht des Mannes Güter .
+LADY GREY : So sei die Ehrbarkeit mein Leibgedinge ; Um den Verlust will ich sie nicht erkaufen .
+KÖNIG EDUARD : Du tust damit den Kindern sehr zu nah .
+LADY GREY : Eu ' r Hoheit tut hiemit es mir und ihnen . Doch diese muntre Neigung , hoher Herr , Stimmt nicht zu meinem Ernst bei dem Gesuch . Entlaßt mit Ja mich gütigst oder Nein .
+KÖNIG EDUARD : Ja , wenn du ja auf meinen Wunsch willst sagen ; Nein , wenn du nein auf mein Begehren sagst .
+LADY GREY : Dann nein , mein Fürst , und mein Gesuch ist aus .
+GLOSTER Die Witwe mag ihn nicht , sie runzelt ihre Stirn .
+beiseit .
+CLARENCE Kein Mensch in Christenlanden wirbt wohl plumper .
+beiseit .
+KÖNIG EDUARD : Nach ihren Blicken ist sie voller Sittsamkeit , Ihr Witz nach ihren Worten unvergleichlich ; All ihre Gaben fodern Herrscherrang , So oder so ist sie für einen König : Sie wird mein Liebchen oder mein Gemahl . – Setz ' , König Eduard nähm ' dich zum Gemahl ?
+LADY GREY : Das läßt sich besser sagen , Herr , als tun : Ich Untertanin tauge wohl zum Scherz , Doch taug ' ich längst nicht , Herrscherin zu sein .
+KÖNIG EDUARD : Bei meinem Thron schwör ' ich dir , holde Witwe , Ich sage nur , was meine Seele wünscht : Das ist , dich als Geliebte zu besitzen .
+LADY GREY : Und das ist mehr , als ich will zugestehn . Ich weiß , ich bin zu niedrig , Eu ' r Gemahl , Und doch zu gut , Eu ' r Kebsweib nur zu sein .
+KÖNIG EDUARD : Stecht Silben nicht : ich meinte als Gemahl .
+LADY GREY : Wenn meine Söhne nun Euch Vater nennen , Das wird Eu ' r Hoheit kränken .
+KÖNIG EDUARD : Nein , nicht mehr , Als wenn dich meine Töchter Mutter nennen . Du bist 'ne Witwe und hast mehre Kinder ; Ich , bei der Mutter Gottes ! der ich noch Ein Junggeselle bin , hab ' ihrer auch : Wie schön , der Vater vieler Kinder sein ! Erwidre nichts , du wirst nun mein Gemahl .
+GLOSTER Der Geistliche hat seine Beicht ' vollbracht .
+beiseit .
+CLARENCE Zum Beicht'ger hat ihn Leibliches gemacht .
+beiseit .
+KÖNIG EDUARD : Euch wundert 's , Brüder , was wir zwei geflüstert ?
+GLOSTER : Der Witwe steht 's nicht an , sie sieht verdüstert .
+KÖNIG EDUARD : Ihr fändet 's fremd , wenn ich zur Frau sie wählte ?
+CLARENCE : Für wen , mein Fürst ?
+KÖNIG EDUARD : Ei , Clarence , für mich selbst .
+GLOSTER : Das wär ' zum Wundern auf zehn Tage mind'stens .
+CLARENCE : Das ist ein Tag mehr , als ein Wunder währt .
+GLOSTER : So endlos würde dieses Wundern sein .
+KÖNIG EDUARD : Gut , Brüder , spaßt nur fort : ich kann euch sagen , Gewährt ist das Gesuch ihr um die Güter .
+Ein Edelmann tritt auf .
+EDELMANN : Mein Fürst , Eu ' r Gegner Heinrich ward ergriffen ; Gefangen bringt man ihn vor Euer Schloß .
+KÖNIG EDUARD : So sorgt , daß man ihn schaffe nach dem Turm ; – Und sehn wir , Brüder , den , der ihn ergriff , Ihn über die Verhaftung zu befragen . Ihr , Witwe , geht mit uns . – Lords , haltet sie in Ehren !
+König Eduard , Lady Grey , Clarence und der Edelmann ab .

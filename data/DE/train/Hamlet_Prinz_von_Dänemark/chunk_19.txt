@@ -1,0 +1,25 @@
+OPHELIA : Mein Prinz , wie geht es Euch seit so viel Tagen ?
+HAMLET : Ich dank ' Euch untertänig : wohl .
+OPHELIA : Mein Prinz , ich hab ' von Euch noch Angedenken , Die ich schon längst begehrt zurückzugeben . Ich bitt ' Euch , nehmt sie jetzo !
+HAMLET : Nein , ich nicht ; Ich gab Euch niemals was .
+OPHELIA : Mein teurer Prinz , Ihr wißt gar wohl , Ihr tatet 's , Und Worte süßen Hauchs dabei , die reicher Die Dinge machten . Da ihr Duft dahin , Nehmt dies zurück : dem edleren Gemüte Verarmt die Gabe mit des Gebers Güte . Hier , gnäd'ger Herr .
+HAMLET : Haha ! Seid Ihr tugendhaft ?
+OPHELIA : Gnädiger Herr ?
+HAMLET : Seid Ihr schön ?
+OPHELIA : Was meint Eure Hoheit ?
+HAMLET : Daß , wenn Ihr tugendhaft und schön seid , Eure Tugend keinen Verkehr mit Eurer Schönheit pflegen muß .
+OPHELIA : Könnte Schönheit wohl bessern Umgang haben als mit der Tugend ?
+HAMLET : Ja freilich : denn die Macht der Schönheit wird eher die Tugend in eine Kupplerin verwandeln , als die Kraft der Tugend die Schönheit sich ähnlich machen kann . Dies war ehedem paradox , aber nun bestätigt es die Zeit . Ich liebte , Euch einst .
+OPHELIA : In der Tat , mein Prinz , Ihr machtet mich 's glauben .
+HAMLET : Ihr hättet mir nicht glauben sollen : denn Tugend kann sich unserm alten Stamm nicht so einimpfen , daß wir nicht einen Geschmack von ihm behalten sollten . Ich liebte Euch nicht .
+OPHELIA : Um so mehr wurde ich betrogen .
+HAMLET : Geh in ein Kloster ! Warum wolltest du Sünder zur Welt bringen ? Ich bin selbst leidlich tugendhaft ; dennoch könnt ' ich mich solcher Dinge anklagen , daß es besser wäre , meine Mutter hätte mich nicht geboren . Ich bin sehr stolz , rachsüchtig , ehrgeizig ; mir stehn mehr Vergehungen zu Dienst , als ich Gedanken habe sie zu hegen , Einbildungskraft ihnen Gestalt zu geben , oder Zeit sie auszuführen . Wozu sollen solche Gesellen wie ich zwischen Himmel und Erde herumkriechen ? Wir sind ausgemachte Schurken , alle : trau ' keinem von uns ! Geh deines Wegs zum Kloster ! Wo ist Euer Vater ?
+OPHELIA : Zu Hause , gnädiger Herr .
+HAMLET : Laßt die Tür hinter ihm abschließen , damit er den Narren nirgends anders spielt als in seinem eignen Hause ! Leb wohl !
+OPHELIA : O hilf ihm , güt'ger Himmel !
+HAMLET : Wenn du heiratest , so gebe ich dir diesen Fluch zur Aussteuer : sei so keusch wie Eis , so rein wie Schnee , du wirst der Verleumdung nicht entgehn . Geh in ein Kloster ! Leb wohl ! Oder willst du durchaus heiraten , nimm einen Narren ; denn gescheite Männer wissen allzugut , was ihr für Ungeheuer aus ihnen macht . In ein Kloster ! geh ! und das schleunig ! Leb wohl !
+OPHELIA : Himmlische Mächte , stellt ihn wieder her !
+HAMLET : Ich weiß auch von euren Malereien Bescheid , recht gut . Gott hat euch ein Gesicht gegeben , und ihr macht euch ein andres ; ihr schlendert , ihr trippelt und ihr lispelt , und gebt Gottes Kreaturen verhunzte Namen , und stellt euch aus Leichtfertigkeit unwissend . Geht mir ! nichts weiter davon ! es hat mich toll gemacht . Ich sage , wir wollen nichts mehr von Heiraten wissen : wer schon verheiratet ist , alle außer einem , soll das Leben behalten ; die übrigen sollen bleiben , wie sie sind . In ein Kloster ! geh ! Hamlet ab .
+Hamlet ab .
+OPHELIA : Oh , welch ein edler Geist ist hier zerstört ! Des Hofmanns Auge , des Gelehrten Zunge , Des Kriegers Arm , des Staates Blum ' und Hoffnung , Der Sitte Spiegel und der Bildung Muster , Das Merkziel der Betrachter : ganz , ganz hin ! Und ich , der Frau'n elendeste und ärmste , Die seiner Schwüre Honig sog , ich sehe Die edle , hochgebietende Vernunft Mißtönend wie verstimmte Glocken jetzt ; Dies hohe Bild , die Züge blüh'nder Jugend , Durch Schwärmerei zerrüttet : weh mir , wehe ! Daß ich sah , was ich sah , und sehe , was ich sehe !
+Der König und Polonius treten wieder vor .

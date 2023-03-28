@@ -1,0 +1,31 @@
+SUFFOLK : Nein , Mylord , Das geht nicht an : Ihr seid des Staatsrats Mitglied , Und solche Würde schützt vor aller Klage .
+GARDINER : Mylord , weil uns Bedeutenders noch obliegt , Seid kürzlich abgefertigt ! Seine Hoheit , Nach unserm Schluß , zu beßrer Untersuchung , Verlangt , daß Ihr Euch gleich zum Turm begebt , Wo Ihr , Privatmann wiederum geworden , Erfahren sollt , wieviel Ihr Kläger habt ; Und , fürcht ' ich , mehr , als Ihr gewärtig seid .
+CRANMER : Ei , werter Lord von Winchester , ich dank ' Euch , Wart Ihr doch stets mein Freund ; nach Eurem Wunsch Spracht Ihr zugleich die Klage wie das Urteil , So menschlich seid Ihr . Euer Trachten seh ' ich , 's ist mein Verderben ; Lieb ' und Nachsicht , Lord , Ziemt frommen Hirten mehr , als Sucht der Ehre ; – Mit Glimpf verirrte Seelen wieder werben , Und keine von sich stoßen . Mich zu rein'gen , Und beugt Ihr auch mir gänzlich die Geduld , Bleibt mir kein Zweifel , gleich wie Euch kein Skrupel Für täglich Unrecht . Mehr noch könnt ' ich sagen , Doch mahnt die Achtung für Eu ' r Amt zur Demut .
+GARDINER : Mylord , Mylord , Ihr seid ein Sektenstifter , Das liegt am Tag ; Eu ' r gleißend heller Firnis Hüllt Schwäch ' und leere Worte nimmer ein .
+CROMWELL : Mylord von Winchester , verzeiht in Gnaden , Ihr dünkt mich fast zu hart . So edle Männer , Wenn gleich im Irrtum , sollten Nachsicht finden Für das , was sie gewesen . Grausam ist 's , Den Fallenden zu drängen .
+GARDINER : Mein Herr Schreiber , Ich bitt ' Eu ' r Gnaden um Verzeihung ; Ihr , Der Schlimmst ' am Tisch hier , darf so sprechen .
+CROMWELL : Wie ?
+GARDINER : Kenn ' ich Euch etwa nicht als zugetan Der neuen Sekt ' ? Ihr seid nicht rein .
+CROMWELL : Nicht rein ? –
+GARDINER : Nicht rein , sag ' ich .
+CROMWELL : Wärt Ihr nur halb so ehrlich , Dann folgt Euch Segen nach , wie jetzt die Furcht .
+GARDINER : Des frechen Worts gedenk ' ich .
+CROMWELL : Immerhin , Doch Eures frechen Lebens auch .
+LORD KÄMMERER : Zu viel ! – Ihr Herrn , hört auf !
+GARDINER : Ich bin zu End ' .
+CROMWELL : Ich auch .
+LORD KÄMMERER : Was Euch betrifft , Mylord , so glaub ' ich , ward Einstimmig der Beschluß gefaßt , zum Turm Euch als Gefangnen schleunig abzusenden , Wo Ihr verbleibt , bis fernrer Auftrag uns Vom König kommt . Mylords , sind alle einig ?
+ALLE : Das sind wir .
+CRANMER : Ist für mich kein mildrer Weg , Muß ich durchaus zum Turm , ihr Herrn ?
+GARDINER : Welch andrer Bleibt wohl für Euch ? Ihr seid sehr überlästig ! Ruft von der Wache wen hieher !
+CRANMER : Für mich ? So stellt ihr mich Verrätern gleich ?
+Es treten einige von der Wache in den Saal .
+GARDINER : Empfangt ihn Und führt ihn in den Turm !
+CRANMER : Halt , gute Lords ! Gönnt mir zwei Worte noch ! – Seht , werte Herrn , Kraft dieses Ringes nehm ' ich meine Sache Aus böser Menschen Klau'n und gebe sie Einem höhern Richter , meinem Herrn und König .
+LORD KÄMMERER : Das ist des Königs Ring .
+SURREY : 's ist kein verfälschter .
+SUFFOLK : Der echte Ring ; bei Gott , ich sagt ' euch allen , Als ihr versucht , den schlimmen Fels zu rollen , Er träf ' uns selbst zuletzt .
+NORFOLK : Glaubt ihr , Mylords , Der König lasse diesem Mann auch nur Den kleinen Finger kränken ?
+LORD KÄMMERER : Nur zu wahr ! Und wie viel mehr liegt ihm an diesem Leben ! Ich wollt ' , ich wär ' heraus .
+CROMWELL : Mir wird es klar , Als ihr noch Kundschaft suchtet und Verdacht Wider solchen Mann , des Redlichkeit allein Der Teufel und sein Anhang sieht mit Neid , Ihr schürtet selbst das Feuer , das euch brennt : Nun mögt ihr 's haben ! –
+Der König tritt herein und sieht mit zürnenden Blicken auf die Herren vom Staatsrat . Dann setzt er sich .

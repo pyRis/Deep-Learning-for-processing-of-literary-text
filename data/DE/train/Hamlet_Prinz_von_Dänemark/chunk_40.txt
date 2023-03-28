@@ -1,0 +1,26 @@
+HORATIO : Ist 's möglich ?
+HAMLET : Hier ist der Auftrag : lies ihn nur bei Muße ! Doch willst du hören , wie ich nun verfuhr ?
+HORATIO : Ja , ich ersuch ' Euch drum .
+HAMLET : So rings umstrickt mit Bübereien , fing , Eh ' ich noch den Prolog dazu gehalten , Mein Kopf das Spiel schon an . Ich setzte mich , Sann einen Auftrag aus , schrieb ihn ins Reine . Ich hielt es einst , wie unsre großen Herrn , Für niedrig , schön zu schreiben , und bemühte Mich sehr , es zu verlernen ; aber jetzt Tat es mir Ritterdienste . Willst du wissen , Was meine Schrift enthielt ?
+HORATIO : Ja , bester Herr .
+HAMLET : Die ernstlichste Beschwörung von dem König , Wofern ihm England treu die Lehnspflicht hielte , Wofern ihr Bund blühn sollte wie die Palme , Wofern der Fried ' in seinem Ährenkranz Stets beider Freundschaft bindend sollte stehn , Und manchem wichtigen » Wofern « der Art – Wann er den Inhalt dieser Schrift ersehn , Möcht ' er ohn ' alles fernere Bedenken Die Überbringer schnell zum Tode fördern , Selbst ohne Frist zum Beichten .
+HORATIO : Wie wurde dies versiegelt ?
+HAMLET : Auch darin war des Himmels Vorsicht wach . Ich hatt ' im Beutel meines Vaters Petschaft , Das dieses dän'schen Siegels Muster war . Ich faltete den Brief dem andern gleich , Dann unterschrieb ich , drückte drauf das Siegel , Legt ' ihn ab seinen Ort ; der Wechselbalg Ward nicht erkannt . Am nächsten Tage nun War unser Seegefecht , und was dem folgte , Das weißt du schon .
+HORATIO : Und Güldenstern und Rosenkranz gehn drauf .
+HAMLET : Ei , Freund , sie buhlten ja um dies Geschäft ; Sie rühren mein Gewissen nicht : ihr Fall Entspringt aus ihrer eignen Einmischung . 's ist mißlich , wenn die schlechtere Natur Sich zwischen die entbrannten Degenspitzen Von mächt'gen Gegnern stellt .
+HORATIO : Was für ein König !
+HAMLET : Was dünkt dir , liegt 's mir jetzo nah genug ? Der meinen König totschlug , meine Mutter Zur Hure machte ; zwischen die Erwählung Und meine Hoffnungen sich eingedrängt ; Die Angel warf nach meinem eignen Leben Mit solcher Hinterlist : ist 's nicht vollkommen billig , Mit diesem Arme dem den Lohn zu geben ? Und ist es nicht Verdammnis , diesen Krebs An unserm Fleisch noch länger nagen lassen ?
+HORATIO : Ihm muß von England bald gemeldet werden , Wie dort der Ausgang des Geschäftes ist .
+HAMLET : Bald wird 's geschehn : die Zwischenzeit ist mein ; Ein Menschenleben ist , als zählt man eins . Doch ich bin sehr bekümmert , Freund Horatio , Daß mit Laertes ich mich selbst vergaß : Denn in dem Bilde seiner Sache seh ' ich Der meinen Gegenstück . Ich schätz ' ihn gern : Doch wirklich , seines Schmerzes Prahlerei Empörte mich zu wilder Leidenschaft .
+HORATIO : Still doch ! wer kommt ?
+Osrick kommt .
+OSRICK : Willkommen Eurer Hoheit hier in Dänmark !
+HAMLET : Ich dank ' Euch ergebenst , Herr . – Kennst du diese Mücke ?
+HORATIO : Nein , bester Herr .
+HAMLET : Um so besser ist für dein Heil gesorgt , denn es ist ein Laster , ihn zu kennen . Er besitzt viel und fruchtbares Land : wenn ein Tier Fürst der Tiere ist , so wird seine Krippe neben des Königs Gedeck stehn . Er ist eine Elster , aber , wie ich dir sage , mit weitläuftigen Besitzungen von Kot gesegnet .
+OSRICK : Geliebtester Prinz , wenn Eure Hoheit Muße hätte , so wünschte ich Euch etwas von seiner Majestät mitzuteilen .
+HAMLET : Ich will es mit aller Aufmerksamkeit empfangen , Herr . Eure Mütze an ihre Stelle : sie ist für den Kopf .
+OSRICK : Ich danke Eurer Hoheit , es ist sehr heiß .
+HAMLET : Nein , auf mein Wort , es ist sehr kalt ; der Wind ist nördlich .
+OSRICK : Es ist ziemlich kalt , in der Tat , mein Prinz .
+HAMLET : Aber doch , dünkt mich , ist es ungemein schwül und heiß , oder mein Temperament –

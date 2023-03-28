@@ -1,0 +1,23 @@
+BOLZ : Ja wahrhaftig , sie soll noch keine andere anzieh'n .
+KUPPLERIN : Bolz , da , verzehre das in der Stadt ; sage , welche Ware wir haben ; du wirst bei der Kundschaft nichts verlieren . Als die Natur dies Ding erschuf , hatte sie es gut mit dir vor , darum erzähle nur von ihrer Herrlichkeit , und aus deinen Reden wird eine Ernte für dich .
+BOLZ : Verlaßt Euch darauf , Frau , der Donner soll kein Aalnest so lebendig machen , als mein Herausstreichen ihrer Schönheit alle Liederlichen auf die Beine bringen soll . Heut abend will ich welche mit mir bringen .
+KUPPLERIN : Nun komm mit mir .
+MARINA : Brennt Feuer , schneiden Dolch ' , ertränkt die Flut ; Bewahrt den Jungfrauengürtel mir mein Mut . Und du , Diana , hilf !
+KUPPLERIN : Was haben wir mit Dianen zu tun ? Nun , willst du wohl mit mir kommen ?
+Sie gehn ab .
+Cleon , Dionysa .
+DIONYSA : Wie ? Bist du töricht ? Wird 's so ungetan ?
+CLEON : O Dionysa , niemals sah'n herab Auf solche Schlachtung Sonne noch und Mond .
+DIONYSA : Zum Kinde , denk ' ich , wirst du wieder werden .
+CLEON : Ja , wär ' ich Herr der ganzen weiten Welt , Ich gäb ' sie hin , es ungetan zu machen . O sie , in Tugend größer als Geburt , Der allerhöchsten Königskrone wert , Sie ohnegleichen ! Schurke Leonin ! Den hast du nun vergiftet auch ! Das hieß ' ich Noch gut getan , wenn du ihm zugetrunken , Das ziemte dir ! Was kannst du nun wohl sagen , Wenn Perikles nach seinem Kinde fragt ?
+DIONYSA : Nun , daß sie starb . Ein Wärter ist kein Gott , Der es ernährt und immerdar erhält . Sie starb bei Nacht ; ich sag 's : wer widerspricht ? Du müßtest denn den frevlen Blödsinn spielen , Und , ehrlich nur zu heißen , zwischenfahren ; Sie starb auf unerlaubte Art !
+CLEON : Gewiß , Von allen Sünden unterm Himmel , zürnen Zumeist die Götter dieser .
+DIONYSA : Glaube doch , Zaunkön'ge werden fort von Tharsus fliegen . Und es Perikles sagen . Pfui der Schande ; Entsprossen sein so edlem Stamm , und doch So feigen Geistes !
+CLEON : Wer solch ' Tun nur billigt , Auch wenn es schon geschehen , wenn er auch nicht Vorher mit eingestimmt , der fließt wohl nicht Aus edlem Quell .
+DIONYSA : So mag 's denn also sein , Doch keiner weiß , als du , wie sie gestorben , Niemand erfährt 's , da Leonin nicht lebt . Verachtet ward mein Kind durch sie , sie stand Im Wege ihrem Glück ; wer sah sie an ? Marinen nur ging jedes Auge nach , Der unsern war man grob , sie schien ein Mensch , Nicht Guten Morgen wert . Das stach mein Herz ; Und nennst du gleich , was ich tat , unnatürlich , Der du dein Kind nicht liebst , so fühl ' ich doch , Es lacht mich an als eine Tat der Liebe Für deine einz'ge Tochter .
+CLEON : O verzeih'es , Himmel !
+DIONYSA : Und was den Perikles betrifft , Was kann er sagen ? Wir beweinten sie , Und trauern noch ; ihr Monument ist fast Vollendet , und ihr Epitaphium sagt Im goldnen Glanz der Schrift den Ruhm , Der allgemein in ihr war , und unsre Liebe , Die 's kostbar ihr gesetzt .
+CLEON : Du gleichst Harpyen , Die zum Verrat ein Engelantlitz tragen , Und mit den Adlerklauen Beute greifen .
+DIONYSA : Du gleichst dem , der abergläubisch Göttern Beschwört , daß Winter umgebracht die Fliegen ; Doch wirst du wohl dich meinem Rate fügen .
+Sie gehn ab .
+Gower tritt ein .

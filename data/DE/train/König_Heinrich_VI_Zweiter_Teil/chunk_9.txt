@@ -1,0 +1,52 @@
+SIMPCOX : Blind geboren , verzeihn Euer Gnaden .
+FRAU : Ja , fürwahr , das ist er .
+SUFFOLK : Was ist dies für ein Weib ?
+FRAU : Seine Frau , mit Euer Hochedlen Erlaubnis .
+GLOSTER : Wärst du seine Mutter , du könntest besser zeugen .
+KÖNIG HEINRICH : Was ist denn dein Geburtsort ?
+SIMPCOX : Berwick im Norden Herr , mit Eurer Gunst .
+KÖNIG HEINRICH : Viel Güt ' erwies dir Gott , du arme Seele ! Laß Tag und Nacht fortan geheiligt sein , Und stets bedenke , was der Herr getan .
+KÖNIGIN : Sag , guter Mensch , kamst du durch Zufall her Oder aus Andacht zu dem heil'gen Schrein ?
+SIMPCOX : Gott weiß , aus bloßer Andacht ; denn mich rief Der gute Sankt Albanus hundertmal Im Schlaf und öfter ; » Simpcox « , sagt ' er , » komm ! Komm , bet ' an meinem Schrein ! Ich will dir helfen. «
+FRAU : Wahrhaftig wahr , und manches liebe Mal Hört ' ich von solcher Stimme selbst ihn rufen .
+KARDINAL : Wie , bist du lahm ?
+SIMPCOX : Ja , helf ' mir der allmächt'ge Gott !
+SUFFOLK : Wie wurdest du 's ?
+SIMPCOX : Ein Fall von einem Baum .
+FRAU : Ein Pflaumenbaum war 's , Herr .
+GLOSTER : Wie lange bist du blind ?
+SIMPCOX : Oh , so geboren , Herr .
+GLOSTER : Was , und du klettertest auf einen Baum ?
+SIMPCOX : Mein Lebtag ' nur auf den , als ein junger Mensch .
+FRAU : Ja wohl , und mußte schwer sein Klettern zahlen .
+GLOSTER : Traun , mochtest Pflaumen gern , dich so zu wagen .
+SIMPCOX : Ach , Herr , mein Weib verlangte ein paar Zwetschen Und ließ mich klettern mit Gefahr des Lebens .
+GLOSTER : Ein feiner Schelm ! Doch soll es ihm nichts helfen . Laß mich deine Augen sehn : drück ' zu , – mach ' auf , – Nach meiner Meinung siehst du noch nicht recht .
+SIMPCOX : Ja , Herr , klar wie der Tag ; ich dank 's Gott und Sankt Alban !
+GLOSTER : Ei so ! Von welcher Farb ' ist dieser Mantel ?
+SIMPCOX : Rot , Herre , rot wie Blut .
+GLOSTER : Ganz recht . Von welcher Farbe ist mein Rock ?
+SIMPCOX : Schwarz , mein ' Treu ; kohlschwarz wie Ebenholz .
+KÖNIG HEINRICH : Du weißt also , wie Ebenholz gefärbt ist ?
+SUFFOLK : Doch , denk ' ich , sah er nie kein Ebenholz .
+GLOSTER : Doch Röck ' und Mäntel schon vor heut in Menge .
+FRAU : Niemals vor heute , all sein Lebenlang .
+GLOSTER : Sag mir , Kerl , wie ist mein Name ?
+SIMPCOX : Ach , Herr , ich weiß nicht .
+GLOSTER : Wie ist sein Name ?
+SIMPCOX : Ich weiß nicht .
+GLOSTER : Auch seinen nicht ?
+SIMPCOX : Nein , fürwahr , Herr .
+GLOSTER : Wie ist dein eigner Name ?
+SIMPCOX : Sander Simpcox , zu Eurem Befehle , Herr .
+GLOSTER : So sitz ' da , Sander , der verlogenste Schelm Der Christenheit . Denn wärst du blind geboren , Du hätt'st all unsre Namen wissen können So gut , als so die Farben nennen , die Wir tragen . Das Gesicht kann Farben unterscheiden , Doch alle zu benennen auf einmal , Das ist unmöglich . Mylords , Sankt Alban hat ein Wunder hier getan ; Und hieltet ihr 's nicht für eine große Kunst , Die diesem Krüppel wieder auf die Beine hülf ?
+SIMPCOX : O Herr , wenn Ihr das könntet !
+GLOSTER : Ihr Leute von Sankt Albans , habt ihr nicht Büttel in eurer Stadt und Dinger , die man Peitschen heißt ?
+SCHULZ : Ja , Mylord , zu Euer Gnaden Befehl .
+GLOSTER : So laßt unverzüglich einen holen .
+SCHULZ : He , Bursch ! Geh , hol ' sogleich den Büttel her !
+Einer aus dem Gefolge ab .
+GLOSTER : Nun holt mir geschwind einen Schemel hieher . Nun , Kerl , wenn Ihr ohne Peitschen davonkommen wollt , so springt mir über den Schemel und lauft davon .
+Es wird ein Schemel gebracht .
+SIMPCOX : Ach , Herr , ich bin nicht imstande , allein zu stehen : Ihr geht damit um , mich vergeblich zu plagen .
+Der Abgeschickte kommt zurück mit dem Büttel .

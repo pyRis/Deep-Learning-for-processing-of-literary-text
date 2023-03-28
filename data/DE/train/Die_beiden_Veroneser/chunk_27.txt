@@ -1,0 +1,26 @@
+JULIA : Verzeiht mir , Herr , ich habe mich geirrt ; Dies ist der Ring , den Ihr an Silvia sandtet .
+Zeigt einen andern .
+PROTEUS : Allein , wie kamst du zu dem Ring ? Beim Abschied Gab ich ihn Julien .
+JULIA : Und Julia gab ihn mir ; Und Julia selbst hat ihn hieher gebracht .
+PROTEUS : Wie ? Julia !
+JULIA : Schau sie , die tausend Eide dir errangen , Die alle tief im Herzen sie bewahrte ; Und wie zerbrach dein Meineid dann dies Herz ! O Proteus , dich beschäme diese Tracht ! Erröte du , daß solch unziemend Kleid Ich angelegt ; wenn Liebe in Verkleidung Sich je entehren kann : Mag Sitt ' entscheiden , wer am schwersten fehle , Vertauscht ein Weib das Kleid , ein Mann die Seele .
+PROTEUS : Ein Mann die Seele ? Wahr , o Himmel ! Treue Nur fehlt dem Mann , vollkommen sich zu nennen ; Der Mangel macht uns jeder Sünd ' ergeben ; Treulosigkeit stirbt ab , noch vor dem Leben . Was ist in Silvia nur , das frischer nicht Die Treue sieht in Juliens Angesicht ?
+VALENTIN : Kommt denn , und reiche jeder seine Hand : Den schönen Bund müßt ihr mich schließen lassen ; Nicht länger darf solch Freundespaar sich hassen .
+PROTEUS : Du , Himmel , weißt , mein Wunsch ist mir erfüllt !
+JULIA : Der meine mir .
+Räuber kommen mit dem Herzog und Thurio .
+RÄUBER : Ha , Beute , Beute !
+VALENTIN : Zurück ! Es ist der Fürst , mein gnäd'ger Herzog . Euer Gnaden sei gegrüßt dem gnadentblößten , Verbannten Valentin !
+HERZOG : Wie , Valentin ?
+THURIO : Silvia ist dort , und Silvia ist mein !
+VALENTIN : Wollt Ihr nicht sterben , Thurio , fort , entweicht ! Kommt nicht so nah , daß Euch mein Zorn erreicht ! Nicht nenne Silvia dein ; wag 's noch einmal , So soll dich Mailand nicht mehr sehn . Hier steht sie , Nicht ihres Kleides Saum darfst du berühren ; – Ja , wag ' nicht anzublicken die Geliebte !
+THURIO : Herr Valentin , ich frage nichts nach ihr ; Den halt ' ich töricht , der sein Leben wagt Um eines Mädchens halb , die ihn nicht liebt ! Ich will sie nicht , und darum sei sie dein .
+HERZOG : Um so nichtswürd'ger bist und schlechter du , So sehr nach ihr zu streben , wie du tatest , Und auf so feige Art sie zu verlassen ! Nun , bei der Ehr ' und Würde meiner Ahnen , Mich freut dein Mut ! Du , Valentin , verdienst Die Liebe selbst der höchsten Kaiserin . Wie du mich hast gekränkt , das sei vergessen : Ich widerrufe , ausgesöhnt , den Bann . – Dein Hochverdienst gibt dir den neuen Stand , Den ich bestät'ge , – Ritter Valentin , Du bist ein Edelmann von altem Blut ; Nimm deine Silvia , du hast sie verdient .
+VALENTIN : Ich dank ' Eu ' r Gnaden ! Mich beglückt die Gabe . Ich bitt ' Euch nun , um Eurer Tochter willen , Gewährt mir eine Gunst , um die ich flehe !
+HERZOG : Gewährt , um deinetwillen , was es sei !
+VALENTIN : Herr , die Verbannten , die mit mir gelebt , Sind Männer , ausgezeichnet in Verdiensten ; Seht ihnen , was sie hier begingen , nach Und ruft aus der Verbannung sie zurück ; Sie sind gebessert , mild und wohl geartet , Geschickt zu großen Diensten , gnäd'ger Herr .
+HERZOG : Es sei gewährt ; Verzeihung dir und ihnen ! Gib ihnen Stellen , die dir passend scheinen . Kommt , laßt uns gehn ; begraben sei Verdruß In Spiel und Lust und seltner Festlichkeit !
+VALENTIN : Und unterwegs , mein gnäd'ger Fürst , versuch ' ich , Euch im Gespräch ein Lächeln zu erregen ; Was denkt Ihr von dem Pagen , hoher Herr ?
+HERZOG : Anmutig ist der Knabe ; er errötet .
+VALENTIN : Anmutig mehr , als Knabe , gnäd'ger Fürst .
+HERZOG : Was meint Ihr mit dem Scherz ?

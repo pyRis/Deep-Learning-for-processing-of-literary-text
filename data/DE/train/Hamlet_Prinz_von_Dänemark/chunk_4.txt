@@ -1,0 +1,44 @@
+HORATIO : Ein müßiggängerischer Hang , mein Prinz .
+HAMLET : Das möcht ' ich Euren Feind nicht sagen hören , Noch sollt Ihr meinem Ohr den Zwang antun , Daß Euer eignes Zeugnis gegen Euch Ihm gültig wär ' . Ich weiß , Ihr geht nicht müßig . Doch was ist Eu ' r Geschäft in Helsingör ? Ihr sollt noch trinken lernen , eh ' Ihr reist .
+HORATIO : Ich kam zu Eures Vaters Leichenfeier .
+HAMLET : Ich bitte , spotte meiner nicht , mein Schulfreund ; Du kamst gewiß zu meiner Mutter Hochzeit .
+HORATIO : Fürwahr , mein Prinz , sie folgte schnell darauf .
+HAMLET : Wirtschaft , Horatio ! Wirtschaft ! Das Gebackne Vom Leichenschmaus gab kalte Hochzeitschüsseln . Hätt ' ich den ärgsten Feind im Himmel lieber Getroffen , als den Tag erlebt , Horatio ! Mein Vater – mich dünkt , ich sehe meinen Vater .
+HORATIO : Wo , mein Prinz ?
+HAMLET : In meines Geistes Aug ' , Horatio .
+HORATIO : Ich sah ihn einst , er war ein wackrer König .
+HAMLET : Er war ein Mann , nehmt alles nur in allem , Ich werde nimmer seinesgleichen sehn .
+HORATIO : Mein Prinz , ich denk ' , ich sah ihn vor'ge Nacht .
+HAMLET : Sah ? wen ?
+HORATIO : Mein Prinz , den König , Euren Vater .
+HAMLET : Den König , meinen Vater ?
+HORATIO : Beruhigt das Erstaunen eine Weil ' Durch ein aufmerksam Ohr ; bis ich dies Wunder , Auf die Bekräftigung der Männer hier , Euch kann berichten .
+HAMLET : Um Gottes willen , laßt mich hören !
+HORATIO : Zwei Nächte nach einander war 's den beiden , Marcellus und Bernardo , auf der Wache In toter Stille tiefer Mitternacht So widerfahren . Ein Schatte wie Eu ' r Vater ( Geharnischt , ganz in Wehr , von Kopf bis Fuß , ) Erscheint vor ihnen , geht mit ernstem Tritt Langsam vorbei und stattlich ; schreitet dreimal Vor ihren starren , furchtergriffnen Augen , So daß sein Stab sie abreicht ; während sie , Geronnen fast zu Gallert durch die Furcht , Stumm stehn , und reden nicht mit ihm . Dies nun In banger Heimlichkeit vertraun sie mir . Ich hielt die dritte Nacht mit ihnen Wache ; Und da , wie sie berichtet , nach der Zeit , Gestalt des Dings , buchstäblich alles wahr , Kommt das Gespenst . Ich kannte Euren Vater : Hier diese Hände gleichen sich nicht mehr .
+HAMLET : Wo ging dies aber vor ?
+MARCELLUS : Auf der Terrasse , wo wir Wache hielten .
+HAMLET : Ihr sprachet nicht mit ihm ?
+HORATIO : Ich tat 's , mein Prinz , Doch Antwort gab es nicht ; nur einmal schien 's , Es höb ' sein Haupt empor und schickte sich Zu der Bewegung an , als wollt ' es sprechen . Doch eben krähte laut der Morgenhahn , Und bei dem Tone schlüpft ' es eilig weg Und schwand aus unserm Blick .
+HAMLET : Sehr sonderbar .
+HORATIO : Bei meinem Leben , edler Prinz , 's ist wahr ; Wir hielten 's durch die Pflicht uns vorgeschrieben , Die Sach ' Euch kund zu tun .
+HAMLET : Im Ernst , im Ernst , ihr Herrn , dies ängstigt mich. Habt ihr die Wache heut ?
+ALLE : Ja , gnäd'ger Herr .
+HAMLET : Geharnischt , sagt ihr ?
+ALLE : Geharnischt , gnäd'ger Herr .
+HAMLET : Vom Wirbel bis zur Zeh ' ?
+ALLE : Von Kopf zu Fuß .
+HAMLET : So saht Ihr sein Gesicht nicht ?
+HORATIO : O ja doch , sein Visier war aufgezogen .
+HAMLET : Nun , blickt ' er finster ?
+HORATIO : Eine Miene , mehr Des Leidens als des Zorns .
+HAMLET : Blaß oder rot ?
+HORATIO : Nein , äußerst blaß .
+HAMLET : Sein Aug ' auf euch geheftet ?
+HORATIO : Ganz fest .
+HAMLET : Ich wollt ' , ich wär ' dabei gewesen .
+HORATIO : Ihr hättet Euch gewiß entsetzt .
+HAMLET : Sehr glaublich , Sehr glaublich . Blieb es lang ' ?
+HORATIO : Derweil mit mäß'ger Eil ' Man hundert zählen konnte .
+MARCELLUS , BERNARDO : Länger , länger .
+HORATIO : Nicht , da ich 's sah .
+HAMLET : Sein Bart war greis , nicht wahr ?

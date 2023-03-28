@@ -1,0 +1,30 @@
+Vier Elfen treten auf .
+ERSTER ELFE : Hier !
+ZWEITER ELFE : Und ich !
+DRITTER ELFE : Und ich !
+VIERTER ELFE : Und ich !
+ALLE : Was sollen wir ?
+TITANIA : Gefällig seid und dienstbar diesem Herrn ! Hüpft , wo er geht , und gaukelt um ihn her ; Sucht Aprikos ' ihm auf und Stachelbeer ' ; Maulbeeren gebt ihm , Feigen , Purpurtrauben . Ihr müßt der Biene Honigsack ihm rauben ; Zur Kerze nehmt von ihr ein wächsern Bein Und steckt es an bei eines Glühwurms Schein , Zu leuchten meinem Freund Bett aus und ein . Mit bunter Schmetterlinge Flügelein Wehrt fächelnd ihm vom Aug ' den Mondenschein . Nun , Elfen , huldigt ihm und neigt euch fein .
+ERSTER ELFE : Heil dir , Sterblicher !
+ZWEITER ELFE : Heil !
+DRITTER ELFE : Heil !
+VIERTER ELFE : Heil !
+ZETTEL : Ich flehe Euer Gnaden von ganzem Herzen um Verzeihung . Ich bitte um Euer Gnaden Namen .
+SPINNWEB : Spinnweb .
+ZETTEL : Ich wünsche näher mit Ihnen bekannt zu werden , guter Musje Spinnweb . Wenn ich mich in den Finger schneide , werde ich so frei sein , Sie zu gebrauchen . – Ihr Name , ehrsamer Herr ?
+BOHNENBLÜTE : Bohnenblüte .
+ZETTEL : Ich bitte Sie , empfehlen Sie mich Madam Hülse , Ihrer Frau Mutter , und Herrn Bohnenschote , Ihrem Herrn Vater . Guter Herr Bohnenblüte , auch mit Ihnen hoffe ich näher bekannt zu werden . – Ihren Namen , mein Herr , wenn ich bitten darf .
+SENFSAMEN : Senfsamen .
+ZETTEL : Lieber Musje Senfsamen , ich kenne Ihre Geduld gar wohl . Jener niederträchtige und ungeschlachte Kerl , Rinderbraten , hat schon manchen wackern Herrn von Ihrem Hause verschlungen . Sei'n Sie versichert , Ihre Freundschaft hat mir schon oft die Augen übergehen machen . Ich wünsche nähere Bekanntschaft , lieber Musje Senfsamen .
+TITANIA : Kommt , führt ihn hin zu meinem Heiligtume ! Mich dünkt , von Tränen blinke Lunas Glanz ; Und wenn sie weint , weint jede kleine Blume Um einen wild zerrißnen Mädchenkranz . Ein Zauber soll des Liebsten Zunge binden : Wir wollen still den Weg zur Laube finden .
+Alle ab .
+Ein andrer Teil des Waldes .
+OBERON Mich wundert 's , ob Titania erwachte , Und welch Geschöpf ihr gleich ins Auge fiel , Worein sie sterblich sich verlieben muß . Da kommt mein Bote ja . – Nun , toller Geist , Was spuken hier im Wald für Abenteuer ?
+tritt auf .
+Droll kommt .
+DROLL : Herr , meine Fürstin liebt ein Ungeheuer . Sie lag in Schlaf versunken auf dem Moos , In ihrer heil'gen Laube dunklem Schoß , Als eine Schar von lump'gen Handwerksleuten , Die mühsam kaum ihr täglich Brot erbeuten , Zusammenkömmt und hier ein Stück probiert , So sie auf Theseus ' Hochzeittag studiert . Der ungesalzenste von den Gesellen , Den Pyramus berufen vorzustellen , Tritt von der Bühn ' und wartet im Gesträuch ; Ich nutze diesen Augenblick sogleich , Mit einem Eselskopf ihn zu begaben . Nicht lange drauf muß Thisbe Antwort haben ; Mein Affe tritt heraus ; kaum sehen ihn Die Freund ' , als sie wie wilde Gänse fliehn , Wenn sie des Jägers leisen Tritt erlauschen ; Wie graue Krähen , deren Schwarm mit Rauschen Und Krächzen auffliegt , wenn ein Schuß geschieht , Und wild am Himmel da- und dorthin zieht . Vor meinem Spuk rollt der sich auf der Erde , Der schreiet » Mord ! « mit kläglicher Gebärde ; Das Schrecken , das sie sinnlos machte , lieh Sinnlosen Dingen Waffen gegen sie . An Dorn und Busch bleibt Hut und Ärmel stecken ; Sie fliehn hindurch , berupft an allen Ecken . In solcher Angst trieb ich sie weiter fort , Nur Schätzchen Pyramus verharret dort . Gleich mußte nun Titania erwachen Und aus dem Langohr ihren Liebling machen .
+OBERON : Das geht ja über mein Erwarten schön . Doch hast du auch den Jüngling von Athen , Wie ich dir auftrug , mit dem Saft bestrichen ?
+DROLL : O ja , ich habe schlafend ihn beschlichen . Das Mädchen ruhte neben ihm ganz dicht : Erwacht er , so entgeht sein Aug ' ihr nicht .
+Demetrius und Hermia treten auf .
+OBERON : Tritt her ; da kommt ja der Athener an .
+DROLL : Das Mädchen ist es , aber nicht der Mann .

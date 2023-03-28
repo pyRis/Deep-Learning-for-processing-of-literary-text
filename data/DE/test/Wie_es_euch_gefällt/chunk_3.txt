@@ -1,0 +1,39 @@
+PROBSTEIN : Fräulein , Ihr müßt zu Eurem Vater kommen .
+CELIA : Seid Ihr als Bote abgeschickt ?
+PROBSTEIN : Nein , auf meine Ehre , man hieß mich nur nach Euch gehn .
+ROSALINDE : Wo hast du den Schwur gelernt , Narr ?
+PROBSTEIN : Von einem gewissen Ritter , der bei seiner Ehre schwur , die Pfannkuchen wären gut , und bei seiner Ehre schwur , der Senf wäre nichts nutz . Nun behaupte ich , die Pfannkuchen waren nichts nutz und der Senf gut , und doch hatte der Ritter nicht falsch geschworen .
+CELIA : Wie beweiset Ihr das in der Hülle und Fülle Eurer Gelahrtheit ?
+ROSALINDE : Ei ja , nun nehmt Eurer Weisheit den Maulkorb ab !
+PROBSTEIN : Tretet beide vor , streicht Euer Kinn , und schwört bei euren Bärten , daß ich ein Schelm bin .
+CELIA : Bei unsern Bärten , wenn wir welche hätten , du bist einer .
+PROBSTEIN : Bei meiner Schelmerei , wenn ich sie hätte , dann wär ' ich einer . Aber wenn ihr bei dem schwört , was nicht ist , so habt ihr nicht falsch geschworen ; ebenso wenig der Ritter , der auf seine Ehre schwur , denn er hatte niemals welche , oder wenn auch , so hatte er sie längst weggeschworen , ehe ihm diese Pfannkuchen und der Senf zu Gesicht kamen .
+CELIA : Ich bitte dich , wen meinst du ?
+PROBSTEIN : Einen , den der alte Friedrich , Euer Vater , liebt .
+CELIA : Meines Vaters Liebe reicht hin , ihm zu Ehre zu verhelfen . Genug , sprecht nicht mehr von ihm ; Ihr werdet gewiß nächstens einmal für Euren bösen Leumund gestäupt .
+PROBSTEIN : Desto schlimmer , daß Narren nicht mehr weislich sagen dürfen , was weise Leute närrisch tun .
+CELIA : Meiner Treu , du sagst die Wahrheit : denn seit das bißchen Witz , was die Narren haben , zum Schweigen gebracht worden ist , so macht das bißchen Narrheit , was weise Leute besitzen , große Parade . Da kommt Monsieur Le Beau .
+Le Beau tritt auf .
+ROSALINDE : Den Mund voll von Neuigkeiten .
+CELIA : Die er uns zukommen lassen wird , wie Tauben ihre Jungen füttern .
+ROSALINDE : Da werden wir also mit Neuigkeiten gemästet .
+CELIA : Desto besser , so stehn wir ansehnlicher zu Markt . Guten Morgen , Monsieur Le Beau ! Was gibt es Neues ?
+LE BEAU : Schöne Prinzessin , Euch ist ein guter Spaß entgangen .
+CELIA : Ein Spaß ? wohin ?
+LE BEAU : Wohin , Madame ? Wie soll ich das beantworten ?
+ROSALINDE : Wie es Witz und Glück verleihen .
+PROBSTEIN : Oder wie das Verhängnis beschließt .
+CELIA : Gut gesagt ! Das war wie mit der Kelle angeworfen .
+PROBSTEIN : Ja , wenn ich meinen Geschmack nicht behaupte –
+ROSALINDE : So verlierst du deinen alten Beischmack .
+LE BEAU : Ihr bringt mich aus der Fassung , meine Damen . Ich wollte euch von einem wackern Ringen erzählen , das ihr versäumt habt mit anzusehn .
+ROSALINDE : Sagt uns doch , wie es dabei herging !
+LE BEAU : Ich will euch den Anfang erzählen , und wenn es Euer Gnaden gefällt , könnt ihr das Ende ansehn ; denn das Beste muß noch geschehen , und sie kommen hieher , wo ihr seid , um es auszuführen .
+CELIA : Gut , den Anfang , der tot und begraben ist .
+LE BEAU : Es kam ein alter Mann mit seinen drei Söhnen , –
+CELIA : Ich weiß ein altes Märchen , das so anfängt .
+LE BEAU : Drei stattliche junge Leute , vortrefflich gewachsen und männlich , –
+ROSALINDE : Mit Zetteln am Halse : » Kund und zu wissen sei männiglich , « –
+LE BEAU : Der älteste unter den dreien rang mit Charles , des Herzogs Ringer . Charles warf ihn in einem Augenblick nieder , und brach ihm drei Rippen entzwei , so daß fast keine Hoffnung für sein Leben ist ; ebenso richtete er den zweiten und den dritten zu . Dort liegen sie , und der arme alte Mann , ihr Vater , erhebt eine so jämmerliche Wehklage über sie , daß alle Zuschauer ihm mit Weinen beistehn .
+ROSALINDE : Ach !
+PROBSTEIN : Aber welches ist der Spaß , Herr , der den Damen entgangen ist ?

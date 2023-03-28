@@ -1,0 +1,44 @@
+VALENTIN : Lanz ! wenn du meinen Pagen sehen solltest , Heiß ' eilen ihn und mich am Nordtor treffen !
+PROTEUS : Geh , hörst du , such ' ihn auf ! Komm , Valentin !
+VALENTIN : Oh , teure Silvia ! Armer Valentin !
+Proteus und Valentin gehn ab .
+LANZ : Ich bin nur ein Narr , seht ihr ; und doch habe ich den Verstand , zu merken , daß mein Herr eine Art von Spitzbube ist ; das ist alles eins , wenn er nur ein ganzer Spitzbube wäre . Der soll noch geboren werden , der da weiß , daß ich verliebt bin ; und doch bin ich verliebt ; aber ein Gespann Pferde soll das aus mir nicht heraus ziehen ; und auch nicht , in wen ich verliebt bin , und doch ist 's ein Weibsbild ; aber was für ein Weibsbild , das will ich nicht einmal mir selbst gestehen , und doch ist 's ein Milchmädchen ; doch ist 's kein Mädchen , denn sie hat Kindtaufe gehalten , und doch ist 's ein Mädchen , denn sie ist ihres Herrn Mädchen und dient um Lohn . Sie hat mehr Qualitäten als ein Hühnerhund , – und das ist viel für einen Christenmenschen . Hier ist der Katzenlog Zieht ein Papier heraus . von ihren Eigenschaften . Imprimis , sie kann tragen und holen . Nun , ein Pferd kann nicht mehr ; ein Pferd kann nicht holen , sondern nur tragen ; deswegen ist sie besser als eine Mähre . Item , sie kann melken ; seht ihr , eine allerliebste Tugend an einem Mädchen , das saubre Hände hat .
+Zieht ein Papier heraus .
+Flink tritt auf .
+FLINK : Heda , Signor Lanz , wo ist mein Gebieter ?
+LANZ : Dein Gebiet , er ? Ich dachte , du wärest sein Gebiet .
+FLINK : Ei , immer dein alter Spaß , die Worte zu verdrehen . Was gibt es denn für Neuigkeiten in deinem Papier ?
+LANZ : Die schwärzeste Neuigkeit , von der du jemals gehört hast .
+FLINK : Nun , Bursch , wie schwarz ?
+LANZ : Ei , so schwarz wie Tinte .
+FLINK : Laß mich sie lesen !
+LANZ : Fort mit dir , Dummkopf ; du kannst nicht lesen .
+FLINK : Du lügst , ich kann .
+LANZ : Ich will dich auf die Probe stellen ; sage mir das : wer zeugte dich ?
+FLINK : Wahrhaftig , der Sohn meines Großvaters .
+LANZ : O du unstudierter Grützkopf ! es war der Sohn deiner Großmutter : das beweist , daß du nicht lesen kannst .
+FLINK : Komm , Narr , komm , mach ' die Probe an deinem Papier .
+LANZ : Hier , und Sankt Nikolas steh ' dir bei !
+FLINK : Imprimis , sie kann melken .
+LANZ : Ja , das kann sie .
+FLINK : Item , sie brauet gutes Bier .
+LANZ : Und daher kommt das Sprichwort : Glück zu , ihr braut gutes Bier .
+FLINK : Item , sie kann nähen und sticken .
+LANZ : Nun , besser als erwürgen .
+FLINK : Item , sie kann stricken .
+LANZ : So braucht der Mann nicht um einen Strick zu sorgen , wenn die Frau stricken kann .
+FLINK : Item , sie kann waschen und scheuern .
+LANZ : Das ist eine besondere Tugend ; denn da braucht man sie nicht zu waschen und zu scheuern .
+FLINK : Item , sie kann spinnen .
+LANZ : So kann ich als Fliege ausfliegen , wenn sie sich mit Spinnen forthilft .
+FLINK : Item , sie hat viele namenlose Tugenden .
+LANZ : Das will sagen , Bastardtugenden ; die kennen eben ihre Väter nicht und haben darum keine Namen .
+FLINK : Jetzt folgen ihre Fehler .
+LANZ : Den Tugenden hart auf dem Fuße .
+FLINK : Item , sie ist wegen ihres Atems nüchtern nicht gut zu küssen .
+LANZ : Nun , der Fehler kann durch ein Frühstück gehoben werden ; lies weiter !
+FLINK : Sie hat einen süßen Mund .
+LANZ : Das ist ein Ersatz für ihren sauern Atem .
+FLINK : Item , sie spricht im Schlaf .
+LANZ : Das ist besser , als wenn sie im Sprechen schliefe .
+FLINK : Item , sie ist langsam im Reden .

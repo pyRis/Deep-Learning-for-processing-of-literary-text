@@ -1,0 +1,34 @@
+LEPIDUS : Ihr spracht ein edles Wort .
+MÄCENAS : Gefiel 's euch doch , nicht ferner zu gedenken Des Streites : um ihn gänzlich zu vergessen , Erinnert euch , wie gegenwärt'ge Not Euch an Versöhnung mahnt !
+LEPIDUS : Ein würd'ges Wort ! –
+ENOBARBUS : Oder wenn ihr euch einer des andern Freundschaft für den Augenblick borgt , könnt ihr sie , wenn vom Pompejus nicht mehr die Rede ist , wieder zurückgeben : ihr mögt Zeit zu zanken finden , wenn ihr sonst nichts anders zu tun habt .
+ANTONIUS : Du bist nur ganz Soldat , drum sprich nicht mehr !
+ENOBARBUS : Ich hätte bald vergessen , daß Wahrheit schweigen muß .
+ANTONIUS : Du kränkst den würd'gen Kreis , drum sprich nicht mehr !
+ENOBARBUS : Schon recht : so bin ich Eu'rvorsicht'ger Stein . –
+CÄSAR : Ich tadle nicht den Inhalt seiner Rede , Nur ihre Weise : denn unmöglich scheint 's , Daß Freundschaft bleibe , wenn die Sinnesart Im Tun so abweicht . Doch , wüßt ' ich den Reif , Der uns verfestigte , von Pol zu Pol Sucht ' ich ihn auf .
+AGRIPPA : Wollt Ihr vergönnen , Cäsar ...
+CÄSAR : Agrippa , sprich !
+AGRIPPA : Du hast 'ne Schwester von der Mutter Seite , Die herrliche Octavia . Der große Marc Anton Ward Witwer , –
+CÄSAR : Sprich kein solches Wort , Agrippa : Hätt ' es Cleopatra gehört , mit Recht Nennte sie jetzt dich übereilt .
+ANTONIUS : Ich bin vermählt nicht , Cäsar : laß mich wissen Agrippas fernre Meinung !
+AGRIPPA : Euch in beständ'ger Freundschaft zu erhalten , Euch brüderlich zu einen , eure Herzen Unlösbar fest zu knüpfen , nehm ' Anton Octavia zur Gemahlin , deren Schönheit Wohl fordern kann den besten Mann der Welt , Und deren Güt ' und Anmut sie erhebt , Mehr als es Worte könnten . Durch dies Bündnis Wird kleine Eifersucht , die groß nun scheint , Und große Frucht , die jetzt Gefahren droht , In Nichts verschwinden : Wahrheit wird dann Märchen , Wie halbe Mär jetzt Wahrheit : – beide liebend , Verstärkt sie eure Wechsellieb ' und zieht Der Völker Liebe nach . – Verzeiht die Rede , Denn sie ward längst geprüft , nicht schnell ersonnen , Pflichtmäßig reif bedacht .
+ANTONIUS : Will Cäsar reden ?
+CÄSAR : Nicht bis er hört , was Marc Anton erwidert Dem schon Gesagten .
+ANTONIUS : Was vermag Agrippa , Wenn ich nun spräch ' : » Agrippa , also sei 's ! « – Dies gut zu machen ? –
+CÄSAR : Cäsars ganze Macht , Und was sein Wort der Schwester gilt .
+ANTONIUS : Nie mög ' ich Dem edlen Antrag , der so herrlich glänzt , Verhind'rung träumen . Reich ' mir deine Hand , Fördre den frommen Bund ; und nun , von Stund ' an , Regier ' in unsrer Liebe Brudereintracht , Das hohe Ziel erstrebend !
+CÄSAR : Nimm die Hand . Dir schenk ' ich eine Schwester , wie kein Bruder So zärtlich eine je geliebt : sie lebe , Zu binden unsre Reich ' und Herzen . Flieh ' Nie wieder unsre Liebe ! –
+LEPIDUS : Glück und Amen ! –
+ANTONIUS : Ich dachte nicht , Pompejus zu bekämpfen , Denn großen Freundschaftsdienst erwies er mir Vor kurzem erst : Dank darf er von mir fordern , Daß mich der Ruf nicht unerkenntlich nenne : – Das abgetan , entbiet ' ich ihn zum Kampf .
+LEPIDUS : Es drängt die Zeit : Pompejus müssen wir alsbald nun suchen , Sonst sucht er uns .
+ANTONIUS : Wo ankert seine Flotte ?
+CÄSAR : Am Vorgebirg ' Misenum .
+ANTONIUS : Seine Landmacht , Wie stark ?
+CÄSAR : Groß und im Wachsen ; doch zur See Gebeut er unumschränkt .
+ANTONIUS : So sagt der Ruf . – Hätt ' ich ihn doch gesprochen ! Hin in Eil ' ! – Doch eh ' wir uns bewaffnen , bringt zu Ende , Was eben ward gelobt !
+CÄSAR : Mit höchster Freude : So lad ' ich Euch zum Anblick meiner Schwester , Und führ ' Euch gleich zu ihr .
+ANTONIUS : Gönnt , Lepidus , Uns Eure Gegenwart !
+LEPIDUS : Edler Antonius , Selbst Krankheit hielt ' mich nicht zurück .
+Trompetenstoß . Cäsar , Antonius und Lepidus ab .
+MÄCENAS : Willkommen von Ägypten , Herr !

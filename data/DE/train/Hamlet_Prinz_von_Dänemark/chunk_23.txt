@@ -1,0 +1,47 @@
+KÖNIG : Habt Ihr den Inhalt gehört ? Wird es kein Ärgernis geben ?
+HAMLET : Nein , nein ; sie spaßen nur , vergiften im Spaß , kein Ärgernis in der Welt .
+KÖNIG : Wie nennt Ihr das Stück ?
+HAMLET : Dies ist ein gewisser Lucianus , ein Neffe des Königs .
+Lucianus tritt auf .
+OPHELIA : Ihr übernehmt das Amt eines Chorus , gnädiger Herr .
+HAMLET : Oh , ich wollte zwischen Euch und Eurem Liebsten Dolmetscher sein , wenn ich die Marionetten nur tanzen sähe .
+OPHELIA : Ihr seid spitz , gnädiger Herr , Ihr seid spitz .
+HAMLET : Ihr würdet zu stöhnen haben , ehe Ihr meine Spitze abstumpftet .
+OPHELIA : Immer noch besser und schlimmer .
+HAMLET : So wählt Ihr Eure Männer ! – Fang ' an , Mörder ! Laß deine vermaledeiten Gesichter , und fang ' an ! Wohlauf : » Es brüllt um Rache das Gekrächz ' des Raben – «
+LUCIANUS : Gedanken schwarz , Gift wirksam , Hände fertig , Gelegne Zeit , kein Wesen gegenwärtig . Du schnöder Trank aus mitternächt'gem Kraut , Dreimal vom Fluche Hekates betaut ! Daß sich dein Zauber , deine grause Schärfe Sogleich auf dies gesunde Leben werfe !
+Gießt das Gift in das Ohr des Schlafenden .
+HAMLET : Er vergiftet ihn im Garten um sein Reich . Sein Name ist Gonzago : die Geschichte ist vorhanden , und in auserlesenem Italienisch geschrieben . Ihr werdet gleich sehn , wie der Mörder die Liebe von Gonzagos Gemahlin gewinnt .
+OPHELIA : Der König steht auf .
+HAMLET : Wie ? durch falschen Feuerlärm geschreckt ?
+KÖNIGIN : Wie geht es meinem Gemahl ?
+POLONIUS : Macht dem Schauspiel ein Ende !
+KÖNIG : Leuchtet mir ! Fort !
+POLONIUS : Licht ! Licht ! Licht !
+Alle ab , außer Hamlet und Horatio .
+HAMLET : Ei , der Gesunde hüpft und lacht , Dem Wunden ist 's vergällt ; Der eine schläft , der andre wacht , Das ist der Lauf der Welt .
+HORATIO : O ja , einen halben Anteil an der Einnahme .
+HAMLET : Denn dir , mein Damon , ist bekannt , Dem Reiche ging zu Grund Ein Jupiter : nun herrschet hier Ein rechter , rechter – Affe .
+HORATIO : Ihr hättet reimen können .
+HAMLET : O lieber Horatio , ich wette Tausende auf das Wort des Geistes . Merktest du ?
+HORATIO : Sehr gut , mein Prinz .
+HAMLET : Bei der Rede vom Vergiften ?
+HORATIO : Ich habe ihn genau betrachtet .
+HAMLET : Ha ha ! – Kommt , Musik ! kommt , die Flöten ! – Denn wenn der König von dem Stück nichts hält , Ei nun ! vielleicht – daß es ihm nicht gefällt .
+Rosenkranz und Güldenstern kommen .
+GÜLDENSTERN : Bester gnädiger Herr , vergönnt mir ein Wort mit Euch !
+HAMLET : Eine ganze Geschichte , Herr .
+GÜLDENSTERN : Der König –
+HAMLET : Nun , was gibt 's mit ihm ?
+GÜLDENSTERN : Er hat sich auf sein Zimmer begeben und ist sehr übel .
+HAMLET : Vom Trinken , Herr ?
+GÜLDENSTERN : Nein , von Galle .
+HAMLET : Ihr solltet doch mehr gesunden Verstand beweisen und dies dem Arzte melden ; denn wenn ich ihm eine Reinigung zumutete , das würde ihm vielleicht noch mehr Galle machen .
+GÜLDENSTERN : Bester Herr , bringt einige Ordnung in Eure Reden , und springt nicht so wild von meinem Auftrage ab !
+HAMLET : Ich bin zahm , Herr : sprecht !
+GÜLDENSTERN : Die Königin , Eure Mutter , hat mich in der tiefsten Bekümmernis ihres Herzens zu Euch geschickt .
+HAMLET : Ihr seid willkommen .
+GÜLDENSTERN : Nein , bester Herr , diese Höflichkeit ist nicht von der rechten Art . Beliebt es Euch , mir eine gesunde Antwort zu geben , so will ich den Befehl Eurer Mutter ausrichten ; wo nicht , so verzeiht , ich gehe wieder , und damit ist mein Geschäft zu Ende .
+HAMLET : Herr , ich kann nicht .
+GÜLDENSTERN : Was , gnädiger Herr ?
+HAMLET : Euch eine gesunde Antwort geben . Mein Verstand ist krank . Aber , Herr , solche Antwort , als ich geben kann , ist zu Eurem Befehl ; oder vielmehr , wie Ihr sagt , zu meiner Mutter Befehl ; drum nichts weiter , sondern zur Sache : Meine Mutter , sagt Ihr –

@@ -1,0 +1,29 @@
+PROTEUS : Sie tat es nur , als Valentin zugegen .
+HERZOG : Ja , und verkehrten Sinns bleibt sie verkehrt . Was tun wir , daß die Dirne bald vergesse , Wie jenen sie geliebt , und Thurio liebe ?
+PROTEUS : Am besten , Valentin so zu verleumden , Als sei er untreu , feig und niedrer Abkunft : Drei Dinge , stets den Weibern sehr verhaßt .
+HERZOG : Doch wird sie denken , daß man spricht in Haß .
+PROTEUS : Ja , wird von einem Feind dies vorgebracht ; Drum muß es mit Beweisen der erklären , Der ihr als Freund des Valentin erscheint .
+HERZOG : Ihn zu verleumden , wärest du der nächste .
+PROTEUS : Mit Widerwillen nur , mein gnäd'ger Fürst ; Es ziemt sich schlecht für einen Edelmann , Besonders gegen seinen wahren Freund .
+HERZOG : Wo Euer Lob ihm nicht von Nutzen ist , Kann Euer Lästern ihm nicht Schaden bringen ; Und drum kann solch ein Dienst Euch nicht verletzen , Da Euch ein Freund um dieses Opfer bittet .
+PROTEUS : Ihr sollt mich überstimmen , gnäd'ger Herr ; Kann mein Entstellen etwas auf sie wirken , Soll ihre Neigung bald verschwunden sein . Doch , reißt dies Valentin aus ihrem Herzen , Liebt sie deshalb noch Signor Thurio nicht .
+THURIO : Drum , wie die Gunst von ihm Ihr abgewickelt , Daß sie sich nicht ganz unbrauchbar verwirre , Müßt Ihr bei mir sie anzuzetteln suchen ; Und das geschieht , wenn Ihr mich so erhebt , Wie Ihr den Signor Valentin erniedrigt .
+HERZOG : Und , Proteus , hierin dürfen wir Euch trauen , Da wir durch Valentins Erzählung wissen , Daß Ihr schon treuen Dienst der Liebe schwuret Und nicht den Sinn zum Meineid wandeln könnt . In dem Vertrau'n sei Zutritt Euch gewährt , Wo Ihr mit Silvia alles könnt besprechen ; Sie ist verdrießlich , düster , melancholisch Und wird , des Freundes halb , Euch gern empfangen ; Da mögt Ihr sie durch Überredung stimmen , Zu hassen Valentin , den Freund zu lieben .
+PROTEUS : Was ich nur irgend kann , soll gern geschehn . Ihr aber , Thurio , zeigt zu wenig Eifer ; Leimruten stellt , um ihren Sinn zu fangen , Durch klagendes Sonett , das , süß gereimt , Ergebnen Dienst in jedem Wort verkündet .
+HERZOG : Ja , viel kann Poesie , das Himmelskind .
+PROTEUS : Singt , daß Ihr auf der Schönheit Weihaltar Ihr Eure Tränen , Seufzer bringt , das Herz ; Schreibt , bis die Tinte trocknet , macht sie fließen Mit Euren Tränen ; rührend sei der Vers , Daß er beglaub'gen mag die Herzensliebe : – Denn Orpheus ' Laut ' erklang von Dichtersehnen ; Dem goldnen Ton erweicht ' sich Stein und Erz , Zahm ward der Leu , der Leviathansriese Entstieg der Flut , um auf dem Strand zu tanzen . Habt Ihr ein rührend Klagelied gesungen , So bringt in stillen Nächten vor ihr Fenster Harmon'schen Gruß , weint zu den Instrumenten Ein weiches Lied ; das Schweigen toter Nacht Wird gut zum Laut der süßen Wehmut stimmen : So , oder niemals , ist sie zu erringen .
+HERZOG : Die Vorschrift zeigt , wie sehr du selbst geliebt .
+THURIO : Heut nacht noch üb ' ich aus , was du geraten : Drum , teurer Proteus , du mein Liebeslehrer , Laß augenblicklich in die Stadt uns gehn Und wohlgeübte Musikanten suchen ; Ich hab ' schon ein Sonett , das trefflich paßt , Als deines Unterrichtes erste Probe .
+HERZOG : So macht euch dran , ihr Herrn !
+PROTEUS : Bis nach der Tafel warten wir Euch auf , Und dann sogleich beginnen wir das Werk .
+HERZOG : Nein , tut es alsobald ; ich geb ' euch frei .
+Alle ab .
+Wald .
+Einige Räuber treten auf .
+ERSTER RÄUBER : Gesellen , halt ; dort kommt ein Reisender .
+ZWEITER RÄUBER : Und wären 's zehn , bangt nicht und macht sie nieder !
+Valentin und Flink kommen .
+DRITTER RÄUBER : Steht , Herr , werft hin das , was Ihr bei Euch tragt : Sonst setzen wir Euch hin , Euch auszuplündern .
+FLINK : Wir sind verloren , Herr ! Das sind die Schufte , Vor denen alle Reisenden sich fürchten .
+VALENTIN : Ihr Freunde –
+ERSTER RÄUBER : Das sind wir nicht , Herr ; wir sind Eure Feinde .

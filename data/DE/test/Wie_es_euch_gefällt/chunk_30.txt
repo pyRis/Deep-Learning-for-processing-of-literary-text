@@ -1,0 +1,26 @@
+OLIVER : Und Euch , schöne Schwester !
+ROSALINDE : O mein lieber Orlando , wie bekümmert es mich , dich dein Herz in einer Binde tragen zu sehn .
+ORLANDO : Meinen Arm .
+ROSALINDE : Ich dachte , dein Herz wäre von den Klauen eines Löwen verwundet worden .
+ORLANDO : Verwundet ist es , aber von den Augen eines Fräuleins .
+ROSALINDE : Hat Euch Euer Bruder erzählt , wie ich mich stellte , als fiel ich in Ohnmacht , da er mir Euer Tuch zeigte ?
+ORLANDO : Ja , und größere Wunder als das .
+ROSALINDE : Oh , ich weiß , wo Ihr hinaus wollt . – Ja , es ist wahr , niemals ging noch etwas so schnell zu , außer etwa ein Gefecht zwischen zwei Widdern , und Cäsars thrasonisches Geprahle : » Ich kam , sah und siegte. « Denn Euer Bruder und meine Schwester trafen sich nicht so bald , so sahen sie ; sahen nicht so bald , so liebten sie ; liebten nicht so bald , so seufzten sie ; seufzten nicht so bald , so fragten sie einander nach der Ursache ; wußten nicht so bald die Ursache , so suchten sie das Hülfsmittel ; und vermittelst dieser Stufen haben sie eine Treppe zum Ehestande gebaut , die sie unaufhaltsam hinaufsteigen , oder unenthaltsam vor dem Ehestande sein werden . Sie sind in der rechten Liebeswut , sie wollen zusammen , man brächte sie nicht mit Keulen auseinander .
+ORLANDO : Sie sollen morgen verheiratet werden , und ich will den Herzog zur Vermählung laden . Aber ach ! welch bittres Ding ist es , Glückseligkeit nur durch andrer Augen zu erblicken ! Um desto mehr werde ich morgen auf dem Gipfel der Schwermut sein , je glücklicher ich meinen Bruder schätzen werde , indem er hat , was er wünscht .
+ROSALINDE : Wie nun ? morgen kann ich Euch nicht statt Rosalindens dienen ?
+ORLANDO : Ich kann nicht länger von Gedanken leben .
+ROSALINDE : So will ich Euch denn nicht länger mit eitlem Geschwätz ermüden . Wißt also von mir ( denn jetzt rede ich nicht ohne Bedeutung ) , daß ich weiß , Ihr seid ein Edelmann von guten Gaben . Ich sage dies nicht , damit Ihr eine gute Meinung von meiner Wissenschaft fassen sollt , insofern ich sage : ich weiß , daß Ihr es seid ; noch strebe ich nach einer größern Achtung , als die Euch einigermaßen Glauben ablocken kann , zu Eurem eignen Besten , nicht zu meinem Ruhm . Glaubt denn , wenn 's Euch beliebt , daß ich wunderbare Dinge vermag : seit meinem dritten Jahre hatte ich Verkehr mit einem Zauberer von der tiefsten Einsicht in seiner Kunst , ohne doch verdammlich zu sein . Wenn Euch Rosalinde so sehr am Herzen liegt , als Euer Benehmen laut bezeugt , so sollt Ihr sie heiraten , wann Euer Bruder Aliena heiratet . Ich weiß , in welche bedrängte Lage sie gebracht ist , und es ist mir nicht unmöglich , wenn Ihr nichts dagegen habt , sie Euch morgen vor die Augen zu stellen , leibhaftig und ohne Gefährde .
+ORLANDO : Sprichst du in nüchternem Ernst ?
+ROSALINDE : Seht , da kommen Verliebte , die eine in mich und der andere in sie .
+Silvius und Phöbe treten auf .
+PHÖBE : Es war von Euch sehr unhold , junger Mann , Den Brief zu zeigen , den ich an Euch schrieb .
+ROSALINDE : Ich frage nichts danach , es ist mein Streben , Verachtungsvoll und unhold Euch zu scheinen . Es geht Euch da ein treuer Schäfer nach : Ihn blickt nur an , ihn liebt , er huldigt Euch .
+PHÖBE : Sag , guter Schäfer , diesem jungen Mann , Was lieben heißt .
+SILVIUS : Es heißt , aus Seufzern ganz bestehn und Tränen , Wie ich für Phöbe .
+PHÖBE : Und ich für Ganymed .
+ORLANDO : Und ich für Rosalinde .
+ROSALINDE : Und ich für keine Frau .
+SILVIUS : Es heißt , aus Treue ganz bestehn und Eifer , Wie ich für Phöbe .
+PHÖBE : Und ich für Ganymed .
+ORLANDO : Und ich für Rosalinde .
+ROSALINDE : Und ich für keine Frau .

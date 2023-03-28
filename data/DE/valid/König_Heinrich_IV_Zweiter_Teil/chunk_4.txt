@@ -1,0 +1,26 @@
+UNTERBEAMTER : Sir John , –
+FALSTAFF : Was ? Ein so junger Bursch und betteln ? Gibt 's keine Kriege ? Gibt es keinen Dienst ? Braucht der König keine Untertanen ? Haben die Rebellen keine Soldaten nötig ? Ob es wohl eine Schande ist , anderswo als auf der einen Seite zu sein , so ist es doch noch ärgere Schande , zu betteln , als auf der ärgsten Seite zu sein , wäre sie auch noch ärger , als der Name Rebelliones ausdrücken kann .
+UNTERBEAMTER : Ihr irrt Euch in mir , Herr .
+FALSTAFF : Ei , Herr , sagte ich , Ihr wärt ein ehrlicher Mann ? Mein Rittertum und meine Soldatenschaft bei Seite gesetzt , hätte ich in meinen Hals hinein gelogen , wenn ich das gesagt hätte .
+UNTERBEAMTER : Dann bitte ich Euch , Herr , setzt Euer Rittertum und Eure Soldatenschaft bei Seite , und gebt mir Verlaub , Euch zu sagen , daß Ihr es in Euern Hals hineinlügt , wenn Ihr sagt , ich sei was anders als ein ehrlicher Mann .
+FALSTAFF : Ich dir Verlaub geben , mir das zu sagen ? Ich bei Seite setzen , was mir anhängt ? Wenn du von mir Verlaub bekommst , so häng ' mich auf ; wenn du dir Verlaub nimmst , so solltest du gehängt werden . Du Mäusefänger , fort ! Heb ' dich weg !
+UNTERBEAMTER : Der Lord will mit Euch sprechen .
+OBERRICHTER : Sir John Falstaff , auf ein Wort !
+FALSTAFF : Mein bester Herr ! – Gott erhalte Euer Gnaden in gutem Wohlsein ! Es freut mich , Euer Gnaden außer Hause zu sehn , ich hörte , Euer Gnaden wären krank , ich hoffe , Euer Gnaden gehen nicht ohne Erlaubnis aus . Euer Gnaden sind zwar noch nicht ganz über die Jugend weg , aber Sie haben doch schon einen kleinen Beischmack vom Alter , eine Würzung vom Salze der Zeit , und ich ersuche Euer Gnaden untertänig , mit aller Sorgfalt über Dero Gesundheit zu wachen .
+OBERRICHTER : Sir John , ich habe vor Eurem Abmarsch nach Shrewsbury nach Euch geschickt .
+FALSTAFF : Mit Euer Gnaden Erlaubnis , ich höre , daß Seine Majestät mit einigem Ungemach von Wales zurückgekommen ist .
+OBERRICHTER : Ich rede nicht von Seiner Majestät . – Ihr wolltet nicht kommen , da ich nach Euch schickte .
+FALSTAFF : Und ich höre außerdem , daß Seine Hoheit von der alten verwünschten Apoplexie befallen ist .
+OBERRICHTER : Nun , der Himmel lasse ihn genesen ! Ich bitte , laßt mich mit Euch sprechen !
+FALSTAFF : Diese Apoplexie ist meines Bedünkens eine Art von Lethargie , wenn Euer Gnaden erlauben ; eine Art von Schlafen im Blut , ein verwettertes Kitzeln .
+OBERRICHTER : Wie gehört das hieher ? Es sei , was es wolle , –
+FALSTAFF : Es hat seinen Ursprung von vielem Kummer ; von Studieren und Zerrüttungen des Gehirns . Ich habe die Ursache seiner Wirkungen beim Galenus gelesen : es ist eine Art von Taubheit .
+OBERRICHTER : So scheint 's , Ihr seid von dem Übel befallen , denn Ihr hört nicht , was ich Euch sage .
+FALSTAFF : Oh , sehr gut , gnädiger Herr , sehr gut ! Es ist vielmehr , wenn 's Euch beliebt , das Übel des Nicht-Aufhorchens , die Krankheit des Nicht-Achtgebens , womit ich behaftet bin .
+OBERRICHTER : Euch an den Füßen zu strafen , würde die Aufmerksamkeit Eurer Ohren verbessern , und es kommt mir nicht darauf an , einmal Euer Arzt zu sein .
+FALSTAFF : Ich bin so arm wie Hiob , gnädiger Herr , aber nicht so geduldig . Euer Gnaden können mir den Trank der Verhaftung anbefehlen , in Betracht meiner Armut ; ob ich aber geduldig sein würde , Eure Vorschriften zu befolgen , daran kann der Weise einen Gran von einem Skrupel , ja wohl gar einen ganzen Skrupel hegen .
+OBERRICHTER : Ich schickte nach Euch , als Dinge wider Euch auf Leib und Leben vorgebracht wurden , um mit mir darüber zu sprechen .
+FALSTAFF : Wie mir damals mein in den Gesetzen des Landdienstes erfahrner Sachwalter riet , kam ich nicht .
+OBERRICHTER : Nun , die Wahrheit ist , Sir John , Ihr lebt in großer Schande .
+FALSTAFF : Wer meinen Gürtel umschnallt , kann nicht in geringerer leben .
+OBERRICHTER : Eure Mittel sind schmal , und Ihr lebt auf einem großen Fuß .

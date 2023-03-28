@@ -1,0 +1,39 @@
+MESSALA : So trägt ein großer Mann ein großes Unglück .
+CASSIUS : Durch Kunst hab ' ich so viel hievon als Ihr , Doch die Natur ertrüg 's in mir nicht so .
+BRUTUS : Wohlan , zu unserm lebenden Geschäft ! Was denkt Ihr ? Ziehn wir nach Philippi gleich ?
+CASSIUS : Mir scheint 's nicht ratsam .
+BRUTUS : Euer Grund ?
+CASSIUS : Hier ist er : Weit besser ist es , wenn der Feind uns sucht : So wird er , sich zum Schaden , seine Mittel Erschöpfen , seine Krieger müde machen . Wir liegen still indes , bewahren uns In Ruh ' , wehrhaftem Stand und Munterkeit .
+BRUTUS : Den bessern Gründen müssen gute weichen Das Land von hier bis nach Philippi hin Beweist uns nur aus Zwang Ergebenheit , Denn murrend hat es Lasten uns gezahlt . Der Feind , indem er durch dasselbe zieht , Wird seine Zahl daraus ergänzen können Und uns erfrischt , vermehrt , ermutigt nahn . Von diesem Vorteil schneiden wir ihn ab , Wenn zu Philippi wir die Stirn ihm bieten , Dies Volk im Rücken .
+CASSIUS : Hört mich , lieber Bruder !
+BRUTUS : Erlaubt mir gütig ! – Ferner müßt Ihr merken , Daß wir von Freunden alles aufgeboten , Daß unsre Legionen übervoll , Und unsre Sache reif . Der Feind nimmt täglich zu : Wir , auf dem Gipfel , stehn schon an der Neige . Der Strom der menschlichen Geschäfte wechselt : Nimmt man die Flut wahr , führet sie zum Glück ; Versäumt man sie , so muß die ganze Reise Des Lebens sich durch Not und Klippen winden . Wir sind nun flott auf solcher hohen See Und müssen , wenn der Strom uns hebt , ihn nutzen ; Wo nicht , verlieren wir des Zufalls Gunst .
+CASSIUS : So zieht denn , wie Ihr wollt ; wir rücken selbst , Dem Feind entgegen , nach Philippi vor .
+BRUTUS : Die tiefe Nacht hat das Gespräch beschlichen , Und die Natur muß frönen dem Bedürfnis , Das mit ein wenig Ruh ' wir täuschen wollen . Ist mehr zu sagen noch ?
+CASSIUS : Nein . Gute Nacht ! Früh stehn wir also morgen auf , und fort !
+BRUTUS : Lebt wohl , Messala ! Gute Nacht , Titinius ! Edler , edler Cassius , Gute Nacht und sanfte Ruh ' !
+Lucius ab .
+CASSIUS : O teurer Bruder ! Das war ein schlimmer Anfang dieser Nacht . Nie trenne solcher Zwiespalt unsre Herzen , Nie wieder , Brutus !
+BRUTUS : Alles steht ja wohl .
+CASSIUS : Nun gute Nacht !
+BRUTUS : Gute Nacht , mein guter Bruder !
+TITINIUS UND MESSALA : Mein Feldherr , gute Nacht !
+BRUTUS : Lebt alle wohl !
+Cassius , Titinius und Messala ab .
+Lucius kommt zurück mit dem Nachtkleide .
+BRUTUS : Gib das Gewand . Wo hast du deine Laute ?
+LUCIUS : Im Zelte hier .
+BRUTUS : Wie ? schläfrig ? Armer Schelm , Ich tadle drum dich nicht : du hast dich überwacht . Ruf Claudius her und andre meiner Leute , Sie sollen hier im Zelt auf Kissen schlafen .
+LUCIUS : Varro und Claudius !
+Varro und Claudius kommen .
+VARRO : Ruft mein Gebieter ?
+BRUTUS : Ich bitt ' euch , liegt in meinem Zelt und schlaft ; Bald weck ' ich euch vielleicht , um irgend was Bei meinem Bruder Cassius zu bestellen .
+VARRO : Wenn 's Euch geliebt , wir wollen stehn und warten .
+BRUTUS : Vielleicht verändert noch sich mein Entschluß . – Sieh , Lucius , hier das Buch , das ich so suchte : Ich steckt ' es in die Tasche des Gewandes .
+Die beiden Diener legen sich nieder .
+LUCIUS : Ich wußte wohl , daß mein Gebieter mir Es nicht gegeben .
+BRUTUS : Hab ' Geduld mit mir , Mein guter Junge : ich bin sehr vergeßlich . Hältst du noch wohl die müden Augen auf Und spielst mir ein paar Weisen auf der Laute ?
+LUCIUS : Ja , Herr , wenn 's Euch geliebt .
+BRUTUS : Das tut 's , mein Junge . Ich plage dich zu viel , doch du bist willig .
+LUCIUS : Es ist ja meine Pflicht .
+BRUTUS : Ich sollte dich Zur Pflicht nicht über dein Vermögen treiben ; Ich weiß , daß junges Blut auf Schlafen hält .
+LUCIUS : Ich habe schon geschlafen , mein Gebieter .

@@ -1,0 +1,25 @@
+knieend .
+KÖNIG : Dein Aufstehn sei die Zahlung ! –
+LAFEU : Wohl ! Hier steh ' ich Und kaufe mir Verzeihn . Ich wünschte , Sire , Ihr hättet hier gekniet , um mich zu bitten , Und könntet aufstehn , wenn ich 's Euch geheißen .
+KÖNIG : Ich gleichfalls ! Dann zerschlüg ' ich dir den Kopf Und bät ' dich um Verzeihung .
+LAFEU : Kreuzweis ' wohl gar ? Doch , teurer Herr , erlaubt : Wünscht Ihr geheilt zu sein von Eurer Krankheit ?
+KÖNIG : Nein .
+LAFEU : Wollt Ihr nicht die schönen Trauben essen , Mein königlicher Fuchs ? O ja , Ihr wollt ; Wenn nur mein königlicher Fuchs die Trauben Erreichen könnt ' ! – Ich hab ' Arznei gesehn , Die hauchte wohl den Steinen Leben ein , Brächt ' einen Fels in Gang und macht ' Euch selbst Gaillarden tanzen flink und leicht ; berührt Von ihrer Hand , erstände Fürst Pipin , Ja , Carol Magnus nahm ' zur Hand die Feder Und schriebe Vers ' an sie .
+KÖNIG : An welche Sie ?
+LAFEU : Ei , eine Ärztin , Sire : sie ist schon hier , Wenn Ihr sie ansehn wollt . Auf Her ' und Treu ' , Wenn ich nach diesem leichten Vortrag ernstlich Berichten darf : – ich sprach mit einem Mädchen , Das mich durch Absicht , Jugend und Geschlecht , Verstand und festen Sinn so sehr entzückt , Daß ich mich drum nicht tadle . Seht sie selbst ( Das ist ihr Wunsch ) und hört , was sie Euch bringt ; Dann lacht mich aus nach Lust !
+KÖNIG : Nun , Freund Lafeu , Zeig ' uns dies Wunder , daß wir ihm mit dir Unser Erstaunen zollen , oder deins Vermindern durch Erstaunen , wie dir 's kam .
+LAFEU : Nun , ich will Euch bedienen , und sogleich .
+Lafeu geht .
+KÖNIG : So hält er stets Prologe seinem Nichts .
+Lafeu kommt zurück mit Helena .
+LAFEU : Nun tretet vor !
+KÖNIG : Die Eil ' hat wahrlich Flügel !
+LAFEU : Nein , tretet vor ! Hier Seine Majestät : sagt Euern Wunsch ! Eu ' r Blick ist sehr verrät'risch , doch der König Scheut selten solcherlei Verrat ; ich bin Der Oheim Cressidas , der 's wagen darf , Zwei so allein zu lassen . Fahrt nun wohl !
+Geht ab .
+KÖNIG : Nun , schönes Kind , habt Ihr mit uns Geschäfte ?
+HELENA : Ja , hoher König . Gerhard von Narbonne war Mein Vater , wohlerprobt in seiner Kunst .
+KÖNIG : Ich kannt ' ihn .
+HELENA : So eh ' r erspar ' ich mir , ihn Euch zu rühmen ; Ihn kennen , ist genug . Auf seinem Todbett Gab er mir manch Rezept ; vor allen eins , Das als die höchste Blume seiner Forschung Und vielerfahrnen Praxis liebstes Kleinod Er mich verwahren hieß als dreifach Auge , Teurer als meine beiden . Also tat ich ; Und hörend , wie Eu ' r Majestät verschmachtet An jener bösen Krankheit , die den Ruhm Von meines Vaters Kunst zumeist erhöht , Kam ich mit Wünschen und mit Demut , Euch Die Rettung anzubieten .
+KÖNIG : Dank Euch , Jungfrau . Doch glaub ' ich nicht so leicht an Heilung mehr , Wo so gelehrte Ärzt ' uns aufgegeben , Und die vereinte Fakultät entschied , Kunst könne nie aus unheilbarem Zustand Natur erlösen . Drum soll unser Urteil Nicht so abirrn , noch Hoffnung uns verleiten , Ein rettungsloses Übel preis zu geben Quacksalbern ; Majestät und Zutraun so Zu schmähn , sinnlosem Beistand nachzutrachten , Wenn wir als Unsinn allen Beistand achten .
+HELENA : So zahlt die treue Pflicht mir mein Bemühn : Nicht weiter sei mein Dienst Euch aufgedrängt ; Und nur in Demut bitt ' ich Eure Hoheit Bescheidentlich , mich gnädig zu entlassen .
+KÖNIG : Das ist das mind'ste , was ich muß gewähren ; Dein guter Wunsch ist meines Dankes wert , Weil stets der Kranke gern von Bess'rung hört ; Doch was du ganz verkennst , durchschau ' ich klar : Wie fern dein Trost , wie nah mir die Gefahr .

@@ -1,0 +1,59 @@
+Thurio , Proteus und Julia treten auf .
+THURIO : Was sagt zu meinem Werben Silvia ?
+PROTEUS : Oh , Herr , ich fand sie milder als bisher ; Doch hat sie viel an Euch noch auszustellen .
+THURIO : Was , daß mein Bein zu lang ist ?
+PROTEUS : Nein ; zu dünn .
+THURIO : So trag ' ich Stiefeln , daß es runder wird .
+PROTEUS : Was Liebe scheut , wer kann sie dazu spornen ?
+THURIO : Und mein Gesicht ?
+PROTEUS : Sie sagt , es sei zu weiß .
+THURIO : Da lügt der Schalk ; denn mein Gesicht ist schwarz .
+PROTEUS : Doch weiß sind Perlen ; und das Sprichwort sagt : Ein schwarzer Mann ist Perl ' in Damenaugen .
+JULIA Ja , Perlen , die der Damen Augen kränken ; Denn lieber wegsehn , als auf sie zu blicken .
+beiseit .
+THURIO : Gefällt ihr mein Gespräch ?
+PROTEUS : Schlecht , redet Ihr von Krieg .
+THURIO : Doch gut , wenn ich von Lieb ' und Frieden redet ?
+JULIA Am besten , sicher , wenn Ihr friedlich schweigt .
+beiseit .
+THURIO : Was aber sagte sie von meinem Mut ?
+PROTEUS : Oh , Herr , darüber hat sie keinen Zweifel .
+JULIA Nicht nötig , weil sie seine Feigheit kennt .
+beiseit .
+THURIO : Doch was von meiner Abkunft ?
+PROTEUS : Daß Ihr sehr hoch herab gekommen seid .
+JULIA Gewiß ; vom Edelmann zum Narr'n herab .
+beiseit .
+THURIO : Erwägt sie auch mein großes Gut ?
+PROTEUS : Ja , mit Bedauern .
+THURIO : Weshalb ?
+JULIA Weil einem Esel es gehört .
+beiseit .
+PROTEUS : Weil Ihr 's nicht selbst verwaltet .
+JULIA : Hier kommt der Herzog .
+Der Herzog tritt auf .
+HERZOG : Wie steht 's , Herr Proteus ? Thurio , wie steht 's ? Wer von euch sah den Eglamour seit kurzem ?
+THURIO : Ich nicht .
+PROTEUS : Ich auch nicht .
+HERZOG : Saht ihr Silvia ?
+PROTEUS : Nein .
+HERZOG : So floh sie hin zu Valentin , dem Knecht ; Und Eglamour ist es , der sie begleitet . Gewiß ; denn Bruder Lorenz traf sie beide , Als im Gebet er durch die Waldung ging ; Ihn kannt ' er wohl und glaubt ' auch , sie zu kennen ; Doch macht ' ihn ihre Maske ungewiß ; Auch gab sie vor , sie woll ' am Abend beichten In des Patricius Zell ' , und war nicht dort ; Durch diese Zeichen wird die Flucht bestätigt . Deswegen , bitt ' ich , weilt nicht lang beratend , Nein , gleich zu Pferd ; und trefft mich beide dort Am Fuße des Gebirges , auf dem Hügel , Der sich nach Mantua zieht : da flohn sie hin ; Beeilt euch , teure Herrn , und folgt mir nach !
+Geht ab .
+THURIO : Nun ja , da haben wir das kind'sche Ding . Die ihrem Glück entflieht , wenn es ihr folgt . Nach ! mehr , um mich an Eglamour zu rächen , Als , weil ich Silvia noch , die Törin , liebe .
+Geht ab .
+PROTEUS : Ich folge , mehr , weil Silvia meine Liebe , Als Eglamour , der mit ihr geht , mein Haß !
+Geht ab .
+JULIA : Ich folge , mehr , zu kreuzen diese Liebe , Als Silvia hassend , die geflohn aus Liebe .
+Geht ab .
+Wald .
+Silvia und die Räuber kommen .
+RÄUBER : Kommt , kommt ! Geduld , wir bringen Euch zu unserm Hauptmann .
+SILVIA : Durch tausend große Unglücksfälle lernt ' ich Den heutigen ertragen mit Geduld .
+ZWEITER RÄUBER : Kommt , führt sie weg !
+ERSTER RÄUBER : Wo ist der Edelmann , der bei ihr war ?
+DRITTER RÄUBER : Geschwind von Füßen , ist er uns entlaufen , Doch Moses und Valerius folgen ihm . Geh mit ihr nach des Waldes Abendseite , Dort ist der Hauptmann ; wir dem Flücht'gen nach ; Das Dickicht ist besetzt , er kann nicht durch .
+ERSTER RÄUBER : Kommt , Ihr müßt mit zu unsers Hauptmanns Höhle ; Seid unbesorgt , er ist von edlem Sinn , Und keinem Weibe fügt er Unrecht zu .
+SILVIA : O Valentin , das duld ' ich deinethalb !
+Alle ab .
+Wald .
+Valentin tritt auf .

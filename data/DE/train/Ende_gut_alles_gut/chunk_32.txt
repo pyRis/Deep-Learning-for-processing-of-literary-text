@@ -1,0 +1,30 @@
+HELENA : Daß Ihr geruhn mögt , Dies arme Blatt dem König einzuhänd'gen Und mir mit Euerm Einfluß beizustehn . Daß er mich hören wolle .
+EDELMANN : Der König ist nicht hier .
+HELENA : Nicht hier , Herr ?
+EDELMANN : Nein , Er reiste gestern nacht von hier , und schneller , Als er sonst pflegt .
+WITWE : Gott , welch vergeblich Mühn !
+HELENA : Ende gut , alles gut ! Bleibt doch mein Trost , Ob auch die Zeit entgegen , schwach die Kraft . Ich bitt ' Euch , sagt , wohin er abgereist ?
+EDELMANN : Nun , wenn ich recht gehört , nach Roussillon , Wohin ich selber gehn will .
+HELENA : Ich ersuch ' Euch , Da Ihr den König eh ' r wohl seht als ich , Legt dies Papier in seine gnäd'ge Hand ; Ich hoff ' , es zieht Euch keinen Tadel zu , Vielleicht verdient es eh ' r Euch einen Dank . Ich werd ' Euch folgen mit so schneller Eil ' , Wie irgend möglich .
+EDELMANN : Das soll gern geschehn .
+HELENA : Und Euer wartet einst der beste Dank , Was auch geschehn mag . Jetzt zu Pferde wieder ; Auf , laßt uns eilen !
+Sie gehn ab .
+Roussillon .
+Der Narr und Parolles treten auf .
+PAROLLES : Liebster Monsieur Lavache , gebt dem gnädigen Herrn Lafeu diesen Brief : Ihr habt mich wohl sonst vornehmer gekannt , Herr , als ich noch mit frischeren Kleidern in vertrautem Umgang lebte ; aber nun , Herr , bin ich in Fortunens Morast muddig geworden und rieche etwas streng nach ihrer strengen Ungnade .
+NARR : Mein ' Seel ' , Fortunens Ungnade muß recht garstig sein , wenn sie so strenge riecht , wie du sagst . Ich werde künftig keinen Fisch aus Fortunens Bratpfanne mehr essen . Bitt ' dich , stelle dich unter den Wind !
+PAROLLES : Nun , Freund , Ihr braucht Euch die Nase drum nicht zuzuhalten , ich rede nur in einer Metapher .
+NARR : Ja , mein Bester , wenn Eure Metapher stinkt , so werde ich meine Nase zuhalten , und das bei jedermanns Metapher . Bitt ' ich , geh fürbaß !
+PAROLLES : Habt die Gewogenheit , mein Freund , und besorgt mir dies Papier !
+NARR : Puh ! Mache , daß du wegkommst ; ein Papier aus Fortunens Nachtstuhl einem Edelmann geben ? Sieh , da kommt er selbst . Hier ist ein Kater der Fortuna , Herr , – oder eine Fortuna-Katze , – aber keine Bisamkatze , – welche in den unsaubern Fischteich ihrer Ungnade gefallen und , wie er sagt , muddig geworden ist . Ich bitte Euch , Herr , verfahrt mit diesem Karpfen , wie Ihr Lust habt , denn er sieht aus wie ein armer , schäbiger , kniffiger , schelmenhafter Taugenichts . Ich bemitleide seinen Unstern mit meinem trostreichen Lächeln und lasse ihn Euer Gnaden . Geht ab .
+Lafeu tritt auf .
+Geht ab .
+PAROLLES : Gnädiger Herr , ich bin ein Mann , den Fortuna jämmerlich zerkratzt hat .
+LAFEU : Und was kann ich dabei tun ? Jetzt ist 's zu spät , ihr die Nägel zu schneiden . Was habt Ihr der Fortuna für Streiche gespielt , daß sie Euch kratzen mußte ? An sich ist sie doch eine gute Dame , die nur nicht leiden kann , daß es den Schelmen zu lange unter ihrem Schutz wohl gehe . Da habt Ihr einen Quart d'Ecu – laßt Euch die Richter wieder mit ihr aussöhnen ; ich habe mehr zu tun .
+PAROLLES : Ich ersuche Euer Gnaden , hört mich nur auf ein einziges Wort !
+LAFEU : Ihr bittet um einen einzigen Pfennig mehr : gut , Ihr sollt ihn haben ; spart Euer Wort !
+PAROLLES : Mein Name , gnädiger Herr , ist Parolles .
+LAFEU : So bittet Ihr mich um mehr als ein Wort . Potz Element ! Gebt mir Eure Hand ; was macht Eure Trommel ?
+PAROLLES : Oh , mein gnädiger Herr , Ihr wart der erste , der mich ausfand .
+LAFEU : War ich 's , wirklich ? Und ich war auch der erste , der dich verlor .
+PAROLLES : Nun steht 's bei Euch , gnädiger Herr , mich wieder in einige Gnade zu bringen ; denn Ihr brachtet mich heraus .

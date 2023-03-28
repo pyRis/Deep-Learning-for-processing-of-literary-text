@@ -1,0 +1,28 @@
+König Lears Palast .
+Kent , Gloster und Edmund .
+KENT : Ich dachte , der König sei dem Herzog von Albanien gewogener , als dem von Cornwall .
+GLOSTER : So schien es uns immer ; doch jetzt , bei der Teilung des Reichs , zeigt sich 's nicht , welchen der beiden Herzoge er höher schätzt . Denn so gleichmäßig sind die Teile abgewogen , daß die genaueste Forschung selbst sich für keine der Hälften entscheiden könnte .
+KENT : Ist das nicht Euer Sohn , Mylord ?
+GLOSTER : Seine Erziehung ist mir zur Last gefallen : ich mußte so oft erröten , ihn anzuerkennen , daß ich nun dagegen gestählt bin .
+KENT : Ich verstehe Euch nicht .
+GLOSTER : Seine Mutter und ich verstanden uns nur zu gut , und dies Einverständnis verschaffte ihr früher einen Sohn für ihre Wiege , als einen Mann für ihr Bett . Merkt Ihr was von einem Fehltritt ?
+KENT : Ich kann den Fehltritt nicht ungeschehen wünschen , da der Erfolg davon so anmutig ist .
+GLOSTER : Doch habe ich auch einen rechtmäßigen Sohn , einige Jahre älter als dieser , den ich aber darum nicht höher schätze . Obgleich dieser Schelm etwas vorwitzig in die Welt kam , eh ' er gerufen ward , so war doch seine Mutter schön , es ging lustig her bei seinem Entstehen , und der Bankert durfte nicht verleugnet werden . Kennst du diesen edeln Herrn , Edmund ?
+EDMUND : Nein , Mylord .
+GLOSTER : Mylord von Kent : gedenke sein hinfort als meines geehrten Freundes !
+EDMUND : Mein Dienst sei Euer Gnaden gewidmet .
+KENT : Ich muß Euch lieben und bitte um Eure nähere Bekanntschaft .
+EDMUND : Ich werde sie zu verdienen suchen .
+GLOSTER : Er war neun Jahre im Auslande , und soll wieder fort . Der König kommt !
+Man hört Trompeten .
+König Lear , Cornwall , Albanien , Goneril , Regan , Cordelia und Gefolge treten auf .
+LEAR : Führt ein die Herrn von Frankreich und Burgund , Gloster !
+GLOSTER : Sehr wohl , mein König !
+Gloster und Edmund ab .
+LEAR : Derweil enthüll'n wir den verschwiegnen Vorsatz . Die Karte dort ! – Wißt , daß wir unser Reich Geteilt in drei . 's ist unser fester Schluß , Von unserm Alter Sorg ' und Müh ' zu schütteln , Sie jüngerer Kraft vertrauend , während wir Zum Grab entbürdet wanken . Sohn von Cornwall , Und Ihr , gleich sehr geliebter Sohn Albanien , Wir sind jetzund gewillt , bekannt zu machen Der Töchter festbeschiedne Mitgift , daß Wir künft'gem Streite so begegnen . – Die Fürsten Frankreich und Burgund , erhabne Mitwerber um der jüngern Tochter Gunst , Verweilten lange hier in Liebeswerbung Und harr'n auf Antwort . – Sagt mir , meine Töchter ( Da wir uns jetzt entäußern der Regierung , Des Landbesitzes und der Staatsgeschäfte ) , Welche von euch liebt uns nun wohl am meisten ? Daß wir die reichste Gabe spenden , wo Verdienst sie und Natur heischt . Goneril , Du Erstgeborne , sprich zuerst !
+GONERIL : Mein Vater , Mehr lieb ' ich Euch , als Worte je umfassen , Weit inniger als Licht und Luft und Freiheit , Weit mehr , als was für reich und selten gilt , Wie Schmuck des Lebens , Wohlsein , Schönheit , Ehre , Wie je ein Kind geliebt , ein Vater Liebe fand . Der Atem dünkt mich arm , die Sprache stumm , Weit mehr als alles das lieb ' ich Euch noch .
+CORDELIA Was sagt Cordelia nun ? Sie liebt und schweigt .
+beiseit .
+LEAR : All dies Gebiet , von dem zu jenem Strich , An schatt'gen Forsten und Gefilden reich , An vollen Strömen und weit grünen Triften , Beherrsche du : dir und Albaniens Stamm Sei dies auf ewig ! Was sagt unsre zweite Tochter , Die teure Regan , Cornwalls Gattin ? Sprich !
+REGAN : Ich bin vom selben Stoff wie meine Schwester Und schätze mich ihr gleich . Mein treues Herz Fühlt , all mein Lieben hat sie Euch genannt ; Nur bleibt sie noch zurück : denn ich erkläre Mich als die Feindin jeder andern Lust , Die in der Sinne reichstem Umkreis wohnt , Und fühl ' in Eurer teuren Hoheit Liebe Mein einzig Glück .
+CORDELIA Arme Cordelia dann ! – Und doch nicht arm ; denn meine Lieb ' , ich weiß , Wiegt schwerer als mein Wort .

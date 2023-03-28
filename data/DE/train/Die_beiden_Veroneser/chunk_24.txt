@@ -1,0 +1,22 @@
+JULIA : Sie dankt Euch .
+SILVIA : Was sagst du ?
+JULIA : Ich dank ' Euch , Fräulein , für dies Zartgefühl . Das arme Kind ! Herr Proteus kränkt sie sehr .
+SILVIA : Kennst du sie ?
+JULIA : Beinah ' so gut , als ich mich selber kenne ; Gedenk ' ich ihres Wehs , bei meiner Seele ! Schon hundertmal hab ' ich um sie geweint .
+SILVIA : So glaubt sie wohl , daß Proteus sie verlassen ?
+JULIA : Ich glaub ' es selbst , und das ist auch ihr Gram .
+SILVIA : Ist sie sehr schön ?
+JULIA : Sie war einst schöner , Fräulein , als sie ist ; Da sie noch glaubte , daß mein Herr sie liebe . War sie , wie mich bedünkt , so schön als Ihr ; Doch , seit sie ihren Spiegel hat vergessen , Die Maske wegwarf , die vor Sonne schützte , Sind von der Luft gebleicht der Wangen Rosen Und ihrer Stirne Lilienglanz gedunkelt , Daß sie so schwarz geworden ist wie ich .
+SILVIA : Wie groß war sie ?
+JULIA : Sie ist von meinem Wuchse ; denn zu Pfingsten , Als man sich heitrer Mummerei erfreute , Gab mir das junge Volk die Frauenrolle Und putzte mich mit Juliens Kleidern aus ; Die paßten mir so gut , wie alle sagten , Als wäre das Gewand für mich geschnitten ; Davon weiß ich , sie ist so hoch wie ich . Und zu der Zeit macht ' ich sie recht zu weinen , Denn traurig war die Rolle , die ich spielte ; Ariadne , Fräulein , war 's , wie sie beklagt Des Theseus Falschheit und geheime Flucht ; Das spielten meine Tränen so lebendig , Daß meine arme Herrin , tief gerührt , Recht herzlich weint ' ; und sterben will ich gleich , Wenn ich im Geist nicht ihren Kummer fühlte !
+SILVIA : Sie ist dir sehr verpflichtet , lieber Knabe ! – Ach , armes Mädchen ! trostlos und verlassen ! – Ich weine selbst , denk ' ich an deine Worte . Hier , Knab ' , ist meine Börse ; nimm die Gabe Um deiner Herrin willen , die du liebst . Leb wohl !
+Silvia geht ab .
+JULIA : Sie wird Euch danken , lernt Ihr je sie kennen . – Ein edles Fräulein , sanft und voller Huld . Mein Herr wird hoffentlich kalt aufgenommen , Da sie so warm für meine Herrin eifert . Wie hintergeht sich Liebe selbst im Spiel ! Hier ist ihr Bildnis . Laßt mich sehn : ich denke , Hätt ' ich nur solchen Anzug , mein Gesicht , Es wäre ganz so lieblich wie das ihre ; Doch hat der Maler etwas ihr geschmeichelt , Wenn ich nicht allzu viel mir selber schmeichle . Ihr Haar ist bräunlich , meins vollkommen blond ; Wenn das den Ausschlag gibt in seiner Liebe , So trag ' ich falsches Haar von dieser Farbe . Ihr Aug ' ist klares Blau , und so das meine ; Doch ihre Stirn ist klein und meine groß . Was ist es , das ihn hier bezaubern kann , Das nicht durch mich denselben Zauber übte , Wär ' kind'sche Liebe nicht ein blinder Gott ? So nimm denn , Schatten , diesen Schatten mit , Er ist dein Nebenbuhler . Leblos Bild ! Du wirst verehrt , geküßt und angebetet ; Und fühltest du bei seinem Götzendienst , Mein Wesen möchte Bild statt deiner sein . Ich will dir freundlich sein der Herrin wegen , So war sie mir ; sonst , bei dem Jupiter , Kratzt ' ich dir die gemalten Augen aus , Daß nicht mein Herr sich mehr in sie vergafft .
+Geht ab .
+Platz .
+Eglamour tritt auf .
+EGLAMOUR : Die Sonne rötet schon den Abendhimmel ; Die Stund ' ist da , die Silvia mir bestimmte , Hier bei Patricius ' Zell ' auf sie zu warten . Sie bleibt nicht aus , denn Liebende verfehlen Die Stunde nur , um vor der Zeit zu kommen . Weil sie die Eile selbst noch spornen möchten .
+Silvia tritt auf .
+SILVIA : Geb 's Gott ! Geh weiter , guter Eglamour ! Hinaus zum Pförtchen an der Klostermauer ; Ich bin besorgt , daß Laurer auf mich achten .
+EGLAMOUR : Sorgt nicht ; der Wald ist kaum drei Meilen weit : Ist der erreicht , sind wir in Sicherheit .
+Sie gehn ab .

@@ -1,0 +1,54 @@
+PRINZESSIN : Wohlsein und Heil begleit ' Eu ' r Majestät ! –
+KÖNIG : Dir wünsch ' ich , was dein eigner Wunsch erfleht .
+Der König geht ab .
+BIRON : Euch , Dam ' , empfehl ' ich meinem eignen Herzen .
+ROSALINE : Ich bitt ' Euch , Herr , bestellt ihm mein Empfehlen . Ich säh ' es gern einmal .
+BIRON : Ich wollt ' , Ihr hörtet 's ächzen .
+ROSALINE : Ist 's Närrchen krank ?
+BIRON : Von Herzen krank .
+ROSALINE : Ei , so laßt ihm Blut !
+BIRON : Wäre das ihm gut ?
+ROSALINE : Meine Heilkunst sagt , es tauge .
+BIRON : So stich 's mit deinem Auge !
+ROSALINE : Non point ! Mit dem Messer .
+BIRON : Gott mache dich besser ! –
+ROSALINE : Dich mach ' er vernünftig !
+BIRON : Den Dank sag ' ich künftig .
+DUMAIN : Mein Herr , ein einz'ges Wort : Sagt an , wer ist die Dame ? –
+BOYET : Die Erbin Alençons und Rosalin ' ihr Name .
+DUMAIN : Sehr reizend ist sie . Nun , mein Herr , lebt wohl !
+Er geht ab .
+LONGAVILLE : Laßt mich um ein Wort Euch bitten : Wer ist in Weiß die da ?
+BOYET : Manchmal ein Frauenzimmer , wenn man bei Licht sie sah .
+LONGAVILLE : Vielleicht bei Lichte leicht ; nur ihren Namen will ich .
+BOYET : Sie hat nur einen für sich : den wollen , wär ' nicht billig .
+LONGAVILLE : Ich bitte , wessen Tochter ?
+BOYET : Ihrer Mutter , wie man sagt .
+LONGAVILLE : Was so ein Bart nicht wagt ! –
+BOYET : Lieber Herr , nur nicht so wild : Erbin des Faulconbridge .
+LONGAVILLE : Nun ist mein Zorn gestillt . Sie zeigt sehr schönen Anstand .
+BOYET : Wie 's auch schon mancher Mann fand .
+Longaville geht ab .
+BIRON : Wie heißt in der Mütze die ?
+BOYET : Katharine , Gott schütze sie !
+BIRON : Ist sie vermählt oder nicht ?
+BOYET : Wie just die Laune sie sticht .
+BIRON : Willkommen , mein Herr , lebt wohl zugleich ! –
+BOYET : Lebt wohl , für mich ; willkommen für Euch !
+Biron geht ab .
+MARIA : Der letzte ist Biron , der tolle , lust'ge Lord . Kein Wort , das nicht ein Scherz ist .
+BOYET : Und jeder Scherz nur ein Wort .
+PRINZESSIN : Drum war es gut getan , als Ihr ihn faßtet beim Wort .
+BOYET : Ich war so rasch zu entern , als er zu nahn dem Bord .
+MARIA : Zwei tapfre Schafe , wahrlich !
+BOYET : Nein , Schiffe , meine Beste ; Nur Schafe , Lamm , sind wir auf deinen Lippen Gäste .
+MARIA : Ihr Schaf ' und ich die Weide ; endigt der Spaß nun hier ? –
+BOYET : Wenn Ihr mir zu weiden erlaubt .
+MARIA : Nicht so , mein zartes Tier : Meine Lippen sind kein Gemeinfeld , wenn gleich offen Revier .
+BOYET : Und wem denn zugehörig ?
+MARIA : Nun , meinem Glück und mir .
+PRINZESSIN : Die Witz'gen lieben Zank ; doch sei der Streit geendet , Der Bürgerkrieg des Witzes ist besser angewendet Auf Navarras Bücherhelden ; hier wär ' er nur verschwendet .
+BOYET : Wenn meine Seherkunst , und diese irrt wohl nicht , Des Herzens stumme Rhetorik , die aus den Augen spricht , Mir richtig deutete , versank Navarras Mut ...
+PRINZESSIN : In was ?
+BOYET : Ei nun , wir Kenner betiteln 's Liebesglut .
+PRINZESSIN : Eu ' r Grund ?

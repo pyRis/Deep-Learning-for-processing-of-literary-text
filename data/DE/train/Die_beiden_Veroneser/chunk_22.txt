@@ -1,0 +1,20 @@
+SILVIA : Wie der Abend kommt .
+EGLAMOUR : Wo treff ' ich Euch ?
+SILVIA : In Bruder Patriks Zelle , Wohin zur heil'gen Beicht ' ich mich verfüge .
+EGLAMOUR : Ich werd ' Euch , teures Fräulein , nicht verfehlen . Prinzessin , guten Morgen !
+SILVIA : Habt guten Morgen , teurer Eglamour !
+Gehn ab .
+Platz .
+Lanz tritt auf mit seinem Hunde .
+LANZ : Wenn eines Menschen Angehöriger sich recht hündisch gegen ihn beträgt , seht ihr , das muß einen kränken ; einer , den ich vom Frühsten aufgezogen habe ; einen , den ich vom Ersäufen gerettet , da drei oder vier seiner blinden Brüder daran mußten ! – Ich habe ihn abgerichtet – gerade wie wenn einer sich recht ausdrücklich vornimmt : So möchte ich einen Hund abgerichtet haben . Ich war abgeschickt , ihn Fräulein Silvia zum Geschenk von meinem Herrn zu überbringen , und kaum bin ich in den Speisesaal getreten , so läuft er hin zu ihrem Teller und stiehlt ihr einen Kapaunenschenkel . Oh , es ist ein böses Ding , wenn sich ein Köter nicht in jeder Gesellschaft zu benehmen weiß ! Ich wollte , daß einer der , sozusagen , es auf sich genommen hat , ein wahrer Hund zu sein , daß er dann , sozusagen , auch ein Hund in allen Dingen wäre . Wenn ich nicht mehr Verstand gehabt hätte , als er , und den Fehler auf mich genommen , den er beging , so glaube ich wahrhaftig , er wäre dafür gehängt . So wahr ich lebe , sie hätten ihn dafür hingerichtet ! Urteilt selbst : da schiebt er sich ein in die Gesellschaft von drei oder vier wohlgebornen Hunden unter des Herzogs Tafel ; da steckt er kaum ( solltet ihr 's glauben ! ) so lange , daß ein Mensch drei Schluck tun könnte , so riecht ihn auch schon der ganze Saal . » Hinaus mit dem Hunde « , sagt einer ; » was für ein Köter ist das ? « sagt ein andrer ; » peitscht ihn hinaus « , ruft der dritte ; » hängt ihn auf « , sagt der Herzog . Ich , der ich gleich den Geruch wieder kannte , wußte , daß es Krabb war , und gehe denn so zu dem Kerl hin , der die Hunde peitscht . » Freund « , sage ich , » Ihr seid willens , den Hund zu peitschen ? « » Ja , wahrhaftig , das bin ich « , sagt er . » So tut Ihr ihm himmelschreiend Unrecht « , antworte ich ; » ich tat das Ding , was Ihr wohl wißt. « Der macht auch weiter keine Umstände und peitscht mich zum Saal hinaus . Wie viele Herren würden das für ihre Diener tun ? Ja , ich kann 's beschwören , ich habe im Stock gesessen für die Würste , die er gestohlen hat , sonst wäre es ihm ans Leben gegangen ; ich habe am Pranger gestanden für Gänse , die er gewürgt hat , sonst hätten sie ihn dafür hingerichtet ; das hast du nun schon vergessen ! – Nein , ich denke noch an den Streich , den du mir spieltest , als ich mich von Fräulein Silvia beurlaubte ; hieß ich dich nicht immer auf mich acht geben und es so machen wie ich ? Wann hast du gesehn , daß ich mein Bein aufhob und an einer Dame Reifrock mein Wasser abschlug ? Hast du je solche Streiche von mir gesehn ?
+Proteus und Julia treten auf .
+PROTEUS : Sebastian ist dein Name ? Du gefällst mir , Ich will dich gleich zu einem Dienst gebrauchen .
+JULIA : Was Euch beliebt ; ich will tun , was ich kann .
+PROTEUS : Wie , nichtsnutz'ger Lümmel ! Wo hast du seit zwei Tagen nur gesteckt ?
+Zu Lanz .
+LANZ : Ei , Herr , ich brachte Fräulein Silvia den Hund , wie Ihr mich hießet .
+PROTEUS : Und was sagte sie zu meiner kleinen Perle ?
+LANZ : Ei , sie sagte , Euer Hund wäre ein Köter ; und meinte , ein hündischer Dank wäre genug für solch ein Geschenk .
+PROTEUS : Aber sie nahm meinen Hund ?
+LANZ : Nein , wahrhaftig ! das tat sie nicht ; hier hab ' ich ihn wieder mitgebracht .
+PROTEUS : Was , diesen wolltest du ihr von mir schenken ?

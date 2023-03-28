@@ -1,0 +1,25 @@
+OTHELLO : O ja , er ging von einem oft zum andern .
+JAGO : Wirklich ?
+OTHELLO : Wirklich ! ja , wirklich ! – Find'st du was darin ? Ist er nicht ehrlich ?
+JAGO : Ehrlich , gnäd'ger Herr ?
+OTHELLO : Ehrlich , ja ehrlich !
+JAGO : So viel ich weiß , Gen'ral !
+OTHELLO : Was denkst du , Jago ?
+JAGO : Denken , gnäd'ger Herr ?
+OTHELLO : Hm , denken , gnäd'ger Herr ! Bei Gott , mein Echo ! Als läg ' ein Ungeheu ' r in seinem Sinn , Zu gräßlich , es zu zeigen . – Etwas meinst du : Jetzt eben riefst du : » Das gefällt mir nicht ! « – Als Cassio fortging . Was gefällt dir nicht ? – Und als ich sagt ' , ihm hab ' ich mich vertraut Im Fortgang meiner Werbung , riefst du : » Wirklich ? « Und zogst und faltetest die Stirn zusammen , Als hielt'st du einen greulichen Gedanken Verschlossen im Gehirn : – wenn du mich liebst , Sprich , was du denkst !
+JAGO : Ihr wißt , ich lieb ' Euch , Herr !
+OTHELLO : Das , denk ' ich , tust du ; Und weil ich weiß , du bist mein Freund , und redlich , Und wägst das Wort , eh ' du ihm Atem leihst , So ängstet mich dies Stocken um so mehr – Denn derlei ist bei falsch treulosen Buben Alltäglich Spiel ; doch bei dem Biedermann Heimlicher Wink , der aus dem Herzen dringt Im Zorn des Edelmuts .
+JAGO : Nun , Michael Cassio – Ich darf wohl schwören , ehrlich halt ' ich ihn .
+OTHELLO : Ich auch .
+JAGO : Man sollte sein das , was man scheint ; Und die es nicht sind , sollten 's auch nicht scheinen .
+OTHELLO : Ganz recht , man sollte sein das , was man scheint .
+JAGO : Nun wohl , so halt ' ich Cassio dann für ehrlich .
+OTHELLO : Nein , damit meinst du mehr : Ich bitt ' dich , sprich mir ganz so , wie du denkst , Ganz wie du sinnst ; und gib dem schlimmsten Denken Das schlimmste Wort !
+JAGO : Mein General , verzeiht : Obgleich zu jeder Dienstpflicht Euch verbunden , Nicht bin ich 's da , wo Sklaven frei sich fühlen . Aussprechen die Gedanken ! Gesetzt , sie wären niedrig und verkehrt – Wo ist der Palast , wo nicht auch einmal Schändliches eindringt ? Wessen Herz so rein , Daß der und jener schmutz'ge Zweifel nicht Einmal zu Rat sitzt und Gerichtstag hält Mit rechtsgemäßer Forschung ?
+OTHELLO : Du übst Verrat an deinem Freunde , Jago , Glaubst du , man kränk ' ihn , und verhüllst ihm doch , Was du nun irgend denken magst .
+JAGO : Ich bitt ' Euch , Wenn auch vielleicht falsch ist , was ich vermute ( Wie 's , ich bekenn ' es , stets mein Leben quält , Fehltritten nachgehn ; auch mein Argwohn oft Aus Nichts die Sünde schafft ) , daß Eure Weisheit Auf einen , der so unvollkommen wahrnimmt , Nicht hören mag ; noch Unruh ' Euch erbaun Aus seiner ungewiß zerstreuten Meinung ; – Nicht kann 's bestehn mit Eurer Ruh ' und Wohlfahrt , Noch meiner Mannheit , Redlichkeit und Vorsicht , Sag ' ich Euch , was ich denke .
+OTHELLO : Sprich , was meinst du ?
+JAGO : Der gute Name ist bei Mann und Frau , Mein bester Herr , Das eigentliche Kleinod ihrer Seelen . Wer meinen Beutel stiehlt , nimmt Tand ; 's ist etwas Und nichts ; mein war es , ward das Seine nun , Und ist der Sklav ' von Tausenden gewesen , Doch wer den guten Namen mir entwendet , Der raubt mir das , was ihn nicht reicher macht , Mich aber bettelarm .
+OTHELLO : Beim Himmel ! ich will wissen , was du denkst .
+JAGO : Ihr könnt 's nicht , läg ' in Eurer Hand mein Herz . Noch sollt Ihr 's , weil es meine Brust verschließt .
+OTHELLO : Ha ! –
