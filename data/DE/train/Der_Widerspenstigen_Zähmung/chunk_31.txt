@@ -1,3 +1,15 @@
+MAGISTER : Du lügst : sein Vater ist von Pisa angekommen und kuckt hier aus dem Fenster .
+VINCENTIO : Bist du sein Vater ?
+MAGISTER : Ja , Herr , so sagt mir seine Mutter , wenn ich ihr glauben darf .
+PETRUCHIO : Was soll das heißen , guter Freund ? Das ist ja offenbare Schelmerei , daß Ihr einen fremden Namen annehmt .
+MAGISTER : Legt Hand an den Schurken ! Er denkt wohl jemand hier in der Stadt unter meiner Maske zu betrügen ?
+Biondello kommt züruck .
+BIONDELLO : Ich habe sie in der Kirche zusammen gesehn ; der Himmel verleih ' ihnen günstigen Wind ! – Aber was ist hier ? Mein alter Herr Vincentio ? Nun sind wir alle verloren und zu Grunde gerichtet !
+VINCENTIO : Komm her , du Galgenstrick : –
+BIONDELLO : Ich hoffe , das kann ich bleiben lassen !
+VINCENTIO : Komm hieher , Spitzbube ! Was , hast du mich vergessen ? –
+BIONDELLO : Euch vergessen ? Nein , Herr , ich konnte Euch nicht vergessen , denn ich habe Euch in meinem Leben nicht gesehn .
+VINCENTIO : Was , du ausgemachter Schelm ! Deines Herrn Vater , Vincentio , nie gesehn ?
 BIONDELLO : Was ! meinen würdigen , liebewerten alten Herrn ? Ei , versteht sich , Signor : da kuckt er ja zum Fenster heraus ! –
 VINCENTIO : Ist dem wirklich so ? Schlägt ihn .
 Schlägt ihn .
@@ -26,18 +38,3 @@ GREMIO : Nehmt Euch in acht , Signor Baptista , daß Ihr nicht durch diese Gesch
 MAGISTER : Schwöre , wenn du 's dir getrauest !
 GREMIO : Nein , zu schwören getraue ich mir 's just nicht .
 TRANIO : So solltest du lieber auch sagen , ich sei nicht Lucentio ?
-GREMIO : Ja , dich kenne ich als den Signor Lucentio .
-BAPTISTA : Fort mit dem alten Narren , in Arrest mit ihm !
-VINCENTIO : So werden Fremde fortgeschickt und gemißhandelt ! O abscheulicher Bösewicht !
-Biondello kommt zurück mit Lucentio und Bianca .
-BIONDELLO : Ja , wir sind zu Grunde gerichtet , und ... dort ist er : verleugnet ihn , verschwört ihn , sonst sind wir alle verloren .
-LUCENTIO Verzeiht mir , Vater !
-knieend .
-VINCENTIO : Lebst du , liebster Sohn ?
-Biondello , Tranio und der Magister laufen davon .
-BIANCA Verzeiht , o Vater !
-knieend .
-BAPTISTA : Was hast du getan ? Wo ist Lucentio ?
-LUCENTIO : Hier : ich bin Lucentio , Rechtmäß'ger Sohn des wirklichen Vincentio . Durch heil'ges Recht ward deine Tochter mein , Indes dein Auge täuscht ' ein falscher Schein .
-GREMIO : Nun ja ! Das nenn ' ich tücht'ge Schelmerei , uns alle zu betrügen !
-VINCENTIO : Wo blieb denn Tranio , der verdammte Wicht , Der prahlt ' und Trotz mir bot ins Angesicht ? –

@@ -1,3 +1,5 @@
+EDMUND : Ich dien ' Euch treu , Worin 's auch sein mag .
+GLOSTER : Dank für ihn , mein Fürst .
 CORNWALL : Ihr wißt nicht , was uns hergeführt zu Euch –
 REGAN : So außer Zeit , in Finsternis der Nacht ! Der Anlaß , edler Gloster , hat Gewicht ; Und Eures Rates sind wir sehr bedürftig . Mein Vater schreibt uns , und die Schwester auch , Von Zwistigkeiten , die ich besser hielt Zu schlichten außerm Hause . Beide Boten Erwarten hier Bescheid . Ihr , alter Freund , Beruhigt Eu ' r Gemüt und steht uns bei Mit höchst erwünschtem Rat in dieser Sache , Die dringend Eile heischt !
 GLOSTER : Ich dien ' Euch gern : Eu ' r Gnaden sind von Herzen mir willkommen .
@@ -35,4 +37,3 @@ CORNWALL : Was ist eu ' r Streit ? Sagt an !
 HAUSHOFMEISTER : Kaum schöpf ' ich Atem , Herr !
 KENT : Ich glaub 's , Ihr habt den Mut so angestrengt . Du feiger Schurk ' , Natur verleugnet dich , Ein Schneider machte dich !
 CORNWALL : Seltsamer Kauz ! Ein Schneider einen Menschen machen ?
-KENT : Ja , ein Schneider , Herr ; ein Steinmetz oder ein Maler hätte ihn nicht so schlecht geliefert , und wären sie nur zwei Stunden in der Lehre gewesen .

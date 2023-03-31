@@ -1,3 +1,22 @@
+SOMERSET : Mein Fürst , der junge Heinrich , Graf von Richmond .
+KÖNIG HEINRICH : In den prophet'schen Sinn mir Wahrheit flößen , So wird dies feine Kind des Landes Segen . Sein Blick ist voll von sanfter Majestät , Sein Haupt geformt von der Natur zur Krone , Die Hand zum Szepter , und er selbst in Zukunft Zur Zierde eines königlichen Throns . Ihn haltet hoch , Mylords : er ist geboren , Euch mehr zu helfen , als durch mich verloren .
+legt ihm die Hand auf das Haupt
+Ein Bote tritt auf .
+WARWICK : Was bringst du Neues , Freund ?
+BOTE : Daß Eduard Eurem Bruder ist entwischt Und nach Burgund geflohn , wie er vernommen .
+WARWICK : Mißfäll'ge Neuigkeit ! Doch wie entkam er ?
+BOTE : Er ward entführt durch Richard , Herzog Gloster , Und den Lord Hastings , die im Hinterhalt Auf ihn gewartet an des Waldes Ende Und von des Bischofs Jägern ihn befreit , Denn täglich war die Jagd sein Zeitvertreib .
+WARWICK : Mein Bruder war zu sorglos bei dem Auftrag . Doch laßt uns fort , mein Fürst , nach Mitteln sehn Für jeden Schaden , welcher mag geschehn .
+König Heinrich , Warwick , Clarence , der Kommandant und Gefolge ab .
+SOMERSET : Mylord , ich mag nicht diese Flucht des Eduard ; Denn ohne Zweifel steht Burgund ihm bei , Und dann gibt 's neuen Krieg in kurzer Zeit . Wie Heinrichs jüngst gesprochne Weissagung Mit Hoffnung mir auf diesen jungen Richmond Das Herz erquickt , so drückt es Ahnung nieder , Was ihm zu seinem Schaden und zu unserm In dem Zusammenstoß begegnen mag . Drum wollen wir , dem Schlimmsten vorzubeugen , Lord Oxford , schnell ihn nach Bretagne senden , Bis sich der Bürgerfeindschaft Stürme enden .
+OXFORD : Ja , denn kommt Eduard wieder auf den Thron , So teilte Richmond wohl der andern Lohn .
+SOMERSET : Gut , in Bretagne wohn ' er dann geborgen . Kommt also , laßt uns gleich das Wert besorgen !
+Ab .
+Vor York .
+König Eduard , Gloster und Hastings treten auf mit Truppen .
+KÖNIG EDUARD : Nun , Bruder Richard , Lord Hastings und ihr andern : So weit macht doch das Glück es wieder gut , Daß ich noch einmal den gesunknen Stand Mit Heinrichs Herrscherkrone soll vertauschen . Ich setzte zweimal glücklich übers Meer Und brachte von Burgund erwünschte Hülfe . Was ist nun übrig , da von Ravenspurg Wir vor den Toren Yorks so angelangt , Als einziehn , wie in unser Herzogtum ?
+GLOSTER : Das Tor verschlossen ? Das gefällt mir nicht ; Denn manchen , welcher an der Schwelle stolpert , Verwarnt dies , drinnen laure die Gefahr .
+KÖNIG EDUARD : Pah , Freund ! Jetzt dürfen Zeichen uns nicht schrecken : Ich muß hinein im Guten oder Bösen , Denn hier versammeln sich zu uns die Freunde .
 HASTINGS : Mein Fürst , noch einmal klopf ' ich an und mahne .
 Der Schultheiß von York und seine Räte erscheinen auf der Mauer .
 SCHULTHEISS : Mylords , wir wußten schon von eurer Ankunft , Und uns zu sichern , schlossen wir das Tor ; Denn jetzo sind wir Heinrich Treue schuldig .
@@ -13,26 +32,3 @@ GLOSTER : Ein weiser , tücht'ger Hauptmann , und bald beredet !
 HASTINGS : Der gute Alte läßt gern alles gut sein , Bleibt er nur aus dem Spiel ; doch sind wir drinnen , So zweifl ' ich nicht , wir werden baldigst ihn Samt seinen Räten zur Vernunft bereden .
 Der Schultheiß kommt mit zwei Aldermännern aus der Stadt .
 KÖNIG EDUARD : Herr Schultheiß , dieses Tor ist nicht zu schließen Als bei der Nacht und in der Zeit des Kriegs . Freund , fürchte nichts und gib die Schlüssel ab : Er nimmt die Schlüssel . Denn Eduard will die Stadt und dich verfechten Und alle die , so hold sind unsern Rechten .
-Er nimmt die Schlüssel .
-Trommeln . Montgomery kommt mit Truppen auf dem Marsch begriffen .
-GLOSTER : Bruder , das ist Sir John Montgomery , Wo ich nicht irre , unser biedrer Freund .
-KÖNIG EDUARD : Sir John , willkommen ! Doch warum in Waffen ?
-MONTGOMERY : In seiner stürm'schen Zeit dem König Eduard Zu helfen , wie ein treuer Untertan .
-KÖNIG EDUARD : Dank , teuerster Montgomery ! Aber nun Vergessen wir den Anspruch an die Krone Und fodern unser Herzogtum allein , Bis Gott beliebt , das andre auch zu senden .
-MONTGOMERY : Gehabt Euch wohl denn ! Ich will wieder fort : Dem König , keinem Herzog wollt ' ich dienen . Trommeln gerührt ! und laßt uns weiter ziehn .
-Die Trommeln fangen einen Marsch an .
-KÖNIG EDUARD : Ein Weilchen haltet noch ; laßt uns erwägen , Wie man zur Krone sicher kommen möchte .
-MONTGOMERY : Was sprecht Ihr von Erwägen ? Kurz und gut , Erklärt Ihr Euch nicht hier für unsern König , So überlass ' ich Eurem Schicksal Euch Und breche auf , um die zurückzuhalten , Die Euch zu helfen kommen ; denn warum , Wenn Ihr kein Recht behauptet , föchten wir ?
-GLOSTER : Wozu doch , Bruder , die Bedenklichkeiten ?
-KÖNIG EDUARD : Wenn wir erst stärker sind , dann wollen wir An unsre Fodrung denken ; bis dahin Ist 's Weisheit , unsre Meinung zu verbergen .
-HASTINGS : Jetzt fort mit scheuem Witz ! Das Schwert regiere !
-GLOSTER : Und kühner Mut erklimmt am ersten Thronen . Bruder , wir rufen auf der Stell ' Euch aus ; Der Ruf davon wird viele Freund ' Euch schaffen .
-KÖNIG EDUARD : So sei es , wie ihr wollt : denn 's ist mein Recht , Und Heinrich maßt das Diadem sich an .
-MONTGOMERY : Ja , jetzo spricht mein Fürst ganz wie er selbst , Und jetzo will ich Eduards Kämpfer sein .
-HASTINGS : Trompeten , blast ! Wir rufen Eduard aus . Komm , Kamerad , verrichte du den Ausruf .
-Gibt ihm einen Zettel . Trompetenstoß .
-SOLDAT » Eduard der Vierte , von Gottes Gnaden König von England und Frankreich und Herr von Irland , u.s.w. «
-liest .
-MONTGOMERY : Und wer da leugnet König Eduards Recht , Den fodr ' ich durch dies Zeichen zum Gefecht .
-Wirft seinen Handschuh nieder .
-ALLE : Lang ' lebe Eduard der Vierte !

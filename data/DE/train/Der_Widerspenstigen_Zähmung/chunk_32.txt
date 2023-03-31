@@ -1,3 +1,19 @@
+GREMIO : Ja , dich kenne ich als den Signor Lucentio .
+BAPTISTA : Fort mit dem alten Narren , in Arrest mit ihm !
+VINCENTIO : So werden Fremde fortgeschickt und gemißhandelt ! O abscheulicher Bösewicht !
+Biondello kommt zurück mit Lucentio und Bianca .
+BIONDELLO : Ja , wir sind zu Grunde gerichtet , und ... dort ist er : verleugnet ihn , verschwört ihn , sonst sind wir alle verloren .
+LUCENTIO Verzeiht mir , Vater !
+knieend .
+VINCENTIO : Lebst du , liebster Sohn ?
+Biondello , Tranio und der Magister laufen davon .
+BIANCA Verzeiht , o Vater !
+knieend .
+BAPTISTA : Was hast du getan ? Wo ist Lucentio ?
+LUCENTIO : Hier : ich bin Lucentio , Rechtmäß'ger Sohn des wirklichen Vincentio . Durch heil'ges Recht ward deine Tochter mein , Indes dein Auge täuscht ' ein falscher Schein .
+GREMIO : Nun ja ! Das nenn ' ich tücht'ge Schelmerei , uns alle zu betrügen !
+VINCENTIO : Wo blieb denn Tranio , der verdammte Wicht , Der prahlt ' und Trotz mir bot ins Angesicht ? –
+BAPTISTA : Ei , sagt mir , ist nicht dies mein Cambio ?
 BIANCA : Hier : umgewandelt in Lucentio .
 LUCENTIO : Dies Wunder tat die Liebe . Biancas Liebe Ließ meinen Stand mit Tranio mich vertauschen , Indes er meine Rolle hier gespielt : Und freudig bin ich endlich eingelaufen In den ersehnten Hafen meines Glücks . Was Tranio tat , dazu zwang ich ihn selbst : Verzeiht ihm , mir zu Liebe , teurer Vater !
 VINCENTIO : Ich will dem Schurken die Ohren abschneiden , der mich ins Gefängnis schicken wollte .
@@ -31,17 +47,3 @@ HORTENSIO : Uns beiden wünsch ' ich , dieses Wort sei wahr !
 PETRUCHIO : Nun , auf mein Wort ! Hortensio scheut die Witwe .
 WITWE : Nein , glaubt mir nur , ich scheue mich vor niemand .
 PETRUCHIO : Wie sinnreich sonst , doch fehlt Ihr meinen Sinn : Ich meint ' , Hortensio scheue sich vor Euch .
-WITWE : Wer schwindligt ist , der denkt , die Welt geht rund .
-PETRUCHIO : Ei ! rund erwidert .
-KATHARINA : Sagt , wie meint Ihr das ?
-WITWE : Ich zahl ' ihm nur in gleicher Münze wieder , Was ich von ihm empfing .
-PETRUCHIO : Von mir empfing sie ? Hortensio , wie gefällt dir das ? Laß hören !
-HORTENSIO : Wie sie die Red ' empfangen , meint die Witwe .
-PETRUCHIO : Gut eingelenkt ! Küßt ihn dafür , Frau Witwe !
-KATHARINA : Wer schwindligt ist , der denkt , die Welt geht rund : Ich bitt ' Euch , sagt mir , was Ihr damit meintet ? –
-WITWE : Eu ' r Mann , der sich 'ne Widerspenst'ge nahm , Mißt meines Mannes Kreuz nach seinem Gram : Das war 's , was ich gemeint .
-KATHARINA : So war 's gemein gemeint .
-WITWE : Ja , denn Euch meint ' ich .
-KATHARINA : Ich wär ' gemein , gäb ' ich noch acht auf Euch .
-PETRUCHIO : Drauf los , Käthchen !
-HORTENSIO : Drauf los , Witwe !

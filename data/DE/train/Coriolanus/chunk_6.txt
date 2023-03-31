@@ -1,3 +1,4 @@
+MARCIUS : Es gilt .
 TITUS : Es gilt .
 MARCIUS : Sprich du : Traf unser Feldherr auf den Feind ?
 BOTE : Sie schaun sich an , doch sprachen sie noch nicht .

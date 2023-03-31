@@ -1,3 +1,24 @@
+WARWICK : Oxford , wie kommt 's bei dieser glatten Rede , Daß Ihr nicht sagtet , wie der sechste Heinrich All das verloren , was der fünfte schaffte ? Mich dünkt , das müßten diese Pairs belächeln . Doch ferner zählt Ihr einen Stammbaum auf Von zweiundsechzig Jahren : eine dürft'ge Zeit Für die Verjährung eines Königreichs .
+OXFORD : So , Warwick , sprichst du wider deinen Fürsten , Dem du gehorcht hast sechsunddreißig Jahr , Und kein Erröten zeiht dich des Verrats ?
+WARWICK : Kann Oxford , der von je das Recht geschirmt , Mit einem Stammbaum Falschheit nun bemänteln ? Pfui , laß von Heinrich und nenn ' Eduard König !
+OXFORD : Ihn König nennen , dessen harter Spruch Den ältern Bruder mir , Lord Aubrey Vere , Zum Tod geführt ? Ja mehr noch , meinen Vater , Recht in dem Abfall seiner mürben Jahre , Als an des Todes Tor Natur ihn brachte ? Nein , Warwick , nein ! Solang ' mein Arm sich hält , Hält er das Haus von Lancaster empor .
+WARWICK : Und ich das Haus von York .
+KÖNIG LUDWIG : Geruhet , Königin , Prinz Eduard , Oxford , Auf unsre Bitte doch beiseit zu treten , Weil ich mit Warwick ferner mich bespreche .
+MARGARETA : Daß Warwicks Worte nur ihn nicht bezaubern !
+Sie tritt mit dem Prinzen und Oxford zurück .
+KÖNIG LUDWIG : Nun , Warwick , sag mir , recht auf dein Gewissen , Ob Eduard euer wahrer König ist ? Denn ungern möcht ' ich mich mit dem verknüpfen , Der nicht gemäß dem Rechte wär ' erwählt .
+WARWICK : Darauf verpfänd ' ich Ehr ' und Glauben dir .
+KÖNIG LUDWIG : Dann ferner , alle Falschheit abgetan , Sag mir in Wahrheit seiner Liebe Maß Zu unsrer Schwester Bona .
+WARWICK : Sie erscheint Ganz würdig eines Fürsten , so wie er . Oft hört ' ich selbst ihn sagen und beschwören : Ein ew'ger Baum sei diese seine Liebe , Der in der Tugend Boden fest gewurzelt , Dem Laub und Frucht der Schönheit Sonne treibt ; Von Tücke frei , nicht von verschmähter Wahl , Bis Fräulein Bona löset seine Qual .
+KÖNIG LUDWIG : Nun , Schwester , sagt uns Euren festen Schluß .
+BONA : Jedoch bekenn ' ich , daß schon oft vor heute , Wenn man von Eures Königs Wert berichtet , Mein Ohr das Urteil zum Verlangen lockte .
+Zu Warwick .
+KÖNIG LUDWIG : So hör ' denn , Warwick : meine Schwester wird Gemahlin Eduards , und entwerfen soll Man Punkte nun sogleich , das Leibgedinge Betreffend , das Eu ' r König machen muß , Um ihren Brautschatz damit aufzuwägen . Kommt , Königin Margareta , seid hier Zeugin , Daß Bona sich verlobt mit Englands König .
+PRINZ : Mit Eduard , aber nicht mit Englands König .
+MARGARETA : Betrügerischer Warwick ! Deine List War 's , mein Gesuch durch diesen Bund zu hindern . Bevor du kamst , war Ludwig Heinrichs Freund .
+KÖNIG LUDWIG : Und ist noch sein und Margaretens Freund . Doch ist Eu ' r Anspruch an die Krone schwach , Wie es nach Eduards gutem Fortgang scheint , Dann ist 's nur billig , daß ich freigesprochen Vom Beistand werde , den ich jüngst verhieß . Ihr sollt von mir noch alle Güt ' erfahren , Die Euer Los verlangt und meins gewährt .
+WARWICK : Heinrich lebt jetzt in Schottland , ganz nach Wunsch , Und da er nichts hat , kann er nichts verlieren . Ihr selber , unsre weiland Königin , Habt einen Vater , Euch zu unterhalten , Und solltet dem , statt Frankreich , lästig fallen .
+MARGARETA : Still , frecher , unverschämter Warwick ! Still ! Der Kön'ge stolzer Schöpfer und Vernichter ! Ich will nicht fort , bis meine Wort ' und Tränen Voll Wahrheit König Ludwig deine Tücke Und deines Herren falsche Lieb ' entdeckt : Denn ihr seid Wesen von demselben Schlag .
 Man hört draußen ein Posthorn .
 KÖNIG LUDWIG : Warwick , an dich kommt Botschaft , oder uns .
 Ein Bote tritt auf .
@@ -9,19 +30,3 @@ PRINZ : Seht nur , wie Ludwig stampft vor Ungeduld : Ich hoff ' , es geht noch g
 KÖNIG LUDWIG : Nun , Warwick , wie ist deine Neuigkeit ? Und wie die Eure , schöne Königin ?
 MARGARETA : Die mein ' erfüllt mich unverhofft mit Freude .
 WARWICK : Die meine bringt mir Leid und Mißvergnügen .
-KÖNIG LUDWIG : Was ? Nahm Eu ' r König Lady Grey zur Eh ' , Und , Eu ' r und seine Falschheit zu beschönen , Rät er Geduld mir an durch diesen Zettel ? Ist das der Bund , den er mit Frankreich sucht ? Darf er es wagen , so uns zu verhöhnen ?
-MARGARETA : Ich sagt ' es Euer Majestät voraus , Dies zeugt von Eduards Lieb ' und Warwicks Redlichkeit .
-WARWICK : Hier , König Ludwig , vor des Himmels Antlitz Und bei der Hoffnung auf mein himmlisch Heil , Schwör ' ich mich rein an diesem Frevel Eduards ; Nicht meines Königs mehr , denn er entehrt mich , Sich selbst am meisten , säh ' er seine Schande . Vergaß ich , daß mein Vater seinen Tod Unzeitig durch das Haus von York gefunden ? Ließ hingehn meiner Nichte Mißhandlung ? Umgab ihn mit der königlichen Krone ? Stieß Heinrich aus dem angestammten Recht ? Und wird zuletzt mir so gelohnt mit Schande ? Schand ' über ihn ! Denn ich bin Ehre wert : Und die für ihn verlorne herzustellen , Sag ' ich ihm ab und wende mich zu Heinrich . Laß , edle Königin , den alten Groll : Ich will hinfort dein treuer Diener sein , Sein Unrecht an der Fräulein Bona rächen Und Heinrich wieder setzen auf den Thron .
-MARGARETA : Warwick , dein Wort hat meinen Haß in Liebe Verkehrt , und ich vergebe und vergesse Die alten Fehler ganz und bin erfreut , Daß du der Freund von König Heinrich wirst .
-WARWICK : So sehr sein Freund , ja sein wahrhafter Freund , Daß , wenn der König Ludwig wenig Scharen Erlesnen Volks uns zu verleihn geruht , So unternehm ' ich , sie bei uns zu landen Und den Tyrann mit Krieg vom Thron zu stoßen . Nicht seine neue Braut beschirmt ihn wohl , Und Clarence , wie mir meine Briefe melden , Steht auf dem Punkte , von ihm abzufallen , Weil er gefreit nach üpp'ger Lust , statt Ehre Und unsers Landes Stärk ' und Sicherheit .
-BONA : Wie findet Bona Rache , teurer Bruder , Hilfst du nicht der bedrängten Königin ?
-MARGARETA : Berühmter Fürst , wie soll mein Heinrich leben , Errettest du ihn von Verzweiflung nicht ?
-BONA : Mein Streit und dieser Königin sind eins .
-WARWICK : Und meiner tritt , Prinzessin , eurem bei .
-KÖNIG LUDWIG : Und meiner eurem , deinem und Margretens . Deswegen bin ich endlich fest entschlossen , Euch beizustehn .
-MARGARETA : Laßt untertänig mich für alle danken .
-KÖNIG LUDWIG : Dann , Englands Bote , kehre schleunig heim Und sage deinem eingebild'ten König , Dem falschen Eduard , daß ihm Ludewig Von Frankreich Masken will hinübersenden Zum Tanz mit ihm und seiner neuen Braut . Du siehst , was vorgeht : geh , damit ihn schrecken .
-BONA : Sag ihm , in Hoffnung seiner bald'gen Witwerschaft Trag ' ich den Weidenkranz um seinetwillen .
-MARGARETA : Sag ihm , die Trauer sei beiseit ' geschafft , Und kriegerische Rüstung leg ' ich an .
-WARWICK : Sag ihm von mir , er habe mich gekränkt , Drum woll ' ich ihn entkrönen , eh ' er 's denkt . Hier ist dein Lohn , und geh !
-Der Bote ab .

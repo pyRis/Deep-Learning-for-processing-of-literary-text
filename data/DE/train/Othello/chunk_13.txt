@@ -1,3 +1,5 @@
+JAGO : Welch ein Auge ! Mir scheint es wie ein Aufruf zur Verführung .
+CASSIO : Ein einladendes Auge ; und doch , wie mir scheint , ein höchst sittsames .
 JAGO : Und wenn sie spricht , ist 's nicht eine Herausforderung zur Liebe ?
 CASSIO : Sie ist in der Tat die Vollkommenheit selbst .
 JAGO : Nun , Heil ihrem Bette ! Komm , Leutnant , ich habe ein Stübchen Wein , und hier draußen sind ein paar muntre Jungen aus Cypern , die gern eine Flasche auf die Gesundheit des schwarzen Othello ausstechen möchten .
@@ -26,4 +28,3 @@ Singt .
 CASSIO : Ei , das Lied ist noch viel herrlicher als das erste .
 JAGO : Wollt Ihr 's nochmals hören ?
 CASSIO : Nein , denn ich glaube , der ist seiner Stelle unwürdig , der so was tut . – Wie gesagt , – der Himmel ist über uns allen ; – und es sind Seelen , die müssen selig werden , – und andre , die müssen nicht selig werden .
-JAGO : Sehr wahr , lieber Leutnant .

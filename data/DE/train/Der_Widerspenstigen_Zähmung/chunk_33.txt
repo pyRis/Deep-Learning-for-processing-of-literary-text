@@ -1,3 +1,18 @@
+WITWE : Wer schwindligt ist , der denkt , die Welt geht rund .
+PETRUCHIO : Ei ! rund erwidert .
+KATHARINA : Sagt , wie meint Ihr das ?
+WITWE : Ich zahl ' ihm nur in gleicher Münze wieder , Was ich von ihm empfing .
+PETRUCHIO : Von mir empfing sie ? Hortensio , wie gefällt dir das ? Laß hören !
+HORTENSIO : Wie sie die Red ' empfangen , meint die Witwe .
+PETRUCHIO : Gut eingelenkt ! Küßt ihn dafür , Frau Witwe !
+KATHARINA : Wer schwindligt ist , der denkt , die Welt geht rund : Ich bitt ' Euch , sagt mir , was Ihr damit meintet ? –
+WITWE : Eu ' r Mann , der sich 'ne Widerspenst'ge nahm , Mißt meines Mannes Kreuz nach seinem Gram : Das war 's , was ich gemeint .
+KATHARINA : So war 's gemein gemeint .
+WITWE : Ja , denn Euch meint ' ich .
+KATHARINA : Ich wär ' gemein , gäb ' ich noch acht auf Euch .
+PETRUCHIO : Drauf los , Käthchen !
+HORTENSIO : Drauf los , Witwe !
+PETRUCHIO : Einhundert Mark , mein Käthchen kriegt sie unter !
 HORTENSIO : Das wär ' mein Amt .
 PETRUCHIO : Gesprochen wie ein Amtmann ! Auf dein Wohl !
 Trinkt dem Hortensio zu .
@@ -38,18 +53,3 @@ GREMIO : Ja , und noch recht höflich ; Wenn Eure nur nichts Schlimmres läßt e
 PETRUCHIO : Ich hoffe Beßres .
 HORTENSIO : Geh , Bursch , zu meiner Frau , ersuche sie , Sogleich zu kommen !
 Biondello ab .
-PETRUCHIO : Oho ! ersuche sie ! Dann muß sie freilich kommen ! –
-HORTENSIO : So ? Ich fürchte , Bei Eurer wird Euch kein Ersuchen helfen .
-Biondello kommt zurück .
-BIONDELLO : Sie sagt , Ihr habt wohl einen Scherz im Sinn : Sie komme nicht ; sie wünscht , Ihr kommt zu ihr .
-PETRUCHIO : Schlimmer und schlimmer ! Will sie nicht ? O schmählich , Nicht auszuhalten , völlig unerträglich ! – Du , Grumio , geh sogleich zu meiner Frau , Sag , ich befehl ' ihr , sie soll zu mir kommen . –
-Grumio ab .
-HORTENSIO : Ich weiß die Antwort !
-PETRUCHIO : Nun ?
-HORTENSIO : Sie wolle nicht .
-PETRUCHIO : So schlimmer steht 's um mich , und damit gut .
-Katharina kommt .
-BAPTISTA : Nun heil'ger Gott ! Seht , da kommt Katharine !
-KATHARINA : Was wollt Ihr , Herr , daß Ihr nach mir gesandt ?
-PETRUCHIO : Wo ist Hortensios Frau und deine Schwester ? –
-KATHARINA : Da drin am Feuer sitzen sie und schwatzen .

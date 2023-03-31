@@ -1,3 +1,4 @@
+CHARMION : Ist dies der Mann ? Seid Ihr 's , der alles weiß ?
 WAHRSAGER : In der Natur unendlichem Geheimnis Les ' ich ein wenig .
 ALEXAS : Zeig ' ihm deine Hand !
 Enobarbus tritt auf .
@@ -46,4 +47,3 @@ CLEOPATRA : Saht ihr Anton ?
 ENOBARBUS : Nein , Herrin .
 CLEOPATRA : War er nicht hier ?
 CHARMION : Nein , gnäd'ge Frau .
-CLEOPATRA : Er war gestimmt zum Frohsinn , da , auf einmal Ergriff ihn ein Gedank ' an Rom ... Enobarbus ! –

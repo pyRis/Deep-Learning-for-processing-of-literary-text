@@ -1,3 +1,5 @@
+LUCETTA : Nichts .
+JULIA : Weshalb denn bückst du dich ?
 LUCETTA : Ich nahm ein Blatt auf , das ich fallen ließ .
 JULIA : Und ist das Blatt denn nichts ?
 LUCETTA : Nichts , was mich angeht .
@@ -37,4 +39,3 @@ Sie gehn ab .
 Zimmer .
 Antonio und Panthino treten auf .
 ANTONIO : Panthino , sprich , mit welcher ernsten Rede Hielt dich mein Bruder in dem Kreuzgang auf ?
-PANTHINO : Von Proteus , seinem Neffen , Eurem Sohn .

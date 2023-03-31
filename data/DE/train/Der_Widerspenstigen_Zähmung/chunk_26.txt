@@ -1,3 +1,12 @@
+KATHARINA : Ich dank ' Euch , Herr .
+HORTENSIO : Pfui doch , Petruchio , pfui ! du bist zu tadeln ! Gesellschaft leist ' ich Euch : so kommt und eßt !
+PETRUCHIO Nun , wohl bekomm ' es dir , mein liebes Herz : Iß schnell , mein Käthchen ! – Nun , mein süßes Liebchen , Laß uns zurück zu deinem Vater reisen ; Dort laß uns wacker schwärmen und stolzieren , Mit seidnen Kleidern , Hauben , goldnen Ringen , Mit Litzen , Spitzen , Samt und tausend Dingen , Mit Spang ' und Armband , wie die höchste Edeldam ' , Bernstein , Korall ' und Perl ' und solchem Trödelkram . Nun , bist du satt ? Dein wartet schon der Schneider Und bringt zum Putz die raschelnd seidnen Kleider . Komm , Schneider ! Zeig ' uns deine Herrlichkeiten ! – Leg ' aus das Kleid !
+beiseit .
+Laut .
+Schneider kommt .
+Putzhändler kommt .
+PUTZHÄNDLER : Hier ist die Haube , die Eu ' r Gnaden wünschte .
+PETRUCHIO : Was ! Auf 'ne Suppenschüssel abgeformt ? Ein samtner Napf ? Pfui doch ! gemein und garstig ! Wie eine Walnußschal ' , ein Schneckenhaus , Ein Quark , ein Tand , ein Wisch , ein Puppenhäubchen ! Weg mit dem Ding ! Schafft eine größre , sag ' ich !
 KATHARINA : Ich will sie größer nicht : so ist 's die Mode , So tragen feine Damen jetzt die Hauben .
 PETRUCHIO : Wenn Ihr erst fein seid , sollt Ihr eine haben , Doch nicht vorher .
 HORTENSIO Das wird so bald nicht sein ! –
@@ -15,17 +24,3 @@ PETRUCHIO : Recht ! Er will dich zur Marionette machen .
 SCHNEIDER : Sie sagt , Euer Gnaden will sie zu einer Marionette machen .
 PETRUCHIO : O ungeheure Frechheit ! – Du lügst , du Zwirn , Du Fingerhut , du Elle , Dreiviertel- , Halbe- , Viertelelle , Zoll ! Du Floh ! Du Mücke ! Winterheimchen du ! Trotzt mir im eignen Haus ein Faden Zwirn ? – Fort , Lappen du ! Du Überrest , du Zutat ! Sonst mess ' ich mit der Elle dich zurecht , Daß du zeitlebens solch Gewäsch verlernst . Ich sag ' es , ich ! Du hast ihr Kleid verpfuscht .
 SCHNEIDER : Eu ' r Gnaden irrt : das Kleid ist so gemacht , Just so , wie 's meinem Meister ward befohlen : – Grumio gab Ordre , wie es werden sollte .
-GRUMIO : Ich gab nicht Ordre ; Zeug hab ' ich gegeben .
-SCHNEIDER : Und wie verlangtet Ihr 's von ihm gemacht ? –
-GRUMIO : Zum Henker , Herr , mit Nadel und mit Zwirn .
-SCHNEIDER : Doch sagt , nach welchem Schnitt Ihr 's habt bestellt ?
-GRUMIO : Du hast wohl schon allerlei geschnitten ?
-SCHNEIDER : O ja , das habe ich .
-GRUMIO : Schneide mir aber kein Gesicht ! Du hast auch schon manchen herausgeputzt ; mich verschone aber mit deinen Ausputzern ! Ich sage dir , ich hieß deinem Meister , er solle das Kleid schneiden ; ich hieß ihm aber nicht , es in Stücke schneiden : ergo , du lügst .
-SCHNEIDER : Nun , hier ist der Zettel mit der Bestellung , mir zum Zeugen .
-PETRUCHIO : Lies ihn !
-GRUMIO : Der Zettel lügt in seinen Hals , wenn er sagt , ich habe es so bestellt .
-SCHNEIDER : » In primis , ein freies , loses Kleid. «
-GRUMIO : Herr , wenn ich ein Wort von freiem , losem Wesen gesagt habe , so näht mich in des Kleides Schleppe , und schlagt mich mit einem Knäuel braunen Zwirn tot : ich sagte bloß » Kleid « .
-PETRUCHIO : Weiter .
-SCHNEIDER : » Mit einem kleinen runden Kragen. «

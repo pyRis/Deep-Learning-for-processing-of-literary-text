@@ -1,3 +1,4 @@
+CASSIO : Gelähmt auf immer ! Hülfe ! Mörder ! Mörder !
 Othello zeigt sich oben .
 OTHELLO : 's ist Cassios Stimme ; Jago hält sein Wort !
 RODRIGO : O ich Verruchter ?
@@ -55,4 +56,3 @@ JAGO : Ihr Herrn , mir ahnet 's , die Verworfne hier Sei mit verstrickt in diese
 GRATIANO : Rodrigo von Venedig ?
 JAGO : Derselbe ; kennt Ihr ihn ?
 GRATIANO : Ja , allerdings !
-JAGO : Signor Gratiano ? O Herr , ich bin beschämt ; Der blut'ge Fall entschuld'ge meine Rauheit , Die Euch mißkannt .

@@ -1,3 +1,5 @@
+KENT : Ja , ein Schneider , Herr ; ein Steinmetz oder ein Maler hätte ihn nicht so schlecht geliefert , und wären sie nur zwei Stunden in der Lehre gewesen .
+CORNWALL : Doch sprich ! Wie kam der Zwist ?
 HAUSHOFMEISTER : Der alte Raufbold , Herr , des Blut ich schonte , Um seinen grauen Bart , –
 KENT : Ei du verzwicktes X , unnützer Buchstab ! Mylord , wenn Ihr 's vergönnt , stampf ' ich den ungesichteten Schuft zu Mörtel , und bestreiche eines Abtritts Wand mit ihm . – Meinen grauen Bart geschont , du Bachstelze ! –
 CORNWALL : Schweig ' , Kerl ! Du grober Knecht , weißt du von Ehrfurcht nichts ?
@@ -23,4 +25,3 @@ CORNWALL : Holt mir die Blöcke , he ! Du alter Starrkopf , du weißbärt'ger Pr
 KENT : Herr , ich bin zu alt zum Lernen , Holt nicht den Block für mich : Dem König dien ' ich ; In seinem Auftrag ward ich abgesandt ; Zu wenig Ehrfurcht zeigt Ihr , zu viel Trotz Gegen die Gnad ' und Würde meines Herrn , Tut Ihr das seinem Boten .
 CORNWALL : Holt die Blöcke ! Auf Ehr ' und Wort , bis Mittag soll er sitzen .
 REGAN : Bis Mittag ? Bis zur Nacht ; die Nacht dazu ! –
-KENT : Nun , Lady , wär ' ich Eures Vaters Hund , Ihr solltet so mich nicht behandeln .

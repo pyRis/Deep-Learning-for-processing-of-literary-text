@@ -1,3 +1,4 @@
+BRUTUS : Leb wohl denn , Portia ! – Wir müssen sterben , Messala ; dadurch , daß ich oft bedacht , Sie müss ' einst sterben , hab ' ich die Geduld , Es jetzt zu tragen .
 MESSALA : So trägt ein großer Mann ein großes Unglück .
 CASSIUS : Durch Kunst hab ' ich so viel hievon als Ihr , Doch die Natur ertrüg 's in mir nicht so .
 BRUTUS : Wohlan , zu unserm lebenden Geschäft ! Was denkt Ihr ? Ziehn wir nach Philippi gleich ?
@@ -36,4 +37,3 @@ LUCIUS : Ja , Herr , wenn 's Euch geliebt .
 BRUTUS : Das tut 's , mein Junge . Ich plage dich zu viel , doch du bist willig .
 LUCIUS : Es ist ja meine Pflicht .
 BRUTUS : Ich sollte dich Zur Pflicht nicht über dein Vermögen treiben ; Ich weiß , daß junges Blut auf Schlafen hält .
-LUCIUS : Ich habe schon geschlafen , mein Gebieter .

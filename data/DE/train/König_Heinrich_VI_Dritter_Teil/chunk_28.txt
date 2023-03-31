@@ -1,3 +1,20 @@
+KÖNIG EDUARD : Doch wohin sollen wir ?
+HASTINGS : Nach Lynn , Mylord , von da nach Flandern schiffen .
+GLOSTER : Fürwahr , getroffen ! Das war meine Meinung .
+KÖNIG EDUARD : Stanley , ich will den Eifer dir vergelten .
+GLOSTER : Was zögern wir ? Zum Reden ist nicht Zeit .
+KÖNIG EDUARD : Was sagst du , Jäger ? Willst du mit mir gehn ?
+JÄGER : Besser als bleiben und mich hängen lassen .
+GLOSTER : So kommt denn , fort ! und macht kein Wesen weiter .
+KÖNIG EDUARD : Leb wohl denn , Bischof ! Warwicks Zorn entrinne , Und bete , daß ich meinen Thron gewinne !
+Alle ab .
+Ein Zimmer im Turm .
+König Heinrich , Clarence , Warwick , Somerset , der junge Richmond , Oxford , Montague , der Kommandant des Turmes und Gefolge .
+KÖNIG HEINRICH : Herr Kommandant , da Gott und Freunde nun Eduard vom königlichen Sitz gestoßen , In Freiheit mein Gefängnis , meine Furcht In Hoffnung und mein Leid in Lust verkehrt : Was sind wir bei der Loslassung dir schuldig ?
+KOMMANDANT : Der Untertan kann nichts vom Fürsten fodern ; Doch , wenn demüt'ge Bitten etwas gelten , Wünsch ' ich Verzeihung von Eu ' r Majestät .
+KÖNIG HEINRICH : Wofür ? Daß du mich gut behandelt hast ? Nein , sei gewiß , ich lohne deine Güte , Die den Verhaft mir umschuf in Vergnügen , Ja solch Vergnügen , wie im Käfig Vögel Empfinden , wenn nach langem Trübsinn sie Zuletzt bei häuslichen Gesanges Tönen An den Verlust der Freiheit sich gewöhnen . – Doch , Warwick , du nächst Gott hast mich befreit , Drum bin ich dir nächst Gott zum Dank bereit : Er war Urheber und das Werkzeug du . Auf daß ich nun des Glückes Neid besiege , Klein lebend , wo es mir nicht schaden kann , Und daß mein widerwärt'ger Stern das Volk In diesem Land des Segens nicht bestrafe , Warwick , wiewohl ich noch die Krone trage , So übergeb ' ich dir mein Regiment : Du bist beglückt in allem deinem Tun .
+WARWICK : Eu ' r Hoheit war für Tugend stets berühmt Und zeigt sich nun so weis ' als tugendhaft , Des Schicksals Tücke spähend und vermeidend ; Denn wen'ge richten sich nach ihrem Stern . In einem nur muß ich Euch Unrecht geben , Daß Ihr mich wählt , da Clarence steht daneben .
+CLARENCE : Nein , Warwick , du bist würdig der Gewalt , Du , dem den Ölzweig und den Lorbeerkranz Bei der Geburt der Himmel zugesprochen . Du wirst im Krieg und Frieden Segen haben , Drum geb ' ich willig meine Stimme dir .
 WARWICK : Und ich erwähle Clarence zum Protektor .
 KÖNIG HEINRICH : Warwick und Clarence , gebt die Hand mir beide , Fügt sie in eins nun , und zugleich die Herzen , ( Damit kein Zwiespalt die Verwaltung hemme : ) Ich mach ' euch beide zu des Reichs Protektorn . Ein stilles Leben führ ' ich selbst indes , Verbring ' in Andacht meiner Laufbahn Ende , Daß ich den Schöpfer preis ' und Sünde wende .
 WARWICK : Was sagt auf seines Fürsten Willen Clarence ?
@@ -8,21 +25,3 @@ WARWICK : Ja , und dabei soll Clarence ja nicht fehlen .
 KÖNIG HEINRICH : Doch vor den dringendsten Geschäften , laßt Euch bitten ( ich befehle ja nicht mehr ) , Daß nach Margreta , Eurer Königin , Und meinem Eduard werde hingesandt , Aus Frankreich schleunig sie zurückzurufen : Denn bis ich hier sie seh ' , hält banger Zweifel Die Lust an meiner Freiheit halb verfinstert .
 CLARENCE : Es soll , mein Fürst , in aller Eil ' geschehn .
 KÖNIG HEINRICH : Mylord von Somerset , wer ist der Knabe , Für den so zärtlich Ihr zu sorgen scheint ?
-SOMERSET : Mein Fürst , der junge Heinrich , Graf von Richmond .
-KÖNIG HEINRICH : In den prophet'schen Sinn mir Wahrheit flößen , So wird dies feine Kind des Landes Segen . Sein Blick ist voll von sanfter Majestät , Sein Haupt geformt von der Natur zur Krone , Die Hand zum Szepter , und er selbst in Zukunft Zur Zierde eines königlichen Throns . Ihn haltet hoch , Mylords : er ist geboren , Euch mehr zu helfen , als durch mich verloren .
-legt ihm die Hand auf das Haupt
-Ein Bote tritt auf .
-WARWICK : Was bringst du Neues , Freund ?
-BOTE : Daß Eduard Eurem Bruder ist entwischt Und nach Burgund geflohn , wie er vernommen .
-WARWICK : Mißfäll'ge Neuigkeit ! Doch wie entkam er ?
-BOTE : Er ward entführt durch Richard , Herzog Gloster , Und den Lord Hastings , die im Hinterhalt Auf ihn gewartet an des Waldes Ende Und von des Bischofs Jägern ihn befreit , Denn täglich war die Jagd sein Zeitvertreib .
-WARWICK : Mein Bruder war zu sorglos bei dem Auftrag . Doch laßt uns fort , mein Fürst , nach Mitteln sehn Für jeden Schaden , welcher mag geschehn .
-König Heinrich , Warwick , Clarence , der Kommandant und Gefolge ab .
-SOMERSET : Mylord , ich mag nicht diese Flucht des Eduard ; Denn ohne Zweifel steht Burgund ihm bei , Und dann gibt 's neuen Krieg in kurzer Zeit . Wie Heinrichs jüngst gesprochne Weissagung Mit Hoffnung mir auf diesen jungen Richmond Das Herz erquickt , so drückt es Ahnung nieder , Was ihm zu seinem Schaden und zu unserm In dem Zusammenstoß begegnen mag . Drum wollen wir , dem Schlimmsten vorzubeugen , Lord Oxford , schnell ihn nach Bretagne senden , Bis sich der Bürgerfeindschaft Stürme enden .
-OXFORD : Ja , denn kommt Eduard wieder auf den Thron , So teilte Richmond wohl der andern Lohn .
-SOMERSET : Gut , in Bretagne wohn ' er dann geborgen . Kommt also , laßt uns gleich das Wert besorgen !
-Ab .
-Vor York .
-König Eduard , Gloster und Hastings treten auf mit Truppen .
-KÖNIG EDUARD : Nun , Bruder Richard , Lord Hastings und ihr andern : So weit macht doch das Glück es wieder gut , Daß ich noch einmal den gesunknen Stand Mit Heinrichs Herrscherkrone soll vertauschen . Ich setzte zweimal glücklich übers Meer Und brachte von Burgund erwünschte Hülfe . Was ist nun übrig , da von Ravenspurg Wir vor den Toren Yorks so angelangt , Als einziehn , wie in unser Herzogtum ?
-GLOSTER : Das Tor verschlossen ? Das gefällt mir nicht ; Denn manchen , welcher an der Schwelle stolpert , Verwarnt dies , drinnen laure die Gefahr .

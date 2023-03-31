@@ -1,3 +1,5 @@
+WIRTIN : Geht , ich habe nichts mit Euren Pistolen und Kugeln zu schaffen : ich trinke nicht mehr , als mir gut bekömmt , keinem Menschen zu lieb .
+PISTOL : Dann zu Euch , Jungfer Dorothee , ich will Euch die Ladung geben .
 DORTCHEN : Mir die Ladung geben ? Ja , kommt mir , Lausekerl ! Was , so 'n armer Schelm von Betrüger , der kein heiles Hemd auf dem Leibe hat ! Packt Euch , Ihr abgestandener Schuft ! fort ! Ich bin ein Bissen für Euren Herrn .
 PISTOL : Ich kenne Euch , Jungfer Dorothee .
 DORTCHEN : Packt Euch , Ihr Schurke von Beutelschneider ! Ihr garstiger Taschendieb , fort ! Bei dem Wein hier , ich fahre Euch mit meinem Messer zwischen die schimmlichten Kinnbacken , wenn Ihr Euch bei mir mausig machen wollt . Packt Euch , Ihr Bierschlingel ! Ihr lahmer Fechtboden-Springer Ihr ! – Seit wann , Herr , ich bitte Euch ? Ei , zwei Schnüre auf der Schulter ! der Tausend !
@@ -25,5 +27,3 @@ PISTOL : » Werft ihn die Treppe hinunter ? « Wir kennen Klepper ja ?
 FALSTAFF : Schleudre ihn hinunter , Bardolph , wie einen Peilkenstein ! Wenn er nichts tut , als Nichts sprechen , so soll er hier auch nichts vorstellen .
 BARDOLPH : Kommt , macht Euch die Treppe hinunter !
 PISTOL : Dann wieg ' mich , Tod , in Schlaf ! Verkürz ' die Jammertage ! Dann sei'n durch schwere , grause , offne Wunden Die Schwestern drei gelöst ! Komm , sag ' ich , Atropos !
-Greift seinen Degen auf .
-WIRTIN : Das sind mir herrliche Streiche !

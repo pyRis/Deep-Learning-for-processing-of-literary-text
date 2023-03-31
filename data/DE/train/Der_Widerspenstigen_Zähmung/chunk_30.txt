@@ -1,3 +1,8 @@
+KATHARINA : Aufblüh'nde Schöne ! Frische Mädchenknospe , Wohin des Weges ? Wo ist deine Heimat ? – Glücksel'ge Eltern von so schönem Kind ! Glücksel'ger noch der Mann , dem günst'ge Sterne Zur holden Eh'genossin dich bestimmten ! –
+PETRUCHIO : Was ! Käthchen ! Ei , ich hoff ' , du bist nicht toll ? Das ist ein Mann , alt , runzlig , welk und grau , Und nicht ein Mädchen , wie du doch behauptest .
+KATHARINA : Verzeiht dem Wahn der Augen , alter Vater ; Die Sonne traf mir blendend das Gesicht , Und was ich sah , erschien mir jung und grün . Nun merk ' ich erst , Ihr seid ein würd'ger Greis : Verzeiht , bitt ' ich , dies törichte Verkennen !
+PETRUCHIO : Tu 's , guter alter Mann , und laß uns wissen , Wohin du reisest . – Ist es unser Weg , Soll die Gesellschaft uns erfreulich sein .
+VINCENTIO : Mein werter Herr , und schöne muntre Dame , Die durch solch seltsam Grüßen mich erschreckt , – Vincentio heiß ' ich , komm ' aus Pisa her , Nach Padua geh ' ich jetzt , dort zu besuchen Den Sohn , den ich seit lange nicht gesehn .
 PETRUCHIO : Wie heißt er ? sagt !
 VINCENTIO : Lucentio , edler Herr .
 PETRUCHIO : Das trifft sich gut , für deinen Sohn am besten : Und nach Verwandtschaft nun , wie nach dem Alter Mag ich Euch jetzt geliebter Vater nennen . Die Schwester meiner Frau hier , dieser Dame , Ist deines Sohnes Weib jetzt ; staune nicht , Noch zürne drum : untadlig ist ihr Ruf , Die Mitgift reich , sie selbst aus gutem Hause , Auch außerdem von Sitt ' und Eigenschaft , Wie eines Edelmanns Gemahlin ziemt . Erlaubt , Vincentio , daß ich Euch umarme , Und gehn wir , deinen wackern Sohn zu sehn . Den deine Ankunft sicher hoch erfreut .
@@ -26,14 +31,3 @@ MAGISTER : Zu Hause ist er , Herr , aber nicht zu sprechen .
 VINCENTIO : Wenn ihm nun aber jemand ein- oder zweihundert Pfund brächte , um sich einen guten Tag zu machen ? –
 MAGISTER : Behaltet Eure hundert Pfund für Euch , er hat sie nicht nötig , solange ich lebe .
 PETRUCHIO : Nun , ich hab 's Euch wohl gesagt , Euer Sohn sei in Padua beliebt . – Hört einmal , Herr , ohne viel unnütze Weitläuftigkeit : sagt doch , ich bitte Euch , dem jungen Herrn Lucentio , sein Vater sei von Pisa angekommen und stehe hier an der Tür , um ihn zu sprechen .
-MAGISTER : Du lügst : sein Vater ist von Pisa angekommen und kuckt hier aus dem Fenster .
-VINCENTIO : Bist du sein Vater ?
-MAGISTER : Ja , Herr , so sagt mir seine Mutter , wenn ich ihr glauben darf .
-PETRUCHIO : Was soll das heißen , guter Freund ? Das ist ja offenbare Schelmerei , daß Ihr einen fremden Namen annehmt .
-MAGISTER : Legt Hand an den Schurken ! Er denkt wohl jemand hier in der Stadt unter meiner Maske zu betrügen ?
-Biondello kommt züruck .
-BIONDELLO : Ich habe sie in der Kirche zusammen gesehn ; der Himmel verleih ' ihnen günstigen Wind ! – Aber was ist hier ? Mein alter Herr Vincentio ? Nun sind wir alle verloren und zu Grunde gerichtet !
-VINCENTIO : Komm her , du Galgenstrick : –
-BIONDELLO : Ich hoffe , das kann ich bleiben lassen !
-VINCENTIO : Komm hieher , Spitzbube ! Was , hast du mich vergessen ? –
-BIONDELLO : Euch vergessen ? Nein , Herr , ich konnte Euch nicht vergessen , denn ich habe Euch in meinem Leben nicht gesehn .

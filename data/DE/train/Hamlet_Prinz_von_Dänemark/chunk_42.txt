@@ -1,3 +1,9 @@
+HAMLET : Wenn ich nun erwidre : nein ?
+OSRICK : Ich meine , gnädiger Herr , die Stellung Eurer Person zu dem Versuche .
+HAMLET : Ich will hier im Saale auf und ab gehn ; wenn es Seiner Majestät gefällt , es ist jetzt bei mir die Stunde , frische Luft zu schöpfen . Laßt die Rapiere bringen ; hat Laertes Lust , und bleibt der König bei seinem Vorsatze , so will ich für ihn gewinnen , wenn ich kann ; wo nicht , so werde ich nichts als die Schande und die überzähligen Stöße davontragen .
+OSRICK : Soll ich Eure Meinung so erklären ?
+HAMLET : In diesem Sinne , Herr , mit Ausschmückungen nach Eurem Geschmack .
+OSRICK : Ich empfehle Eurer Hoheit meine Ergebenheit . Ab .
 Ab .
 HAMLET : Der Eurige . Er tut wohl daran , sie selbst zu empfehlen : es möchte ihm sonst kein Mund zu Gebote stehn .
 HORATIO : Dieser Kiebitz ist mit der halben Eierschale auf dem Kopfe aus dem Nest gelaufen .
@@ -19,4 +25,3 @@ HAMLET : Nicht im geringsten . Ich trotze allen Vorbedeutungen : es waltet eine 
 Der König , die Königin , Laertes , Herren vom Hofe , Osrick und andres Gefolge mit Rapieren u.s.w .
 KÖNIG : Kommt , Hamlet , kommt ! nehmt diese Hand von mir !
 Der König legt die Hand des Laertes in die des Hamlet .
-HAMLET : Gewährt Verzeihung , Herr ; ich tat Euch Unrecht , Allein verzeiht um Eurer Ehre willen ! Der Kreis hier weiß , Ihr hörtet 's auch gewiß , Wie ich mit schwerem Trübsinn bin geplagt . Was ich getan , Das die Natur in Euch , die Ehr ' und Sitte , Hart aufgeregt , erklär ' ich hier für Wahnsinn . War 's Hamlet , der Laertes kränkte ? Nein . Wenn Hamlet von sich selbst geschieden ist , Und , weil er nicht er selbst , Laertes kränkt , Dann tut es Hamlet nicht , Hamlet verleugnet 's . Wer tut es denn ? Sein Wahnsinn . Ist es so , So ist er ja auf der gekränkten Seite : Sein Wahnsinn ist des armen Hamlets Feind . Vor diesen Zeugen , Herr , Laßt mein Verleugnen aller schlimmen Absicht So weit vor Eurer Großmut frei mich sprechen , Als ich den Pfeil nur sandte übers Haus Und meinen Bruder traf .

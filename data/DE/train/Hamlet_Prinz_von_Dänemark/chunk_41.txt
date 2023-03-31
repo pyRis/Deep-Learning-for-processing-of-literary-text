@@ -1,3 +1,9 @@
+HAMLET : Ich will es mit aller Aufmerksamkeit empfangen , Herr . Eure Mütze an ihre Stelle : sie ist für den Kopf .
+OSRICK : Ich danke Eurer Hoheit , es ist sehr heiß .
+HAMLET : Nein , auf mein Wort , es ist sehr kalt ; der Wind ist nördlich .
+OSRICK : Es ist ziemlich kalt , in der Tat , mein Prinz .
+HAMLET : Aber doch , dünkt mich , ist es ungemein schwül und heiß , oder mein Temperament –
+OSRICK : Außerordentlich , gnädiger Herr , es ist sehr schwül – auf gewisse Weise – ich kann nicht sagen wie . Gnädiger Herr , Seine Majestät befahl mir , Euch wissen zu lassen , daß er eine große Wette auf Euren Kopf angestellt hat . Die Sache ist folgende , Herr : –
 HAMLET : Ich bitte Euch , vergeßt nicht !
 Hamlet nötigt ihn , den Hut aufzusetzen .
 OSRICK : Erlaubt mir , wertester Prinz , zu meiner eignen Bequemlichkeit . Vor kurzem , Herr , ist Laertes hier an den Hof gekommen : auf meine Ehre , ein vollkommner Kavalier , von den vortrefflichsten Auszeichnungen , von einer sehr gefälligen Unterhaltung und glänzendem Äußern . In der Tat , um mit Sinn von ihm zu sprechen , er ist die Musterkarte der feinen Lebensart , denn Ihr werdet in ihm den Inbegriff aller Gaben finden , die ein Kavalier nur wünschen kann zu sehn .
@@ -23,8 +29,3 @@ HORATIO : Ich wußte , Ihr würdet Euch noch an seinen Randglossen erbauen müss
 OSRICK : Die Gestelle sind die Gehenke .
 HAMLET : Der Ausdruck würde schicklicher für die Sache sein , wenn wir eine Kanone an der Seite führen könnten ; bis dahin laßt es immer Gehenke bleiben . Aber weiter : sechs Barberhengste gegen sechs französische Degen , ihr Zubehör , und drei geschmackvoll erfundne Gestelle : das ist eine französische Wette gegen eine dänische . Weswegen haben sie dies verpfändet , wie Ihr 's nennt ?
 OSRICK : Der König , Herr , hat gewettet , daß Laertes in zwölf Stößen von beiden Seiten nicht über drei vor Euch voraushaben soll ; er hat auf zwölf gegen neun gewettet ; und es würde sogleich zum Versuch kommen , wenn Eure Hoheit zu der Erwiderung geneigt wäre .
-HAMLET : Wenn ich nun erwidre : nein ?
-OSRICK : Ich meine , gnädiger Herr , die Stellung Eurer Person zu dem Versuche .
-HAMLET : Ich will hier im Saale auf und ab gehn ; wenn es Seiner Majestät gefällt , es ist jetzt bei mir die Stunde , frische Luft zu schöpfen . Laßt die Rapiere bringen ; hat Laertes Lust , und bleibt der König bei seinem Vorsatze , so will ich für ihn gewinnen , wenn ich kann ; wo nicht , so werde ich nichts als die Schande und die überzähligen Stöße davontragen .
-OSRICK : Soll ich Eure Meinung so erklären ?
-HAMLET : In diesem Sinne , Herr , mit Ausschmückungen nach Eurem Geschmack .

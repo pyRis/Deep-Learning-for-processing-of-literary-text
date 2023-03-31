@@ -1,3 +1,5 @@
+TRANIO : Nun , junger Herr , kommt 's noch drauf an , den Willen Des Vaters zu gewinnen . Zu dem Zweck , Wie ich vorhin Eu ' r Gnaden schon erzählte , Schaff ' ich uns einen Mann ; wer es auch sei , Macht wenig aus : den richten wir uns ab , Der soll Vincentio aus Pisa sein , Und hier in Padua die Verschreibung geben Auf größre Summen noch , als ich versprach . So sollt Ihr Eures Glücks Euch ruhig freun , Mit Einstimmung vermählt der schönen Bianca .
+LUCENTIO : Wär ' mein Kam'rad nur nicht , der zweite Lehrer , Der Biancas Schritte so genau bewacht , So ging ' es leicht , sich heimlich zu vermählen : Und ist 's geschehn , sag ' alle Welt auch nein , Behaupt ' ich , aller Welt zum Trotz , mein Recht .
 TRANIO : Das , denk ' ich , läßt sich nach und nach ersehn , Sind wir nur wachsam stets auf unsern Vorteil : So prellen wir den alten Graubart Gremio , Den gar zu filz'gen Vater Minola , Den schmachtend süßen Meister Licio , Zum Besten meines lieben Herrn Lucentio .
 Gremio kommt zurück .
 GREMIO : Und zwar so lustig als je aus der Schule .
@@ -23,4 +25,3 @@ KATHARINA : So ist 's Euch recht , zu bleiben ? –
 PETRUCHIO : Recht ist mir 's , daß Ihr bittet , ich soll bleiben ; Doch nichts von bleiben , bittet , was Ihr mögt .
 KATHARINA : Wenn Ihr mich liebt , so bleibt !
 PETRUCHIO : Grumio , die Pferde ! –
-GRUMIO : Ja , Herr , sie sind parat : Der Haber hat die Pferde schon gefressen .

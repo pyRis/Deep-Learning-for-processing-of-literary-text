@@ -1,3 +1,5 @@
+Wirft einen Schädel auf .
+HAMLET : Der Schädel hatte einmal eine Zunge und konnte singen : wie ihn der Schuft auf den Boden schleudert , als wär ' es der Kinnbacken Kains , der den ersten Mord beging ! Dies mochte der Kopf eines Politikers sein , den dieser Esel nun überlistet ; eines , der Gott den Herrn hintergehn wollte : nicht wahr ?
 HORATIO : Es ist möglich .
 HAMLET : Oder eines Hofmannes , der sagen konnte : » Guten Morgen , geliebtester Prinz ! Wie geht 's , bester Prinz ? « Dies mochte der gnädige Herr der und der sein , der des gnädigen Herrn des und des Pferd lobte , wenn er es gern zum Geschenk gehabt hätte : nicht wahr ?
 HORATIO : Ja , mein Prinz .
@@ -27,7 +29,3 @@ ERSTER TOTENGRÄBER : Von allen Tagen im Jahre kam ich just den Tag dazu , da un
 HAMLET : Wie lange ist das her ?
 ERSTER TOTENGRÄBER : Wißt Ihr das nicht ? Das weiß jeder Narr . Es war denselben Tag , wo der junge Hamlet geboren ward , der nun toll geworden und nach England geschickt ist .
 HAMLET : Ei so ! Warum haben sie ihn nach England geschickt ?
-ERSTER TOTENGRÄBER : Nu , weil er toll war . Er soll seinen Verstand da wieder kriegen ; und wenn er ihn nicht wieder kriegt , so tut 's da nicht viel .
-HAMLET : Warum ?
-ERSTER TOTENGRÄBER : Man wird 's ihm da nicht viel anmerken : die Leute sind da eben so toll wie er .
-HAMLET : Wie wurde er toll ?

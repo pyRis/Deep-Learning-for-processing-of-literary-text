@@ -1,3 +1,17 @@
+CATO : Ein Bastard , der 's nicht tut ! Wer will mir folgen ? Ich rufe meinen Namen durch das Feld : Ich bin der Sohn des Marcus Cato , hört ! Feind der Tyrannen , Freund des Vaterlands ! Ich bin der Sohn des Marcus Cato , hört !
+BRUTUS Und ich bin Brutus , Marcus Brutus , ich ; Des Vaterlandes Freund : kennt mich als Brutus !
+dringt auf den Feind ein .
+Ab , indem er auf den Feind eindringt . Cato wird überwältigt und fällt .
+LUCILIUS : O junger , edler Cato ! bist du hin ? Ja ! tapfer wie Titinius stirbst du nun , Man darf dich ehren als des Cato Sohn .
+ERSTER SOLDAT : Ergib dich , oder stirb !
+LUCILIUS : Nur um zu sterben Ergeb ' ich mich. Hier ist so viel für dich , Daß du sogleich mich töten wirst : nun töte Den Brutus , und es ehre dich sein Tod !
+Bietet ihm Geld an .
+ERSTER SOLDAT : Wir müssen 's nicht . – Ein edler Gefangner !
+ZWEITER SOLDAT : Platz da ! Sagt dem Antonius , daß wir Brutus haben !
+ERSTER SOLDAT : Ich will es melden . – Sieh , da kommt der Feldherr . Wir haben Brutus , Herr ! wir haben Brutus !
+Antonius tritt auf .
+ANTONIUS : Wo ist er ?
+LUCILIUS : In Sicherheit ; Brutus ist sicher g'nug . Verlaß dich drauf , daß nimmermehr ein Feind Den edlen Brutus lebend fangen wird ! Die Götter schützen ihn vor solcher Schmach ! Wo ihr ihn findet , lebend oder tot , Er wird wie Brutus , wie er selbst , sich zeigen .
 ANTONIUS : Dies ist nicht Brutus , Freund , doch , auf mein Wort , Ein nicht geringrer Fang ! Verwahrt ihn wohl , Erweist nur Gutes ihm : ich habe lieber Zu Freunden solche Männer als zu Feinden . Eilt ! Seht , ob Brutus tot ist oder lebt ! Und bringt Bericht zu des Octavius Zelt , Wie alles sich begeben .
 Alle ab .
 Ein andrer Teil des Schlachtfeldes .
@@ -26,15 +40,3 @@ Getümmel .
 VOLUMNIUS : Das , Brutus , ist kein Dienst für einen Freund .
 Fortdauerndes Getümmel .
 CLITUS : Flieht , Herr ! o flieht ! Hier gilt kein Säumen mehr .
-BRUTUS : Lebt wohl denn , Ihr – und Ihr – und Ihr , Volumnius ! Du , Strato , lagst die ganze Zeit im Schlaf : Leb wohl auch du ! – Mitbürger , meinem Herzen Ist 's Wonne , daß ich noch im ganzen Leben Nicht einen fand , der nicht getreu mir war . Ich habe Ruhm von diesem Unglückstage , Mehr als Octavius und Mark Anton Durch diesen schnöden Sieg erlangen werden . So lebt zusammen wohl ! Denn Brutus ' Zunge Schließt die Geschichte seines Lebens bald . Nacht deckt mein Auge , mein Gebein will Ruh ' , Es strebte längst nur dieser Stunde nach .
-Getümmel . Geschrei hinter der Szene : » Flieht ! Flieht ! Flieht ! «
-CLITUS : Flieht , Herr ! o flieht !
-BRUTUS : Ich bitt ' dich , Strato , bleib ' bei deinem Herrn : Du bist ein Mensch von redlichem Gemüt , In deinem Leben war ein Funken Ehre : Halt denn mein Schwert , und wende dich hinweg , Indes ich drein mich stürze ! Willst du , Strato ?
-Clitus , Dardanius und Volumnius ab .
-STRATO : Gebt erst die Hand mir : Herr , gehabt Euch wohl !
-BRUTUS : Leb wohl , mein Freund ! – Besänft'ge , Cäsar , dich ! Nicht halb so gern bracht ' ich dich um als mich .
-Er stürzt sich auf sein Schwert und stirbt .
-Getümmel . Rückzug . Octavius , Antonius , mit ihrem Heere , Messala und Lucilius kommen .
-OCTAVIUS : Wer ist der Mann ?
-MESSALA : Der Diener meines Herrn . Strato , wo ist dein Herr ?
-STRATO : Frei von den Banden , die Ihr tragt , Messala . Die Sieger können nur zu Asch ' ihn brennen , Denn Brutus unterlag allein sich selbst , Und niemand sonst hat Ruhm von seinem Tode .

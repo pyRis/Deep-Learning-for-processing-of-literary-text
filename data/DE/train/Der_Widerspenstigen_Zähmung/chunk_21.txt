@@ -1,3 +1,7 @@
+CURTIS : Ist sie denn solch eine hitzige Widerspenstige , wie man sagt ? –
+GRUMIO : Das war sie , guter Curtis , vor diesem Frost ; aber du weißt , der Winter zähmt Mann , Frau und Vieh ; denn er hat meinen alten Herrn und meine neue Frau gezähmt , und mich selbst , Kam'rad Curtis .
+CURTIS : Geh mir , du dreizölliger Geck ! Ich bin kein Vieh ! –
+GRUMIO : Halt ' ich nur drei Zoll ? Ei was ! Dein Horn mißt einen Fuß , und so lang bin ich zum wenigsten . Aber willst du Feuer anmachen ? Oder soll ich Klage über dich bei unsrer Frau führen , deren Hand ( denn sie ist hier gleich bei der Hand ) du bald fühlen wirst , als einen kalten Trost dafür , daß du langsam bist in deinem heißen Dienst ? –
 CURTIS : Bitt ' dich , lieber Grumio , erzähle mir was : wie geht 's in der Welt ? –
 GRUMIO : Kalt geht 's in der Welt , Curtis , in jedem andern Dienst als im deinigen ; und darum Feuer ; Tu ' , was dir gebührt , und nimm , was dir gebührt : denn unser Herr und seine Frau sind beinahe totgefroren .
 CURTIS : Das Feuer brennt , und also nun erzähle was Neues , guter Grumio !
@@ -23,16 +27,3 @@ GRUMIO : Erzähle du die Geschichte ! Aber wärst du mir nicht dazwischen gekomm
 CURTIS : Nach dieser Rechnung ist er ja widerspenstiger als sie ? –
 GRUMIO : Ja , und das werden die Frechsten von euch allen erfahren , wenn er zu Hause kommt . Aber warum schwatze ich hier ? Ruf ' Nathanael , Joseph , Niklas , Philipp , Walter , Haberkuckuck und die andern her : laß sie ihre Köpfe glattkämmen , ihre blauen Röcke ausbürsten , ihre Kniegürtel sollen sie nicht anstößig binden , mit dem linken Fuß ausscharren , und sich 's nicht unterstehn , ein Haar von meines Herrn Pferdeschwanz anzurühren , bis sie sich die Hand geküßt haben . Sind sie alle fertig ? –
 CURTIS : Das sind sie .
-GRUMIO : Ruf ' sie her !
-CURTIS : Hört Ihr ! He ! Ihr sollt dem Herrn entgegen gehn ! – und meiner gnädigen Frau ein rechtes Ansehn geben ! –
-GRUMIO : Nun , sie ist selbst schon ansehnlich genug !
-CURTIS : Das ist gewiß .
-GRUMIO : Nun , was rufst du denn die Leute , ihr ein Ansehn zu geben ? –
-CURTIS : Ich meine , sie sollen ihr Kredit verschaffen .
-GRUMIO : Ei was , sie wird ja nichts von ihnen borgen wollen .
-Mehrere Bediente kommen .
-NATHANAEL : Willkommen zu Hause , Grumio !
-PHILIPP : Wie geht 's , Grumio ?
-JOSEPH : Ei , Grumio ?
-NIKLAS : Kamerad Grumio ?
-NATHANAEL : Wie geht 's , alter Junge ?

@@ -1,3 +1,18 @@
+GRUMIO : Ich gab nicht Ordre ; Zeug hab ' ich gegeben .
+SCHNEIDER : Und wie verlangtet Ihr 's von ihm gemacht ? –
+GRUMIO : Zum Henker , Herr , mit Nadel und mit Zwirn .
+SCHNEIDER : Doch sagt , nach welchem Schnitt Ihr 's habt bestellt ?
+GRUMIO : Du hast wohl schon allerlei geschnitten ?
+SCHNEIDER : O ja , das habe ich .
+GRUMIO : Schneide mir aber kein Gesicht ! Du hast auch schon manchen herausgeputzt ; mich verschone aber mit deinen Ausputzern ! Ich sage dir , ich hieß deinem Meister , er solle das Kleid schneiden ; ich hieß ihm aber nicht , es in Stücke schneiden : ergo , du lügst .
+SCHNEIDER : Nun , hier ist der Zettel mit der Bestellung , mir zum Zeugen .
+PETRUCHIO : Lies ihn !
+GRUMIO : Der Zettel lügt in seinen Hals , wenn er sagt , ich habe es so bestellt .
+SCHNEIDER : » In primis , ein freies , loses Kleid. «
+GRUMIO : Herr , wenn ich ein Wort von freiem , losem Wesen gesagt habe , so näht mich in des Kleides Schleppe , und schlagt mich mit einem Knäuel braunen Zwirn tot : ich sagte bloß » Kleid « .
+PETRUCHIO : Weiter .
+SCHNEIDER : » Mit einem kleinen runden Kragen. «
+GRUMIO : Ich bekenne den Kragen .
 SCHNEIDER : » Mit einem Pauschärmel. «
 GRUMIO : Ich bekenne zwei Ärmel .
 SCHNEIDER : » Die Ärmel niedlich zugespitzt und ausgeschnitten. «
@@ -19,14 +34,3 @@ HORTENSIO : Schneider , das Kleid bezahl ' ich morgen dir , Und nimm die hast'ge
 Schneider ab .
 PETRUCHIO : So , Käthchen , komm ! Besuchen wir den Vater , So wie wir sind , in unsern schlichten Kleidern ; Stolz soll der Beutel sein , der Anzug arm , Denn nur der Geist macht unsern Körperreich . Und wie die Sonne bricht durch trübste Wolken , So strahlt aus niedrigstem Gewand die Ehre . Was ? ist der Häher edler als die Lerche , Weil sein Gefieder bunter fällt ins Auge ? Und ist die Otter besser als der Aal , Weil ihre fleck'ge Haut das Aug ' ergötzt ? O Käthchen , nein ; so bist auch du nicht schlimmer Um diese arme Tracht und schlechte Kleidung . Doch hältst du 's schimpflich so , gib mir die Schuld , Und drum frisch auf : wir wollen gleich dahin , Beim Vater froh und guter Dinge sein . – Geht , meine Leute ruft , gleich reiten wir , Die Pferde führt zum Heckentor hinaus , Da setzen wir uns auf und gehn so weit . Laßt sehn : ich denk ' , es ist jetzt sieben Uhr , Wir können dort sein noch zum Mittagessen .
 KATHARINA : Herr , ich versichr ' Euch , es hat zwei geschlagen , Und kaum zum Abendessen kommt Ihr hin .
-PETRUCHIO : Es soll nun sieben Uhr sein , eh ' wir reiten . Sieh , was ich sag ' und tu ' und möchte tun , Stets mußt du widersprechen ! Leute , laßt uns , Ich will nun heut nicht fort : und eh ' ich reite , Da soll 's die Stunde sein , die ich gesagt .
-HORTENSIO : Der große Herr stellt gar die Sonne rückwärts ! –
-Gehn ab .
-Straße in Padua .
-Tranio und der Magister , als Vincentio gekleidet , treten auf .
-TRANIO : Dies ist das Haus , Signor : sagt , soll ich rufen ?
-MAGISTER : Jawohl ! Was sonst ? Und wenn ich mich nicht täusche , Muß sich Signor Baptista mein erinnern ; – Bald sind es zwanzig Jahr ; in Genua war 's , Da wohnten beide wir im Pegasus .
-TRANIO : So ist es recht . – Bleibt nur in dem Charakter , Seid strenge , wie es einem Vater ziemt !
-Biondello kommt .
-MAGISTER : Seid unbesorgt ! Doch seht , hier kommt Eu ' r Bursch , Den müßt Ihr noch belehren .
-TRANIO : Um den seid unbekümmert ! He , Biondello , Nimm dich zusammen , ja , das rat ' ich dir , Halt ' fest im Sinn , dies sei Vincentio .

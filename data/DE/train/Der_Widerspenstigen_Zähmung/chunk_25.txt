@@ -1,3 +1,8 @@
+TRANIO : Er ist mein Vater , Herr , und auf mein Wort , Er sieht Euch im Gesicht so ziemlich gleich .
+BIONDELLO : Just wie ein Apfel einer Auster gleicht !
+TRANIO : In dieser Not das Leben Euch zu retten , Tu ' ich Euch , ihm zu Liebe , diesen Dienst : Und haltet 's nicht für Euer schlimmstes Glück , Daß Ihr dem Herrn Vincentio ähnlich seht ; Sein Nam ' und Ansehn soll Euch hier beschützen : Mein Haus steht Euch zu Diensten , wohnt bei mir ! Betragt Euch so , daß niemand Argwohn faßt , Nun , Ihr versteht mich ; ja , so sollt Ihr bleiben , Bis Eu ' r Geschäft in dieser Stadt beendigt . – Ist dies ein Dienst , so nehmt ihn willig an !
+MAGISTER : Das tu ' ich , Herr , und will Euch ewig danken Als Schützer meines Lebens , meiner Freiheit .
+TRANIO : So kommt mit mir und stellt die Sach ' ins Werk ; So viel sei Euch beiläufig noch gesagt , Mein Vater wird hier jeden Tag erwartet , Um hier ein Eh'verlöbnis abzuschließen Mit mir und eines Herrn Baptista Tochter . Von alle dem will ich Euch unterrichten ; Kommt mit mir , Herr , geziemlich Euch zu kleiden !
 Alle ab .
 Zimmer in Petruchios Landhaus .
 Katharina und Grumio treten auf .
@@ -24,11 +29,3 @@ PETRUCHIO : Nun lach ' mich an , mein Herz , sei wohlgemut ! Hier , Kind , du si
 Setzt die Schüssel auf den Tisch .
 KATHARINA : Bitte , laßt sie stehn !
 PETRUCHIO : Der kleinste Dienst wird ja mit Dank bezahlt , Und meiner soll 's , eh ' du dir davon nimmst .
-KATHARINA : Ich dank ' Euch , Herr .
-HORTENSIO : Pfui doch , Petruchio , pfui ! du bist zu tadeln ! Gesellschaft leist ' ich Euch : so kommt und eßt !
-PETRUCHIO Nun , wohl bekomm ' es dir , mein liebes Herz : Iß schnell , mein Käthchen ! – Nun , mein süßes Liebchen , Laß uns zurück zu deinem Vater reisen ; Dort laß uns wacker schwärmen und stolzieren , Mit seidnen Kleidern , Hauben , goldnen Ringen , Mit Litzen , Spitzen , Samt und tausend Dingen , Mit Spang ' und Armband , wie die höchste Edeldam ' , Bernstein , Korall ' und Perl ' und solchem Trödelkram . Nun , bist du satt ? Dein wartet schon der Schneider Und bringt zum Putz die raschelnd seidnen Kleider . Komm , Schneider ! Zeig ' uns deine Herrlichkeiten ! – Leg ' aus das Kleid !
-beiseit .
-Laut .
-Schneider kommt .
-Putzhändler kommt .
-PUTZHÄNDLER : Hier ist die Haube , die Eu ' r Gnaden wünschte .

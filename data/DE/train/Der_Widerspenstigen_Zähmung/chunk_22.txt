@@ -1,3 +1,17 @@
+GRUMIO : Ruf ' sie her !
+CURTIS : Hört Ihr ! He ! Ihr sollt dem Herrn entgegen gehn ! – und meiner gnädigen Frau ein rechtes Ansehn geben ! –
+GRUMIO : Nun , sie ist selbst schon ansehnlich genug !
+CURTIS : Das ist gewiß .
+GRUMIO : Nun , was rufst du denn die Leute , ihr ein Ansehn zu geben ? –
+CURTIS : Ich meine , sie sollen ihr Kredit verschaffen .
+GRUMIO : Ei was , sie wird ja nichts von ihnen borgen wollen .
+Mehrere Bediente kommen .
+NATHANAEL : Willkommen zu Hause , Grumio !
+PHILIPP : Wie geht 's , Grumio ?
+JOSEPH : Ei , Grumio ?
+NIKLAS : Kamerad Grumio ?
+NATHANAEL : Wie geht 's , alter Junge ?
+GRUMIO : Willkommen du ! – Wie geht 's , du ? – Ei , du ! – Kamerad , du ! – und so viel fürs Grüßen . – Nun , ist alles fertig ? Ist jedes Ding niedlich , meine schmucken Kerlchen ?
 NATHANAEL : Jedes Ding ist fertig . – Wie nah ist der Herr ?
 GRUMIO : Ganz nah , vielleicht schon abgestiegen , und darum – Potz Sapperment , seid still ! Ich höre meinen Herrn .
 Petruchio und Katharina kommen .
@@ -23,10 +37,3 @@ PETRUCHIO : Und wer bracht ' es ?
 ERSTER DIENER : Ich .
 PETRUCHIO : Es ist verbrannt , und so ist alles Essen : Welch Hundevolk ! Wo ist der Koch , die Bestie ? Wie wagt ihr , Schurken , das mir anzurichten , Mir vorzusetzen , was ich doch nicht mag ? – Da ! Fort damit ! Fort Teller , Becher ! Alles ! – Einfält'ge Lümmel ! Ungeschliffnes Volk ! Was ? brummt ihr noch ? Gleich werd ' ich bei euch sein .
 Wirft Essen und Tischzeug auf die Erde .
-KATHARINA : Ich bitt ' dich , lieber Mann , sei nicht so unwirsch : Gut war das Essen , hätt'st du 's nur gemocht !
-PETRUCHIO : Nein , Käthchen , 's war vertrocknet und verbrannt : Und grade das hat man mir streng verboten , Denn auf die Galle wirkt 's , erzeugt den Ärger : Drum ist es besser , wenn wir beide fasten ( Denn beide sind wir von Natur cholerisch ) , Als durch zu stark Gebratnes uns verderben . Geduld , mein Kind ; wir holen 's morgen ein , Doch diese Nacht woll'n wir gemeinsam fasten : Komm nun , ich führ ' dich in dein Brautgemach .
-Katharina , Petruchio und Curtis ab .
-NATHANAEL : Peter , sag , hast du so was je gesehn ?
-PETER : Die macht er tot in ihrer eignen Manier .
-Curtis kommt zurück .
-GRUMIO : Wo ist er ?

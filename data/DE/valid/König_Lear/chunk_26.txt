@@ -1,3 +1,11 @@
+Bediente kommen mit Gloster .
+REGAN : Der undankbare Fuchs ! Er ist 's .
+CORNWALL : Bind't ihm die welken Arme !
+GLOSTER : Was meint Eu ' r Hoheit ? Freunde , denkt , ihr seid Hier meine Gäste ; frevelt nicht an mir !
+CORNWALL : Bind't ihn !
+Gloster wird gebunden .
+REGAN : Fest ! Fest ! O schändlicher Verräter !
+GLOSTER : Du unbarmherz'ge Frau , das war ich nie . –
 CORNWALL : Bind't ihn an diesen Stuhl : Schuft , du sollst sehn –
 Regan zupft ihn am Barte .
 GLOSTER : Beim güt'gen Himmel , das ist höchst unedel , Zu raufen meinen Bart !
@@ -38,7 +46,3 @@ GLOSTER : Alles Nacht und trostlos . Wo ist mein Sohn Edmund ? – Edmund , sch�
 REGAN : Ha , falscher Bube , Du rufst den , der dich haßt : er selber war 's , Der deinen Hochverrat entdeckt ; er ist Zu gut , dich zu bedauern .
 GLOSTER : O mein Wahnsinn ! Dann tat ich Edgar Unrecht . Götter , vergebt mir das , und segnet ihn ! –
 REGAN : Fort , werft ihn aus dem Tor , dann mag er riechen Den Weg nach Dover . Gloster wird weggebracht . Wie ist Euch , Herr ? – Wie geht 's ?
-Gloster wird weggebracht .
-CORNWALL : Er schlug mir eine Wunde . – Folgt mir , Lady ! Hinaus den blinden Schurken ! Diesen Hund Werft auf den Mist ! Regan , ich blute stark ; Dies kommt zur Unzeit . Gib mir deinen Arm !
-Regan führt Cornwall ab .
-ERSTER DIENER : Ich achte nicht , was ich für Sünde tu ' , Wenn 's dem noch wohl geht .

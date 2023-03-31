@@ -1,3 +1,8 @@
+BRUTUS : Ganz nach der Vorschrift der Philosophie , Wonach ich Cato um den Tod getadelt , Den er sich gab ( ich weiß nicht , wie es kommt , Allein ich find ' es feig und niederträchtig , Aus Furcht , was kommen mag , des Lebens Zeit So zu verkürzen ) , will ich mit Geduld Mich waffnen und den Willen hoher Mächte Erwarten , die das Irdische regieren .
+CASSIUS : Dann , geht die Schlacht verloren , laßt Ihr 's Euch Gefallen , daß man durch die Straßen Roms Euch im Triumphe führt ?
+BRUTUS : Nein , Cassius , nein ! Glaub ' mir , du edler Römer , Brutus wird nie gebunden gehn nach Rom . Er trägt zu hohen Sinn . Doch dieser Tag Muß enden , was des Märzen Idus anfing ; Ob wir uns wieder treffen , weiß ich nicht : Drum laßt ein ewig Lebewohl uns nehmen ! Gehab ' dich wohl , mein Cassius , für und für ! Sehn wir uns wieder , nun , so lächeln wir ; Wo nicht , so war dies Scheiden wohlgetan .
+CASSIUS : Gehab ' dich wohl , mein Brutus , für und für ! Sehn wir uns wieder , lächeln wir gewiß ; Wo nicht , ist wahrlich wohlgetan dies Scheiden .
+BRUTUS : Nun wohl , führt an ! O wüßte jemand doch Das Ende dieses Tagwerks , eh ' es kommt ! Allein es g'nüget , enden wird der Tag , Dann wissen wir sein Ende . – Kommt und fort !
 Alle ab .
 Das Schlachtfeld .
 Getümmel . Brutus und Messala kommen .
@@ -22,16 +27,3 @@ oben .
 CASSIUS : Was gibt 's ?
 PINDARUS : Titinius ist von Reitern ganz umringt , Sie jagen auf ihn zu , doch spornt er weiter . Nun sind sie dicht schon bei ihm – nun , Titinius ! Sie steigen ab – er auch – er ist gefangen , – Und horcht ! sie jubeln laut .
 Freudengeschrei .
-CASSIUS : Steig ' nur herunter , sieh nicht weiter zu . – O Memme , die ich bin , so lang ' zu leben , Bis ich den besten Freund vor meinen Augen Gefangen sehen muß ! Komm , Bursch , hieher ! Ich macht ' in Parthia dich zum Gefangnen , Und ließ dich schwören , deines Lebens Retter , Was ich nur immer tun dich hieß ' , du wollest Es unternehmen . Komm nun , halt ' den Schwur ! Sei frei nun , und mit diesem guten Schwert , Das Cäsars Leib durchbohrt , trifft diesen Busen ! Erwidre nichts ! Hier fasse du das Heft , Und ist mein Angesicht verhüllt , wie jetzt , So führ ' das Schwert ! – Cäsar , du bist gerächt , Und mit demselben Schwert , das dich getötet .
-Pindarus kommt zurück .
-Er stirbt .
-PINDARUS : So bin ich frei , doch wär ' ich 's lieber nicht , Hätt ' es auf mir beruht . – O Cassius ! Weit wegflieht Pindarus von diesem Lande , Dahin , wo nie ein Römer ihn bemerkt .
-Ab .
-Titinius und Messala kommen .
-MESSALA : Es ist nur Tausch , Titinius ; denn Octav Ward von des edlen Brutus Macht geschlagen , Wie Cassius ' Legionen vom Antonius .
-TITINIUS : Die Zeitung wird den Cassius sehr erquicken .
-MESSALA : Wo ließt Ihr ihn !
-TITINIUS : Ganz trostlos , neben ihm . Sein Sklave Pindarus , auf diesem Hügel .
-MESSALA : Ist er das nicht , der auf dem Boden liegt ?
-TITINIUS : Er liegt nicht da wie lebend . – O mein Herz !
-MESSALA : Nicht wahr ? er ist es ?

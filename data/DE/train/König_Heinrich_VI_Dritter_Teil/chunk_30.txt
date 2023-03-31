@@ -1,3 +1,27 @@
+Er nimmt die Schlüssel .
+Trommeln . Montgomery kommt mit Truppen auf dem Marsch begriffen .
+GLOSTER : Bruder , das ist Sir John Montgomery , Wo ich nicht irre , unser biedrer Freund .
+KÖNIG EDUARD : Sir John , willkommen ! Doch warum in Waffen ?
+MONTGOMERY : In seiner stürm'schen Zeit dem König Eduard Zu helfen , wie ein treuer Untertan .
+KÖNIG EDUARD : Dank , teuerster Montgomery ! Aber nun Vergessen wir den Anspruch an die Krone Und fodern unser Herzogtum allein , Bis Gott beliebt , das andre auch zu senden .
+MONTGOMERY : Gehabt Euch wohl denn ! Ich will wieder fort : Dem König , keinem Herzog wollt ' ich dienen . Trommeln gerührt ! und laßt uns weiter ziehn .
+Die Trommeln fangen einen Marsch an .
+KÖNIG EDUARD : Ein Weilchen haltet noch ; laßt uns erwägen , Wie man zur Krone sicher kommen möchte .
+MONTGOMERY : Was sprecht Ihr von Erwägen ? Kurz und gut , Erklärt Ihr Euch nicht hier für unsern König , So überlass ' ich Eurem Schicksal Euch Und breche auf , um die zurückzuhalten , Die Euch zu helfen kommen ; denn warum , Wenn Ihr kein Recht behauptet , föchten wir ?
+GLOSTER : Wozu doch , Bruder , die Bedenklichkeiten ?
+KÖNIG EDUARD : Wenn wir erst stärker sind , dann wollen wir An unsre Fodrung denken ; bis dahin Ist 's Weisheit , unsre Meinung zu verbergen .
+HASTINGS : Jetzt fort mit scheuem Witz ! Das Schwert regiere !
+GLOSTER : Und kühner Mut erklimmt am ersten Thronen . Bruder , wir rufen auf der Stell ' Euch aus ; Der Ruf davon wird viele Freund ' Euch schaffen .
+KÖNIG EDUARD : So sei es , wie ihr wollt : denn 's ist mein Recht , Und Heinrich maßt das Diadem sich an .
+MONTGOMERY : Ja , jetzo spricht mein Fürst ganz wie er selbst , Und jetzo will ich Eduards Kämpfer sein .
+HASTINGS : Trompeten , blast ! Wir rufen Eduard aus . Komm , Kamerad , verrichte du den Ausruf .
+Gibt ihm einen Zettel . Trompetenstoß .
+SOLDAT » Eduard der Vierte , von Gottes Gnaden König von England und Frankreich und Herr von Irland , u.s.w. «
+liest .
+MONTGOMERY : Und wer da leugnet König Eduards Recht , Den fodr ' ich durch dies Zeichen zum Gefecht .
+Wirft seinen Handschuh nieder .
+ALLE : Lang ' lebe Eduard der Vierte !
+KÖNIG EDUARD : Dank , tapferer Montgomery ! Dank euch allen ! Hilft mir das Glück , so lohn ' ich eure Güte . Jetzt , auf die Nacht , laßt hier in York uns rasten , Und wenn die Morgensonne ihren Wagen Am Rande dieses Horizonts erhebt , Auf Warwick los und seine Mitgenossen , Denn , wie bekannt , ist Heinrich kein Soldat . Ach , störr'ger Clarence ! Wie übel es dir steht , Daß du vom Bruder läßt und Heinrich schmeichelst ! Doch dich und Warwick treff ' ich , wie ich kann . Auf , tapfre Scharen ! Zweifelt nicht am Siege Und nach dem Sieg am reichen Lohn der Kriege !
 Alle ab .
 London . Ein Zimmer im Palast .
 König Heinrich , Warwick , Clarence , Montague , Exeter und Oxford treten auf .
@@ -5,28 +29,3 @@ WARWICK : Lords , was zu tun ? Aus Belgien hat Eduard Mit hast'gen Deutschen , p
 OXFORD : Man werbe Mannschaft , ihn zurückzuschlagen .
 CLARENCE : Leicht wird ein kleines Feuer ausgetreten , Das , erst geduldet , Flüsse nicht mehr löschen .
 WARWICK : In Warwickshire hab ' ich ergebne Freunde , Im Frieden ruhig , aber kühn im Krieg , Die ich versammeln will ; und du , Sohn Clarence , Bemühst dich in Suffolk , Norfolk und in Kent , Die Edelleut ' und Ritter aufzubieten ; Du , Bruder Montague , wirst Leute finden In Buckingham , Northampton , Leicestershire , Was du befiehlst , zu hören wohl geneigt ; Du , tapfrer Oxford , wunderbar beliebt , Sollst deine Freund ' in Oxfordshire versammeln . Mein Fürst soll in der treuen Bürger Mitte , Wie dieses Eiland , von der See umgürtet , Wie in der Nymphen Kreis die keusche Göttin , In London bleiben , bis wir zu ihm kommen . Nehmt Abschied , Lords , erwidert weiter nicht . – Lebt wohl , mein Fürst !
-KÖNIG HEINRICH : Leb wohl , mein Hektor ! Meines Troja Hoffnung !
-CLARENCE : Zum Pfand der Treu ' küss ' ich Eu ' r Hoheit Hand .
-KÖNIG HEINRICH : Mein wohlgesinnter Clarence , sei beglückt !
-MONTAGUE : Getrost , mein Fürst ! Und somit nehm ' ich Abschied .
-OXFORD Und so versiegl ' ich meine Treu ' und scheide .
-indem er Heinrichs Hand küßt .
-KÖNIG HEINRICH : Geliebter Oxford , bester Montague Und all ' ihr andern , nochmals lebet wohl !
-WARWICK : Auf , Lords ! Wir treffen uns zu Coventry .
-Warwick , Clarence , Oxford und Montague ab .
-KÖNIG HEINRICH : Hier im Palast will ich ein wenig ruhn . Vetter von Exeter , was denket Ihr ? Mich dünkt , das Heer , das Eduard aufgebracht , Muß meinem nicht die Spitze bieten können .
-EXETER : Ja , wenn er nur die andern nicht verführt .
-KÖNIG HEINRICH : Das fürcht ' ich nicht , mir schaffte Ruhm mein Tun . Ich stopfte ihren Bitten nicht mein Ohr , Schob die Gesuche nicht bei Seit ' mit Zögern ; Mein Mitleid war ein Balsam ihren Wunden , Des vollen Jammers Lind'rung meine Milde , Mit Gnade trocknet ' ich die Tränenströme . Ich habe ihren Reichtum nicht begehrt Noch sie mit großen Steuern schwer geschatzt , Nicht schnell zur Rache , wie sie auch geirrt . Warum denn sollten sie mir Eduard vorziehn ? Nein , Exeter , Gunst heischet diese Gunst , Und wenn dem Lamm der Löwe liebekost , So hört das Lamm nie auf , ihm nachzugehn .
-Draußen Geschrei : » Lancaster hoch ! «
-EXETER : Hört , hört , mein Fürst ! Welch ein Geschrei ist das ?
-König Eduard , Gloster und Soldaten treten auf .
-KÖNIG EDUARD : Ergreift den blöden Heinrich , führt ihn fort Und ruft mich wieder aus zum König Englands ! – Ihr seid der Quell , der kleine Bäche nährt ; Ich hemm ' ihn , meine See soll auf sie saugen Und durch ihr Ebben um so höher schwellen . – Fort mit ihm in den Turm , laßt ihn nicht reden ! Einige ab mit König Heinrich . Und , Lords , wir wenden uns nach Coventry , Wo der gebieterische Warwick steht . Jetzt scheint die Sonne heiß : wenn wir vertagen , Wird Frost uns die gehoffte Ernte nagen .
-Einige ab mit König Heinrich .
-GLOSTER : Bei Zeiten fort , eh ' sich sein Heer vereint , Fangt unversehns den großgewachsnen Frevler . Auf , wackre Krieger ! Frisch nach Coventry !
-Alle ab .
-Coventry .
-Auf der Mauer erscheinen Warwick , der Schultheiß von Coventry , zwei Boten und andre .
-WARWICK : Wo ist der Bote von dem tapfern Oxford ? Wie weit ist noch dein Herr , mein guter Freund ?
-ERSTER BOTE : Bei Dunsmore eben , auf dem Marsch hieher .
-WARWICK : Wie weit ist unser Bruder Montague ? Wo ist der Bote , der von ihm uns kam ?
-ZWEITER BOTE : Bei Daintry eben , mit gewalt'ger Schar .

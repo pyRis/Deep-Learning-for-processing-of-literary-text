@@ -1,3 +1,13 @@
+ANTONIUS : Nein , Cäsar , laßt uns ihres Angriffs warten ! Kommt , tretet vor ! Die Feldherrn wünschen ja Ein Wort mit uns .
+OCTAVIUS : Bleibt stehn bis zum Signal !
+BRUTUS : Erst Wort , dann Schlag : nicht wahr , ihr Landsgenossen ?
+OCTAVIUS : Nicht daß wir mehr als ihr nach Worten fragen .
+BRUTUS : Gut Wort , Octavius , gilt wohl bösen Streich .
+ANTONIUS : Ihr , Brutus , gebt bei bösem Streich gut Wort . Des zeuget Cäsars Herz , durchbohrt von Euch , Indes Ihr rieft : » Lang ' lebe Cäsar , Heil ! «
+CASSIUS : Die Führung Eurer Streiche , Mark Anton , Ist uns noch unbekannt ; doch Eure Worte Begehn an Hyblas Bienen Raub und lassen Sie ohne Honig .
+ANTONIUS : Nicht auch stachellos ?
+BRUTUS : O ja ! auch tonlos , denn Ihr habt ihr Summen Gestohlen , Mark Anton , und drohet weislich , Bevor Ihr stecht .
+ANTONIUS : Ihr tatet 's nicht , Verräter , Als eure schnöden Dolch ' einander stachen In Cäsars Brust : Ihr zeigtet eure Zähne Wie Affen , krocht wie Hunde , bücktet tief Wie Sklaven euch , und küßtet Cäsars Füße ; Derweil von hinten der verfluchte Casca Mit tück'schem Bisse Cäsars Nacken traf . O Schmeichler !
 CASSIUS : Schmeichler ! – Dankt Euch selbst nun , Brutus : Denn diese Zunge würde heut nicht freveln , Wär ' Cassius ' Rat befolgt .
 OCTAVIUS : Zur Sache ! kommt ! Macht Widerspruch uns schwitzen , So kostet rötre Tropfen der Erweis . Seht ! auf Verschworne zück ' ich dieses Schwert : Wann , denkt ihr , geht es wieder in die Scheide ? Nie , bis des Cäsar dreiundzwanzig Wunden Gerächt sind , oder bis ein andrer Cäsar Mit Mord gesättigt der Verräter Schwert !
 BRUTUS : Cäsar , du kannst nicht durch Verräter sterben , Du bringest denn sie mit .
@@ -18,7 +28,3 @@ MESSALA : Nein , glaubt das nicht !
 CASSIUS : Ich glaub ' es auch nur halb , Denn ich bin frisches Mutes und entschlossen , Zu trotzen standhaft jeglicher Gefahr .
 BRUTUS : Tu ' das , Lucilius !
 CASSIUS : Nun , mein edler Brutus , Sei'n uns die Götter heute hold , auf daß wir Gesellt in Frieden unserm Alter nahn ! Doch weil das Los der Menschen niemals sicher , Laßt uns bedacht sein auf den schlimmsten Fall : Verlieren wir dies Treffen , so ist dies Das allerletzte Mal , daß wir uns sprechen : Was habt Ihr dann Euch vorgesetzt zu tun ?
-BRUTUS : Ganz nach der Vorschrift der Philosophie , Wonach ich Cato um den Tod getadelt , Den er sich gab ( ich weiß nicht , wie es kommt , Allein ich find ' es feig und niederträchtig , Aus Furcht , was kommen mag , des Lebens Zeit So zu verkürzen ) , will ich mit Geduld Mich waffnen und den Willen hoher Mächte Erwarten , die das Irdische regieren .
-CASSIUS : Dann , geht die Schlacht verloren , laßt Ihr 's Euch Gefallen , daß man durch die Straßen Roms Euch im Triumphe führt ?
-BRUTUS : Nein , Cassius , nein ! Glaub ' mir , du edler Römer , Brutus wird nie gebunden gehn nach Rom . Er trägt zu hohen Sinn . Doch dieser Tag Muß enden , was des Märzen Idus anfing ; Ob wir uns wieder treffen , weiß ich nicht : Drum laßt ein ewig Lebewohl uns nehmen ! Gehab ' dich wohl , mein Cassius , für und für ! Sehn wir uns wieder , nun , so lächeln wir ; Wo nicht , so war dies Scheiden wohlgetan .
-CASSIUS : Gehab ' dich wohl , mein Brutus , für und für ! Sehn wir uns wieder , lächeln wir gewiß ; Wo nicht , ist wahrlich wohlgetan dies Scheiden .

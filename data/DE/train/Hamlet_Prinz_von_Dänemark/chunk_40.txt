@@ -1,3 +1,6 @@
+HAMLET : In meiner Brust war eine Art von Kampf , Der mich nicht schlafen ließ ; mich dünkt ' , ich läge Noch schlimmer als im Stock die Meuter . Rasch – Und Dank dem raschen Mute ! – Laßt uns einsehn , Daß Unbesonnenheit uns manchmal dient , Wenn tiefe Plane scheitern ; und das lehr ' uns , Daß eine Gottheit unsre Zwecke formt , Wie wir sie auch entwerfen .
+HORATIO : Sehr gewiß .
+HAMLET : Aus meinem Schlafgemach , Den Schiffermantel um mich her geworfen , Tappt ' ich herum nach ihnen , fand sie glücklich , Griff ihr Paket , und zog mich schließlich wieder Zurück in die Kajüte ; meine Furcht Vergaß die Höflichkeit , und dreist erbrach Ich ihren höchsten Auftrag . Hier , Horatio , Fand ich ein königliches Bubenstück : Ein streng Geheiß , gespickt mit vielen Gründen , Betreffend Dänmarks Heil und Englands auch , Und , heida ! solch ein Spuk , wenn ich entkäme – Daß gleich auf Sicht , ohn ' alle Zögerung , Auch nicht so lang ' , um nur das Beil zu schärfen , Das Haupt mir abgeschlagen werden sollte .
 HORATIO : Ist 's möglich ?
 HAMLET : Hier ist der Auftrag : lies ihn nur bei Muße ! Doch willst du hören , wie ich nun verfuhr ?
 HORATIO : Ja , ich ersuch ' Euch drum .
@@ -19,8 +22,3 @@ HAMLET : Ich dank ' Euch ergebenst , Herr . – Kennst du diese Mücke ?
 HORATIO : Nein , bester Herr .
 HAMLET : Um so besser ist für dein Heil gesorgt , denn es ist ein Laster , ihn zu kennen . Er besitzt viel und fruchtbares Land : wenn ein Tier Fürst der Tiere ist , so wird seine Krippe neben des Königs Gedeck stehn . Er ist eine Elster , aber , wie ich dir sage , mit weitläuftigen Besitzungen von Kot gesegnet .
 OSRICK : Geliebtester Prinz , wenn Eure Hoheit Muße hätte , so wünschte ich Euch etwas von seiner Majestät mitzuteilen .
-HAMLET : Ich will es mit aller Aufmerksamkeit empfangen , Herr . Eure Mütze an ihre Stelle : sie ist für den Kopf .
-OSRICK : Ich danke Eurer Hoheit , es ist sehr heiß .
-HAMLET : Nein , auf mein Wort , es ist sehr kalt ; der Wind ist nördlich .
-OSRICK : Es ist ziemlich kalt , in der Tat , mein Prinz .
-HAMLET : Aber doch , dünkt mich , ist es ungemein schwül und heiß , oder mein Temperament –

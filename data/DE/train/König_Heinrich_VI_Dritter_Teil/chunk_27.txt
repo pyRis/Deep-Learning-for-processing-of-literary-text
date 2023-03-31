@@ -1,3 +1,21 @@
+KÖNIG EDUARD : Ei , Bruder Clarence , bist du auch dabei ? Dann seh ' ich wohl , daß Eduard sinken muß . – Ja , Warwick , allem Mißgeschick zum Trotz , Dir selbst und allen Helfern deiner Tat , Wird Eduard stets als König sich betragen : Stürzt gleich des Glückes Bosheit meine Größe , Mein Sinn geht über seines Rades Kreis .
+WARWICK Sei Eduard Englands König dann im Sinn , Doch Heinrich soll nun Englands Krone tragen Und wahrer König sein : du nur der Schatte . – Mylord von Somerset , auf mein Begehren Sorgt , daß man gleich den Herzog Eduard schaffe Zu meinem Bruder , Erzbischof von York . Wann ich gekämpft mit Pembroke und den Seinen , So folg ' ich Euch und melde , was für Antwort Ihm Ludwig und das Fräulein Bona senden . Leb wohl indessen , guter Herzog York !
+nimmt ihm die Krone ab .
+KÖNIG EDUARD : Was Schicksal auflegt , muß der Mensch ertragen , Es hilft nicht , gegen Wind und Flut sich schlagen .
+König Eduard wird abgeführt , Somerset begleitet ihn .
+OXFORD : Was bleibt für uns , Mylords , nun noch zu tun , Als daß wir mit dem Heer nach London ziehn ?
+WARWICK : Ja wohl , das müssen wir zuvörderst tun : Um König Heinrich vom Verhaft zu lösen Und auf den Königsthron ihn zu erhöhn .
+Alle ab .
+London . Ein Zimmer im Palast .
+Königin Elisabeth und Rivers treten auf .
+RIVERS : Was hat Euch , gnäd'ge Frau , so schnell verwandelt ?
+KÖNIGIN ELISABETH : Wie , Bruder Rivers ? Müßt Ihr 's erst erfahren , Welch Unglück König Eduard jüngst betroffen ?
+RIVERS : Verlust von einem Treffen gegen Warwick ?
+KÖNIGIN ELISABETH : Nein , seiner fürstlichen Person Verlust .
+RIVERS : So ward mein Fürst erschlagen ?
+KÖNIGIN ELISABETH : Ja , fast erschlagen : denn er ward gefangen , Sei 's , daß der Wachen Falschheit ihn verriet , Sei 's , daß der Feind ihn jählings überfallen ; Und , wie man ferner meldet , ist er nun Beim Erzbischof von York in Haft , dem Bruder Des grimmen Warwick , folglich unserm Feind .
+RIVERS : Ich muß gestehn , die Zeitung ist betrübt . Doch , gnäd'ge Fürstin , müßt Ihr nicht verzagen : Vom Warwick kann der Sieg zu uns sich schlagen .
+KÖNIGIN ELISABETH : Bis dahin muß mein Leben Hoffnung tragen . Und der Verzweiflung wehr ' ich gern aus Liebe Zu Eduards Sprößling unter meinem Herzen . Das ist 's , was Leidenschaft mich zügeln lehrt Und milde tragen meines Unglücks Kreuz ; Ja , darum zieh ' ich manche Träne ein Und hemme Seufzer , die das Blut wegsaugen , Damit sie nicht ertränken und verderben Den Sprößling Eduards , Englands echten Erben .
 RIVERS : Doch , gnäd'ge Frau , wo kam denn Warwick hin ?
 KÖNIGIN ELISABETH : Man meldet mir , daß er nach London zieht , Nochmals die Kron ' auf Heinrichs Haupt zu setzen . Das Weitre magst du selber raten nun : Die Freunde König Eduards müssen fallen . Doch der Gewalt des Wütrichs vorzubeugen ( Denn dem trau ' nie , der einmal Treue brach ) , Will ich von hier sogleich zur Freistatt hin , Von Eduards Recht den Erben mind'stens retten ; Da bleib ' ich sicher vor Gewalt und Trug . Komm also auf die Flucht , weil sie noch offen : Von Warwicks Hand ist nur der Tod zu hoffen .
 Beide ab .
@@ -8,19 +26,3 @@ König Eduard und ein Jäger treten auf .
 JÄGER : Hieher , mein Fürst ; hier liegt das Wild versteckt .
 KÖNIG EDUARD : Nein , hieher , Mann : sieh da die Jäger stehn . – Nun , Bruder Gloster , Lord Hastings und ihr andern , Steckt ihr so hier , des Bischofs Wild zu stehlen ?
 GLOSTER : Bruder , die Zeit und Lage fodert Eil ' ; An des Geheges Ecke steht Eu ' r Pferd .
-KÖNIG EDUARD : Doch wohin sollen wir ?
-HASTINGS : Nach Lynn , Mylord , von da nach Flandern schiffen .
-GLOSTER : Fürwahr , getroffen ! Das war meine Meinung .
-KÖNIG EDUARD : Stanley , ich will den Eifer dir vergelten .
-GLOSTER : Was zögern wir ? Zum Reden ist nicht Zeit .
-KÖNIG EDUARD : Was sagst du , Jäger ? Willst du mit mir gehn ?
-JÄGER : Besser als bleiben und mich hängen lassen .
-GLOSTER : So kommt denn , fort ! und macht kein Wesen weiter .
-KÖNIG EDUARD : Leb wohl denn , Bischof ! Warwicks Zorn entrinne , Und bete , daß ich meinen Thron gewinne !
-Alle ab .
-Ein Zimmer im Turm .
-König Heinrich , Clarence , Warwick , Somerset , der junge Richmond , Oxford , Montague , der Kommandant des Turmes und Gefolge .
-KÖNIG HEINRICH : Herr Kommandant , da Gott und Freunde nun Eduard vom königlichen Sitz gestoßen , In Freiheit mein Gefängnis , meine Furcht In Hoffnung und mein Leid in Lust verkehrt : Was sind wir bei der Loslassung dir schuldig ?
-KOMMANDANT : Der Untertan kann nichts vom Fürsten fodern ; Doch , wenn demüt'ge Bitten etwas gelten , Wünsch ' ich Verzeihung von Eu ' r Majestät .
-KÖNIG HEINRICH : Wofür ? Daß du mich gut behandelt hast ? Nein , sei gewiß , ich lohne deine Güte , Die den Verhaft mir umschuf in Vergnügen , Ja solch Vergnügen , wie im Käfig Vögel Empfinden , wenn nach langem Trübsinn sie Zuletzt bei häuslichen Gesanges Tönen An den Verlust der Freiheit sich gewöhnen . – Doch , Warwick , du nächst Gott hast mich befreit , Drum bin ich dir nächst Gott zum Dank bereit : Er war Urheber und das Werkzeug du . Auf daß ich nun des Glückes Neid besiege , Klein lebend , wo es mir nicht schaden kann , Und daß mein widerwärt'ger Stern das Volk In diesem Land des Segens nicht bestrafe , Warwick , wiewohl ich noch die Krone trage , So übergeb ' ich dir mein Regiment : Du bist beglückt in allem deinem Tun .
-WARWICK : Eu ' r Hoheit war für Tugend stets berühmt Und zeigt sich nun so weis ' als tugendhaft , Des Schicksals Tücke spähend und vermeidend ; Denn wen'ge richten sich nach ihrem Stern . In einem nur muß ich Euch Unrecht geben , Daß Ihr mich wählt , da Clarence steht daneben .

@@ -1,3 +1,5 @@
+HAMLET : Gewährt Verzeihung , Herr ; ich tat Euch Unrecht , Allein verzeiht um Eurer Ehre willen ! Der Kreis hier weiß , Ihr hörtet 's auch gewiß , Wie ich mit schwerem Trübsinn bin geplagt . Was ich getan , Das die Natur in Euch , die Ehr ' und Sitte , Hart aufgeregt , erklär ' ich hier für Wahnsinn . War 's Hamlet , der Laertes kränkte ? Nein . Wenn Hamlet von sich selbst geschieden ist , Und , weil er nicht er selbst , Laertes kränkt , Dann tut es Hamlet nicht , Hamlet verleugnet 's . Wer tut es denn ? Sein Wahnsinn . Ist es so , So ist er ja auf der gekränkten Seite : Sein Wahnsinn ist des armen Hamlets Feind . Vor diesen Zeugen , Herr , Laßt mein Verleugnen aller schlimmen Absicht So weit vor Eurer Großmut frei mich sprechen , Als ich den Pfeil nur sandte übers Haus Und meinen Bruder traf .
+LAERTES : Mir ist genug geschehn für die Natur , Die mich in diesem Fall am stärksten sollte Zur Rache treiben . Doch nach Ehrenrechten Halt ' ich mich fern und weiß nichts von Versöhnung , Bis ältre Meister von geprüfter Ehre Zum Frieden ihren Rat und Spruch verleihn , Für meines Namens Rettung : bis dahin Empfang ' ich Eure dargebotne Liebe Als Lieb ' , und will ihr nicht zu nahe tun .
 HAMLET : Gern tret ' ich bei , und will mit Zuversicht Um diese brüderliche Wette fechten . Gebt uns Rapiere , kommt !
 LAERTES : Kommt , einen mir !
 KÖNIG : Gebt ihnen die Rapiere , junger Osrick ! Ihr wißt doch , Vetter Hamlet , unsre Wette ?
@@ -51,5 +53,3 @@ HAMLET : Was ist der Königin ?
 KÖNIG : Sie fällt in Ohnmacht , weil sie bluten sieht .
 KÖNIGIN : Nein , nein ! der Trank , der Trank ! – O lieber Hamlet ! Der Trank , der Trank ! – Ich bin vergiftet .
 Sie stirbt .
-HAMLET : O Büberei ! – Ha ! laßt die Türen schließen ! Verrat ! Sucht , wo er steckt !
-Laertes fällt .

@@ -1,3 +1,4 @@
+PROTEUS : Geh , geh , vor Schiffbruch Euer Schiff zu hüten , Es kann nicht scheitern , hat es dich an Bord . Du bist bestimmt zu trocknem Tod am Lande . – Ich muß schon einen bessern Boten senden ; Nicht achtet , fürcht ' ich , Julia meiner Zeilen , Wenn sie aus beßrer Hand sie nicht empfängt .
 Gehen nach verschiedenen Seiten ab .
 Garten .
 Julia und Lucetta treten auf .
@@ -42,4 +43,3 @@ LUCETTA : Was befiehlt Eu ' r Gnaden ?
 JULIA : Ist noch nicht Essenzeit ?
 LUCETTA : Ich wollt ' , es wär ' ; Dann kühltet Ihr den Zorn an Eurer Mahlzeit , Statt an der Dienerin .
 JULIA : Was nimmst du auf So hastig ?
-LUCETTA : Nichts .
