@@ -10,18 +10,17 @@ def make_chunks(sentence_list: list) -> list:
     chunk = []
     for idx, sent in enumerate(sentence_list):
         count += len(sent.split())
-        if count > chunk_size:
+        if count >= chunk_size:
             sentences_in_chunk.append("".join(chunk))
             count = 0
             chunk = []
-        else:
-            chunk.append(sent)
+        chunk.append(sent)
     sentences_in_chunk.append("".join(chunk))
     return sentences_in_chunk
 
 
 def main():
-    files = glob("./EN/**/clean_text.txt", recursive=True)
+    files = glob("./DE/**/clean_text.txt", recursive=True)
     for item in files:
         f_path = path.dirname(item)
         with open(item, 'r') as f:
