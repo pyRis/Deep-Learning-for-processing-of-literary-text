@@ -4,9 +4,25 @@ import os
 import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, set_seed
 
+def make_chunks(sentence_list: list) -> list:
+    chunk_size = 500
+    count = 0
+    sentences_in_chunk = []
+    chunk = []
+    for idx, sent in enumerate(sentence_list):
+        count += len(sent.split())
+        if count > chunk_size:
+            sentences_in_chunk.append("".join(chunk))
+            count = 0
+            chunk = []
+        else:
+            chunk.append(sent)
+    sentences_in_chunk.append("".join(chunk))
+    return sentences_in_chunk
+
 def create_summary(segments: list, checkpoint_path: str) -> str:
     """Create summary for each segment."""
-    device = torch.device("cuda")
+    device = torch.device("cpu")
     set_seed(42)
     model_checkpoint = checkpoint_path
     model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
@@ -14,6 +30,7 @@ def create_summary(segments: list, checkpoint_path: str) -> str:
     tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
     segmented_summ = []
     for item in segments:
+        print(len(item))
         utterance = tokenizer(item, return_tensors="pt").to(device)
         summary = tokenizer.decode(
             model.generate(**utterance)[0],
@@ -25,12 +42,13 @@ def create_summary(segments: list, checkpoint_path: str) -> str:
 
 def read_chunk_files(path: str, prefix_filename="chunk") -> list:
     play_files = [os.path.join(path, file) for file in os.listdir(path) if prefix_filename in file]
-    chunks = []
+    chunks_final = []
     for chunk in play_files:
         with open(chunk, encoding="utf-8") as f:
-            content = f.read()
-            chunks.append(content)
-    return chunks
+            content = f.readlines()
+            chunks = make_chunks(content)
+            chunks_final.extend(chunks)
+    return chunks_final
 
 def main():
     parser = argparse.ArgumentParser()
