@@ -20,7 +20,7 @@ def make_chunks(sentence_list: list) -> list:
     sentences_in_chunk.append("".join(chunk))
     return sentences_in_chunk
 
-def create_summary(segments: list, checkpoint_path: str) -> str:
+def create_summary(chunks: list, checkpoint_path: str) -> str:
     """Create summary for each segment."""
     device = torch.device("cpu")
     set_seed(42)
@@ -28,17 +28,20 @@ def create_summary(segments: list, checkpoint_path: str) -> str:
     model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
     model.to(device)
     tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
-    segmented_summ = []
-    for item in segments:
-        print(len(item))
-        utterance = tokenizer(item, return_tensors="pt").to(device)
-        summary = tokenizer.decode(
-            model.generate(**utterance)[0],
-            skip_special_tokens=True,
-            clean_up_tokenization_spaces=False
-        )
-        segmented_summ.append(summary)
-    return "".join(segmented_summ)
+    summaries = []
+    for chunk in chunks:
+        segmented_summ = []
+        for item in chunk:
+            print(len(item))
+            utterance = tokenizer(item, return_tensors="pt").to(device)
+            summary = tokenizer.decode(
+                model.generate(**utterance)[0],
+                skip_special_tokens=True,
+                clean_up_tokenization_spaces=False
+            )
+            segmented_summ.append(summary)
+        summaries.append("".join(segmented_summ))
+    return "\n".join(summaries)
 
 def read_chunk_files(path: str, prefix_filename="chunk") -> list:
     play_files = [os.path.join(path, file) for file in os.listdir(path) if prefix_filename in file]
@@ -47,7 +50,7 @@ def read_chunk_files(path: str, prefix_filename="chunk") -> list:
         with open(chunk, encoding="utf-8") as f:
             content = f.readlines()
             chunks = make_chunks(content)
-            chunks_final.extend(chunks)
+            chunks_final.append(chunks)
     return chunks_final
 
 def main():
