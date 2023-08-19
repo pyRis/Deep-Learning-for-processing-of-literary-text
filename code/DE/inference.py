@@ -29,10 +29,9 @@ def create_summary(chunks: list, checkpoint_path: str) -> str:
     model.to(device)
     tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
     summaries = []
-    for chunk in chunks:
+    for chunk_file, chunk in chunks:
         segmented_summ = []
         for item in chunk:
-            print(len(item))
             utterance = tokenizer(item, return_tensors="pt").to(device)
             summary = tokenizer.decode(
                 model.generate(**utterance)[0],
@@ -40,8 +39,8 @@ def create_summary(chunks: list, checkpoint_path: str) -> str:
                 clean_up_tokenization_spaces=False
             )
             segmented_summ.append(summary)
-        summaries.append("".join(segmented_summ))
-    return "\n".join(summaries)
+        summaries.append((chunk_file, " ".join(segmented_summ)))
+    return summaries
 
 def read_chunk_files(path: str, prefix_filename="chunk") -> list:
     play_files = [os.path.join(path, file) for file in os.listdir(path) if prefix_filename in file]
@@ -51,7 +50,7 @@ def read_chunk_files(path: str, prefix_filename="chunk") -> list:
             content = f.readlines()
             chunks = make_chunks(content)
             chunks_final.append(chunks)
-    return chunks_final
+    return list(zip(play_files, chunks_final))
 
 def main():
     parser = argparse.ArgumentParser()
@@ -60,9 +59,12 @@ def main():
     parser.add_argument("--output_path", help="Path where output should be stored")
     args = parser.parse_args()
     chunks = read_chunk_files(args.input_path)
-    summary = create_summary(chunks, args.model)
-    with open(args.output_path, "w", encoding="utf-8") as out_f:
-        out_f.write(summary)
+    summaries = create_summary(chunks, args.model)
+    for chunk_file, summary in summaries:
+        base_path = os.path.basename(chunk_file)
+        path = os.path.join(args.output_path, "summary"+base_path)
+        with open(path, "w", encoding="utf-8") as out_f:
+            out_f.write(summary)
 
 if __name__ == "__main__":
     main()
