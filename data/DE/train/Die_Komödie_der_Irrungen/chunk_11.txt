@@ -23,9 +23,4 @@ ANTIPHOLUS VON SYRAKUS : Nun mach ' dich auf und lauf zum Hafen schnell , Und bl
 DROMIO VON SYRAKUS : Und wie der Wandrer vor dem Bären rennt , Lauf ' ich vor der , die meine Frau sich nennt .
 Ab .
 ANTIPHOLUS VON SYRAKUS : Von lauter Hexen wird der Ort bewohnt , Drum ist es hohe Zeit , davon zu gehn . Die hier Gemahl mich nannte , schafft mir Grau'n , Als Frau zu denken ; doch die schöne Schwester , Begabt mit so viel holdem , mächt'gem Reiz , So süßem Zauber in Gespräch und Umgang , Macht fast mich zum Verräter an mir selbst . – Doch , daß mich nicht verlocken diese Töne , Schließ ' ich mein Ohr der lieblichen Sirene .
-Angelo tritt auf .
-ANGELO : Mein Herr Antipholus –
-ANTIPHOLUS VON SYRAKUS : Das ist mein Name !
-ANGELO : Nun ja , das weiß ich , Herr . Hier ist die Kette ; Ich dacht ' im Stachelschwein Euch anzutreffen ; Die Kette war nicht fertig , darum säumt ' ich .
-ANTIPHOLUS VON SYRAKUS : Was wollt Ihr , daß ich mit der Kette tu ' ?
-ANGELO : Was Euch gefällt ! Ich machte sie für Euch .
+

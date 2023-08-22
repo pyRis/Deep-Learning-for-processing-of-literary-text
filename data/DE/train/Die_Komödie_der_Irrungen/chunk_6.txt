@@ -1,12 +1,3 @@
-ANTIPHOLUS : Auch nicht sichern , in einer so mißlichen Sache .
-DROMIO VON SYRAKUS : Gewissen denn , also .
-ANTIPHOLUS : Und die sind ?
-DROMIO VON SYRAKUS : Der erste , weil er das Geld fürs Haarkräuseln sparen kann ; und der zweite , weil ihm beim Essen das Haar nicht in die Suppe fallen wird .
-ANTIPHOLUS : Du wolltest alle die Zeit her beweisen , nicht jedes Ding habe seine Zeit .
-DROMIO VON SYRAKUS : Nun allerdings , und das tat ich auch ; namentlich , daß es keine Zeit gäbe , Haar wieder zu bekommen , das von Natur verloren ist .
-ANTIPHOLUS : Aber dein Grund hielt nicht Stich , warum es keine Zeit gäbe , es wieder zu bekommen .
-DROMIO VON SYRAKUS : Ich verbessere ihn so : die Zeit selbst ist kahl , und deshalb wird sie bis ans Ende der Welt Kahlköpfe in ihrem Gefolge haben .
-ANTIPHOLUS : Ich wußte schon , es würde einen kahlen Schluß geben . Aber still ! Was winkt uns dort ? –
 Adriana und Luciana kommen .
 ADRIANA : Ja , ja , Antipholus ! Sieh fremd und finster : Für eine andre hast du süße Blicke ! Ich bin nicht Adriana , nicht dein Weib ! Es gab 'ne Zeit , da schwurst du ungefragt : Kein Wort sei wie Musik in deinem Ohr , Kein Gegenstand erfreulich deinem Blick , Kein Fühlen je willkommen deiner Hand , Kein Mahl von Wohlgeschmack für deinen Gaum , Wenn ich nicht Blick , Wort , Hand und Becher tauschte ! Wie kommt 's denn jetzt , mein Gatte , oh , wie kommt 's , Daß du so ganz dir selbst entfremdet bist ? Dir selber , sagt ' ich ; mir ja wirst du fremd , Mir , die ich , unzertrennlich dir vereint , Nichts bin als deines Herzens bester Teil . Ach , reiße nicht dein Innres von mir los ! Denn wisse , mein Geliebter , leichter träufst du 'nen Tropfen Wasser in die tiefe See , Und nimmst den Tropfen unvermischt zurück , Ohn ' allen Zusatz oder Minderung , – Als daß du dich mir nimmst , und nicht auch mich. Wie müßt ' es dich verwunden bis ins Mark , Vernähmst du je , ich sei nicht treu und rein , Und dieser Leib , der dir allein geweiht , Befleckt durch Üppigkeit und schnöde Lust ? Du würd'st mich anspein , mich mit Füßen treten , Den Namen Gattin ins Gesicht mir schleudern , Die sünd'ge Haut mir reißen von der Stirn , Den Trauring abhaun von der falschen Hand Und ihn zerbrechen mit der Trennung Fluch ; – Ich weiß , du kannst ; und darum tu ' es auch ! Des Eh'bruchs Makel trag ' ich schon an mir , Mein Blut ist angesteckt von sünd'ger Lust ; Denn sind wir zwei wie eins , und du bist falsch , So wohnt das Gift in meinen Adern auch : Von dir berührt , werd ' ich zur Buhlerin . Drum halt ' den Bund ! Dem echten Bett sei treu ; Dann leb ' ich rein , und du von Schande frei .
 ANTIPHOLUS : Gilt mir das , schöne Frau ? Ich kenn ' Euch nicht ; Ich bin zwei Stunden erst in Ephesus Und Eurer Stadt so fremd als Eurer Rede ; Denn wie mein Witz die Worte prüf ' und wende , Mir fehlt 's an Witz , der nur ein Wort verstände .
@@ -19,3 +10,21 @@ DROMIO VON SYRAKUS : Ich , Herr ? Ich sah sie nie , bis eben jetzt .
 ANTIPHOLUS : Schurke , du lügst ; denn eben diese Worte Hast du mir richtig auf dem Markt bestellt .
 DROMIO VON SYRAKUS : Ich sprach in meinem Leben nicht mit ihr !
 ANTIPHOLUS : Wie könnte sie uns dann bei Namen nennen , Wenn es durch Offenbarung nicht geschah ?
+ADRIANA : Wie schlecht mit deiner Würde sich 's verträgt , Mit deinem Knecht so plump den Gaukler spielen Und ihn verhetzen , mir zum Ärgernis ! Von dir getrennt erduld ' ich schon so viel : Treib ' nicht mit meinem Gram ein grausam Spiel ! – O laß mich , fest am Ärmel häng ' ich dir ! Ihr Männer seid der Stamm , die Reben wir , Die unsre Schwäch ' an eure Stärke ranken Und euch geteilte Kraft und Hülfe danken . Ach ! wuchernd Unkraut wuchs schon übergroß ! Habsücht'ger Epheu , Dorn , unnützes Moos , Das , weil man 's nicht vertilgt , mit gift'ger Gärung Den Saft dir raubt und droht dem Baum Zerstörung .
+ANTIPHOLUS : Bin ich 's denn wirklich , den ihr Vorwurf schmält ? Ward sie vielleicht im Traum mit mir vermählt ? Hab ' ich im Schlaf dies alles nur gehört ? Was für ein Wahn hat Aug ' und Ohr betört ? Bis ich den sichern Zweifel klar erkannt , Biet ' ich dem dargebotnen Trug die Hand .
+LUCIANA : Geh , Dromio , heiß ' sie decken , mach ' geschwinde !
+DROMIO VON SYRAKUS : Nun , beim Sankt Veit , verzeih ' uns Gott die Sünde ! Hier walten Feen , der Himmel sei mir gnädig , Mit Alp und Kauz und Elfengeistern red ' ich ! – Und tun wir ihren Willen nicht genau , Man saugt uns tot , man kneipt uns braun und blau .
+LUCIANA : Was redst du mit dir selbst und rührst dich nicht , Dromio , du Drohne ! Schnecke , Tölpel , Wicht !
+DROMIO VON SYRAKUS : Herr , sagt , bin ich vertauscht , bin ich noch ich ?
+ANTIPHOLUS : Du bist vertauscht , mein Sohn , das bin auch ich .
+DROMIO VON SYRAKUS : Zweifelt Ihr noch , daß man mich neu erschaffe ?
+ANTIPHOLUS : Du siehst noch aus wie sonst !
+DROMIO VON SYRAKUS : Nein , wie ein Affe .
+LUCIANA : Du bist zum Esel worden , glaub ' mir das .
+DROMIO VON SYRAKUS : 's ist wahr , sie reiten mich ; schon witt ' r ich Gras ; Es kann nicht anders sein ; 'nen Esel nennt mich , Sonst müßt ' ich sie ja kennen , denn sie kennt mich .
+ADRIANA : Genug , ich will nicht länger wie ein Kind Die Hand ans Auge tun und töricht weinen , Indes Gemahl und Diener mich verhöhnt . Kommt , Herr , zum Essen : Dromio , hüt ' das Tor ; – Wir woll'n heut oben speisen , lieber Mann , Und tausend Sünden sollst du mir gestehn . Bursch , wenn dich jemand fragt nach deinem Herrn , Sag , er sei auswärts ; laß mir niemand ein ! Komm , Schwester ! Dromio , du behüt ' die Schwelle ! –
+ANTIPHOLUS : Ist dies die Erd ' ? Ist 's Himmel oder Hölle ? Schlaf oder wach ' ich ? Bin ich bei Verstand ? Mir selbst ein Rätsel , bin ich hier bekannt ? – Ich mach 's wie sie , und dabei will ich bleiben , Durch Nebel auf dem Meer des Schicksalstreiben .
+DROMIO VON SYRAKUS : Herr , soll ich wirklich Wache stehn am Tor ?
+ADRIANA : Laß niemand ein , sonst schlag ' ich dich aufs Ohr .
+LUCIANA : Kommt denn , das Essen geht jetzt allem vor .
+Sie gehn ab .

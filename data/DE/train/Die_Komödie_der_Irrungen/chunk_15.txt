@@ -23,3 +23,11 @@ DROMIO VON SYRAKUS : Herr , wenn 's Suppe gibt , so seht Euch nach einem langen 
 ANTIPHOLUS VON SYRAKUS : Warum , Dromio ?
 DROMIO VON SYRAKUS : Nun , mein ' Seel ' , der braucht einen langen Löffel , der mit dem Teufel ißt .
 ANTIPHOLUS VON SYRAKUS : Fort , böser Geist ! Was sagst du mir von Essen ? Du bist 'ne Hexe , wie ihr alle seid ; In 's Himmels Namen : Laß von mir und geh ! –
+KURTISANE : Gebt mir den Ring , den Ihr bei Tisch mir nahmt Oder vertauscht die Kette für den Demant ; Dann geh ' ich fort und fall ' Euch nicht zur Last .
+DROMIO VON SYRAKUS : Sonst fodern Teufel wohl ein Stückchen Nagel , Ein Haar , 'nen Strohhalm , Tropfen Blut , 'ne Nadel , 'ne Nuß , 'nen Kirschkern ; aber die ist geiz'ger , Die will 'ne Kette . Nehmt Euch in acht ; wenn Ihr die Kette gebt , So klirrt der Teufel und erschreckt uns , Herr .
+KURTISANE : Ich bitt ' Euch , gebt den Ring , wo nicht die Kette ; Das wär ' zu viel : erst Raub und dann noch Hohn !
+ANTIPHOLUS VON SYRAKUS : Hebe dich weg , du Kobold ! Fort , Dromio , fort , mein Sohn ! –
+DROMIO VON SYRAKUS : Laß ab vom Stolz , so schreit der Pfau ; nicht wahr , das wißt Ihr schon ?
+Antipholus und Dromio gehn ab .
+KURTISANE : Nun , ganz gewiß , Antipholus ist toll , Sonst würd ' er so verrückt sich nicht gebärden ; Er nahm 'nen Ring , vierzig Dukaten wert , Und dafür bot er mir 'ne goldne Kette ; Doch beides will er jetzo mir verleugnen . Woraus ich schon den Wahnsinn erst erriet ( Auch ohne seine jetz'ge Raserei ) , War tolles Zeug : daß er bei Tisch erzählte , Wie man die eigne Tür vor ihm verschlossen . Ich denke wohl , die Frau kennt diese Schauer Und schloß mit Fleiß das Tor ihm , als er kam . Am besten wär 's , gleich ging ' ich in sein Haus Und sagte seiner Frau , wie er im Fieber Zu mir hineindrang und mir mit Gewalt Den Ring entwandt : das wird das Klügste sein ; – Vierzig Dukaten büßt man ungern ein .
+Ab .

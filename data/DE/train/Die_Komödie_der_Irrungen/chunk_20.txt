@@ -1,3 +1,20 @@
+Die Äbtissin tritt auf .
+ÄBTISSIN : Seid ruhig , Leute ; welch Gedräng ' ist hier ?
+ADRIANA : Ich will zu meinem armen tollen Mann ; Laßt uns hinein , damit wir fest ihn binden Und führen ihn nach Haus , daß er genese .
+ANGELO : Ich dacht ' es gleich , er sei nicht recht bei Sinnen !
+KAUFMANN : Nun tut 's mir leid , daß ich den Degen zog .
+ÄBTISSIN : Seit wann befiel der Wahnsinn diesen Mann ?
+ADRIANA : Die letzte Woche war er trüb und still Und finster , ganz ein andrer Mann wie sonst ; Doch erst heut nachmittag ist seine Krankheit Zu diesem höchsten Grad von Wut gesteigert .
+ÄBTISSIN : Verlor er große Güter auf der See ? Begrub er einen Freund ? Hat wohl sein Auge Sein Herz betört zu unerlaubter Liebe ? Der Sünde sind viel junge Männer schuldig , Die ihrem Blick zu große Freiheit lassen . An welcher dieser Sorgen liegt er krank ? –
+ADRIANA : An keiner , wenn es nicht die letzte ist ; Ein Liebchen wohl hat ihm sein Haus verleidet .
+ÄBTISSIN : Das hättet Ihr ihm dann verweisen sollen .
+ADRIANA : Das tat ich auch .
+ÄBTISSIN : Doch wohl nicht scharf genug .
+ADRIANA : So scharf , als mir 's Bescheidenheit erlaubte .
+ÄBTISSIN : Vielleicht geheim nur ?
+ADRIANA : In Gesellschaft auch .
+ÄBTISSIN : Ja , doch nicht oft genug ?
+ADRIANA : Es war der Inhalt jeglichen Gesprächs . Im Bette schlief er nicht vor meinem Mahnen ; Am Tische aß er nicht vor meinem Mahnen ; Allein wählt ' ich 's zum Text für meine Rede , Und in Gesellschaft spielt ' ich darauf an ; Stets sagt ' ich ihm , es sei gemein und schändlich .
 ÄBTISSIN : Und deshalb fiel der Mann in Wahnsinn endlich . Das gift'ge Schrei'n der eifersücht'gen Frau Wirkt tödlicher als tollen Hundes Zahn . Es scheint , dein Zanken hindert ' ihn am Schlaf , Und daher kam 's , daß ihm der Sinn verdüstert . Du sagst , sein Mahl ward ihm durch Schmähn verwürzt : Unruhig Essen gibt ein schlecht Verdaun , Daher entstand des Fiebers heiße Glut ; Und was ist Fieber , als ein Wahnsinnschauer ? Du sagst , dein Toben störte seine Lust : Wo süß Erholen mangelt , was kann folgen , Als trübe Schwermut und Melancholie , Der grimmigen Verzweiflung nah verwandt ? Und hintendrein zahllos ein siecher Schwarm Von bleichen Übeln und des Lebens Mördern ? Das Mahl , den Scherz , den süßen Schlummer wehren , Verwirrt den Geist und muß den Sinn zerstören ; Und hieraus folgt : durch deine Eifersucht Ward dein Gemahl von Tollheit heimgesucht . –
 LUCIANA : Wenn sie ihn schalt , so war es mild und freundlich , Doch er erwies sich heftig , rauh und feindlich . Hörst du den Tadel ruhig an und schweigst ?
 ADRIANA : Sie weckt mir des Gewissens eigne Stimme ! Jetzt , Freunde , geht hinein , legt Hand an ihn !
@@ -9,15 +26,3 @@ ADRIANA : Ich pflege meinen Mann und steh ' ihm bei Als Krankenwärterin , das i
 ADRIANA : Ich will nicht fort und meinen Mann Euch lassen , Und wenig ziemt sich 's Eurer Heiligkeit , Den Gatten so von seiner Frau zu trennen .
 ÄBTISSIN : Sei still und geh von hier ; ich geb ' ihn nicht .
 Äbtissin geht ab .
-LUCIANA : Dem Herzog klage , wie man hier dich kränkt !
-ADRIANA : Komm mit , ich will mich ihm zu Füßen werfen Und nicht aufstehn , bis ich mit Flehn und Tränen Den Herzog rühre , daß er selber komme Und der Äbtissin meinen Mann entreiße .
-KAUFMANN : Der Zeiger , denk ' ich , weist jetzt grad ' auf fünf ; Und sicher kommt der Fürst alsbald hieher , Den Weg zu jenem melanchol'schen Tal , Dem Platz des Tods und ernsten Hochgerichts , Der hinter dieses Klosters Gräben liegt .
-ANGELO : Und weshalb kommt er ?
-KAUFMANN : Um einen würd'gen Syrakuser Kaufmann , Der wider dieser Stadt Gesetz und Recht Zu seinem Unglück in den Hafen lief , Vor allem Volk enthaupten hier zu sehn .
-ANGELO : O still , sie kommen ; schaun wir seinen Tod !
-LUCIANA : Knie vor dem Herzog , eh ' er weiter geht ! –
-Der Herzog tritt auf ; ihm folgen Ägeon mit bloßem Haupte , der Scharfrichter und Gerichtsdiener .
-HERZOG : Noch einmal macht es öffentlich bekannt : Wenn hier ein Freund die Summe zahlen will , So sterb ' er nicht ; mehr können wir nicht tun .
-ADRIANA : Gerechtigkeit , Erhabner Herzog , gegen die Äbtissin !
-HERZOG : Sie ist 'ne würd'ge , tugendhafte Dame , Unmöglich hat sie je dein Recht gekränkt . –
-ADRIANA : Erlaubt , o Herr , Antipholus , mein Gatte , Gebieter über mich und all mein Gut ( Nach Eurem Brief und Siegel ) , ward heut krank ( O Tag des Wehs ! ) an höchst unbänd'gem Wahnsinn ; So , daß er rasend durch die Straßen lief , Mit ihm sein Diener , wie er selbst verrückt , Und viele Bürger dieser Stadt verletzte , In ihre Häuser dringend , Gold und Ringe , Und was nur seiner Wut gefiel , sich raubend . Schon einmal sandt ' ich ihn gebunden heim Und ging umher , den Schaden zu vergüten , Den hier und dort sein Wahnsinn angerichtet . Drauf – Gott mag wissen , wer ihm half zur Flucht – Entsprang er denen , die ihn hüteten . Die beiden nun , er und sein toller Knecht , Im stärksten Anfall und mit bloßem Schwert Begegnen uns aufs neu ' ; wir müssen weichen Vor ihrer Tobsucht , bis wir Hülfe finden , Sie abermals zu fesseln ; hierauf fliehn sie In dieses Kloster , und wir folgen nach ; – Und nun schließt die Äbtissin uns die Pforte Und will uns nicht gestatten , ihn zu holen , Noch selbst ihn senden , um ihn heim zu schaffen . Deshalb , o edler Herzog , gib Befehl , Ihn auszuliefern , daß ihm Hülfe werde !

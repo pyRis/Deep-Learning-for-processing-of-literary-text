@@ -1,9 +1,3 @@
-ANTIPHOLUS : Ein treuer Bursch , mein Herr , der mir schon oft , Wenn ich verstimmt durch Schwermut oder Kummer , Den Sinn erleichtert hat mit munterm Scherz . Wollt Ihr mich nicht begleiten durch die Stadt Und dann ins Wirtshaus gehn und mit mir speisen ?
-KAUFMANN : Ich ward bestellt , mein Herr , von ein'gen Wechslern , Wo mich ein vorteilhaft Geschäft erwartet ; Deshalb verzeiht ; doch nach der fünften Stunde , Wenn 's Euch gefällt , treff ' ich Euch auf dem Markt Und bleibe dann bei Euch bis Schlafenszeit ; – Jetzt ruft mich jener Handel von Euch ab .
-ANTIPHOLUS : Lebt wohl so lang ' ; ich schlendre dann allein Und wandre auf und ab , die Stadt zu sehn .
-KAUFMANN : Seid Eurem besten Wohlsein dann empfohlen !
-Geht ab .
-ANTIPHOLUS : Wer meinem besten Wohlsein mich empfiehlt , Der wünscht mir , was ich nie erreichen kann . Ich gleich ' in dieser Welt 'nem Tropfen Wasser , Der einen andern Tropfen sucht im Meer ; Er stürzt hinein , zu finden den Gefährten , Und ungesehn verschwimmt er selbst im Forschen . So ich , indem ich Mutter such ' und Bruder , Verschwind ' ich Armer selbst auf ihrer Spur . Hier kommt mein wahrer Lebensalmanach . – Wie nun ! Was kehrst du denn so bald zurück ?
 Dromio von Ephesus kommt .
 DROMIO VON EPHESUS : Sobald zurück ? Fragt doch , warum so spät ? Die Gans verbrennt , das Ferkel fällt vom Spieß , Die Glock ' im Turm schlug zwölf , und meine Frau Macht , daß es eins auch schlug auf meiner Backe ; Sie ist so heiß , weil Eure Mahlzeit kalt ward ; Die Mahlzeit wurde kalt , weil Ihr nicht heim kommt ; Ihr kommt nicht heim , weil Ihr nicht Hunger habt ; Euch hungert nicht , weil Ihr die Fasten bracht ; Doch wir , die Fasten halten und Gebet , Wir büßen , was Ihr sündigt früh und spät .
 ANTIPHOLUS : Still doch ! Spar ' deine Lunge ! Sag mir jetzt , Wo ließest du das Geld , das ich dir gab ?
@@ -19,3 +13,7 @@ DROMIO VON EPHESUS : Zwar ein'ge Marken trägt mein Kopf von Euch , Auch ein'ge 
 ANTIPHOLUS : Von meiner Frau ? Sag , Kerl , von welcher Frau ?
 DROMIO VON EPHESUS : Eu ' r Gnaden Liebste , meine Frau im Phönix , Die jetzt noch fastet , bis Ihr kommt zum Essen , Und bittet , daß Ihr eilig kommt zum Essen .
 ANTIPHOLUS : Was , Schurke , neckst du mich ins Angesicht , Da ich 's verbot ? Da hast du eins , Herr Schlingel !
+DROMIO VON EPHESUS : Was meint Ihr , Herr ? Um Gottes willen , haltet ! Laßt Ihr die Hand nicht ruhn , brauch ' ich die Beine .
+Er läuft davon .
+ANTIPHOLUS : Bei meiner Treu ! durch irgendeinen Streich Ward mir der Tropf um all mein Gold geprellt ! – Man sagt , die Stadt sei voll Betrügerei'n , Behenden Gauklern , die das Auge blenden , Nächtlichen Zaubrern , die den Sinn verstören , Mordsücht'gen Hexen , die den Leib entstellen , Verlarvten Gaunern , schwatzenden Quacksalbern , Und von Freigeistern aller Art und Zucht . Wenn das der Fall ist , reis ' ich um so eh ' r . Gleich such ' ich im Zentauren meinen Knecht ; Ich fürchte sehr , mein Geld bewahrt ' ich schlecht .
+Geht ab .
