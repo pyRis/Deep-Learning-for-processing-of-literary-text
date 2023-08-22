@@ -36,7 +36,8 @@ def create_summary(chunks: list, checkpoint_path: str) -> str:
             summary = tokenizer.decode(
                 model.generate(**utterance)[0],
                 skip_special_tokens=True,
-                clean_up_tokenization_spaces=False
+                clean_up_tokenization_spaces=False,
+                num_beams=5
             )
             segmented_summ.append(summary)
         summaries.append((chunk_file, " ".join(segmented_summ)))
@@ -62,7 +63,7 @@ def main():
     summaries = create_summary(chunks, args.model)
     for chunk_file, summary in summaries:
         base_path = os.path.basename(chunk_file)
-        path = os.path.join(args.output_path, "summary"+base_path)
+        path = os.path.join(args.output_path, "summary_"+base_path)
         with open(path, "w", encoding="utf-8") as out_f:
             out_f.write(summary)
 
