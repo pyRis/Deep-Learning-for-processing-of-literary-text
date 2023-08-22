@@ -1,30 +1,34 @@
-LEONTES. Du rätst mir, Wie ich den eignen Weg mir schon erwählt: Ich will die Ehr' ihr nicht beflecken, nein.
-CAMILLO. Mein König, So geht; und heitern Angesichts, wie nur Die Freundschaft zeigt bei Festen, sprecht mit Böhmen Und Eurer Königin; ich bin sein Mundschenk: Wenn er von mir gesunden Trank erhält, So zählt mich zu den Euren nicht.
-LEONTES. Genug; Tu's, so ist dein die Hälfte meines Herzens, Tu's nicht, so spalt'st du deins.
-CAMILLO. Ich tu's, mein Fürst.
-LEONTES. So will ich freundlich scheinen, wie du rietest. Er geht ab.
-CAMILLO. O unglücksel'ge Frau! – Doch, weh, wie steht es Nun um mich selbst? Ich soll der Mörder werden Des gütigen Polyxenes; kein Antrieb, Als meines Herrn Gebot; und eines Herrn, Der in Empörung mit sich selbst verlangt, Daß mit ihm rast, wer ihm gehört. – Es tun, Befördert mich; wenn ich ein Beispiel fände Von Tausenden, die Mord gesalbter Kön'ge Zum Glück erhob, so tät' ich's nicht; doch so, Da Erz, Stein, Pergament nicht eins bewahrt, Verschwör' es selbst die Schändlichkeit. Verlassen Muß ich den Hof; Tun, Nichttun, beides bricht Den Hals mir sicher. Glücksstern, geh mir auf! Hier kommt Polyxenes.
-Polyxenes tritt auf.
-POLYXENES. Seltsam! mich dünkt, Im Sinken hier sei meine Gunst. Nicht sprechen? Camillo, guten Tag!
-CAMILLO. Heil, teurer König!
-POLYXENES. Was gibt's am Hofe Neues?
-CAMILLO. Nichts Besondres.
-POLYXENES. Der König blickt so ernst, als ging verloren Ihm eine der Provinzen, ein Gebiet, Das wie sich selbst er liebt; ich traf ihn eben Und grüßt' ihn auf gewohnte Art; doch er, Den Blick zur Seite werfend und verächtlich Die Lippe beißend, eilt vorüber, läßt Mich sinnend stehn, was sich wohl zugetragen, Das seine Sitten so verwandelt.
-CAMILLO. Herr, Nicht wag' ich, es zu wissen.
-POLYXENES. Wie! wagst du's nicht! Du weißt's, und wagst es nicht Mir mitzuteilen? Ja, so ist's gemeint; Denn was du weißt, das mußt du dir doch sagen, »Nicht wag' ich's«, paßt da nicht. Du guter Mann, Dein Blick ist, so verwandelt, mir ein Spiegel, Der mir den meinen auch verwandelt zeigt; Mich muß der Wechsel angehn, da ich selbst Auch mit verwechselt bin.
-CAMILLO. Es gibt ein Übel, Das manchen aufreibt, doch die Krankheit nennen, Das kann ich nicht; auch kam die Ansteckung Von Euch, der Ihr gesund.
-POLYXENES. Wie das? von mir? Nein, gib mir nicht des Basilisken Auge, Ich sah auf Tausend, die nur mehr gediehn Durch meinen Blick; Tod bracht' er nie. – Camillo, – So wie ein Edelmann du bist und auch Gelehrt, erfahren (was nicht wen'ger ziert Den Adel, als der Väter edle Namen, Durch die wir adlig sind), – beschwör' ich dich, Weißt etwas du, das meinem Wissen frommt, –
-Werd' ich davon belehrt, so sperr' es nicht In den Verschluß des Schweigens!
-CAMILLO. Ich kann nichts sagen.
-POLYXENES. Krankheit, die ich gebracht, und ich gesund! Du mußt es sagen. – Hörst du wohl, Camillo,
-Bei jeder Pflicht des Manns beschwör' ich dich, Die heilig ist der Ehr' – und diese Bitte Ist wahrlich nicht verächtlich –, gib mir Aufschluß, Was du von einem nah'nden Übel weißt, Das auf mich zuschleicht, ob es fern, ob nah; Wie (wenn dies möglich ist) ihm vorzubeugen; Wo nicht, wie sich's am besten trägt.
-CAMILLO. So hört: Ihr selbst, höchst ehrenvoll, beschwört mich bei Der Ehre; darum merket meinen Rat, Den Ihr befolgen müßt, so schnell als ich Ihn geben kann, sonst haben beide wir Das Spiel verloren, und zu Ende ist's.
-POLYXENES. Fahr' fort, Camillo!
-CAMILLO. Ich bin von ihm bestellt, Euch zu ermorden.
-POLYXENES. Von wem?
-CAMILLO. Von meinem König.
-POLYXENES. Und weshalb?
-CAMILLO. Er denkt, ja schwört mit vollster Zuversicht, Als ob er's sah und selbst ein Werkzeug war, Euch anzuketten, – daß auf frevle Weise Die Kön'gin Ihr berührt.
-POLYXENES. Zu Gift dann eitre Mein reinstes Blut, geschmiedet sei mein Name An jenen, der den Heiligsten verriet! Mein unbefleckter Ruf werd' eine Fäulnis, Durch die mein Nahn dem stumpfsten Sinn ein Ekel; Und meine Gegenwart sei scheu vermieden, Ja, und gehaßt, mehr als die schlimmste Pest, Die das Gerücht und Bücher je geschildert!
-CAMILLO. Schwört Ihr auch gegen seinen Wahn bei jedem Besondern Stern und seinem Himmelseinfluß, Könnt Ihr doch leichter wohl der See verbieten, Dem Monde zu gehorchen, als durch Schwur Ihr wegschiebt oder durch Vernunft erschüttert Das Bauwerk seiner Torheit, dessen Grund Auf seinem Glauben ruht und dauern wird, Solang' sein Leib besteht.
-POLYXENES. Woher entsprang dies?
+LEONTES : Du rätst mir , Wie ich den eignen Weg mir schon erwählt : Ich will die Ehr ' ihr nicht beflecken , nein .
+CAMILLO : Mein König , So geht ; und heitern Angesichts , wie nur Die Freundschaft zeigt bei Festen , sprecht mit Böhmen Und Eurer Königin ; ich bin sein Mundschenk : Wenn er von mir gesunden Trank erhält , So zählt mich zu den Euren nicht .
+LEONTES : Genug ; Tu 's , so ist dein die Hälfte meines Herzens , Tu 's nicht , so spalt'st du deins .
+CAMILLO : Ich tu 's , mein Fürst .
+LEONTES : So will ich freundlich scheinen , wie du rietest . Er geht ab .
+CAMILLO : O unglücksel'ge Frau ! – Doch , weh , wie steht es Nun um mich selbst ? Ich soll der Mörder werden Des gütigen Polyxenes ; kein Antrieb , Als meines Herrn Gebot ; und eines Herrn , Der in Empörung mit sich selbst verlangt , Daß mit ihm rast , wer ihm gehört . – Es tun , Befördert mich ; wenn ich ein Beispiel fände Von Tausenden , die Mord gesalbter Kön'ge Zum Glück erhob , so tät ' ich 's nicht ; doch so , Da Erz , Stein , Pergament nicht eins bewahrt , Verschwör ' es selbst die Schändlichkeit . Verlassen Muß ich den Hof ; Tun , Nichttun , beides bricht Den Hals mir sicher . Glücksstern , geh mir auf ! Hier kommt Polyxenes .
+Polyxenes tritt auf .
+POLYXENES : Seltsam ! mich dünkt , Im Sinken hier sei meine Gunst . Nicht sprechen ? Camillo , guten Tag !
+CAMILLO : Heil , teurer König !
+POLYXENES : Was gibt 's am Hofe Neues ?
+CAMILLO : Nichts Besondres .
+POLYXENES : Der König blickt so ernst , als ging verloren Ihm eine der Provinzen , ein Gebiet , Das wie sich selbst er liebt ; ich traf ihn eben Und grüßt ' ihn auf gewohnte Art ; doch er , Den Blick zur Seite werfend und verächtlich Die Lippe beißend , eilt vorüber , läßt Mich sinnend stehn , was sich wohl zugetragen , Das seine Sitten so verwandelt .
+CAMILLO : Herr , Nicht wag ' ich , es zu wissen .
+POLYXENES : Wie ! wagst du 's nicht ! Du weißt 's , und wagst es nicht Mir mitzuteilen ? Ja , so ist 's gemeint ; Denn was du weißt , das mußt du dir doch sagen , » Nicht wag ' ich 's « , paßt da nicht . Du guter Mann , Dein Blick ist , so verwandelt , mir ein Spiegel , Der mir den meinen auch verwandelt zeigt ; Mich muß der Wechsel angehn , da ich selbst Auch mit verwechselt bin .
+CAMILLO : Es gibt ein Übel , Das manchen aufreibt , doch die Krankheit nennen , Das kann ich nicht ; auch kam die Ansteckung Von Euch , der Ihr gesund .
+POLYXENES : Wie das ? von mir ? Nein , gib mir nicht des Basilisken Auge , Ich sah auf Tausend , die nur mehr gediehn Durch meinen Blick ; Tod bracht ' er nie . – Camillo , – So wie ein Edelmann du bist und auch Gelehrt , erfahren ( was nicht wen'ger ziert Den Adel , als der Väter edle Namen , Durch die wir adlig sind ) , – beschwör ' ich dich , Weißt etwas du , das meinem Wissen frommt , –
+Werd ' ich davon belehrt , so sperr ' es nicht In den Verschluß des Schweigens !
+CAMILLO : Ich kann nichts sagen .
+POLYXENES : Krankheit , die ich gebracht , und ich gesund ! Du mußt es sagen . – Hörst du wohl , Camillo ,
+Bei jeder Pflicht des Manns beschwör ' ich dich , Die heilig ist der Ehr ' – und diese Bitte Ist wahrlich nicht verächtlich – , gib mir Aufschluß , Was du von einem nah'nden Übel weißt , Das auf mich zuschleicht , ob es fern , ob nah ; Wie ( wenn dies möglich ist ) ihm vorzubeugen ; Wo nicht , wie sich 's am besten trägt .
+CAMILLO : So hört : Ihr selbst , höchst ehrenvoll , beschwört mich bei Der Ehre ; darum merket meinen Rat , Den Ihr befolgen müßt , so schnell als ich Ihn geben kann , sonst haben beide wir Das Spiel verloren , und zu Ende ist 's .
+POLYXENES : Fahr ' fort , Camillo !
+CAMILLO : Ich bin von ihm bestellt , Euch zu ermorden .
+POLYXENES : Von wem ?
+CAMILLO : Von meinem König .
+POLYXENES : Und weshalb ?
+CAMILLO : Er denkt , ja schwört mit vollster Zuversicht , Als ob er 's sah und selbst ein Werkzeug war , Euch anzuketten , – daß auf frevle Weise Die Kön'gin Ihr berührt .
+POLYXENES : Zu Gift dann eitre Mein reinstes Blut , geschmiedet sei mein Name An jenen , der den Heiligsten verriet ! Mein unbefleckter Ruf werd ' eine Fäulnis , Durch die mein Nahn dem stumpfsten Sinn ein Ekel ; Und meine Gegenwart sei scheu vermieden , Ja , und gehaßt , mehr als die schlimmste Pest , Die das Gerücht und Bücher je geschildert !
+CAMILLO : Schwört Ihr auch gegen seinen Wahn bei jedem Besondern Stern und seinem Himmelseinfluß , Könnt Ihr doch leichter wohl der See verbieten , Dem Monde zu gehorchen , als durch Schwur Ihr wegschiebt oder durch Vernunft erschüttert Das Bauwerk seiner Torheit , dessen Grund Auf seinem Glauben ruht und dauern wird , Solang ' sein Leib besteht .
+POLYXENES : Woher entsprang dies ?
+CAMILLO : Ich weiß nicht ; doch gewiß , zu fliehn ist sichrer Das , was uns droht , als fragen , wie 's entsprang . Deshalb , vertraut Ihr meiner Redlichkeit , Die dieser Leib verschließt , den Ihr als Pfand Sollt mit Euch nehmen , – macht Euch auf zu Nacht ! Die Euren will ich in geheim belehren , Und durch verschiedne Pförtchen schaff ' ich sie Zu zwei'n , zu drei'n zur Stadt hinaus ; ich selbst , In Euerm Dienst such ' ich mein Glück , das hier Durch die Entdeckung stirbt . Bedenkt Euch nicht , Denn ich , bei meiner Eltern Ehre , sprach Die reinste Wahrheit : wollt Ihr dies erprüfen , So weil ' ich nicht , und Ihr seid hier nicht sichrer Als einer , den des Königs eigner Mund Verurteilt und die Hinrichtung geschworen .
+POLYXENES : Ich glaube dir : ich sah in seinem Antlitz Sein Herz . Gib mir die Hand , sei mein Pilot , Und du sollst immer mir der Nächste bleiben . Die Schiffe sind bereit , und meine Leute Erwarten schon die Abfahrt seit zwei Tagen . Die Eifersucht verfolgt ein kostbar Wesen , Und wird so groß , wie jenes einzig ist ; Er , im Besitz der Macht , wird furchtbar toben , Und da er glaubt , er sei durch einen Mann Entehrt , der immer ihm der Nächste war , So muß dies seine Rache bittrer schärfen . Mich überschattet Furcht : Beglückter Ausgang sei mein Freund , und tröste Die holde Kön'gin , die dies Unglück teilt , Doch unverdient den bösen Argwohn ! Komm , Wie einen Vater ehr ' ich dich , wenn du Mich ungekränkt von hier bringst ; laß uns fliehn !
+CAMILLO : Es stehn mir durch mein Ansehn alle Schlüssel Der Tore zu Gebot ; gefällt 's Eu ' r Hoheit , Dem Drang des Augenblicks zu folgen : kommt !
+Sie gehn ab .

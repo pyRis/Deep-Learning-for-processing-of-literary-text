@@ -1,33 +1,31 @@
-CAMILLO. Heda, guter Freund! Warum zitterst du so? Fürchte dich nicht, hier tut man dir nichts zu Leide.
-AUTOLYCUS. Ach, Herr, ich bin ein armer Kerl.
-CAMILLO. Nun, das magst du bleiben; hier ist niemand, der dir das nehmen wird; doch, was die Außenseite deiner Armut betrifft, da müssen wir einen Tausch treffen: darum entkleide dich sogleich, – du mußt wissen, daß es dringend ist, – und wechsle die Gewänder mit diesem Herrn; obwohl der Verlust auf seiner Seite bedeutend genug ist, so sollst du doch außerdem noch dies zum Ersatz erhalten.
-AUTOLYCUS. Ach, Herr, ich bin ein armer Kerl. – Für sich. Ich kenne Euch recht gut.
-CAMILLO. Nun, mach' fort; der Herr ist schon halb abgestreift.
-AUTOLYCUS. Ist es Euer Ernst, Herr? Für sich. Ich wittre die Geschichte.
-FLORIZEL. Mach' fort, ich bitte dich.
-AUTOLYCUS. Freilich hab' ich schon Geld darauf bekommen; aber ich kann es doch mit gutem Gewissen nicht nehmen.
-CAMILLO. Knöpf los, knöpf los! – Florizel und Autolycus wechseln die Kleider.
-Beglückte Herrin, – möge dieses Wort Sich Euch erfüllen! – Zieht Euch nun zurück In jenes Dickicht; nehmt des Liebsten Hut Und drückt ihn in die Stirn; verhüllt das Antlitz; Verkleidet Euch: verstellt, so viel Ihr könnt, Das, was Ihr wirklich seid, daß Ihr gelangt (Denn Späher fürcht' ich überall) an Bord, Und unentdeckt.
-PERDITA. Ich seh', das Spiel ist so, Daß ich die Rolle nehmen muß.
-CAMILLO. Da hilft nichts. – Nun, seid Ihr fertig?
-FLORIZEL. Säh' mich jetzt mein Vater, Er nennte mich nicht Sohn.
-CAMILLO. Nein, diesen Hut Bekommt Ihr nicht. – Kommt, Fräulein! – Du, lebe wohl!
-AUTOLYCUS. Lebt wohl, Herr!
-FLORIZEL. O Perdita, was haben wir vergessen! Komm, nur ein Wort!
-Sie reden heimlich.
-CAMILLO beiseit.
-Mein erst Geschäft ist nun, dem König sagen, Daß sie entflohn, wohin sie sich gewendet; Wodurch, das hoff ich, er bewogen wird, Schnell nachzueilen; mit ihm werd' ich dann Sizilien wieder sehn, nach dessen Anblick Ich krankhaft schmachte.
-FLORIZEL. Glück sei unser Führer! – So gehn wir denn, Camillo, nach dem Strand.
-CAMILLO. Je schneller, um so besser. Florizel, Perdita, Camillo gehn ab.
-AUTOLYCUS. Ich verstehe den Handel, ich höre jedes Wort: ein offnes Ohr, ein scharfes Auge und eine schnelle Hand sind  einem Beutelschneider unentbehrlich; eine gute Nase gehört auch dazu, Arbeit für die andern Sinne auszuwittern. Ich sehe, dies ist eine Zeit, in der der Ungerechte gedeiht. Welch ein Tausch wäre dies gewesen, auch ohne Überschuß? und welch ein Überschuß ist noch bei diesem Tausch? Wahrhaftig, in diesem Jahre sehn uns die Götter durch die Finger, und wir können alles ex tempore tun. Der Prinz selbst ist auf Schelmereien aus, und stiehlt sich von seinem Vater weg mit dem Klotz am Bein; dächt' ich – es wäre ein ehrliches Stückchen, dem König was davon zu sagen, – so wollte ich – es nicht tun: – ich halte es für die größere Schurkerei, es zu verschweigen, und bleibe meinem Beruf getreu. Der alte und der junge Schäfer kommen. Beiseit', beiseit'; – hier ist noch mehr Stoff für ein feuriges Gehirn. Jede Gassenecke, jeder Laden, Kirche, Sitzung, Hinrichtung gibt einem aufmerksamen Mann was zu tun.
-DER JUNGE SCHÄFER. Seht, seht; was Ihr für ein Mann seid! Es ist kein ander Mittel, als dem Könige zu sagen, daß sie ein Wechselkind und nicht Euer Fleisch und Blut ist.
-DER ALTE SCHÄFER. Nein, aber höre mich!
-DER JUNGE SCHÄFER. Nein, hört Ihr mich!
-DER ALTE SCHÄFER. Nun, so sprich!
-DER JUNGE SCHÄFER. Da sie nicht Euer Fleisch und Blut ist, hat Euer Fleisch und Blut den König nicht beleidigt; und so kann er Euer Fleisch und Blut nicht strafen. Zeigt die Sachen, die Ihr mit ihr gefunden habt, die geheimnisvollen Sachen alle, außer denen, die sie bei sich hat: wenn Ihr das tut, dann mag sich das Gesetz nur das Maul wischen, dafür steh' ich Euch.
-DER ALTE SCHÄFER. Ich will dem König alles sagen, jedes Wort, ja, und seines Sohnes Schelmerei auch, der, das kann ich wohl sagen, kein ehrlicher Mann ist, weder gegen seinen Vater, noch gegen mich, daß er so darauf aus war, mich zu des Königs Schwager zu machen.
-DER JUNGE SCHÄFER. Jawohl, Schwager war das Wenigste, was Ihr von ihm werden konntet; und dann wäre Euer Blut kostbarer geworden, ich weiß nicht, um wie viel jede Unze.
-AUTOLYCUS beiseit. Sehr verständig, ihr Maulaffen!
-DER ALTE SCHÄFER. Gut, komm zum König; wegen dessen, was in diesem Bündel ist, wird er sich hinter den Ohren kratzen.
-AUTOLYCUS. Ich weiß nicht, wie diese Klage die Flucht meines Herrn hindern könnte.
-DER JUNGE SCHÄFER. Gebe der Himmel, daß er im Schloß ist!
+CAMILLO : Heda , guter Freund ! Warum zitterst du so ? Fürchte dich nicht , hier tut man dir nichts zu Leide .
+AUTOLYCUS : Ach , Herr , ich bin ein armer Kerl .
+CAMILLO : Nun , das magst du bleiben ; hier ist niemand , der dir das nehmen wird ; doch , was die Außenseite deiner Armut betrifft , da müssen wir einen Tausch treffen : darum entkleide dich sogleich , – du mußt wissen , daß es dringend ist , – und wechsle die Gewänder mit diesem Herrn ; obwohl der Verlust auf seiner Seite bedeutend genug ist , so sollst du doch außerdem noch dies zum Ersatz erhalten .
+AUTOLYCUS : Ach , Herr , ich bin ein armer Kerl . – Für sich . Ich kenne Euch recht gut .
+CAMILLO : Nun , mach ' fort ; der Herr ist schon halb abgestreift .
+AUTOLYCUS : Ist es Euer Ernst , Herr ? Für sich . Ich wittre die Geschichte .
+FLORIZEL : Mach ' fort , ich bitte dich .
+AUTOLYCUS : Freilich hab ' ich schon Geld darauf bekommen ; aber ich kann es doch mit gutem Gewissen nicht nehmen .
+CAMILLO : Knöpf los , knöpf los ! – Florizel und Autolycus wechseln die Kleider . Beglückte Herrin , – möge dieses Wort Sich Euch erfüllen ! – Zieht Euch nun zurück In jenes Dickicht ; nehmt des Liebsten Hut Und drückt ihn in die Stirn ; verhüllt das Antlitz ; Verkleidet Euch : verstellt , so viel Ihr könnt , Das , was Ihr wirklich seid , daß Ihr gelangt ( Denn Späher fürcht ' ich überall ) an Bord , Und unentdeckt .
+PERDITA : Ich seh ' , das Spiel ist so , Daß ich die Rolle nehmen muß .
+CAMILLO : Da hilft nichts . – Nun , seid Ihr fertig ?
+FLORIZEL : Säh ' mich jetzt mein Vater , Er nennte mich nicht Sohn .
+CAMILLO : Nein , diesen Hut Bekommt Ihr nicht . – Kommt , Fräulein ! – Du , lebe wohl !
+AUTOLYCUS : Lebt wohl , Herr !
+FLORIZEL : O Perdita , was haben wir vergessen ! Komm , nur ein Wort !
+Sie reden heimlich .
+CAMILLO : beiseit .  Mein erst Geschäft ist nun , dem König sagen , Daß sie entflohn , wohin sie sich gewendet ; Wodurch , das hoff ich , er bewogen wird , Schnell nachzueilen ; mit ihm werd ' ich dann Sizilien wieder sehn , nach dessen Anblick Ich krankhaft schmachte .
+FLORIZEL : Glück sei unser Führer ! – So gehn wir denn , Camillo , nach dem Strand .
+CAMILLO : Je schneller , um so besser . Florizel , Perdita , Camillo gehn ab .
+AUTOLYCUS : Ich verstehe den Handel , ich höre jedes Wort : ein offnes Ohr , ein scharfes Auge und eine schnelle Hand sind einem Beutelschneider unentbehrlich ; eine gute Nase gehört auch dazu , Arbeit für die andern Sinne auszuwittern . Ich sehe , dies ist eine Zeit , in der der Ungerechte gedeiht . Welch ein Tausch wäre dies gewesen , auch ohne Überschuß ? und welch ein Überschuß ist noch bei diesem Tausch ? Wahrhaftig , in diesem Jahre sehn uns die Götter durch die Finger , und wir können alles ex tempore tun . Der Prinz selbst ist auf Schelmereien aus , und stiehlt sich von seinem Vater weg mit dem Klotz am Bein ; dächt ' ich – es wäre ein ehrliches Stückchen , dem König was davon zu sagen , – so wollte ich – es nicht tun : – ich halte es für die größere Schurkerei , es zu verschweigen , und bleibe meinem Beruf getreu . Der alte und der junge Schäfer kommen . Beiseit ' , beiseit ' ; – hier ist noch mehr Stoff für ein feuriges Gehirn . Jede Gassenecke , jeder Laden , Kirche , Sitzung , Hinrichtung gibt einem aufmerksamen Mann was zu tun .
+DER JUNGE SCHÄFER : Seht , seht ; was Ihr für ein Mann seid ! Es ist kein ander Mittel , als dem Könige zu sagen , daß sie ein Wechselkind und nicht Euer Fleisch und Blut ist .
+DER ALTE SCHÄFER : Nein , aber höre mich !
+DER JUNGE SCHÄFER : Nein , hört Ihr mich !
+DER ALTE SCHÄFER : Nun , so sprich !
+DER JUNGE SCHÄFER : Da sie nicht Euer Fleisch und Blut ist , hat Euer Fleisch und Blut den König nicht beleidigt ; und so kann er Euer Fleisch und Blut nicht strafen . Zeigt die Sachen , die Ihr mit ihr gefunden habt , die geheimnisvollen Sachen alle , außer denen , die sie bei sich hat : wenn Ihr das tut , dann mag sich das Gesetz nur das Maul wischen , dafür steh ' ich Euch .
+DER ALTE SCHÄFER : Ich will dem König alles sagen , jedes Wort , ja , und seines Sohnes Schelmerei auch , der , das kann ich wohl sagen , kein ehrlicher Mann ist , weder gegen seinen Vater , noch gegen mich , daß er so darauf aus war , mich zu des Königs Schwager zu machen .
+DER JUNGE SCHÄFER : Jawohl , Schwager war das Wenigste , was Ihr von ihm werden konntet ; und dann wäre Euer Blut kostbarer geworden , ich weiß nicht , um wie viel jede Unze .
+AUTOLYCUS beiseit . Sehr verständig , ihr Maulaffen !
+DER ALTE SCHÄFER : Gut , komm zum König ; wegen dessen , was in diesem Bündel ist , wird er sich hinter den Ohren kratzen .
+AUTOLYCUS : Ich weiß nicht , wie diese Klage die Flucht meines Herrn hindern könnte .
+DER JUNGE SCHÄFER : Gebe der Himmel , daß er im Schloß ist !

@@ -1,33 +1,31 @@
-CAMILLO. Ich habe von einem solchen Manne gehört, Herr, und daß er eine Tochter habe von nie gesehener Schönheit; der Ruf von ihr ist so ausgebreitet, daß man kaum begreift, wie er aus so niederer Hütte entstehen konnte.
-POLYXENES. So lautet auch zum Teil, was ich erfuhr. Ich fürchte, dies ist die Angel, die meinen Sohn dahin zieht. Du sollst mich nach dem Ort begleiten, wo wir, das nicht scheinend, was wir sind, uns mit dem Schäfer bekannt machen wollen; von seiner Einfalt, denke ich, wird es nicht schwer sein, die Ursache der häufigen Besuche meines Sohnes zu erfahren. Ich bitte dich, begleite mich alsbald zu diesem Geschäft, und verbanne alle Gedanken an Sizilien!
-CAMILLO. Bereitwillig gehorche ich Eurem Befehl.
-POLYXENES. Mein bester Camillo! – Wir müssen uns verkleiden. Sie gehn ab.
-Zweite Szene Eine Landstraße nicht weit von des Schäfers Hütte. Autolycus tritt singend auf.
-AUTOLYCUS. Wenn die Narzisse blickt herfür, – Mit Heisa! das Mägdlein über dem Tal, –
-Ja, dann kommt des Jahres lieblichste Zier; Statt Winter bleich herrscht rotes Blut zumal.
-Weiß Linnen bleicht auf grünem Plan, – Mit Heisa! beim lieblichen Vogelgesang! –
-Das wetzt mir alsbald den Diebeszahn; Denn 'ne Kanne Bier ist ein Königstrank.
-Die Lerche, die singt Tirlirilirei, – Mit Amselton, Heisa! und Drossellieder –
-Sind Sommerlust, ist mein Schätzchen dabei, Wenn wir springen und tummeln im Grase nieder.
-Ich habe dem Prinzen Florizel gedient und trug einst dreischürigen Samt; aber jetzt bin ich außer Diensten:
-Doch sollt' ich deshalb trauern, mein Schatz? Der Mond bei Nacht scheint hell, Und wenn ich wandre von Platz zu Platz, Dann komm ich zur rechten Stell'.
-Wenn Kesselflicker im Lande leben Und wandern mit Ruß geschwärzt, So darf ich doch auch noch Antwort geben, Und im Stock selbst wird wohl gescherzt.
-Mein Handelszweig ist Hemden; wenn erst der Habicht baut, so seht nur auch nach der kleineren Wäsche. Mein Vater nannte mich Autolycus; der, da er wie ich unter dem Merkur geworfen wurde, ebenfalls ein Aufschnapper von unbedeutenden Kleinigkeiten war. Die Würfel und die Dirnen haben mir zu dieser Ausstaffierung verholfen, und mein Einkommen ist die winzige Taschendieberei; Galgen und Totschlag sind mir zu mächtig auf der großen Straße, denn Prügeln und Hängen sind mir ein Graus; was das zukünftige Leben betrifft, den Gedanken daran verschlaf' ich. – Ein Fang! Ein Fang! Der junge Schäfer tritt auf.
-DER JUNGE SCHÄFER. Laßt doch sehen: – immer elf Hammel machen einen Stein, – jeder Stein gibt ein Pfund – und etliche Schilling: fünfzehnhundert geschoren – wie hoch kommt die Wolle dann?
-AUTOLYCUS beiseit. Wenn die Schlinge hält, so ist die Schnepfe mein.
-DER JUNGE SCHÄFER. Ich kann es ohne Rechenpfennige nicht herausbringen. – Laßt doch sehn, was soll ich kaufen für unser Schafschurfest? »Sieben Pfund Korinthen, drei Pfund Zucker, Reis« – was will denn meine Schwester mit Reis machen? Aber mein Vater hat sie zur Wirtin beim Fest gemacht, und sie versteht's. Sie hat mir vierundzwanzig Sträuße für die Scherer gebunden, immer drei singen einen Kanon, und herrlich; freilich sind die meisten Tenor und Baß; nur ein Puritaner ist darunter, und der singt Psalmen zum Dudelsack. Ich muß haben »Safran, die Apfeltorten zu färben, Muskatenblüte, – Datteln –« keine, die stehn nicht auf dem Zettel: »Muskatennüsse, sieben; ein oder zwei Stangen Ingwer«; aber die müssen sie mir zugeben: – »vier Pfund Pflaumen und ebenso viel Traubenrosinen.«
-AUTOLYCUS. Oh, wär' ich nie geboren! Er wälzt sich auf der Erde.
-DER JUNGE SCHÄFER. Ei, ei, um Gottes willen –
-AUTOLYCUS. Oh, Hülfe! Reißt mir diese Lumpen ab, und dann Tod, Tod!
-DER JUNGE SCHÄFER. Ach, arme Seele! du hättest eher nötig, daß dir mehr Lumpen angelegt würden, als diese da abgerissen.
-AUTOLYCUS. Ach, Herr, der Ekel vor ihnen quält mich mehr als die Schläge, die ich bekommen habe, und die waren derb und wohl Millionen.
-DER JUNGE SCHÄFER. Du armer Mensch! Millionen Prügel, das mag ziemlich viel ausmachen.
-AUTOLYCUS. Ich bin beraubt, Herr, und geschlagen; mein Geld und meine Kleider sind mir genommen, und dies abscheuliche Zeug ist mir angezogen.
-DER JUNGE SCHÄFER. Wie, durch einen Reiter oder einen Fußgänger?
-AUTOLYCUS. Ein Fußgänger, lieber Herr, ein Fußgänger.
-DER JUNGE SCHÄFER. Wahrhaftig, nach der Kleidung, die er dir gelassen hat, muß er ein Fußgänger gewesen sein; wenn das ein Reiterwams ist, so muß es heißen Dienst ausgestanden haben. Gib mir die Hand, ich will dir aufhelfen; komm, gib mir die Hand! Er hilft ihm auf.
-AUTOLYCUS. Oh! guter Herr, sachte, au weh, sachte!
-DER JUNGE SCHÄFER. Ei, du arme Seele!
-AUTOLYCUS. Ach, lieber Herr, sachte; guter Herr, sachte! [ich fürchte, mein Schulterblatt ist ausgerenkt.
-DER JUNGE SCHÄFER. Wie geht's? Kannst du stehen?
-AUTOLYCUS. Sacht, liebster Herr; guter Herr, sachte!] Er zieht ihm die Börse aus der Tasche. Ihr habt mir einen rechten Liebesdienst getan.
+Vierter Aufzug
+Erste Szene Böhmen , im Palast . Polyxenes und Camillo treten auf .
+POLYXENES : Ich bitte dich , guter Camillo , dringe nicht mehr in mich ; es macht mich krank , dir irgend etwas abzuschlagen ; aber dir dies zu bewilligen , wäre mein Tod .
+CAMILLO : Es sind fünfzehn Jahre , seit ich mein Vaterland nicht sah ; obwohl ich die meiste Zeit auswärts zubringen mußte , wünsche ich doch meine Gebeine dort zur Ruhe zu legen . Auch hat der reuevolle König , mein Herr , nach mir gesendet , dessen tiefem Kummer ich zum Trost gereichen möchte , oder mir wenigstens einbilde , daß ich es könnte ; und dies ist ein zweiter Antrieb zu meiner Abreise .
+POLYXENES : Wenn du mich liebst , Camillo , so lösche nicht alle deine guten Dienste dadurch aus , daß du mich jetzt verlässest ; daß ich dich nicht mehr entbehren kann , daran ist deine eigne Trefflichkeit schuld ; besser , ich hätte dich nie besessen , als dich jetzt verlieren . Da du mir Geschäfte eingeleitet hast , die niemand außer dir genügend handhaben kann , so mußt du entweder bleiben und sie selbst zu Ende führen , oder die Dienste , die du mir getan hast , mit dir fortnehmen ; habe ich diese nicht genug vergolten – denn über Gebühr kann ich es nie – , so soll größere Dankbarkeit mein Streben sein , und mein Vorteil sei , dir mehr Liebe zu erweisen . Von dem unglückseligen Lande Sizilien , bitte , sprich nicht mehr : dieser Name schon martert mich , indem er mich an jenen reuigen König , wie du ihn nennst , meinen versöhnten Bruder , erinnert ; der Verlust seiner unschätzbaren Königin und seiner Kinder muß noch jetzt , wie neu geschehen , beklagt werden . – Sage mir , wann sahest du den Prinzen Florizel , meinen Sohn ? Die Könige sind nicht minder unglücklich , deren Kinder nicht begabt sind , als jene , die solche verlieren , deren Vorzüge sich schon zeigten .
+CAMILLO : Herr , es sind drei Tage , seit ich den Prinzen sah . Was seine glücklicheren Geschäfte sein mögen , ist mir unbekannt : aber ich habe gelegentlich bemerkt , daß er sich seit kurzem vom Hofe zurück zieht und seine fürstlichen Übungen nachlässiger treibt , als er es früher tat .
+POLYXENES : Das bemerke ich auch , Camillo , und mit Sorge , so daß ich mir unter meinen Dienern Augen halte , die seine Zurückgezogenheit beobachten ; von ihnen habe ich die Nachricht , daß er sich fast immer in dem Hause eines ganz gemeinen Schäfers aufhält , eines Mannes , der , wie sie sagen , aus dem Nichts , und auf eine seinen Nachbarn unbegreifliche Art zu außerordentlichem Wohlstande gelangt ist .
+CAMILLO : Ich habe von einem solchen Manne gehört , Herr , und daß er eine Tochter habe von nie gesehener Schönheit ; der Ruf von ihr ist so ausgebreitet , daß man kaum begreift , wie er aus so niederer Hütte entstehen konnte .
+POLYXENES : So lautet auch zum Teil , was ich erfuhr . Ich fürchte , dies ist die Angel , die meinen Sohn dahin zieht . Du sollst mich nach dem Ort begleiten , wo wir , das nicht scheinend , was wir sind , uns mit dem Schäfer bekannt machen wollen ; von seiner Einfalt , denke ich , wird es nicht schwer sein , die Ursache der häufigen Besuche meines Sohnes zu erfahren . Ich bitte dich , begleite mich alsbald zu diesem Geschäft , und verbanne alle Gedanken an Sizilien !
+CAMILLO : Bereitwillig gehorche ich Eurem Befehl .
+POLYXENES : Mein bester Camillo ! – Wir müssen uns verkleiden . Sie gehn ab .
+Zweite Szene Eine Landstraße nicht weit von des Schäfers Hütte . Autolycus tritt singend auf .
+AUTOLYCUS : Wenn die Narzisse blickt herfür , – Mit Heisa ! das Mägdlein über dem Tal , – Ja , dann kommt des Jahres lieblichste Zier ; Statt Winter bleich herrscht rotes Blut zumal . Weiß Linnen bleicht auf grünem Plan , – Mit Heisa ! beim lieblichen Vogelgesang ! – Das wetzt mir alsbald den Diebeszahn ; Denn 'ne Kanne Bier ist ein Königstrank . Die Lerche , die singt Tirlirilirei , – Mit Amselton , Heisa ! und Drossellieder – Sind Sommerlust , ist mein Schätzchen dabei , Wenn wir springen und tummeln im Grase nieder . Ich habe dem Prinzen Florizel gedient und trug einst dreischürigen Samt ; aber jetzt bin ich außer Diensten : Doch sollt ' ich deshalb trauern , mein Schatz ? Der Mond bei Nacht scheint hell , Und wenn ich wandre von Platz zu Platz , Dann komm ich zur rechten Stell ' . Wenn Kesselflicker im Lande leben Und wandern mit Ruß geschwärzt , So darf ich doch auch noch Antwort geben , Und im Stock selbst wird wohl gescherzt . Mein Handelszweig ist Hemden ; wenn erst der Habicht baut , so seht nur auch nach der kleineren Wäsche . Mein Vater nannte mich Autolycus ; der , da er wie ich unter dem Merkur geworfen wurde , ebenfalls ein Aufschnapper von unbedeutenden Kleinigkeiten war . Die Würfel und die Dirnen haben mir zu dieser Ausstaffierung verholfen , und mein Einkommen ist die winzige Taschendieberei ; Galgen und Totschlag sind mir zu mächtig auf der großen Straße , denn Prügeln und Hängen sind mir ein Graus ; was das zukünftige Leben betrifft , den Gedanken daran verschlaf ' ich . – Ein Fang ! Ein Fang ! Der junge Schäfer tritt auf .
+DER JUNGE SCHÄFER : Laßt doch sehen : – immer elf Hammel machen einen Stein , – jeder Stein gibt ein Pfund – und etliche Schilling : fünfzehnhundert geschoren – wie hoch kommt die Wolle dann ?
+AUTOLYCUS beiseit . Wenn die Schlinge hält , so ist die Schnepfe mein .
+DER JUNGE SCHÄFER : Ich kann es ohne Rechenpfennige nicht herausbringen . – Laßt doch sehn , was soll ich kaufen für unser Schafschurfest ? » Sieben Pfund Korinthen , drei Pfund Zucker , Reis « – was will denn meine Schwester mit Reis machen ? Aber mein Vater hat sie zur Wirtin beim Fest gemacht , und sie versteht 's . Sie hat mir vierundzwanzig Sträuße für die Scherer gebunden , immer drei singen einen Kanon , und herrlich ; freilich sind die meisten Tenor und Baß ; nur ein Puritaner ist darunter , und der singt Psalmen zum Dudelsack . Ich muß haben » Safran , die Apfeltorten zu färben , Muskatenblüte , – Datteln – « keine , die stehn nicht auf dem Zettel : » Muskatennüsse , sieben ; ein oder zwei Stangen Ingwer « ; aber die müssen sie mir zugeben : – » vier Pfund Pflaumen und ebenso viel Traubenrosinen. «
+AUTOLYCUS : Oh , wär ' ich nie geboren ! Er wälzt sich auf der Erde .
+DER JUNGE SCHÄFER : Ei , ei , um Gottes willen –
+AUTOLYCUS : Oh , Hülfe ! Reißt mir diese Lumpen ab , und dann Tod , Tod !
+DER JUNGE SCHÄFER : Ach , arme Seele ! du hättest eher nötig , daß dir mehr Lumpen angelegt würden , als diese da abgerissen .
+AUTOLYCUS : Ach , Herr , der Ekel vor ihnen quält mich mehr als die Schläge , die ich bekommen habe , und die waren derb und wohl Millionen .
+DER JUNGE SCHÄFER : Du armer Mensch ! Millionen Prügel , das mag ziemlich viel ausmachen .
+AUTOLYCUS : Ich bin beraubt , Herr , und geschlagen ; mein Geld und meine Kleider sind mir genommen , und dies abscheuliche Zeug ist mir angezogen .
+DER JUNGE SCHÄFER : Wie , durch einen Reiter oder einen Fußgänger ?
+AUTOLYCUS : Ein Fußgänger , lieber Herr , ein Fußgänger .
+DER JUNGE SCHÄFER : Wahrhaftig , nach der Kleidung , die er dir gelassen hat , muß er ein Fußgänger gewesen sein ; wenn das ein Reiterwams ist , so muß es heißen Dienst ausgestanden haben . Gib mir die Hand , ich will dir aufhelfen ; komm , gib mir die Hand ! Er hilft ihm auf .
+AUTOLYCUS : Oh ! guter Herr , sachte , au weh , sachte !
+DER JUNGE SCHÄFER : Ei , du arme Seele !
+AUTOLYCUS : Ach , lieber Herr , sachte ; guter Herr , sachte ! [ ich fürchte , mein Schulterblatt ist ausgerenkt .
+DER JUNGE SCHÄFER : Wie geht 's ? Kannst du stehen ?
+AUTOLYCUS : Sacht , liebster Herr ; guter Herr , sachte ! ] Er zieht ihm die Börse aus der Tasche . Ihr habt mir einen rechten Liebesdienst getan .

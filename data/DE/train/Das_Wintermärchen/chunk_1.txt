@@ -1,29 +1,27 @@
-HERMIONE. Sagt er, er sehnt sich nach dem Sohn, das gilt; Doch laßt's ihn sagen, und dann laßt ihn gehn; Laßt's ihn beschwören, und er soll nicht bleiben, Wir treiben ihn mit unsern Spindeln fort. Doch wag' ich's, Eurer hohen Gegenwart 'ne Woche abzuborgen. Wenn in Böhmen Euch mein Gemahl besucht, geb' ich ihm Vollmacht Für einen Monat länger, als die Zeit Bestimmt zur Reis': und doch fürwahr, Leontes, Kein Haar breit wen'ger lieb' ich dich, als je Ein Weib den Mann geliebt. – Ihr bleibt?
-POLYXENES. Nein, Fürstin.
-HERMIONE. O ja. Ihr tut's.
-POLYXENES. Ich kann nicht, wahrlich!
-HERMIONE. Wahrlich! Ihr weist mich ab mit leichtem Schwur; doch ich, Wollt Ihr die Stern' auch aus den Sphären schwören, Ich sagte doch: Herr, nichts von Reisen! Wahrlich, Ihr bleibt; das »Wahrlich« einer Frau ist gültig, Wie immer das des Manns. Wollt Ihr noch fort? Ihr zwingt mich, als Gefangnen Euch zu halten, Und nicht als Gast; dann zahlt Ihr, wenn Ihr scheidet, Für Eure Kost, und spart den Dank. Was sagt Ihr? Gefangner oder Gast? Bei jenem »Wahrlich«: Eins müßt Ihr sein.
-POLYXENES. Eu'r Gast denn, Königin; Gefangner setzt Beleidigung voraus, Die zu begehn mir schwerer fallen würde, Als Euch zu strafen.
-HERMIONE. Dann nicht Kerkermeister, Nein, liebevolle Wirtin. Kommt, erzählt mir Von meines Herrn und Euren Knabenstreichen; Ihr wart wohl muntre Herrchen?
-POLYXENES. Schöne Fürstin, Zwei Buben, die nicht weiter vorwärts dachten, Als, solch ein Tag wie heut sei morgen auch, Und daß wir ewig Knaben bleiben würden.
-HERMIONE. War nicht mein Herr der ärgste Schalk von beiden?
-POLYXENES. Wir waren Zwillingslämmern gleich, die blökend Im Sonnenscheine mit einander spielten; Nur Unschuld tauschten wir für Unschuld; kannten Des Unrechts Lehre nicht, noch träumten wir, Man täte Böses; lebten wir so weiter, Und stieg nie höher unser schwacher Geist Durch heißres Blut, wir könnten kühn dem Himmel Einst sagen: Frei von Schuld, – die abgerechnet, Die unser Erbteil.
-HERMIONE. Daraus muß man schließen, Ihr straucheltet seitdem.
-POLYXENES. O heil'ge Fürstin,
-Versuchung ward seitdem uns; denn in jenen Unflüggen Tagen war mein Weib ein Kind; Und Eure Schönheit war noch nicht dem Blick Des Spielgenoß begegnet.
-HERMIONE. Gnad' uns Gott! Zieht daraus keinen Schluß, sonst nennt Ihr mich Und Eure Kön'gin Teufel; doch fahrt fort, Was Ihr durch uns gefehlt, vertreten wir: Wenn Ihr mit uns zuerst gesündigt habt Und nur mit uns die Sünde fortgesetzt Und nie mit andern als mit uns gestrauchelt.
-LEONTES. Gewannst du ihn?
-HERMIONE. Er bleibt.
-LEONTES. Und wollt' es nicht auf meine Bitte. Hermione, Geliebte, niemals sprachst du So gut zum Zweck.
-HERMIONE. Niemals?
-LEONTES. Niemals, nur einmal noch.
-HERMIONE. Wie? sprach ich zweimal gut? Wann war es früher? Ich bitte, sag es mir; füttr' uns mit Lob, Wie zahme Vögelchen! Die gute Tat, die ungepriesen stirbt, Würgt tausend andre, die sie zeugen könnte. Eu'r Lob ist unser Lohn; eh' treibt Ihr uns Mit einem sanften Kusse tausend Meilen, Als mit dem Sporn zehn Schritt nur. Doch zum Ziel: Die letzte gute Tat war, ihn erbitten; Was war die erste? wenn ich recht verstand, Hat sie 'ne ältre Schwester: Oh, sei Gnad' ihr Name! Zum Zweck sprach ich schon einmal. Wann? Oh, laßt Mich hören, mich verlangt's.
-LEONTES. Nun, das war damals: Drei bittre Monde starben langsam hin, Eh' ich's erlangt, daß du die weiße Hand Mir als Geliebte reichtest, und da sprachst du: »Ich bin auf ewig dein.«
-HERMIONE. Ja, das war Gnade. Ei seht, so sprach ich zweimal denn zum Zweck:
-Eins warb auf immer mir den edlen Gatten, Das andre mir den Freund auf wen'ge Tage.
-Sie reicht Polyxenes die Hand.
-LEONTES für sich.
-Zu heiß, zu heiß! So heftig Freundschaft einen, eint das Blut. Die Brust ist mir beklemmt, es tanzt mein Herz, Doch nicht aus Freude, Freude nicht. – Solch traulich Wesen Nimmt heitern Schein, erklärt die Freiheit nur Für Freundschaft, Herzlichkeit und Seelengüte, Und zierlich mag's dem Spieler stehn, es mag; Doch mit den Händen tätscheln, Finger drücken, Wie jetzt sie tun, dabei bedeutend lächeln, Wie in den Spiegel, seufzen dann, so tief, Wie ein verendend Wild, – solch traulich Wesen Gefällt nicht meinem Herzen, nicht der Stirn. – Mamillius, Bist du mein Jung'?
-MAMILLIUS. Ja, Väterchen
-LEONTES. Mein' Seel'? Ja, bist mein Bengel. Wie, die Nase schmutzig? – Sie sagen, daß sie meiner gleicht. Komm, Kerl, Wir müssen schmuck sein; schmuck nicht, sondern rein; Denn geht nicht Stier und Kalb und Kuh, ein jedes Im Schmuck des Haupts einher? Noch immer spielend Auf seiner Hand? Wie geht's, mein muntres Kalb? Bist du mein Kalb?
-MAMILLIUS. Ja, Vater, wie du willst.
+HERMIONE : Sagt er , er sehnt sich nach dem Sohn , das gilt ; Doch laßt 's ihn sagen , und dann laßt ihn gehn ; Laßt 's ihn beschwören , und er soll nicht bleiben , Wir treiben ihn mit unsern Spindeln fort . Doch wag ' ich 's , Eurer hohen Gegenwart 'ne Woche abzuborgen . Wenn in Böhmen Euch mein Gemahl besucht , geb ' ich ihm Vollmacht Für einen Monat länger , als die Zeit Bestimmt zur Reis ' : und doch fürwahr , Leontes , Kein Haar breit wen'ger lieb ' ich dich , als je Ein Weib den Mann geliebt . – Ihr bleibt ?
+POLYXENES : Nein , Fürstin .
+HERMIONE : O ja . Ihr tut 's .
+POLYXENES : Ich kann nicht , wahrlich !
+HERMIONE : Wahrlich ! Ihr weist mich ab mit leichtem Schwur ; doch ich , Wollt Ihr die Stern ' auch aus den Sphären schwören , Ich sagte doch : Herr , nichts von Reisen ! Wahrlich , Ihr bleibt ; das » Wahrlich « einer Frau ist gültig , Wie immer das des Manns . Wollt Ihr noch fort ? Ihr zwingt mich , als Gefangnen Euch zu halten , Und nicht als Gast ; dann zahlt Ihr , wenn Ihr scheidet , Für Eure Kost , und spart den Dank . Was sagt Ihr ? Gefangner oder Gast ? Bei jenem » Wahrlich « : Eins müßt Ihr sein .
+POLYXENES : Eu ' r Gast denn , Königin ; Gefangner setzt Beleidigung voraus , Die zu begehn mir schwerer fallen würde , Als Euch zu strafen .
+HERMIONE : Dann nicht Kerkermeister , Nein , liebevolle Wirtin . Kommt , erzählt mir Von meines Herrn und Euren Knabenstreichen ; Ihr wart wohl muntre Herrchen ?
+POLYXENES : Schöne Fürstin , Zwei Buben , die nicht weiter vorwärts dachten , Als , solch ein Tag wie heut sei morgen auch , Und daß wir ewig Knaben bleiben würden .
+HERMIONE : War nicht mein Herr der ärgste Schalk von beiden ?
+POLYXENES : Wir waren Zwillingslämmern gleich , die blökend Im Sonnenscheine mit einander spielten ; Nur Unschuld tauschten wir für Unschuld ; kannten Des Unrechts Lehre nicht , noch träumten wir , Man täte Böses ; lebten wir so weiter , Und stieg nie höher unser schwacher Geist Durch heißres Blut , wir könnten kühn dem Himmel Einst sagen : Frei von Schuld , – die abgerechnet , Die unser Erbteil .
+HERMIONE : Daraus muß man schließen , Ihr straucheltet seitdem .
+POLYXENES : O heil'ge Fürstin , Versuchung ward seitdem uns ; denn in jenen Unflüggen Tagen war mein Weib ein Kind ; Und Eure Schönheit war noch nicht dem Blick Des Spielgenoß begegnet .
+HERMIONE : Gnad ' uns Gott ! Zieht daraus keinen Schluß , sonst nennt Ihr mich Und Eure Kön'gin Teufel ; doch fahrt fort , Was Ihr durch uns gefehlt , vertreten wir : Wenn Ihr mit uns zuerst gesündigt habt Und nur mit uns die Sünde fortgesetzt Und nie mit andern als mit uns gestrauchelt .
+LEONTES : Gewannst du ihn ?
+HERMIONE : Er bleibt .
+LEONTES : Und wollt ' es nicht auf meine Bitte . Hermione , Geliebte , niemals sprachst du So gut zum Zweck .
+HERMIONE : Niemals ?
+LEONTES : Niemals , nur einmal noch .
+HERMIONE : Wie ? sprach ich zweimal gut ? Wann war es früher ? Ich bitte , sag es mir ; füttr ' uns mit Lob , Wie zahme Vögelchen ! Die gute Tat , die ungepriesen stirbt , Würgt tausend andre , die sie zeugen könnte . Eu ' r Lob ist unser Lohn ; eh ' treibt Ihr uns Mit einem sanften Kusse tausend Meilen , Als mit dem Sporn zehn Schritt nur . Doch zum Ziel : Die letzte gute Tat war , ihn erbitten ; Was war die erste ? wenn ich recht verstand , Hat sie 'ne ältre Schwester : Oh , sei Gnad ' ihr Name ! Zum Zweck sprach ich schon einmal . Wann ? Oh , laßt Mich hören , mich verlangt 's .
+LEONTES : Nun , das war damals : Drei bittre Monde starben langsam hin , Eh ' ich 's erlangt , daß du die weiße Hand Mir als Geliebte reichtest , und da sprachst du : » Ich bin auf ewig dein. «
+HERMIONE : Ja , das war Gnade . Ei seht , so sprach ich zweimal denn zum Zweck :
+Eins warb auf immer mir den edlen Gatten , Das andre mir den Freund auf wen'ge Tage .
+Sie reicht Polyxenes die Hand .
+LEONTES : ( für sich . ) Zu heiß , zu heiß ! So heftig Freundschaft einen , eint das Blut . Die Brust ist mir beklemmt , es tanzt mein Herz , Doch nicht aus Freude , Freude nicht . – Solch traulich Wesen Nimmt heitern Schein , erklärt die Freiheit nur Für Freundschaft , Herzlichkeit und Seelengüte , Und zierlich mag 's dem Spieler stehn , es mag ; Doch mit den Händen tätscheln , Finger drücken , Wie jetzt sie tun , dabei bedeutend lächeln , Wie in den Spiegel , seufzen dann , so tief , Wie ein verendend Wild , – solch traulich Wesen Gefällt nicht meinem Herzen , nicht der Stirn . – Mamillius , Bist du mein Jung ' ?
+MAMILLIUS : Ja , Väterchen
+LEONTES : Mein ' Seel ' ? Ja , bist mein Bengel . Wie , die Nase schmutzig ? – Sie sagen , daß sie meiner gleicht . Komm , Kerl , Wir müssen schmuck sein ; schmuck nicht , sondern rein ; Denn geht nicht Stier und Kalb und Kuh , ein jedes Im Schmuck des Haupts einher ? Noch immer spielend Auf seiner Hand ? Wie geht 's , mein muntres Kalb ? Bist du mein Kalb ?
+MAMILLIUS : Ja , Vater , wie du willst .

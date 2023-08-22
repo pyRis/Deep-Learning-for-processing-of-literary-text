@@ -1,30 +1,25 @@
-FLORIZEL. In seinem Auftrag Erschein' ich in Sizilien, und von ihm Bring' ich Euch Grüße, wie ein Freund, ein König, Dem Bruder senden mag; und wenn nicht Schwäche, Begleiterin des Alters, ihm vermindert Die rasche Kraft, so hätt' er selbst durchmessen
-Die Meer' und Länder zwischen euren Reichen, Euch anzuschauen, den er inn'ger liebt Als alle Fürsten – so hieß er mich sagen –, Die lebend jetzt regieren.
-LEONTES. Oh, mein Bruder, Du Trefflicher! Das Leid, das ich dir tat, Quält mich von neuem jetzt, und diese Sendung, So ausgezeichnet freundlich, klagt so herber Mein träges Säumen an. – O seid willkommen, So wie der Lenz der Flur. Und hat er auch Dies Wunder ausgesetzt dem grausen, oder Doch rohen Treiben des furchtbaren Meers, Den Mann zu grüßen, ihrer Müh' nicht wert, Viel wen'ger seinethalb ihr Leben wagend?
-FLORIZEL. Mein gnäd'ger Fürst, sie kommt von Libyen.
-LEONTES. Wo Held Smalus gefürchtet und geliebt ist?
-FLORIZEL. Erlauchter Herr, von dort; von ihm, des Tränen Im Scheiden sie als Tochter anerkannten: Von da bracht' uns ein günst'ger Südwind her, Um meines Vaters Auftrag zu erfüllen, Euch zu besuchen: meine ersten Diener Hab' ich gleich von Sizilien fort geschickt, Nach Böhmen hin, um dort bekannt zu machen Der Reise glücklichen Erfolg in Libyen Und mein und meiner Gattin sichre Landung Hier, wo wir sind.
-LEONTES. Die gnäd'gen Götter rein'gen Von ungesunden Dünsten unsre Luft, Solang' Ihr weilt! Oh, Euer frommer Vater, Der gnadenvolle Fürst, an dessen Haupt, Dem heiligen, ich so gefrevelt habe: Weshalb der Himmel, zornentbrannt, der Kinder Mich hat beraubt; Eu'r Vater ist gesegnet, Wie von dem Himmel er's verdient, durch Euch, Wert seines edlen Sinns. Was wär' ich selbst, Könnt' ich auch jetzt auf Sohn und Tochter schaun: Solch wackres Paar wie ihr?
-Ein Hofherr tritt auf.
-HOFHERR. Mein gnäd'ger König, Unglaublich wird Euch scheinen, was ich melde, Doch gleich bestätigt sich's. Mein hoher Herr, Persönlich grüßt Euch Böhmen selbst durch mich: Will, daß Ihr festnehmt seinen Sohn, der kürzlich, Den hohen Rang, die Pflichten all' vergessend, Von seinem Vater floh und seinem Erbteil, Mit eines Schäfers Tochter.
-LEONTES. Böhmen! – sprich, wo ist er?
-HOFHERR. Hier in der Stadt; ich kam von ihm so eben. Verwildert red' ich; wie das Wunderbare Mich zwingt und meine Botschaft. Als er zum Hof Hieher geeilt, verfolgend, wie ich glaube, Dies schöne Paar, erblickt' er auf dem Wege Den Vater dieser vorgegebnen Fürstin Und ihren Bruder, die ihr Land verließen Mit diesem Prinzen.
-FLORIZEL. Mich verriet Camillo, Des Redlichkeit und Ehre jedem Wetter Bis jetzt getrotzt.
-HOFHERR. Macht ihm den Vorwurf selbst; Denn er ist mit dem König.
-LEONTES. Wer? Camillo?
-HOFHERR. Camillo, Herr, ich sprach ihn; er verhört Die Armen. Niemals sah ich noch Elende So zittern: wie sie knien, den Boden küssen, Verschwören Leib und Seel' in jedem Wort. Böhmen verstopft sein Ohr, und droht mit Tod Und tausend Martern.
-PERDITA. Oh, mein armer Vater! Der Himmel schickt uns Späher nach; er will nicht Erfüllung unsres Bunds.
-LEONTES. Seid ihr vermählt?
-FLORIZEL. Wir sind's nicht, Herr, und werden's nun wohl nimmer! Eh' werden Sterne noch die Täler küssen.
-LEONTES. Ist dies die Tochter eines Königs, Prinz?
-FLORIZEL. Sie ist es, ist sie einst mit mir vermählt.
-LEONTES. Dies »Einst« wird wohl durch Eures Vaters Eile Sehr langsam nahn. Beklagen muß ich höchlich, Daß Ihr Euch seiner Liebe habt entfremdet, Die heil'ge Pflicht Euch war: beklagen muß ich, Daß die Gewählte Rang nicht hat wie Schönheit, Mit Recht Euch zu verbleiben.
-FLORIZEL. Mut, Geliebte! Obgleich das Schicksal sichtbar uns verfolgt Durch meinen Vater, kann's doch unsre Liebe Nicht um ein Haar breit schwächen. – Herr, ich bitt' Euch, Gedenkt der Zeit, da Ihr nicht mehr als ich Dem Alter schuldig wart: mit dem Gefühl Seid mein Vertreter jetzt; denn, wenn Ihr bittet, Gewährt mein Vater Großes leicht wie Tand.
-LEONTES. Eu'r schönes Liebchen müßt' er dann mir geben, Die er für Tand nur achtet.
-PAULINA. Herr, mein Fürst, Eu'r Aug' hat zu viel Jugend; einen Monat Vor Eurer Kön'gin Tod, war solcher Blicke Sie würdiger, als was Ihr jetzt betrachtet.
-LEONTES. Nur ihrer dachte mein entzücktes Auge. – Doch unerwidert ist noch Eure Bitte: Zu Eurem Vater eil' ich; hat Begier Gekränkt nicht Eure Ehre, bin ich Euer, Und Eurer Wünsche Freund: zu dem Geschäft Geh' ich ihm jetzt entgegen; folgt mir nun, Und seht, wie mir's gelingt! Kommt, edler Prinz!
-Alle ab.
-Zweite Szene Vor dem Palast. Autolycus und ein Edelmann treten auf.
-AUTOLYCUS. Ich bitte Euch, Herr, waret Ihr gegenwärtig bei dieser Erzählung?
-ERSTER EDELMANN. Ich war bei dem Öffnen des Bündels, und hörte den Bericht des alten Schäfers, wie er ihn fand. Darauf,  nach einem kurzen Staunen, hieß man uns alle das Zimmer verlassen; nur das, dünkt mich, hörte ich den Schäfer noch sagen, er habe das Kind gefunden.
-AUTOLYCUS. Ich möchte gern den Ausgang wissen.
+FLORIZEL : In seinem Auftrag Erschein ' ich in Sizilien , und von ihm Bring ' ich Euch Grüße , wie ein Freund , ein König , Dem Bruder senden mag ; und wenn nicht Schwäche , Begleiterin des Alters , ihm vermindert Die rasche Kraft , so hätt ' er selbst durchmessen Die Meer ' und Länder zwischen euren Reichen , Euch anzuschauen , den er inn'ger liebt Als alle Fürsten – so hieß er mich sagen – , Die lebend jetzt regieren .
+LEONTES : Oh , mein Bruder , Du Trefflicher ! Das Leid , das ich dir tat , Quält mich von neuem jetzt , und diese Sendung , So ausgezeichnet freundlich , klagt so herber Mein träges Säumen an . – O seid willkommen , So wie der Lenz der Flur . Und hat er auch Dies Wunder ausgesetzt dem grausen , oder Doch rohen Treiben des furchtbaren Meers , Den Mann zu grüßen , ihrer Müh ' nicht wert , Viel wen'ger seinethalb ihr Leben wagend ?
+FLORIZEL : Mein gnäd'ger Fürst , sie kommt von Libyen .
+LEONTES : Wo Held Smalus gefürchtet und geliebt ist ?
+FLORIZEL : Erlauchter Herr , von dort ; von ihm , des Tränen Im Scheiden sie als Tochter anerkannten : Von da bracht ' uns ein günst'ger Südwind her , Um meines Vaters Auftrag zu erfüllen , Euch zu besuchen : meine ersten Diener Hab ' ich gleich von Sizilien fort geschickt , Nach Böhmen hin , um dort bekannt zu machen Der Reise glücklichen Erfolg in Libyen Und mein und meiner Gattin sichre Landung Hier , wo wir sind .
+LEONTES : Die gnäd'gen Götter rein'gen Von ungesunden Dünsten unsre Luft , Solang ' Ihr weilt ! Oh , Euer frommer Vater , Der gnadenvolle Fürst , an dessen Haupt , Dem heiligen , ich so gefrevelt habe : Weshalb der Himmel , zornentbrannt , der Kinder Mich hat beraubt ; Eu ' r Vater ist gesegnet , Wie von dem Himmel er 's verdient , durch Euch , Wert seines edlen Sinns . Was wär ' ich selbst , Könnt ' ich auch jetzt auf Sohn und Tochter schaun : Solch wackres Paar wie ihr ?
+Ein Hofherr tritt auf .
+HOFHERR : Mein gnäd'ger König , Unglaublich wird Euch scheinen , was ich melde , Doch gleich bestätigt sich 's . Mein hoher Herr , Persönlich grüßt Euch Böhmen selbst durch mich : Will , daß Ihr festnehmt seinen Sohn , der kürzlich , Den hohen Rang , die Pflichten all ' vergessend , Von seinem Vater floh und seinem Erbteil , Mit eines Schäfers Tochter .
+LEONTES : Böhmen ! – sprich , wo ist er ?
+HOFHERR : Hier in der Stadt ; ich kam von ihm so eben . Verwildert red ' ich ; wie das Wunderbare Mich zwingt und meine Botschaft . Als er zum Hof Hieher geeilt , verfolgend , wie ich glaube , Dies schöne Paar , erblickt ' er auf dem Wege Den Vater dieser vorgegebnen Fürstin Und ihren Bruder , die ihr Land verließen Mit diesem Prinzen .
+FLORIZEL : Mich verriet Camillo , Des Redlichkeit und Ehre jedem Wetter Bis jetzt getrotzt .
+HOFHERR : Macht ihm den Vorwurf selbst ; Denn er ist mit dem König .
+LEONTES : Wer ? Camillo ?
+HOFHERR : Camillo , Herr , ich sprach ihn ; er verhört Die Armen . Niemals sah ich noch Elende So zittern : wie sie knien , den Boden küssen , Verschwören Leib und Seel ' in jedem Wort . Böhmen verstopft sein Ohr , und droht mit Tod Und tausend Martern .
+PERDITA : Oh , mein armer Vater ! Der Himmel schickt uns Späher nach ; er will nicht Erfüllung unsres Bunds .
+LEONTES : Seid ihr vermählt ?
+FLORIZEL : Wir sind 's nicht , Herr , und werden 's nun wohl nimmer ! Eh ' werden Sterne noch die Täler küssen .
+LEONTES : Ist dies die Tochter eines Königs , Prinz ?
+FLORIZEL : Sie ist es , ist sie einst mit mir vermählt .
+LEONTES : Dies » Einst « wird wohl durch Eures Vaters Eile Sehr langsam nahn . Beklagen muß ich höchlich , Daß Ihr Euch seiner Liebe habt entfremdet , Die heil'ge Pflicht Euch war : beklagen muß ich , Daß die Gewählte Rang nicht hat wie Schönheit , Mit Recht Euch zu verbleiben .
+FLORIZEL : Mut , Geliebte ! Obgleich das Schicksal sichtbar uns verfolgt Durch meinen Vater , kann 's doch unsre Liebe Nicht um ein Haar breit schwächen . – Herr , ich bitt ' Euch , Gedenkt der Zeit , da Ihr nicht mehr als ich Dem Alter schuldig wart : mit dem Gefühl Seid mein Vertreter jetzt ; denn , wenn Ihr bittet , Gewährt mein Vater Großes leicht wie Tand .
+LEONTES : Eu ' r schönes Liebchen müßt ' er dann mir geben , Die er für Tand nur achtet .
+PAULINA : Herr , mein Fürst , Eu ' r Aug ' hat zu viel Jugend ; einen Monat Vor Eurer Kön'gin Tod , war solcher Blicke Sie würdiger , als was Ihr jetzt betrachtet .
+LEONTES : Nur ihrer dachte mein entzücktes Auge . – Doch unerwidert ist noch Eure Bitte : Zu Eurem Vater eil ' ich ; hat Begier Gekränkt nicht Eure Ehre , bin ich Euer , Und Eurer Wünsche Freund : zu dem Geschäft Geh ' ich ihm jetzt entgegen ; folgt mir nun , Und seht , wie mir 's gelingt ! Kommt , edler Prinz !
+Alle ab .
