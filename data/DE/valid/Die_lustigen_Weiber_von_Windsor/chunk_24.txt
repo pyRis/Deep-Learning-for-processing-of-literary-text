@@ -1,37 +1,37 @@
-FLUTH. Die Hexe, die Vettel, die alte spitzbübische Vettel! Habe ich ihr nicht mein Haus verboten? Sie hat ein Gewerbe hier auszurichten, nicht wahr? Wir sind einfältige Männer, wir merken nicht, was alles unter dem Vorwand des Wahrsagens mit unterläuft. Sie gibt sich mit Zaubereien, Besprechungen, Zeichendeuten und andern solchen Schelmereien ab; das alles geht über unsern Horizont, wir wissen von nichts. Komm herunter, du Hexe, du Zigeunerin; komm herunter, sag' ich!
-FRAU FLUTH. Oh, mein lieber, süßer Mann! – Liebe Herren, laßt doch die alte Frau nicht schlagen! – Falstaff kommt in Frauenkleidern, geführt von Frau Page.
-FRAU PAGE. Kommt, Mutter Klatsch, kommt, gebt mir die Hand!
-FLUTH. Ich will sie klatschen! Aus meinem Hause, du Hexe! – Schlägt ihn. Du Zigeunerin, du Vettel, du Meerkatze, du garstiges Tier! fort mit dir! Ich will dich wahrsagen und besprechen lehren! – Schlägt ihn.
-Falstaff ab.
-FRAU PAGE. Schämt Ihr Euch nicht? Ich glaube, Ihr habt die arme Frau tot geschlagen! –
-FRAU FLUTH. Wahrhaftig, das wird er noch tun, das wird dir recht viel Ehre bringen.
-FLUTH. An den Galgen mit der Hexe! –
-EVANS. Pei meiner Treu, ich klaupe, tas Weib ischt wahrhaftige Hexe; ich hap's nicht kern, wann Weipspilt kroßen Part hat, ich sah kroßen Part unter ihrem Packentuch.
-FLUTH. Wollt Ihr mitkommen, meine Herrn? Ich bitt' euch, kommt mit; seht nur einmal zu, wie meine Eifersucht ablaufen wird. Wenn ich diesmal ohne Fährte anschlage, so traut mir nie wieder, wenn ich den Mund auftue.
-PAGE. Laßt uns seiner Grille noch ein wenig nachgeben; kommt, ihr Herren! Sie gehn ab.
-FRAU PAGE. Wahrhaftig, er hat ihn ganz erbärmlich geprügelt.
-FRAU FLUTH. Nein, beim Himmel, das hat er nicht, er schlug ihn ganz erbarmungslos, wie mir schien.
-FRAU PAGE. Der Prügel soll geweiht und in der Kirche aufgehängt werden; er hat ein verdienstliches Werk getan.
-FRAU FLUTH. Was meint Ihr, können wir wohl als ehrliche Frauen und mit gutem Gewissen ihn noch weiter mit unsrer Rache verfolgen? –
-FRAU PAGE. Der Teufel der Lüsternheit ist gewiß ganz aus ihm herausgebannt; wenn er dem Satan nicht durchaus verfallen ist, mit Handgeld und Reukauf, so denk' ich, versucht er's nicht wieder, uns zum Bösen zu verführen.
-FRAU FLUTH. Sollen wir's unsern Männern sagen, wie wir ihm mitgespielt haben?
-FRAU PAGE. Ja, auf alle Weise; wär's auch nur, um deinem Mann die Fratzen aus dem Kopf zu schaffen. Wenn sie es übers Herz bringen können, den armen untugendlichen dicken Ritter noch ferner zu plagen, so wollen wir ihnen wieder die Hand dazu bieten.
-FRAU FLUTH. Ich wette, sie werden ihn noch öffentlich beschimpft haben wollen, und mir scheint auch, der Spaß wäre nicht vollständig, wenn er nicht öffentlich beschimpft würde.
-FRAU PAGE. Komm nur gleich in die Schmiede damit, ehe das Eisen kalt wird. Sie gehn ab.
-Dritte Szene Gasthof zum Hosenband. Wirt und Bardolph treten auf.
-BARDOLPH. Herr, die Deutschen verlangen drei von Euren Pferden; der Herzog selbst kommt morgen an den Hof, und sie wollen ihm entgegen reiten.
-WIRT. Was für ein Herzog sollte das sein, der so insgeheim ankommt? Ich habe nichts von ihm bei Hofe gehört. Ich muß selbst mit den Leuten reden; sie sprechen doch Englisch?
-BARDOLPH. Herr, ich will sie Euch rufen.
-WIRT. Sie sollen meine Pferde haben, aber sie müssen mir dafür blechen; ich will sie zwiebeln. Sie haben mein Haus eine ganze Woche lang inne gehabt; ich habe alle meine andern Gäste abgewiesen; nun sollen sie daran, ich will sie zwiebeln. Sie gehn ab.
-Vierte Szene Fluths Haus. Es kommes Page, Fluth, Frau Page, Frau Fluth und Evans.
-EVANS. 's ischt so kroße Tugendwertigkeit von Frau, als ich jemahlen ankekucket hape.
-PAGE. Und schickte er euch die beiden Briefe zur selben Zeit? –
-FRAU PAGE. In der nämlichen Viertelstunde.
-FLUTH. Vergib mir, Frau; hinfort tu', was du willst: Die Sonne werd' ich eh' der Kälte zeihn, Als dich des Leichtsinns. Deine Ehre wurzelt Bei dem, der eben noch ein Ketzer war, So fest als Glaube.
-PAGE. Gut, sehr gut; nicht mehr: Treib' nicht die Unterwerfung jetzt so weit Als die Beleid'gung. – Doch, führen wir's zu Ende; laß die Frau'n Noch einmal, uns zum allgemeinen Scherz,
-Den alten fetten Burschen herbestellen, Daß wir ihn fangen und ihn derb verspotten.
-FLUTH. Kein beßres Mittel gibt's als ihren Plan.
-PAGE. Was! ihn bestellen soll'n sie in den Park Um Mitternacht? Ei, geht, er kommt uns nie.
-EVANS. Ihr sagt, er sei in die Kewässer keworfen und erpärmlich mit Schläken pehantelt als alte Frau; mir petünkt, er müsse sein voller Angsthaftigkeit und Schrecknis, tas er nicht werte kommen; mir scheint, sein Fleisch ischt kezüchtigt und wird aplassen von aller pösen Luscht.
-PAGE. Das denk' ich auch.
-FRAU FLUTH. Sinnt ihr nur, was ihr tun wollt, wenn er kommt, Wir beid' ersinnen schon, ihn herzuschaffen.
+FLUTH : Die Hexe , die Vettel , die alte spitzbübische Vettel ! Habe ich ihr nicht mein Haus verboten ? Sie hat ein Gewerbe hier auszurichten , nicht wahr ? Wir sind einfältige Männer , wir merken nicht , was alles unter dem Vorwand des Wahrsagens mit unterläuft . Sie gibt sich mit Zaubereien , Besprechungen , Zeichendeuten und andern solchen Schelmereien ab ; das alles geht über unsern Horizont , wir wissen von nichts . Komm herunter , du Hexe , du Zigeunerin ; komm herunter , sag ' ich !
+FRAU FLUTH : Oh , mein lieber , süßer Mann ! – Liebe Herren , laßt doch die alte Frau nicht schlagen ! – Falstaff kommt in Frauenkleidern , geführt von Frau Page .
+FRAU PAGE : Kommt , Mutter Klatsch , kommt , gebt mir die Hand !
+FLUTH : Ich will sie klatschen ! Aus meinem Hause , du Hexe ! – Schlägt ihn . Du Zigeunerin , du Vettel , du Meerkatze , du garstiges Tier ! fort mit dir ! Ich will dich wahrsagen und besprechen lehren ! – Schlägt ihn .
+Falstaff ab .
+FRAU PAGE : Schämt Ihr Euch nicht ? Ich glaube , Ihr habt die arme Frau tot geschlagen ! –
+FRAU FLUTH : Wahrhaftig , das wird er noch tun , das wird dir recht viel Ehre bringen .
+FLUTH : An den Galgen mit der Hexe ! –
+EVANS : Pei meiner Treu , ich klaupe , tas Weib ischt wahrhaftige Hexe ; ich hap 's nicht kern , wann Weipspilt kroßen Part hat , ich sah kroßen Part unter ihrem Packentuch .
+FLUTH : Wollt Ihr mitkommen , meine Herrn ? Ich bitt ' euch , kommt mit ; seht nur einmal zu , wie meine Eifersucht ablaufen wird . Wenn ich diesmal ohne Fährte anschlage , so traut mir nie wieder , wenn ich den Mund auftue .
+PAGE : Laßt uns seiner Grille noch ein wenig nachgeben ; kommt , ihr Herren ! Sie gehn ab .
+FRAU PAGE : Wahrhaftig , er hat ihn ganz erbärmlich geprügelt .
+FRAU FLUTH : Nein , beim Himmel , das hat er nicht , er schlug ihn ganz erbarmungslos , wie mir schien .
+FRAU PAGE : Der Prügel soll geweiht und in der Kirche aufgehängt werden ; er hat ein verdienstliches Werk getan .
+FRAU FLUTH : Was meint Ihr , können wir wohl als ehrliche Frauen und mit gutem Gewissen ihn noch weiter mit unsrer Rache verfolgen ? –
+FRAU PAGE : Der Teufel der Lüsternheit ist gewiß ganz aus ihm herausgebannt ; wenn er dem Satan nicht durchaus verfallen ist , mit Handgeld und Reukauf , so denk ' ich , versucht er 's nicht wieder , uns zum Bösen zu verführen .
+FRAU FLUTH : Sollen wir 's unsern Männern sagen , wie wir ihm mitgespielt haben ?
+FRAU PAGE : Ja , auf alle Weise ; wär 's auch nur , um deinem Mann die Fratzen aus dem Kopf zu schaffen . Wenn sie es übers Herz bringen können , den armen untugendlichen dicken Ritter noch ferner zu plagen , so wollen wir ihnen wieder die Hand dazu bieten .
+FRAU FLUTH : Ich wette , sie werden ihn noch öffentlich beschimpft haben wollen , und mir scheint auch , der Spaß wäre nicht vollständig , wenn er nicht öffentlich beschimpft würde .
+FRAU PAGE : Komm nur gleich in die Schmiede damit , ehe das Eisen kalt wird . Sie gehn ab .
+Dritte Szene Gasthof zum Hosenband . Wirt und Bardolph treten auf .
+BARDOLPH : Herr , die Deutschen verlangen drei von Euren Pferden ; der Herzog selbst kommt morgen an den Hof , und sie wollen ihm entgegen reiten .
+WIRT : Was für ein Herzog sollte das sein , der so insgeheim ankommt ? Ich habe nichts von ihm bei Hofe gehört . Ich muß selbst mit den Leuten reden ; sie sprechen doch Englisch ?
+BARDOLPH : Herr , ich will sie Euch rufen .
+WIRT : Sie sollen meine Pferde haben , aber sie müssen mir dafür blechen ; ich will sie zwiebeln . Sie haben mein Haus eine ganze Woche lang inne gehabt ; ich habe alle meine andern Gäste abgewiesen ; nun sollen sie daran , ich will sie zwiebeln . Sie gehn ab .
+Vierte Szene Fluths Haus . Es kommes Page , Fluth , Frau Page , Frau Fluth und Evans .
+EVANS : 's ischt so kroße Tugendwertigkeit von Frau , als ich jemahlen ankekucket hape .
+PAGE : Und schickte er euch die beiden Briefe zur selben Zeit ? –
+FRAU PAGE : In der nämlichen Viertelstunde .
+FLUTH : Vergib mir , Frau ; hinfort tu ' , was du willst : Die Sonne werd ' ich eh ' der Kälte zeihn , Als dich des Leichtsinns . Deine Ehre wurzelt Bei dem , der eben noch ein Ketzer war , So fest als Glaube .
+PAGE : Gut , sehr gut ; nicht mehr : Treib ' nicht die Unterwerfung jetzt so weit Als die Beleid'gung . – Doch , führen wir 's zu Ende ; laß die Frau'n Noch einmal , uns zum allgemeinen Scherz ,
+Den alten fetten Burschen herbestellen , Daß wir ihn fangen und ihn derb verspotten .
+FLUTH : Kein beßres Mittel gibt 's als ihren Plan .
+PAGE : Was ! ihn bestellen soll'n sie in den Park Um Mitternacht ? Ei , geht , er kommt uns nie .
+EVANS : Ihr sagt , er sei in die Kewässer keworfen und erpärmlich mit Schläken pehantelt als alte Frau ; mir petünkt , er müsse sein voller Angsthaftigkeit und Schrecknis , tas er nicht werte kommen ; mir scheint , sein Fleisch ischt kezüchtigt und wird aplassen von aller pösen Luscht .
+PAGE : Das denk ' ich auch .
+FRAU FLUTH : Sinnt ihr nur , was ihr tun wollt , wenn er kommt , Wir beid ' ersinnen schon , ihn herzuschaffen .

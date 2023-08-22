@@ -1,29 +1,29 @@
-FRAU PAGE. Euer Mann kommt her, Frau, mit allen Gerichtsdienern aus Windsor, um einen Herrn zu suchen, der, wie man sagt, jetzt mit Eurer Einwilligung hier im Hause ist, um sich seine Abwesenheit auf unerlaubte Art zunutze zu machen. Ihr seid verloren! –
-FRAU FLUTH leise. Mein Gott, ich will nicht hoffen? –
-FRAU PAGE. Gebe Gott, daß sich's nicht so verhalte, und daß Ihr nicht so jemand hier habt; aber das ist ganz gewiß, Euer Mann kommt mit halb Windsor hinter sich, um so jemand aufzusuchen. Ich lief voran, es Euch zu sagen; habt Ihr aber einen Freund hier, so macht, macht, daß er wegkommt. Verliert die Fassung nicht; ruft alle Eure Lebensgeister zusammen; verteidigt Euern Ruf, oder sagt Euern guten Tagen auf ewig Lebewohl!
-FRAU FLUTH. Was soll ich tun? Freilich ist ein Herr hier, ein sehr werter Freund, und ich fürchte meine eigne Schande nicht so sehr, als seine Gefahr. Mir wär's lieber als tausend Pfund, wenn ich ihn außer Hause wüßte! –
-FRAU PAGE. Ei, geht mir jetzt mit Eurem: mir wär's lieber! mir wär's lieber! Euer Mann wird gleich zur Stelle sein; denkt, wie Ihr ihn fortschafft: – im Hause könnt Ihr ihn nicht verstecken. – Oh, wie ich mich in Euch geirrt habe – Seht, hier steht ein Korb: wenn er nur irgend von gescheiter Statur ist, kann er hier hineinkriechen; und dann werft schmutzige Wäsche auf ihn, als ging' es zum Einweichen; oder, es ist gerade Bleichenszeit, schickt ihn durch Eure zwei Knechte auf die Datchetwiese!
-FRAU FLUTH. Er ist zu dick, um da hineinzugehn: was fang' ich an? – Falstaff kommt hervor.
-FALSTAFF. Laßt einmal sehn! laßt einmal sehn! O laßt mich einmal sehn! Ich will hinein, ich will hinein; folgt dem Rat Eurer Freundin; ich will hinein.
-FRAU PAGE. Was! Sir John Falstaff! Sind das Eure Briefe, Ritter?
-FALSTAFF. Ich liebe dich, – hilf mir nur weg! – Laß mich da hineinkriechen, ich will niemals – Er kriecht in den Korb, sie decken ihn mit schmutziger Wäsche zu.
-FRAU PAGE. Hilf deinen Herrn zudecken, Kleiner! Ruft Eure Leute, Frau Fluth! Ihr heuchlerischer Ritter!
-FRAU FLUTH. He, Johann! Robert! Johann! Bringt mir die  Wäsche fort, hurtig! Wo ist die Tragstange? Seht, wie ihr trödelt! – Tragt's zur Wäscherin auf die Datchetwiese; hurtig! macht fort! – Fluth, Page, Cajus und Evans kommen.
-FLUTH. Ich bitt' euch, kommt herein. Wenn ich ohne Grund Verdacht hege, so foppt mich und treibt euern Spott mit mir! Es geschieht mir recht. – Holla! – Wo wollt ihr damit hin?
-KNECHT. Zur Wäscherin, Herr.
-FRAU FLUTH. Ei, was geht's dich denn an, wohin sie's tragen? Du willst dich wohl auch um meine Körbe kümmern?
-FLUTH. Körbe? Ja, ich wollte, du verständst dich drauf, einen Korb zu geben; wahrhaftig, ein Korb wäre hier recht an der Zeit gewesen. Die Knechte tragen den Korb hinaus. Ihr Herrn, mir träumte die Nacht etwas; ich will euch meinen Traum erzählen. Hier, hier, hier sind meine Schlüssel; geht hinauf in alle Zimmer: sucht, forscht, spürt aus; ich steh' euch dafür, wir stöbernden Fuchs aus seinem Bau. Ich will ihm hier den Weg vertreten: so, jetzt grabt ihn aus!
-PAGE. Lieber Herr Fluth, seid ruhig, Ihr tut Euch selbst zu nah.
-FLUTH. Ihr habt recht, Herr Page. Hinauf, ihr Herrn; ihr sollt gleich euern Spaß erleben; kommt nur mit, ihr Herrn! Er geht ab.
-EVANS. Tas ischt kar phantastische Krillen und Eifersuchten.
-CAJUS. Pardieu, tas is nik la mode in Frankreik; man sein nik jaloux in Frankreik.
-PAGE. Nun kommt, ihr Herren; wir wollen sehn, wie dies Suchen abläuft. Sie gehn ab.
-FRAU PAGE. Ist das nicht ein doppelt königlicher Spaß?
-FRAU FLUTH. Ich weiß nicht, was mir besser gefällt, daß mein Mann angeführt ist, oder Sir John.
-FRAU PAGE. Wie ihm wohl zu Mut war, als Euer Mann fragte, was im Korbe sei!
-FRAU FLUTH. Ich fürchte fast, daß eine Wäsche ihm ganz zuträglich sei; und so wird's ihm eine Wohltat, wenn sie ihn ins Wasser werfen.
-FRAU PAGE. An den Galgen mit dem ehrvergeßnen Schurken! Ich wollte, daß alle von dem Gelichter in gleicher Not steckten! –
-FRAU FLUTH. Ich glaube, mein Mann muß einen besondern Verdacht auf Falstaffs Hiersein haben; denn nie sah ich ihn so wild in seiner Eifersucht als diesmal.
-FRAU PAGE. Ich will schon etwas ausdenken, um das herauszubringen; und wir müssen dem Falstaff noch mehr Streiche spielen; sein Liebesfieber wird schwerlich dieser einen Arznei weichen.
-FRAU FLUTH. Sollen wir ihm das alberne Tier, die Frau Hurtig, zuschicken, um uns zu entschuldigen, daß man ihn ins Wasser geworfen? und ihm noch einmal Hoffnung geben, um ihn noch einmal abzustrafen? –
-FRAU PAGE. Das wollen wir tun; wir wollen ihn auf morgen früh um acht herbestellen, um ihn schadlos zu halten. Fluth und Page kommen mit den andern zurück.
+FRAU PAGE : Euer Mann kommt her , Frau , mit allen Gerichtsdienern aus Windsor , um einen Herrn zu suchen , der , wie man sagt , jetzt mit Eurer Einwilligung hier im Hause ist , um sich seine Abwesenheit auf unerlaubte Art zunutze zu machen . Ihr seid verloren ! –
+FRAU FLUTH leise . Mein Gott , ich will nicht hoffen ? –
+FRAU PAGE : Gebe Gott , daß sich 's nicht so verhalte , und daß Ihr nicht so jemand hier habt ; aber das ist ganz gewiß , Euer Mann kommt mit halb Windsor hinter sich , um so jemand aufzusuchen . Ich lief voran , es Euch zu sagen ; habt Ihr aber einen Freund hier , so macht , macht , daß er wegkommt . Verliert die Fassung nicht ; ruft alle Eure Lebensgeister zusammen ; verteidigt Euern Ruf , oder sagt Euern guten Tagen auf ewig Lebewohl !
+FRAU FLUTH : Was soll ich tun ? Freilich ist ein Herr hier , ein sehr werter Freund , und ich fürchte meine eigne Schande nicht so sehr , als seine Gefahr . Mir wär 's lieber als tausend Pfund , wenn ich ihn außer Hause wüßte ! –
+FRAU PAGE : Ei , geht mir jetzt mit Eurem : mir wär 's lieber ! mir wär 's lieber ! Euer Mann wird gleich zur Stelle sein ; denkt , wie Ihr ihn fortschafft : – im Hause könnt Ihr ihn nicht verstecken . – Oh , wie ich mich in Euch geirrt habe – Seht , hier steht ein Korb : wenn er nur irgend von gescheiter Statur ist , kann er hier hineinkriechen ; und dann werft schmutzige Wäsche auf ihn , als ging ' es zum Einweichen ; oder , es ist gerade Bleichenszeit , schickt ihn durch Eure zwei Knechte auf die Datchetwiese !
+FRAU FLUTH : Er ist zu dick , um da hineinzugehn : was fang ' ich an ? – Falstaff kommt hervor .
+FALSTAFF : Laßt einmal sehn ! laßt einmal sehn ! O laßt mich einmal sehn ! Ich will hinein , ich will hinein ; folgt dem Rat Eurer Freundin ; ich will hinein .
+FRAU PAGE : Was ! Sir John Falstaff ! Sind das Eure Briefe , Ritter ?
+FALSTAFF : Ich liebe dich , – hilf mir nur weg ! – Laß mich da hineinkriechen , ich will niemals – Er kriecht in den Korb , sie decken ihn mit schmutziger Wäsche zu .
+FRAU PAGE : Hilf deinen Herrn zudecken , Kleiner ! Ruft Eure Leute , Frau Fluth ! Ihr heuchlerischer Ritter !
+FRAU FLUTH : He , Johann ! Robert ! Johann ! Bringt mir die Wäsche fort , hurtig ! Wo ist die Tragstange ? Seht , wie ihr trödelt ! – Tragt 's zur Wäscherin auf die Datchetwiese ; hurtig ! macht fort ! – Fluth , Page , Cajus und Evans kommen .
+FLUTH : Ich bitt ' euch , kommt herein . Wenn ich ohne Grund Verdacht hege , so foppt mich und treibt euern Spott mit mir ! Es geschieht mir recht . – Holla ! – Wo wollt ihr damit hin ?
+KNECHT : Zur Wäscherin , Herr .
+FRAU FLUTH : Ei , was geht 's dich denn an , wohin sie 's tragen ? Du willst dich wohl auch um meine Körbe kümmern ?
+FLUTH : Körbe ? Ja , ich wollte , du verständst dich drauf , einen Korb zu geben ; wahrhaftig , ein Korb wäre hier recht an der Zeit gewesen . Die Knechte tragen den Korb hinaus . Ihr Herrn , mir träumte die Nacht etwas ; ich will euch meinen Traum erzählen . Hier , hier , hier sind meine Schlüssel ; geht hinauf in alle Zimmer : sucht , forscht , spürt aus ; ich steh ' euch dafür , wir stöbernden Fuchs aus seinem Bau . Ich will ihm hier den Weg vertreten : so , jetzt grabt ihn aus !
+PAGE : Lieber Herr Fluth , seid ruhig , Ihr tut Euch selbst zu nah .
+FLUTH : Ihr habt recht , Herr Page . Hinauf , ihr Herrn ; ihr sollt gleich euern Spaß erleben ; kommt nur mit , ihr Herrn ! Er geht ab .
+EVANS : Tas ischt kar phantastische Krillen und Eifersuchten .
+CAJUS : Pardieu , tas is nik la mode in Frankreik ; man sein nik jaloux in Frankreik .
+PAGE : Nun kommt , ihr Herren ; wir wollen sehn , wie dies Suchen abläuft . Sie gehn ab .
+FRAU PAGE : Ist das nicht ein doppelt königlicher Spaß ?
+FRAU FLUTH : Ich weiß nicht , was mir besser gefällt , daß mein Mann angeführt ist , oder Sir John .
+FRAU PAGE : Wie ihm wohl zu Mut war , als Euer Mann fragte , was im Korbe sei !
+FRAU FLUTH : Ich fürchte fast , daß eine Wäsche ihm ganz zuträglich sei ; und so wird 's ihm eine Wohltat , wenn sie ihn ins Wasser werfen .
+FRAU PAGE : An den Galgen mit dem ehrvergeßnen Schurken ! Ich wollte , daß alle von dem Gelichter in gleicher Not steckten ! –
+FRAU FLUTH : Ich glaube , mein Mann muß einen besondern Verdacht auf Falstaffs Hiersein haben ; denn nie sah ich ihn so wild in seiner Eifersucht als diesmal .
+FRAU PAGE : Ich will schon etwas ausdenken , um das herauszubringen ; und wir müssen dem Falstaff noch mehr Streiche spielen ; sein Liebesfieber wird schwerlich dieser einen Arznei weichen .
+FRAU FLUTH : Sollen wir ihm das alberne Tier , die Frau Hurtig , zuschicken , um uns zu entschuldigen , daß man ihn ins Wasser geworfen ? und ihm noch einmal Hoffnung geben , um ihn noch einmal abzustrafen ? –
+FRAU PAGE : Das wollen wir tun ; wir wollen ihn auf morgen früh um acht herbestellen , um ihn schadlos zu halten . Fluth und Page kommen mit den andern zurück .

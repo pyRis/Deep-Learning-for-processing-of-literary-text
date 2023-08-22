@@ -1,28 +1,27 @@
-FRAU HURTIG. Ja wahrhaftig, und dann könntet Ihr kommen und das Gemälde besehn, sagt sie, Ihr wüßtet schon; Herr Fluth, ihr Mann, wird nicht zu Hause sein. Ach! das liebe Weibchen führt ein schlimmes Leben mit ihm; er ist ein recht jalouser Mann; sie führt ein recht poltriges Leben mit ihm, das gute Herzchen.
-FALSTAFF. Zehn und elf! Frau, empfiehl mich ihr, ich werde nicht ausbleiben.
-FRAU HURTIG. Nun, das ist schön; aber ich habe noch eine andre Konfession an Euer Gnaden auszurichten. Frau Page läßt sich Euch gleichfalls von Herzen empfehlen; und, das muß ich Euch ins Ohr sagen, die ist eine solche annette und repetierliche hübsche Frau, und eine, das sage ich Euch, die da weder ihren Morgen – noch ihren Abendsegen versäumt, wie's nur eine in Windsor gibt, wer sie auch sein mag; und die trug mir auf, Euer Gnaden zu sagen, daß ihr Mann selten außer  Hause sei; aber sie hofft, es wird schon eine Zeit kommen. Ich habe nie eine Frau so versessen auf einen Mann gesehn; weiß Gott, ich glaube, Ihr müßt hexen können, gelt? Ja wahrhaftig! –
-FALSTAFF. Nicht doch, das versichre ich dir; die Anziehungskraft meiner edlen Eigenschaften beiseit gesetzt, weiß ich von keiner Hexerei.
-FRAU HURTIG. Dafür segne Euch der Himmel!
-FALSTAFF. Aber sag mir doch, haben Frau Fluth und Frau Page es einander gesagt, daß sie in mich verliebt sind?
-FRAU HURTIG. Das wär' ein Spaß, meiner Treu! So dumm sind sie doch nicht, hoff' ich. Das wär' ein Streich, wahrhaftig! Aber Frau Page läßt Euch bitten, um alles, was Euch lieb ist, Ihr möchtet ihr Euern kleinen Pagen schicken: ihr Mann hat eine ganz aparte Infektion für den kleinen Pagen, und wahrhaftig, Herr Page ist ein rechtschaffner Mann. Da ist weit und breit in Windsor keine Frau, die ein beßres Leben führt; sie tut, was sie will, nimmt alles ein, bezahlt alles, geht zu Bett, wenn's ihr gefällt, steht auf, wenn's ihr gefällt, alles ganz wie sie will; und wahrhaftig, sie verdient es; denn wenn es eine liebe Frau in Windsor gibt, so ist sie eine. Ihr müßt ihr Euern Pagen schicken, da hilft nichts vor.
-FALSTAFF. Nun, das will ich auch.
-FRAU HURTIG. Nun gut, so schickt ihn ihr; und seht Ihr, der kann nachher zwischen euch beiden ab und zu gehn, und kann auf alle Fälle sein Parolwort haben, daß ihr eins des andern Gedanken erfahrt, und der Junge doch nichts zu verstehn braucht; denn es ist nicht gut, wenn die Kinder von solcher Gottlosigkeit was wissen: alte Leute, wißt Ihr wohl, sind dressiert, wie man zu sagen pflegt, und kennen die Welt.
-FALSTAFF. Gehab' dich wohl; empfiehl mich beiden: da ist meine Börse; ich bleibe noch dein Schuldner. Bursch, geh mit dieser Frau: – die Neuigkeit setzt mich in Ekstase! – Frau Hurtig und Robin ab.
-PISTOL. Dies Jachtschiff dient wohl in Fortunas Flotte.
-Mehr Segel her! Setz' nach! Das Schießzeug auf: Gib Feu'r: die Pris' ist mein, sonst, Meer, verschling'sie all'! –
-Pistol geht ab.
-FALSTAFF. Siehst du nun, alter Hans, nur immer vorwärts! Ich will deine alte Figur mehr in Ehren halten, als ich bisher getan. Schielen sie noch nach dir? Willst du, nachdem du so viel Geld verzehrt, auch einmal etwas verdienen? Ich danke dir's, meine wackre Figur: laßt sie immer sagen, ich mach' es zu grob; wenn's nur mit guter Manier geschieht. Bardolph tritt auf.
-BARDOLPH. Sir John, da unten steht ein gewisser Herr Bach, der möchte Euch gern sprechen und Eure Bekanntschaft machen, und hat Euer Gnaden einen Morgentrunk Sekt geschickt.
-FALSTAFF. Bach ist sein Name?
-BARDOLPH. Ja, Herr.
-FALSTAFF. Ruf' ihn herein! Bardolph geht. Solche Bäche heiß' ich willkommen, die von solchen Wellen überströmen! – Aha, Frau Fluth und Frau Page, habe ich euch im Netz? Victoria! Via! – Bardolph kommt zurück mit Fluth, der sich verkleidet hat.
-FLUTH. Gott grüß' Euch, Sir!
-FALSTAFF. Und Euch, Sir! Wollt Ihr mich sprechen?
-FLUTH. Ich bin so dreist, mich ohne viel Umstände Euch aufzudrängen.
-FALSTAFF. Ihr seid willkommen. Was ist Euer Begehren? Laß uns allein, Küfer! Bardolph ab.
-FLUTH. Sir, ich bin ein Mann, der viel durchgebracht; mein Name ist Bach.
-FALSTAFF. Lieber Herr Bach, ich wünsche Eure nähere Bekanntschaft.
-FLUTH. Werter Sir John, ich bitte um die Eurige; nicht um  Euch zur Last zu fallen, denn ich muß Euch bemerken, daß ich glaube, besser imstande zu sein, Geld auszuleihen, als Ihr; und das hat mich einigermaßen dreist gemacht, Euch so zur Unzeit heimzusuchen. Denn, wie man sagt, wo Geld vorangeht, sind alle Wege offen.
-FALSTAFF. Geld ist ein guter Soldat, mein Herr, und macht sich Bahn.
-FLUTH. Sehr wahr; und hier habe ich einen Beutel mit Geld, der mir beschwerlich ist. Wenn Ihr ihn mir wollt tragen helfen, Sir John, so nehmt ihn ganz oder halb dafür, daß Ihr mir die Last erleichtert.
-FALSTAFF. Sir, ich weiß nicht, wie ich dazu komme, Euer Lastträger zu sein? –
+FRAU HURTIG : Ja wahrhaftig , und dann könntet Ihr kommen und das Gemälde besehn , sagt sie , Ihr wüßtet schon ; Herr Fluth , ihr Mann , wird nicht zu Hause sein . Ach ! das liebe Weibchen führt ein schlimmes Leben mit ihm ; er ist ein recht jalouser Mann ; sie führt ein recht poltriges Leben mit ihm , das gute Herzchen .
+FALSTAFF : Zehn und elf ! Frau , empfiehl mich ihr , ich werde nicht ausbleiben .
+FRAU HURTIG : Nun , das ist schön ; aber ich habe noch eine andre Konfession an Euer Gnaden auszurichten . Frau Page läßt sich Euch gleichfalls von Herzen empfehlen ; und , das muß ich Euch ins Ohr sagen , die ist eine solche annette und repetierliche hübsche Frau , und eine , das sage ich Euch , die da weder ihren Morgen – noch ihren Abendsegen versäumt , wie 's nur eine in Windsor gibt , wer sie auch sein mag ; und die trug mir auf , Euer Gnaden zu sagen , daß ihr Mann selten außer Hause sei ; aber sie hofft , es wird schon eine Zeit kommen . Ich habe nie eine Frau so versessen auf einen Mann gesehn ; weiß Gott , ich glaube , Ihr müßt hexen können , gelt ? Ja wahrhaftig ! –
+FALSTAFF : Nicht doch , das versichre ich dir ; die Anziehungskraft meiner edlen Eigenschaften beiseit gesetzt , weiß ich von keiner Hexerei .
+FRAU HURTIG : Dafür segne Euch der Himmel !
+FALSTAFF : Aber sag mir doch , haben Frau Fluth und Frau Page es einander gesagt , daß sie in mich verliebt sind ?
+FRAU HURTIG : Das wär ' ein Spaß , meiner Treu ! So dumm sind sie doch nicht , hoff ' ich . Das wär ' ein Streich , wahrhaftig ! Aber Frau Page läßt Euch bitten , um alles , was Euch lieb ist , Ihr möchtet ihr Euern kleinen Pagen schicken : ihr Mann hat eine ganz aparte Infektion für den kleinen Pagen , und wahrhaftig , Herr Page ist ein rechtschaffner Mann . Da ist weit und breit in Windsor keine Frau , die ein beßres Leben führt ; sie tut , was sie will , nimmt alles ein , bezahlt alles , geht zu Bett , wenn 's ihr gefällt , steht auf , wenn 's ihr gefällt , alles ganz wie sie will ; und wahrhaftig , sie verdient es ; denn wenn es eine liebe Frau in Windsor gibt , so ist sie eine . Ihr müßt ihr Euern Pagen schicken , da hilft nichts vor .
+FALSTAFF : Nun , das will ich auch .
+FRAU HURTIG : Nun gut , so schickt ihn ihr ; und seht Ihr , der kann nachher zwischen euch beiden ab und zu gehn , und kann auf alle Fälle sein Parolwort haben , daß ihr eins des andern Gedanken erfahrt , und der Junge doch nichts zu verstehn braucht ; denn es ist nicht gut , wenn die Kinder von solcher Gottlosigkeit was wissen : alte Leute , wißt Ihr wohl , sind dressiert , wie man zu sagen pflegt , und kennen die Welt .
+FALSTAFF : Gehab ' dich wohl ; empfiehl mich beiden : da ist meine Börse ; ich bleibe noch dein Schuldner . Bursch , geh mit dieser Frau : – die Neuigkeit setzt mich in Ekstase ! – Frau Hurtig und Robin ab .
+PISTOL : Dies Jachtschiff dient wohl in Fortunas Flotte . Mehr Segel her ! Setz ' nach ! Das Schießzeug auf : Gib Feu ' r : die Pris ' ist mein , sonst , Meer , verschling'sie all ' ! –
+Pistol geht ab .
+FALSTAFF : Siehst du nun , alter Hans , nur immer vorwärts ! Ich will deine alte Figur mehr in Ehren halten , als ich bisher getan . Schielen sie noch nach dir ? Willst du , nachdem du so viel Geld verzehrt , auch einmal etwas verdienen ? Ich danke dir 's , meine wackre Figur : laßt sie immer sagen , ich mach ' es zu grob ; wenn 's nur mit guter Manier geschieht . Bardolph tritt auf .
+BARDOLPH : Sir John , da unten steht ein gewisser Herr Bach , der möchte Euch gern sprechen und Eure Bekanntschaft machen , und hat Euer Gnaden einen Morgentrunk Sekt geschickt .
+FALSTAFF : Bach ist sein Name ?
+BARDOLPH : Ja , Herr .
+FALSTAFF : Ruf ' ihn herein ! Bardolph geht . Solche Bäche heiß ' ich willkommen , die von solchen Wellen überströmen ! – Aha , Frau Fluth und Frau Page , habe ich euch im Netz ? Victoria ! Via ! – Bardolph kommt zurück mit Fluth , der sich verkleidet hat .
+FLUTH : Gott grüß ' Euch , Sir !
+FALSTAFF : Und Euch , Sir ! Wollt Ihr mich sprechen ?
+FLUTH : Ich bin so dreist , mich ohne viel Umstände Euch aufzudrängen .
+FALSTAFF : Ihr seid willkommen . Was ist Euer Begehren ? Laß uns allein , Küfer ! Bardolph ab .
+FLUTH : Sir , ich bin ein Mann , der viel durchgebracht ; mein Name ist Bach .
+FALSTAFF : Lieber Herr Bach , ich wünsche Eure nähere Bekanntschaft .
+FLUTH : Werter Sir John , ich bitte um die Eurige ; nicht um Euch zur Last zu fallen , denn ich muß Euch bemerken , daß ich glaube , besser imstande zu sein , Geld auszuleihen , als Ihr ; und das hat mich einigermaßen dreist gemacht , Euch so zur Unzeit heimzusuchen . Denn , wie man sagt , wo Geld vorangeht , sind alle Wege offen .
+FALSTAFF : Geld ist ein guter Soldat , mein Herr , und macht sich Bahn .
+FLUTH : Sehr wahr ; und hier habe ich einen Beutel mit Geld , der mir beschwerlich ist . Wenn Ihr ihn mir wollt tragen helfen , Sir John , so nehmt ihn ganz oder halb dafür , daß Ihr mir die Last erleichtert .
+FALSTAFF : Sir , ich weiß nicht , wie ich dazu komme , Euer Lastträger zu sein ? –

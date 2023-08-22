@@ -1,30 +1,30 @@
-SIMPEL. Nun, Herr, es war bloß wegen Jungfer Anne Page: ob's wohl meines Herrn Glück wäre; sie zu bekommen, oder nicht?
-FALSTAFF. 's ist, 's ist sein Glück.
-SIMPEL. Was, Sir?
-FALSTAFF. Sie zu bekommen, oder nicht. Geh nur, sag, das hätte die Frau mir anvertraut.
-SIMPEL. Darf ich so frei sein und das sagen, Sir?
-FALSTAFF. Ja, Kerl, so dreist du immer willst.
-SIMPEL. Ich dank' Euer Gnaden, ich werde meinem Herrn eine rechte Freude machen mit diesen Zeitungen. Geht ab.
-WIRT. Du bist ein Gelahrter, Sir John; du bist ein Gelahrter. Ist denn eine kluge Frau bei dir gewesen? –
-FALSTAFF. Ja, das ist sie, mein Gastwirt; eine, die mir mehr Weisheit beigebracht hat, als ich jemals in meinem Leben gelernt; und noch dazu habe ich nichts dafür bezahlt, sondern ich ward obendrein für mein Lernen bezahlt. Bardolph kommt.
-BARDOLPH. Ach, Herr Je! Ach, Herr! Spitzbüberei, pure Spitzbüberei! –
-WIRT. Wo sind meine Pferde? Laß mich Gutes von ihnen hören, briccone! –
-BARDOLPH. Davongelaufen sind sie mit den Spitzbuben; denn als wir eben jenseits Eton waren, so schmissen sie mich rücklings hinter dem einen herunter in eine Dreckpfütze: und nun die Sporen gegeben, und fort wie drei deutsche Teufel, drei Doktor Faustusse.
-WIRT. Sie wollen ja nur dem Herzog entgegen, Schurke: sprich nicht gleich von Davonlaufen: die Deutschen sind ehrliche Leute. Evans kommt.
-EVANS. Wo ischt mein Herr Kastwirt?
-WIRT. Was gibt's, Sir Hugh?
-EVANS. Hapt Opacht auf Eure Kundschaftungen: 's ischt kuter Freund von mir zur Stadt kommen, der sakt, es seien trei teutsche Tiebsprüter ankelankt, tie hätten in Reatinks, Maitenheat und Coleprook mittem Kelt und ten Käulen ihrer Wirte Prüterschaft kemacht. Ich erzähle Euch tas aus kutem Herzen, seht Ihr: Ihr hapt Verstand und seit voller Streiche und Kimpelschaften, und es wäre nicht kepürlich, wann man Euch prellte, Kott pehüt' Euch! – Geht ab. Doktor Cajus kommt.
-CAJUS. Wo is mon hôte de la jarretière?
-WIRT. Hier, Herr Doktor, in Konsternation und Dilemma zweifelhaft.
-CAJUS. Ik weißen nik, was tas sein; aber man kommt, mik zu sagen, daß Ihr maken eine groß Préparaiion vor ein Ersog von Allemagne: auf mein Hehr, da is kein Ersog, was man weiß bei 'Of, der kommen: – ik sagen das haus guten Erzen: adieu. Ab.
-WIRT. Schrei' Mord und Zeter, Schurke, lauf! Helft mir, Ritter, ich bin verloren: – lauf, eil' dich, schrei', mach' Lärmen, Schurke: Ich bin verloren! – Ab.
-FALSTAFF. Ich wollte, die ganze Welt würde geprellt, denn ich bin geprellt und geprügelt dazu. Sollte diese Metamorphose  dem Hof zu Ohren kommen, und wie meine Verwandlungen gewaschen und gewalkt worden sind, sie schmölzen mich aus meinem Fett heraus, Tropfen bei Tropfen, und schmierten Fischerstiefel mit mir: ich wette, sie geißelten mich mit ihrem stachlichten Witz, bis ich eingeschrumpft wäre wie eine Backbirne. Mein Stern ist von mir gewichen, seit ich beim Primero falsch geschworen: wahrhaftig, hätt' ich nur Atem genug, um ein Gebet zu sprechen, so wollt' ich bereuen. Frau Hurtig kommt. Nun, woher kommst du? –
-FRAU HURTIG. Mein' Seel', von beiden Parteien.
-FALSTAFF. Hole der Teufel die eine Partei, und seine Großmutter die andre, so haben sie beide, was ihnen zukommt. Ich habe mehr um ihretwillen gelitten, ja, mehr als der nichtswürdige Unbestand menschlicher Kräfte zu ertragen vermag.
-FRAU HURTIG. Und haben sie denn nichts gelitten? Ja, das versichre ich Euch, besonders die eine: – Frau Fluth, die arme Seele, ist braun und blau geschlagen, daß man keinen weißen Fleck an ihr sehen kann.
-FALSTAFF. Was schwatzest du mir von braun und blau? Mir selbst sind alle Farben des Regenbogens angeprügelt, und ich war drauf und dran, als die Hexe von Brentford eingesteckt zu werden; hätte ich mich nicht durch die bewundernswürdige Gewandtheit meines Witzes gerettet, indem ich die Gebärden eines alten Weibes nachahmte, so hätte der Schurke von Konstabel mich in den Block gesetzt, in den Stadtblock, wie eine Hexe.
-FRAU HURTIG. Sir John, laßt mich auf Euerm Zimmer mit Euch reden; Ihr sollt hören, wie die Sachen stehn, und das versichre ich Euch, Ihr sollt Eure Freude dran haben. Hier ist ein Brief, der schon was sagen wird. Ihr lieben Kinder, was das für eine Not ist, euch zusammen zu bringen! Wahrhaftig, einer von euch muß dem Himmel nicht recht dienen, weil's euch immer so schief geht.
-FALSTAFF. Komm hinauf in mein Zimmer. Sie gehn ab.
-Sechste Szene Ebendaselbst. Der Wirt und Herr Fenton treten auf.
-WIRT. Laßt mich gehn, Herr Fenton; ich bin ganz mißmütig, ich mag mich um nichts kümmern. –
-FENTON. So hör' mich nur. Hilf mir in meinem Plan, Und auf mein Ehrenwort, ich zahle bar Dir hundert Pfund in Gold, mehr als dein Schade.
+SIMPEL : Nun , Herr , es war bloß wegen Jungfer Anne Page : ob 's wohl meines Herrn Glück wäre ; sie zu bekommen , oder nicht ?
+FALSTAFF : 's ist , 's ist sein Glück .
+SIMPEL : Was , Sir ?
+FALSTAFF : Sie zu bekommen , oder nicht . Geh nur , sag , das hätte die Frau mir anvertraut .
+SIMPEL : Darf ich so frei sein und das sagen , Sir ?
+FALSTAFF : Ja , Kerl , so dreist du immer willst .
+SIMPEL : Ich dank ' Euer Gnaden , ich werde meinem Herrn eine rechte Freude machen mit diesen Zeitungen . Geht ab .
+WIRT : Du bist ein Gelahrter , Sir John ; du bist ein Gelahrter . Ist denn eine kluge Frau bei dir gewesen ? –
+FALSTAFF : Ja , das ist sie , mein Gastwirt ; eine , die mir mehr Weisheit beigebracht hat , als ich jemals in meinem Leben gelernt ; und noch dazu habe ich nichts dafür bezahlt , sondern ich ward obendrein für mein Lernen bezahlt . Bardolph kommt .
+BARDOLPH : Ach , Herr Je ! Ach , Herr ! Spitzbüberei , pure Spitzbüberei ! –
+WIRT : Wo sind meine Pferde ? Laß mich Gutes von ihnen hören , briccone ! –
+BARDOLPH : Davongelaufen sind sie mit den Spitzbuben ; denn als wir eben jenseits Eton waren , so schmissen sie mich rücklings hinter dem einen herunter in eine Dreckpfütze : und nun die Sporen gegeben , und fort wie drei deutsche Teufel , drei Doktor Faustusse .
+WIRT : Sie wollen ja nur dem Herzog entgegen , Schurke : sprich nicht gleich von Davonlaufen : die Deutschen sind ehrliche Leute . Evans kommt .
+EVANS : Wo ischt mein Herr Kastwirt ?
+WIRT : Was gibt 's , Sir Hugh ?
+EVANS : Hapt Opacht auf Eure Kundschaftungen : 's ischt kuter Freund von mir zur Stadt kommen , der sakt , es seien trei teutsche Tiebsprüter ankelankt , tie hätten in Reatinks , Maitenheat und Coleprook mittem Kelt und ten Käulen ihrer Wirte Prüterschaft kemacht . Ich erzähle Euch tas aus kutem Herzen , seht Ihr : Ihr hapt Verstand und seit voller Streiche und Kimpelschaften , und es wäre nicht kepürlich , wann man Euch prellte , Kott pehüt ' Euch ! – Geht ab . Doktor Cajus kommt .
+CAJUS : Wo is mon hôte de la jarretière ?
+WIRT : Hier , Herr Doktor , in Konsternation und Dilemma zweifelhaft .
+CAJUS : Ik weißen nik , was tas sein ; aber man kommt , mik zu sagen , daß Ihr maken eine groß Préparaiion vor ein Ersog von Allemagne : auf mein Hehr , da is kein Ersog , was man weiß bei 'Of , der kommen : – ik sagen das haus guten Erzen : adieu . Ab .
+WIRT : Schrei ' Mord und Zeter , Schurke , lauf ! Helft mir , Ritter , ich bin verloren : – lauf , eil ' dich , schrei ' , mach ' Lärmen , Schurke : Ich bin verloren ! – Ab .
+FALSTAFF : Ich wollte , die ganze Welt würde geprellt , denn ich bin geprellt und geprügelt dazu . Sollte diese Metamorphose dem Hof zu Ohren kommen , und wie meine Verwandlungen gewaschen und gewalkt worden sind , sie schmölzen mich aus meinem Fett heraus , Tropfen bei Tropfen , und schmierten Fischerstiefel mit mir : ich wette , sie geißelten mich mit ihrem stachlichten Witz , bis ich eingeschrumpft wäre wie eine Backbirne . Mein Stern ist von mir gewichen , seit ich beim Primero falsch geschworen : wahrhaftig , hätt ' ich nur Atem genug , um ein Gebet zu sprechen , so wollt ' ich bereuen . Frau Hurtig kommt . Nun , woher kommst du ? –
+FRAU HURTIG : Mein ' Seel ' , von beiden Parteien .
+FALSTAFF : Hole der Teufel die eine Partei , und seine Großmutter die andre , so haben sie beide , was ihnen zukommt . Ich habe mehr um ihretwillen gelitten , ja , mehr als der nichtswürdige Unbestand menschlicher Kräfte zu ertragen vermag .
+FRAU HURTIG : Und haben sie denn nichts gelitten ? Ja , das versichre ich Euch , besonders die eine : – Frau Fluth , die arme Seele , ist braun und blau geschlagen , daß man keinen weißen Fleck an ihr sehen kann .
+FALSTAFF : Was schwatzest du mir von braun und blau ? Mir selbst sind alle Farben des Regenbogens angeprügelt , und ich war drauf und dran , als die Hexe von Brentford eingesteckt zu werden ; hätte ich mich nicht durch die bewundernswürdige Gewandtheit meines Witzes gerettet , indem ich die Gebärden eines alten Weibes nachahmte , so hätte der Schurke von Konstabel mich in den Block gesetzt , in den Stadtblock , wie eine Hexe .
+FRAU HURTIG : Sir John , laßt mich auf Euerm Zimmer mit Euch reden ; Ihr sollt hören , wie die Sachen stehn , und das versichre ich Euch , Ihr sollt Eure Freude dran haben . Hier ist ein Brief , der schon was sagen wird . Ihr lieben Kinder , was das für eine Not ist , euch zusammen zu bringen ! Wahrhaftig , einer von euch muß dem Himmel nicht recht dienen , weil 's euch immer so schief geht .
+FALSTAFF : Komm hinauf in mein Zimmer . Sie gehn ab .
+Sechste Szene Ebendaselbst . Der Wirt und Herr Fenton treten auf .
+WIRT : Laßt mich gehn , Herr Fenton ; ich bin ganz mißmütig , ich mag mich um nichts kümmern . –
+FENTON : So hör ' mich nur . Hilf mir in meinem Plan , Und auf mein Ehrenwort , ich zahle bar Dir hundert Pfund in Gold , mehr als dein Schade .

@@ -1,26 +1,26 @@
-FLUTH. Eure Bekanntschaft ist ein wahrer Segen für mich. Kennt Ihr diesen Fluth, Sir?
-FALSTAFF. Zum Henker mit dem armen Teufel von Hahnrei! Ich kenne ihn nicht: indes, ich tue ihm unrecht, wenn ich ihn arm nenne; man sagt, der eifersüchtige behornte Kerl hat ganze Haufen Gold; und darum kommt mir seine Frau auch hübsch vor. Sie soll mir der Schlüssel zu des  Hahnreis Geldkasten sein, dort will ich mein Erntefest halten.
-FLUTH. Ich wollte, Ihr kenntet Fluth, damit Ihr ihm ausweichen könntet, wenn Ihr ihn sähet.
-FALSTAFF. Zum Henker mit dem bürgerlichen, buttermilchigen Schuft! – Ich will ihn mit meinen Augen durchbohren, daß er von Sinnen kommen soll; ich will ihn in Respekt erhalten mit meinem Prügel; wie ein Meteor soll der über des Hahnreis Hörnern schweben: – ja, Herr Bach, du sollst's erleben, ich triumphiere über den Flegel, und du schläfst bei seiner Frau. Komm nur gleich auf den Abend zu mir; Fluth ist ein Schuft, und ich will seine Titel noch weitläufiger machen: du, Herr Bach, sollst ihn als Schuft und Hahnrei begrüßen. Komm nur gleich heut abend zu mir! Geht ab.
-FLUTH. Was für ein verdammter epikuräischer Schurke das ist! Mein Herz möchte vor Ungeduld zerspringen. Wer will nun noch sagen, dies sei unzeitige Eifersucht? Meine Frau hat zu ihm geschickt, die Stunde ist bestimmt, der Handel geschlossen: – wer hätte so etwas denken sollen! da seht, welche Hölle es ist, ein falsches Weib zu haben! Mein Bett soll entehrt, meine Koffer gebrandschatzt, mein guter Name zernagt werden: und nicht genug, daß ich diese nichtswürdige Kränkung erdulde, soll ich mich noch mit den verruchtesten Benennungen schelten lassen, und zwar von dem, der mir diesen Schimpf antut. Und welche Namen! welche Titel! Amaimon klingt gut, Luzifer gut, Barbason gut, und doch sind es Teufelstitulaturen, die Namen böser Geister; aber Hahnrei? Hörnerträger? Der Teufel selbst führt nicht solche Namen. – Page ist ein Esel, ein sorgloser Esel; er verläßt sich auf seine Frau: er weiß nichts von Eifersucht. Lieber will ich einem Holländer meine Butter, Pfarrer Hugh, dem Walliser, meinen Käse, einem Irländer meine Aquavitflasche und einem Diebe meinen Wallach, den Paßgänger, zu reiten anvertrauen, als meine Frau sich selbst. Da kabaliert, da sinnt und grübelt sie, – und was sie in ihrem Herzen beschließen, das müssen sie ausführen, und sollte ihr Herz darüber brechen, sie müssen's ausführen. Dem Himmel sei Dank für meine Eifersucht! Um elf ist die Stunde; ich will  dem Dinge zuvorkommen, mein Weib entlarven, mich an Falstaff rächen und Page auslachen. Gleich will ich daran; besser drei Stunden zu früh, als eine Minute zu spät! – Pfui, pfui, pfui! – Hahnrei, Hahnrei, Hahnrei! – Geht ab.
-Dritte Szene Park von Windsor. Cajus und Rugby treten auf.
-CAJUS. 'ans Rugby!
-RUGBY. Herr Doktor!
-CAJUS. Was ist die Klock, 'ans?
-RUGBY. Die Stunde ist schon vorbei, Herr, wo Sir Hugh sich einstellen wollte.
-CAJUS. Pardieu, er 'aben kerett' sein Seel, weil er nik is gekomm'; er 'aben kut gepett' seine Bibel, daß er nik ist gekomm'; pardieu, 'ans Rugby, er sein schon tot, wann er sein gekomm'.
-RUGBY. Er ist gescheit, Herr Doktor, er wußte, Eu'r Gnaden würden ihn umbringen, wann er käme.
-CAJUS. Pardieu, das 'ering is nik so tot, als ik ihm will tot maken. – Nimm deine Degen, 'ans, ik will dir weisen, wie ik will ihn tot maken.
-RUGBY. Ach, Herr, ich kann nicht fechten.
-CAJUS. Coquin, nimm deine Degen!
-RUGBY. Still doch! hier kommen Leute. Es kommen der Wirt, Schaal, Schmächtig und Page.
-WIRT. Gott grüß' dich, mein Rolandsdoktor!
-SCHAAL. Euer Diener, Herr Doktor Cajus!
-PAGE. Guten Tag, lieber Herr Doktor!
-SCHMÄCHTIG. Schön guten Morgen, Sir!
-CAJUS. Was sein ihr all', ein, swei, drei, vier, gekomm' 'ieher? –
-WIRT. Dich fechten zu sehn, dich legieren zu sehn, dich traversieren zu sehn, dich hier zu sehn, dich da zu sehn, dein Punto, deine Stoccata, dein Renvers, deine Distanz, deinen Montant zu sehn. Ist er tot, mein Äthiopier? Ist er tot, mein  Franzmann? Ha, Rodomont! Was sagt mein Äskulap? mein Galen? mein Holundermark? Ist er tot, mein Harnmonarch? – Ist er tot?
-CAJUS. Pardieu, er sein die größte Memmenpriester von die Welt; er 'aben nik geweisen sein Visage.
-WIRT. Du bist ein König von Kastilien, Don Orinal; Hektor von Graecia, mein Junge!
-CAJUS. Ik bitten, mir su attestier', daß wir ihm 'aben gewartet, wir sechs oder sieben, swei bis drei Stunde, und er sein nik gekomm'.
-SCHAAL. Er ist der Klügste, Herr Doktor: er ist ein Arzt der Seelen, und Ihr ein Arzt der Leiber; wenn Ihr Euch schlagen wolltet, so strichet Ihr gegen das Haar Eurer Vokation. Ist das nicht wahr, Herr Page?
+FLUTH : Eure Bekanntschaft ist ein wahrer Segen für mich. Kennt Ihr diesen Fluth , Sir ?
+FALSTAFF : Zum Henker mit dem armen Teufel von Hahnrei ! Ich kenne ihn nicht : indes , ich tue ihm unrecht , wenn ich ihn arm nenne ; man sagt , der eifersüchtige behornte Kerl hat ganze Haufen Gold ; und darum kommt mir seine Frau auch hübsch vor . Sie soll mir der Schlüssel zu des Hahnreis Geldkasten sein , dort will ich mein Erntefest halten .
+FLUTH : Ich wollte , Ihr kenntet Fluth , damit Ihr ihm ausweichen könntet , wenn Ihr ihn sähet .
+FALSTAFF : Zum Henker mit dem bürgerlichen , buttermilchigen Schuft ! – Ich will ihn mit meinen Augen durchbohren , daß er von Sinnen kommen soll ; ich will ihn in Respekt erhalten mit meinem Prügel ; wie ein Meteor soll der über des Hahnreis Hörnern schweben : – ja , Herr Bach , du sollst 's erleben , ich triumphiere über den Flegel , und du schläfst bei seiner Frau . Komm nur gleich auf den Abend zu mir ; Fluth ist ein Schuft , und ich will seine Titel noch weitläufiger machen : du , Herr Bach , sollst ihn als Schuft und Hahnrei begrüßen . Komm nur gleich heut abend zu mir ! Geht ab .
+FLUTH : Was für ein verdammter epikuräischer Schurke das ist ! Mein Herz möchte vor Ungeduld zerspringen . Wer will nun noch sagen , dies sei unzeitige Eifersucht ? Meine Frau hat zu ihm geschickt , die Stunde ist bestimmt , der Handel geschlossen : – wer hätte so etwas denken sollen ! da seht , welche Hölle es ist , ein falsches Weib zu haben ! Mein Bett soll entehrt , meine Koffer gebrandschatzt , mein guter Name zernagt werden : und nicht genug , daß ich diese nichtswürdige Kränkung erdulde , soll ich mich noch mit den verruchtesten Benennungen schelten lassen , und zwar von dem , der mir diesen Schimpf antut . Und welche Namen ! welche Titel ! Amaimon klingt gut , Luzifer gut , Barbason gut , und doch sind es Teufelstitulaturen , die Namen böser Geister ; aber Hahnrei ? Hörnerträger ? Der Teufel selbst führt nicht solche Namen . – Page ist ein Esel , ein sorgloser Esel ; er verläßt sich auf seine Frau : er weiß nichts von Eifersucht . Lieber will ich einem Holländer meine Butter , Pfarrer Hugh , dem Walliser , meinen Käse , einem Irländer meine Aquavitflasche und einem Diebe meinen Wallach , den Paßgänger , zu reiten anvertrauen , als meine Frau sich selbst . Da kabaliert , da sinnt und grübelt sie , – und was sie in ihrem Herzen beschließen , das müssen sie ausführen , und sollte ihr Herz darüber brechen , sie müssen 's ausführen . Dem Himmel sei Dank für meine Eifersucht ! Um elf ist die Stunde ; ich will dem Dinge zuvorkommen , mein Weib entlarven , mich an Falstaff rächen und Page auslachen . Gleich will ich daran ; besser drei Stunden zu früh , als eine Minute zu spät ! – Pfui , pfui , pfui ! – Hahnrei , Hahnrei , Hahnrei ! – Geht ab .
+Dritte Szene Park von Windsor . Cajus und Rugby treten auf .
+CAJUS : 'ans Rugby !
+RUGBY : Herr Doktor !
+CAJUS : Was ist die Klock , 'ans ?
+RUGBY : Die Stunde ist schon vorbei , Herr , wo Sir Hugh sich einstellen wollte .
+CAJUS : Pardieu , er 'aben kerett ' sein Seel , weil er nik is gekomm ' ; er 'aben kut gepett ' seine Bibel , daß er nik ist gekomm ' ; pardieu , 'ans Rugby , er sein schon tot , wann er sein gekomm ' .
+RUGBY : Er ist gescheit , Herr Doktor , er wußte , Eu ' r Gnaden würden ihn umbringen , wann er käme .
+CAJUS : Pardieu , das 'ering is nik so tot , als ik ihm will tot maken . – Nimm deine Degen , 'ans , ik will dir weisen , wie ik will ihn tot maken .
+RUGBY : Ach , Herr , ich kann nicht fechten .
+CAJUS : Coquin , nimm deine Degen !
+RUGBY : Still doch ! hier kommen Leute . Es kommen der Wirt , Schaal , Schmächtig und Page .
+WIRT : Gott grüß ' dich , mein Rolandsdoktor !
+SCHAAL : Euer Diener , Herr Doktor Cajus !
+PAGE : Guten Tag , lieber Herr Doktor !
+SCHMÄCHTIG : Schön guten Morgen , Sir !
+CAJUS : Was sein ihr all ' , ein , swei , drei , vier , gekomm ' 'ieher ? –
+WIRT : Dich fechten zu sehn , dich legieren zu sehn , dich traversieren zu sehn , dich hier zu sehn , dich da zu sehn , dein Punto , deine Stoccata , dein Renvers , deine Distanz , deinen Montant zu sehn . Ist er tot , mein Äthiopier ? Ist er tot , mein Franzmann ? Ha , Rodomont ! Was sagt mein Äskulap ? mein Galen ? mein Holundermark ? Ist er tot , mein Harnmonarch ? – Ist er tot ?
+CAJUS : Pardieu , er sein die größte Memmenpriester von die Welt ; er 'aben nik geweisen sein Visage .
+WIRT : Du bist ein König von Kastilien , Don Orinal ; Hektor von Graecia , mein Junge !
+CAJUS : Ik bitten , mir su attestier ' , daß wir ihm 'aben gewartet , wir sechs oder sieben , swei bis drei Stunde , und er sein nik gekomm ' .
+SCHAAL : Er ist der Klügste , Herr Doktor : er ist ein Arzt der Seelen , und Ihr ein Arzt der Leiber ; wenn Ihr Euch schlagen wolltet , so strichet Ihr gegen das Haar Eurer Vokation . Ist das nicht wahr , Herr Page ?

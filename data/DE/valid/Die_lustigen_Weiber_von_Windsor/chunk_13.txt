@@ -1,43 +1,43 @@
-PAGE. Herr Schaal, Ihr seid selbst ein großer Fechter gewesen, obgleich jetzt ein Mann des Friedens.
-SCHAAL. Sapperment, Herr Page, obgleich ich jetzt alt bin, und ein Friedensmann: wenn ich einen bloßen Degen sehe, so jucken mir die Finger, einen Gang zu machen. Wenn wir gleich Friedensrichter und Doktores sind und Diener Gottes, Herr Page, so spüren wir doch einiges Salz der Jugend in uns; ja, Herr Page, wir sind vom Weibe geboren.
-PAGE. Das ist wahr, Herr Schaal.
-SCHAAL. Es wird sich so ausweisen, Herr Page. Mein Herr Doktor Cajus, ich bin hergekommen, Euch nach Hause zu holen. Ich bin ein geschworner Friedensrichter – Ihr habt Euch verhalten wie ein kluger Arzt, und Sir Hugh wie ein kluger und friedfertiger Seelsorger. Ihr müßt mit mir gehn, Herr Doktor.
-WIRT. Mit Verlaub, Gast Friedensrichter: – He, Monsieur Wasserforscher!
-CAJUS. Wasserforscher! Was 'eißt das?
-WIRT. Wasserforscher in unsrer englischen Sprache bedeutet einen Helden, du Rodomont.
-CAJUS. Pardieu, so bin ik eine so große Wasserforscher, als die Anglais: – du Lump von eine 'ans Aff Priester! Pardieu, wir wollen ihm habsneide seine Ohr.
-WIRT. Er wird dich rechtschaffen herumkuranzen, Rodomont.
-CAJUS. 'erumkuranzen? Was 'eißt das? –
-WIRT. Das heißt, er wird dir Satisfaktion geben.
-CAJUS. Pardieu, Ihr sollen sehn, er wird mir 'erumkuranzen; denn, pardieu, wir wollen das 'aben.
-WIRT. Und ich will ihn dazu auffodern, oder er soll mir zappeln.
-CAJUS. Mir danken Euk vor das.
-WIRT. Und überdem, kalfatern. Heimlich zu den andern. Aber erst, Herr Gast, und Herr Page, und desselbigen gleichen Ihr, Caballero Schmächtig, geht alle durch die Stadt nach Frogmore!
-PAGE. Sir Hugh ist dort, nicht?
-WIRT. Er ist dort; seht, in welchem Humor er ist, und ich will den Doktor auf dem Umweg übers Feld hinbringen. Ist's so recht?
-SCHAAL. Das wollen wir tun.
-ALLE. Lebt wohl, lieber Herr Doktor! Page, Schaal und Schmächtig ab.
-CAJUS. Pardieu, wir wollen totmak die Priest'; denn er sprikt en faveur von eine Maulaft bei Anne Page.
-WIRT. Schlag' ihn tot: aber vorher steck' deine Ungeduld in die Scheide, gieß' kalt Wasser auf deinen Zorn; geh mit mir übers Feld nach Frogmore: ich will dich hinführen, wo Anne Page ist, nach einem Meierhof, wo sie einen Schmaus halten, und da sollst du um sie werben. Nun, du Allerweltskerl, ist's so recht? –
-CAJUS. Pardieu, mir danken Euk vor das, pardieu, mir lieben Euk, und will Euk verschaff gute Gasten, die Graf, die Chevalier, die Lord, die Edelleut, meine Patient.
-WIRT. Dafür will ich dein Widerpart bei Anne Page werden; war's so recht gesagt? –
-CAJUS. Pardieu, das sein gut, sehr gut gesagt!
-WIRT. So wollen wir uns hintrollen.
-CAJUS. Folgen mir nak, 'ans Rugby! Sie gehn ab.
+PAGE : Herr Schaal , Ihr seid selbst ein großer Fechter gewesen , obgleich jetzt ein Mann des Friedens .
+SCHAAL : Sapperment , Herr Page , obgleich ich jetzt alt bin , und ein Friedensmann : wenn ich einen bloßen Degen sehe , so jucken mir die Finger , einen Gang zu machen . Wenn wir gleich Friedensrichter und Doktores sind und Diener Gottes , Herr Page , so spüren wir doch einiges Salz der Jugend in uns ; ja , Herr Page , wir sind vom Weibe geboren .
+PAGE : Das ist wahr , Herr Schaal .
+SCHAAL : Es wird sich so ausweisen , Herr Page . Mein Herr Doktor Cajus , ich bin hergekommen , Euch nach Hause zu holen . Ich bin ein geschworner Friedensrichter – Ihr habt Euch verhalten wie ein kluger Arzt , und Sir Hugh wie ein kluger und friedfertiger Seelsorger . Ihr müßt mit mir gehn , Herr Doktor .
+WIRT : Mit Verlaub , Gast Friedensrichter : – He , Monsieur Wasserforscher !
+CAJUS : Wasserforscher ! Was 'eißt das ?
+WIRT : Wasserforscher in unsrer englischen Sprache bedeutet einen Helden , du Rodomont .
+CAJUS : Pardieu , so bin ik eine so große Wasserforscher , als die Anglais : – du Lump von eine 'ans Aff Priester ! Pardieu , wir wollen ihm habsneide seine Ohr .
+WIRT : Er wird dich rechtschaffen herumkuranzen , Rodomont .
+CAJUS : 'erumkuranzen ? Was 'eißt das ? –
+WIRT : Das heißt , er wird dir Satisfaktion geben .
+CAJUS : Pardieu , Ihr sollen sehn , er wird mir 'erumkuranzen ; denn , pardieu , wir wollen das 'aben .
+WIRT : Und ich will ihn dazu auffodern , oder er soll mir zappeln .
+CAJUS : Mir danken Euk vor das .
+WIRT : Und überdem , kalfatern . Heimlich zu den andern . Aber erst , Herr Gast , und Herr Page , und desselbigen gleichen Ihr , Caballero Schmächtig , geht alle durch die Stadt nach Frogmore !
+PAGE : Sir Hugh ist dort , nicht ?
+WIRT : Er ist dort ; seht , in welchem Humor er ist , und ich will den Doktor auf dem Umweg übers Feld hinbringen . Ist 's so recht ?
+SCHAAL : Das wollen wir tun .
+ALLE : Lebt wohl , lieber Herr Doktor ! Page , Schaal und Schmächtig ab .
+CAJUS : Pardieu , wir wollen totmak die Priest ' ; denn er sprikt en faveur von eine Maulaft bei Anne Page .
+WIRT : Schlag ' ihn tot : aber vorher steck ' deine Ungeduld in die Scheide , gieß ' kalt Wasser auf deinen Zorn ; geh mit mir übers Feld nach Frogmore : ich will dich hinführen , wo Anne Page ist , nach einem Meierhof , wo sie einen Schmaus halten , und da sollst du um sie werben . Nun , du Allerweltskerl , ist 's so recht ? –
+CAJUS : Pardieu , mir danken Euk vor das , pardieu , mir lieben Euk , und will Euk verschaff gute Gasten , die Graf , die Chevalier , die Lord , die Edelleut , meine Patient .
+WIRT : Dafür will ich dein Widerpart bei Anne Page werden ; war 's so recht gesagt ? –
+CAJUS : Pardieu , das sein gut , sehr gut gesagt !
+WIRT : So wollen wir uns hintrollen .
+CAJUS : Folgen mir nak , 'ans Rugby ! Sie gehn ab .
 Dritter Aufzug
-Erste Szene Frogmore. Evans und Simpel treten auf.
-EVANS. Nun sagt mir, ich pitt' Euch, lieber Tienstpote des Herr Schmächtig, und Freund Simpel mit Euerm Namen, – nach welcher Seite hin habt Ihr ausgeschaut nach tem Herr Cajus, welcher sich nennt Toktor der Arzneien?
-SIMPEL. Mein' Seel', Herr, nach Pittywary, nach dem Parkweg, allenthalben hin, nur nicht die Straße nach der Stadt hin.
-EVANS. Ich pitt' Euch recht mit Inprunst, schaut auch einmal tort hinunter!
-SIMPEL. Recht wohl, Herr Pfarrer!
-EVANS. Kott pehüte mir! Wie voller Zornhaftigkeit pin ich, wie voller Seelenzagen! Ich werde erfreut sein, wann er mir ankeführt hat. Ach, wie ich melancholisiere! – Ich werte ihm seine Urinkläser um seine Schelmekopf schmeiße, wenn ich kute Kelegenheit zu tem Ting ersehe. Kott pehüte mir! – Singt.
-Am stille Pach, zu tessen Fall Ertönt der Vökel Matrikal, Laß uns ein Pett von Rose streun Und tausend würz'ge Plume fein, – Am stille Pach, ... O du himmlische Küte! Ich habe pesontre Tisposition zu weine! ... Ertönt der Vökel Matrikal ... An Wasserflüssen Papylon, – Und tausend würz'ge Plume fein, – Am stille ...
-SIMPEL. Dort kommt er! dorther, Sir Hugh! –
-EVANS. Er ischt willkomme! Am stille Pach, zu tesse Fall ... Kott schützeten Kerechte! – Was vor Wafferüstung kommt?
-SIMPEL. Keine Waffenrüstung, Herr! Hier kommt mein Herr, Herr Schaal, und noch ein andrer Herr von Frogmore, dort über den Steg, von dieser Seite.
-EVANS. Pitt Euch, kept mir meinen Chorrock, oter nein, pehaltet ihn nur unterm Arm! Es kommen Schaal, Schmächtig und Page.
-SCHAAL. Sieh da, Herr Pfarrer! Guten Morgen, lieber Sir Hugh! Haltet mir einen Spieler von seinen Würfeln und einen fleißigen Schüler von seinem Buch ab, und ich will von Wundern sprechen.
-SCHMÄCHTIG. Ach, süße Anne Page!
-PAGE. Gott grüß' Euch, lieber Sir Hugh! –
-EVANS. Er pehüte Euch, um seiner Parmherzigkeit wille, allzumal!
-SCHAAL. Was? das Schwert und das Wort? Studiert Ihr beides, Herr Pfarrer?
+Erste Szene Frogmore . Evans und Simpel treten auf .
+EVANS : Nun sagt mir , ich pitt ' Euch , lieber Tienstpote des Herr Schmächtig , und Freund Simpel mit Euerm Namen , – nach welcher Seite hin habt Ihr ausgeschaut nach tem Herr Cajus , welcher sich nennt Toktor der Arzneien ?
+SIMPEL : Mein ' Seel ' , Herr , nach Pittywary , nach dem Parkweg , allenthalben hin , nur nicht die Straße nach der Stadt hin .
+EVANS : Ich pitt ' Euch recht mit Inprunst , schaut auch einmal tort hinunter !
+SIMPEL : Recht wohl , Herr Pfarrer !
+EVANS : Kott pehüte mir ! Wie voller Zornhaftigkeit pin ich , wie voller Seelenzagen ! Ich werde erfreut sein , wann er mir ankeführt hat . Ach , wie ich melancholisiere ! – Ich werte ihm seine Urinkläser um seine Schelmekopf schmeiße , wenn ich kute Kelegenheit zu tem Ting ersehe . Kott pehüte mir ! – Singt .
+Am stille Pach , zu tessen Fall Ertönt der Vökel Matrikal , Laß uns ein Pett von Rose streun Und tausend würz'ge Plume fein , – Am stille Pach , ... O du himmlische Küte ! Ich habe pesontre Tisposition zu weine ! ... Ertönt der Vökel Matrikal ... An Wasserflüssen Papylon , – Und tausend würz'ge Plume fein , – Am stille ...
+SIMPEL : Dort kommt er ! dorther , Sir Hugh ! –
+EVANS : Er ischt willkomme ! Am stille Pach , zu tesse Fall ... Kott schützeten Kerechte ! – Was vor Wafferüstung kommt ?
+SIMPEL : Keine Waffenrüstung , Herr ! Hier kommt mein Herr , Herr Schaal , und noch ein andrer Herr von Frogmore , dort über den Steg , von dieser Seite .
+EVANS : Pitt Euch , kept mir meinen Chorrock , oter nein , pehaltet ihn nur unterm Arm ! Es kommen Schaal , Schmächtig und Page .
+SCHAAL : Sieh da , Herr Pfarrer ! Guten Morgen , lieber Sir Hugh ! Haltet mir einen Spieler von seinen Würfeln und einen fleißigen Schüler von seinem Buch ab , und ich will von Wundern sprechen .
+SCHMÄCHTIG : Ach , süße Anne Page !
+PAGE : Gott grüß ' Euch , lieber Sir Hugh ! –
+EVANS : Er pehüte Euch , um seiner Parmherzigkeit wille , allzumal !
+SCHAAL : Was ? das Schwert und das Wort ? Studiert Ihr beides , Herr Pfarrer ?

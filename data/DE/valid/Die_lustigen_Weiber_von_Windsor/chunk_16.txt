@@ -1,35 +1,35 @@
-FRAU FLUTH. Nun also, John und Robert, wie ich euch vorhin sagte, haltet euch hier nebenbei im Brauhause fertig; und wenn ich eilig rufe, kommt herein und nehmt ohne Verzug und Bedenken diesen Korb auf eure Schultern. Wenn das geschehn ist, trabt mir damit in aller Hast, und bringt ihn zu den Bleichern auf die Datchetwiese, und da schüttet ihn aus in den schlammigen Graben nicht weit von der Themse.
-FRAU PAGE. Wollt ihr das tun?
-FRAU FLUTH. Ich hab's ihnen schon lang und breit auseinander gesetzt, sie brauchen keine weitre Anweisung. Geht nun, und kommt auf den ersten Anruf! Die Knechte gehn ab.
-FRAU PAGE. Hier kommt der kleine Robin. Robin kommt.
-FRAU FLUTH. Nun, wie geht's, mein kleiner Zeisig? Was bringst du Neues? –
-ROBIN. Mein Herr, Sir John, ist zur Hintertür hereingekommen, Frau Fluth, und wünscht Euch aufzuwarten.
-FRAU PAGE. Du kleiner Gelbschnabel, bist du uns auch treu gewesen?
-ROBIN. Ja, das schwör' ich; mein Herr weiß nicht, daß Ihr hier seid, und hat mir gedroht, mich in ewige Freiheit zu versetzen, wenn ich Euch davon sage; denn er schwört, er will mich fortjagen.
-FRAU PAGE. Du bist ein guter Junge; diese deine Verschwiegenheit soll dein Schneider werden und dir ein neues Wams und Hosen machen. Ich will mich verstecken.
-FRAU FLUTH. Das tut! – Geh, sag deinem Herrn, ich sei allein. Frau Page! vergeßt Euer Stichwort nicht! – Robin ab.
-FRAU PAGE. Sorge nur nicht; wenn ich meine Rolle nicht gut spiele, so zische mich aus! Geht ab.
-FRAU FLUTH. Nun wohlan: wir wollen schon mit dir fertig werden, du ungesunde Feuchtigkeit, du großer wäßriger Kürbis! Wir wollen dich lehren, Tauben von Krähen zu unterscheiden. Falstaff tritt ein.
-FALSTAFF. Hab' ich dich errungen, mein himmlisches Juwel? Ha! Jetzt, Götter, laßt mich sterben, denn ich habe lange genug gelebt. Dies ist das Ziel meines Ehrgeizes! Oh, die süße Stunde! –
-FRAU FLUTH. Oh, liebster Sir John! –
-FALSTAFF. Frau Fluth, ich kann nicht süß tun, ich kann nicht deklamieren, Frau Fluth. Nun laß mich einen sündlichen Wunsch aussprechen: ich wollte, dein Mann wäre tot. Ich will's dem ersten Lord ins Angesicht sagen: ich würde dich zu meiner Lady machen.
-FRAU FLUTH. Ich Eure Lady, Sir John? Ach, ich würde eine klägliche Lady abgeben! –
-FALSTAFF. Laß mir den französischen Hof einmal eine zweite solche aufweisen! Ich sehe, wie dein Auge mit dem Diamant wetteifern würde. Du hast grade die feingeschwungne Schönheit der Augenbrauen, die zu jedem Aufsatz gut kleidet; zum großen Segelaufsatz, zum Amazonenaufsatz oder zum venetianischen Aufsatz.
-FRAU FLUTH. Eine simple Haube, Sir John; meinen Augenbrauen steht sonst nichts, und auch das nicht einmal recht.
-FALSTAFF. Du übst Felonie, wenn du so sprichst. Eine vollkommene Hofdame gäbst du ab; und der feste Akzent deines Fußes würde deinem Gange eine herrliche Bewegung geben in einem halbrunden Reifrock. Ich sehe, was du sein würdest, wenn Fortuna dir nicht als Feindin widerstrebte: Natur ist deine Freundin; ja, ja, das kannst du nicht verbergen.
-FRAU FLUTH. Glaubt mir, davon ist nichts in mir.
-FALSTAFF. Was machte mich in dich verliebt? Daraus kannst du den Schluß ziehn, du seist etwas Außerordentliches. Komm, ich kann nicht süß tun und sagen, du seist dies und das, wie so manche lispelnde Weißdornblüten, die wie Weiber in Mannskleidern gehn und riechen wie ein Apothekerladen  zur Zeit der Kräuterlese: ich kann's nicht; aber ich liebe dich, keine als dich, und du verdienst es.
-FRAU FLUTH. Hintergeht mich nicht, Sir; ich fürchte, Ihr liebt Frau Page.
-FALSTAFF. Du könntest ebenso gut sagen, ich liebe einen Spaziergang auf den Schuldturm, der mir eben so verhaßt ist als der Rauch aus einem Kalkofen.
-FRAU FLUTH. Nun, der Himmel weiß, wie ich Euch liebe; und Ihr werdet einst noch erfahren. ...
-FALSTAFF. Bleibt bei der Gesinnung: ich werde sie verdienen.
-FRAU FLUTH. Oh, ich muß Euch sagen, das tut Ihr schon, sonst würde ich diese Gesinnung nicht hegen.
-ROBIN draußen. Frau Fluth, Frau Fluth, hier ist Frau Page vor der Tür, und schwitzt und keucht, und sieht ganz verstört aus: sie will gleich mit Euch sprechen.
-FALSTAFF. Sie soll mich nicht sehn, ich will mich hinter der Tapete verschanzen.
-FRAU FLUTH. Ach ja, tut das, sie ist eine gar zu schwatzhafte Frau. Falstaff versteckt sich hinter der Tapete. Frau Page tritt ein. Nun, was gibt's? Was ist?
-FRAU PAGE. Oh, Frau Fluth, was habt Ihr gemacht! Ihr seid beschimpft, Ihr seid verloren, Ihr seid auf ewig zu Grunde gerichtet! –
-FRAU FLUTH. Was gibt's, liebe Frau Page?
-FRAU PAGE. Recht allerliebst, Frau Fluth! – So einen ehrlichen guten Mann zu haben, und ihm solchen Anlaß zum Argwohn geben! –
-FRAU FLUTH. Was für einen Anlaß zum Argwohn?
-FRAU PAGE. Was für einen Anlaß zum Argwohn? Schämt Euch doch! Wie hab' ich mich in Euch geirrt! –
-FRAU FLUTH. Nun, mein Gott, was gibt's denn?
+FRAU FLUTH : Nun also , John und Robert , wie ich euch vorhin sagte , haltet euch hier nebenbei im Brauhause fertig ; und wenn ich eilig rufe , kommt herein und nehmt ohne Verzug und Bedenken diesen Korb auf eure Schultern . Wenn das geschehn ist , trabt mir damit in aller Hast , und bringt ihn zu den Bleichern auf die Datchetwiese , und da schüttet ihn aus in den schlammigen Graben nicht weit von der Themse .
+FRAU PAGE : Wollt ihr das tun ?
+FRAU FLUTH : Ich hab 's ihnen schon lang und breit auseinander gesetzt , sie brauchen keine weitre Anweisung . Geht nun , und kommt auf den ersten Anruf ! Die Knechte gehn ab .
+FRAU PAGE : Hier kommt der kleine Robin . Robin kommt .
+FRAU FLUTH : Nun , wie geht 's , mein kleiner Zeisig ? Was bringst du Neues ? –
+ROBIN : Mein Herr , Sir John , ist zur Hintertür hereingekommen , Frau Fluth , und wünscht Euch aufzuwarten .
+FRAU PAGE : Du kleiner Gelbschnabel , bist du uns auch treu gewesen ?
+ROBIN : Ja , das schwör ' ich ; mein Herr weiß nicht , daß Ihr hier seid , und hat mir gedroht , mich in ewige Freiheit zu versetzen , wenn ich Euch davon sage ; denn er schwört , er will mich fortjagen .
+FRAU PAGE : Du bist ein guter Junge ; diese deine Verschwiegenheit soll dein Schneider werden und dir ein neues Wams und Hosen machen . Ich will mich verstecken .
+FRAU FLUTH : Das tut ! – Geh , sag deinem Herrn , ich sei allein . Frau Page ! vergeßt Euer Stichwort nicht ! – Robin ab .
+FRAU PAGE : Sorge nur nicht ; wenn ich meine Rolle nicht gut spiele , so zische mich aus ! Geht ab .
+FRAU FLUTH : Nun wohlan : wir wollen schon mit dir fertig werden , du ungesunde Feuchtigkeit , du großer wäßriger Kürbis ! Wir wollen dich lehren , Tauben von Krähen zu unterscheiden . Falstaff tritt ein .
+FALSTAFF : Hab ' ich dich errungen , mein himmlisches Juwel ? Ha ! Jetzt , Götter , laßt mich sterben , denn ich habe lange genug gelebt . Dies ist das Ziel meines Ehrgeizes ! Oh , die süße Stunde ! –
+FRAU FLUTH : Oh , liebster Sir John ! –
+FALSTAFF : Frau Fluth , ich kann nicht süß tun , ich kann nicht deklamieren , Frau Fluth . Nun laß mich einen sündlichen Wunsch aussprechen : ich wollte , dein Mann wäre tot . Ich will 's dem ersten Lord ins Angesicht sagen : ich würde dich zu meiner Lady machen .
+FRAU FLUTH : Ich Eure Lady , Sir John ? Ach , ich würde eine klägliche Lady abgeben ! –
+FALSTAFF : Laß mir den französischen Hof einmal eine zweite solche aufweisen ! Ich sehe , wie dein Auge mit dem Diamant wetteifern würde . Du hast grade die feingeschwungne Schönheit der Augenbrauen , die zu jedem Aufsatz gut kleidet ; zum großen Segelaufsatz , zum Amazonenaufsatz oder zum venetianischen Aufsatz .
+FRAU FLUTH : Eine simple Haube , Sir John ; meinen Augenbrauen steht sonst nichts , und auch das nicht einmal recht .
+FALSTAFF : Du übst Felonie , wenn du so sprichst . Eine vollkommene Hofdame gäbst du ab ; und der feste Akzent deines Fußes würde deinem Gange eine herrliche Bewegung geben in einem halbrunden Reifrock . Ich sehe , was du sein würdest , wenn Fortuna dir nicht als Feindin widerstrebte : Natur ist deine Freundin ; ja , ja , das kannst du nicht verbergen .
+FRAU FLUTH : Glaubt mir , davon ist nichts in mir .
+FALSTAFF : Was machte mich in dich verliebt ? Daraus kannst du den Schluß ziehn , du seist etwas Außerordentliches . Komm , ich kann nicht süß tun und sagen , du seist dies und das , wie so manche lispelnde Weißdornblüten , die wie Weiber in Mannskleidern gehn und riechen wie ein Apothekerladen zur Zeit der Kräuterlese : ich kann 's nicht ; aber ich liebe dich , keine als dich , und du verdienst es .
+FRAU FLUTH : Hintergeht mich nicht , Sir ; ich fürchte , Ihr liebt Frau Page .
+FALSTAFF : Du könntest ebenso gut sagen , ich liebe einen Spaziergang auf den Schuldturm , der mir eben so verhaßt ist als der Rauch aus einem Kalkofen .
+FRAU FLUTH : Nun , der Himmel weiß , wie ich Euch liebe ; und Ihr werdet einst noch erfahren . ...
+FALSTAFF : Bleibt bei der Gesinnung : ich werde sie verdienen .
+FRAU FLUTH : Oh , ich muß Euch sagen , das tut Ihr schon , sonst würde ich diese Gesinnung nicht hegen .
+ROBIN draußen . Frau Fluth , Frau Fluth , hier ist Frau Page vor der Tür , und schwitzt und keucht , und sieht ganz verstört aus : sie will gleich mit Euch sprechen .
+FALSTAFF : Sie soll mich nicht sehn , ich will mich hinter der Tapete verschanzen .
+FRAU FLUTH : Ach ja , tut das , sie ist eine gar zu schwatzhafte Frau . Falstaff versteckt sich hinter der Tapete . Frau Page tritt ein . Nun , was gibt 's ? Was ist ?
+FRAU PAGE : Oh , Frau Fluth , was habt Ihr gemacht ! Ihr seid beschimpft , Ihr seid verloren , Ihr seid auf ewig zu Grunde gerichtet ! –
+FRAU FLUTH : Was gibt 's , liebe Frau Page ?
+FRAU PAGE : Recht allerliebst , Frau Fluth ! – So einen ehrlichen guten Mann zu haben , und ihm solchen Anlaß zum Argwohn geben ! –
+FRAU FLUTH : Was für einen Anlaß zum Argwohn ?
+FRAU PAGE : Was für einen Anlaß zum Argwohn ? Schämt Euch doch ! Wie hab ' ich mich in Euch geirrt ! –
+FRAU FLUTH : Nun , mein Gott , was gibt 's denn ?

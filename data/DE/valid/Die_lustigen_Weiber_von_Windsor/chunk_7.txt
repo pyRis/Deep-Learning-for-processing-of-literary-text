@@ -1,23 +1,23 @@
-FRAU PAGE. Schade was für die Kleinigkeit, Schatz; schlag' die Ehre nicht aus: was ist's denn? Kümmre dich nicht um die Kleinigkeit; nun, was ist's?
-FRAU FLUTH. Wenn ich nur für eine kurze Ewigkeit zur Hölle fahren wollte, so könnte ich zur Ritterwürde kommen.
-FRAU PAGE. Was, du lügst, Sir Alix Fluth! Nun, um solche Ritterschaft steht's oft nur flitterhaft; und ich dächte, im Punkte deiner Hausehre ließest du's beim alten.
-FRAU FLUTH. Ich sehe, wir verstehn uns nicht, liebes Kind; da hier, lies, lies: sieh nur, wie! – Ich werde um so schlechter von den fetten Mannsleuten denken, solange ich noch ein Auge habe, der Mannsbilder Gestalt zu unterscheiden. Und doch fluchte er nicht; lobte die Sittsamkeit der Frauen, und sprach so anständige und wohlgesetzte Verachtung alles Unschicklichen aus, daß ich drauf geschworen hätte, seine Gesinnung stimmte zum Ausdruck seiner Worte: aber die haben nicht mehr Zusammenhang und  passen nicht besser zu einander, als der hundertste Psalm und die Melodie vom grünen Ärmel. Welcher Sturmwind mußte uns diesen Walfisch mit so viel Tonnen Öl im Bauch an die Küste von Windsor werfen? Wie soll ich mich an ihm rächen? Ich denke, das beste wäre, ihn mit Hoffnung hinzuhalten, bis das gottlose Feuer der bösen Lust ihn in seinem eignen Fett zerschmolzen hätte. Hast du je so etwas gehört?
-FRAU PAGE. Bin Brief wie der andre, nur daß die Namen Fluth und Page verschieden sind. Zu deinem größten Trost in diesem Labyrinth von Leichtfertigkeiten ist hier der Zwillingsbruder deines Briefs: aber laß nur deinen zuerst erben, denn auf meine Ehre, der meinige soll es nie. Ich wette, er hat ein ganzes Tausend solcher Briefe mit leeren Plätzen für die verschiednen Namen; und gewiß noch mehr; und diese sind von der zweiten Auflage. Er wird sie ohne Zweifel noch drucken lassen, denn es ist ihm einerlei, was er unter die Presse bringt, da er uns beide darunter bringen wollte. Lieber möchte ich eine Riesin sein und unter dem Berg Pelion liegen! Wahrhaftig, ich will eh'r zwan zig treulose Turteltauben finden, als einen züchtigen Mann.
-FRAU FLUTH. Seht doch, ganz derselbige; dieselbe Handschrift dieselben Worte: was denkt er nur von uns?
-FRAU PAGE. Wahrhaftig, ich weiß nicht; es bringt mich fast so weit, mit meiner eignen Ehrbarkeit zu zanken. – Ich muß mich ansehn wie eine Person, die ich noch gar nicht kenne; denn wahrhaftig, hätte er nicht eine Seite an mir entdeckt, von der ich selber gar nichts weiß, er hätte es nicht gewagt, mit solcher Wut zu entern.
-FRAU FLUTH. Entern, sagst du? Nun, ich weiß gewiß, ich will ihn immer überm Deck halten.
-FRAU PAGE. Das will ich auch: kommt er je unter meine Luken, so will ich nie wieder in See gehn. Wir müssen uns an ihm rächen: wir müssen ihm eine Zusammenkunft bestimmen, ihm einen Schimmer von Hoffnung für sein Begehren geben und ihn mit fein geködertem Aufschub immer weiter locken, bis er unserm Gastwirt zum Hosenbande seine Pferde versetzt hat.
-FRAU FLUTH. Ja, ich will die Hand dazu bieten, ihm jeden schlimmen Streich zu spielen, der nur unsrer Ehre nicht zu nahe tritt. Himmel, wenn mein Mann diesen Brief sähe! Er würde seiner Eifersucht ewige Nahrung geben.
-FRAU PAGE. Ei sieh, da kommt er, und mein guter Mann auch: er ist so weit entfernt von aller Eifersucht, als ich, ihm Anlaß zu geben; und das, hoffe ich, ist eine unermeßliche Kluft.
-FRAU FLUTH. Um so glücklicher Ihr! –
-FRAU PAGE. Laßt uns einen Kriegsrat gegen diesen feinen Ritter halten: Kommt hieher! Sie gehn in den Hintergrund der Bühne. Fluth kommt mit Pistol, Page mit Nym.
-FLUTH. Nun, ich hoffe, es ist nicht so.
-PISTOL. Hoffnung ist oft ein Jagdhund ohne Spur: Sir John lockt dein Gemahl.
-FLUTH. Ei, Herr, meine Frau ist nicht jung.
-PISTOL. Er wirbt um hoch und tief, um reich und arm, Um jung und alt, um ein' und alle, Fluth: Er liebt sich Mengelmus. Fluth, Augen auf! –
-FLUTH. Liebt meine Frau? –
-PISTOL. Mit Leber, heiß wie Glut. Wehr's ab, sonst lauf' Wie Herr Aktäon, rings umklafft vom Jagdgebell; – Oh, schändlich tönt das Wort!
-FLUTH. Was für ein Wort, Herr?
-PISTOL. Das Horn, sag' ich. Leb wohl! Hab' acht! die Augen auf! denn Diebe schleichen nachts: Hab' acht! eh' Sommer kommt und Kuckuck-Vögel singen. – Mir nach, Herr Korp'ral Nym! – Page, glaub' ihm, denn er spricht Vernunft!
-Pistol geht ab.
-FLUTH. Ich will Geduld haben; ich werde schon dahinter kommen.
+FRAU PAGE : Schade was für die Kleinigkeit , Schatz ; schlag ' die Ehre nicht aus : was ist 's denn ? Kümmre dich nicht um die Kleinigkeit ; nun , was ist 's ?
+FRAU FLUTH : Wenn ich nur für eine kurze Ewigkeit zur Hölle fahren wollte , so könnte ich zur Ritterwürde kommen .
+FRAU PAGE : Was , du lügst , Sir Alix Fluth ! Nun , um solche Ritterschaft steht 's oft nur flitterhaft ; und ich dächte , im Punkte deiner Hausehre ließest du 's beim alten .
+FRAU FLUTH : Ich sehe , wir verstehn uns nicht , liebes Kind ; da hier , lies , lies : sieh nur , wie ! – Ich werde um so schlechter von den fetten Mannsleuten denken , solange ich noch ein Auge habe , der Mannsbilder Gestalt zu unterscheiden . Und doch fluchte er nicht ; lobte die Sittsamkeit der Frauen , und sprach so anständige und wohlgesetzte Verachtung alles Unschicklichen aus , daß ich drauf geschworen hätte , seine Gesinnung stimmte zum Ausdruck seiner Worte : aber die haben nicht mehr Zusammenhang und passen nicht besser zu einander , als der hundertste Psalm und die Melodie vom grünen Ärmel . Welcher Sturmwind mußte uns diesen Walfisch mit so viel Tonnen Öl im Bauch an die Küste von Windsor werfen ? Wie soll ich mich an ihm rächen ? Ich denke , das beste wäre , ihn mit Hoffnung hinzuhalten , bis das gottlose Feuer der bösen Lust ihn in seinem eignen Fett zerschmolzen hätte . Hast du je so etwas gehört ?
+FRAU PAGE : Bin Brief wie der andre , nur daß die Namen Fluth und Page verschieden sind . Zu deinem größten Trost in diesem Labyrinth von Leichtfertigkeiten ist hier der Zwillingsbruder deines Briefs : aber laß nur deinen zuerst erben , denn auf meine Ehre , der meinige soll es nie . Ich wette , er hat ein ganzes Tausend solcher Briefe mit leeren Plätzen für die verschiednen Namen ; und gewiß noch mehr ; und diese sind von der zweiten Auflage . Er wird sie ohne Zweifel noch drucken lassen , denn es ist ihm einerlei , was er unter die Presse bringt , da er uns beide darunter bringen wollte . Lieber möchte ich eine Riesin sein und unter dem Berg Pelion liegen ! Wahrhaftig , ich will eh ' r zwan zig treulose Turteltauben finden , als einen züchtigen Mann .
+FRAU FLUTH : Seht doch , ganz derselbige ; dieselbe Handschrift dieselben Worte : was denkt er nur von uns ?
+FRAU PAGE : Wahrhaftig , ich weiß nicht ; es bringt mich fast so weit , mit meiner eignen Ehrbarkeit zu zanken . – Ich muß mich ansehn wie eine Person , die ich noch gar nicht kenne ; denn wahrhaftig , hätte er nicht eine Seite an mir entdeckt , von der ich selber gar nichts weiß , er hätte es nicht gewagt , mit solcher Wut zu entern .
+FRAU FLUTH : Entern , sagst du ? Nun , ich weiß gewiß , ich will ihn immer überm Deck halten .
+FRAU PAGE : Das will ich auch : kommt er je unter meine Luken , so will ich nie wieder in See gehn . Wir müssen uns an ihm rächen : wir müssen ihm eine Zusammenkunft bestimmen , ihm einen Schimmer von Hoffnung für sein Begehren geben und ihn mit fein geködertem Aufschub immer weiter locken , bis er unserm Gastwirt zum Hosenbande seine Pferde versetzt hat .
+FRAU FLUTH : Ja , ich will die Hand dazu bieten , ihm jeden schlimmen Streich zu spielen , der nur unsrer Ehre nicht zu nahe tritt . Himmel , wenn mein Mann diesen Brief sähe ! Er würde seiner Eifersucht ewige Nahrung geben .
+FRAU PAGE : Ei sieh , da kommt er , und mein guter Mann auch : er ist so weit entfernt von aller Eifersucht , als ich , ihm Anlaß zu geben ; und das , hoffe ich , ist eine unermeßliche Kluft .
+FRAU FLUTH : Um so glücklicher Ihr ! –
+FRAU PAGE : Laßt uns einen Kriegsrat gegen diesen feinen Ritter halten : Kommt hieher ! Sie gehn in den Hintergrund der Bühne . Fluth kommt mit Pistol , Page mit Nym .
+FLUTH : Nun , ich hoffe , es ist nicht so .
+PISTOL : Hoffnung ist oft ein Jagdhund ohne Spur : Sir John lockt dein Gemahl .
+FLUTH : Ei , Herr , meine Frau ist nicht jung .
+PISTOL : Er wirbt um hoch und tief , um reich und arm , Um jung und alt , um ein ' und alle , Fluth : Er liebt sich Mengelmus . Fluth , Augen auf ! –
+FLUTH : Liebt meine Frau ? –
+PISTOL : Mit Leber , heiß wie Glut . Wehr 's ab , sonst lauf ' Wie Herr Aktäon , rings umklafft vom Jagdgebell ; – Oh , schändlich tönt das Wort !
+FLUTH : Was für ein Wort , Herr ?
+PISTOL : Das Horn , sag ' ich . Leb wohl ! Hab ' acht ! die Augen auf ! denn Diebe schleichen nachts : Hab ' acht ! eh ' Sommer kommt und Kuckuck-Vögel singen . – Mir nach , Herr Korp'ral Nym ! – Page , glaub ' ihm , denn er spricht Vernunft !
+Pistol geht ab .
+FLUTH : Ich will Geduld haben ; ich werde schon dahinter kommen .

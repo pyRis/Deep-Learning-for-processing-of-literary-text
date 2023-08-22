@@ -1,48 +1,48 @@
-SCHMÄCHTIG. Was macht denn Euer gelber Windhund, Sir? Ich hörte sagen, er sei in Cotsale geschlagen worden.
-PAGE. Es konnte nicht entschieden werden.
-SCHMÄCHTIG. Ihr wollt's nur nicht Wort haben, Ihr wollt's nicht Wort haben! –
-SCHAAL. Das will er nicht; 's ist Euer Schaden, 's ist Euer Schaden; 's ist ein guter Hund.
-PAGE. Ein Köter, Sir.
-SCHAAL. Sir, 's ist ein guter Hund, und ein schöner Hund; kann man wohl mehr sagen? Er ist gut, und er ist schön. – Ist Sir John Falstaff hier?
-PAGE. Sir, er ist drinnen, und ich wünschte, ich könnte ein gutes Werk zwischen euch stiften.
-EVANS. Tas ischt kesproche, wie frommer Chrischt spreche sollte.
-SCHAAL. Er hat mich beleidigt, Herr Page!
-PAGE. Sir, das gesteht er auch gewissermaßen ein.
-SCHAAL. Er hat's eingestanden, und ich habe es ausgestanden; ist das nicht wahr, Herr Page? Er hat mich beleidigt, ja das hat er; auf mein Wort, das hat er; glaubt mir's, Robert Schaal, Esquire, versichert, er sei beleidigt.
-PAGE. Hier kommt Sir John. Es treten auf Sir John Falstaff, Bardolph, Nym und Pistol.
-FALSTAFF. Nun, Herr Schaal, Ihr wollt mich beim König verklagen?
-SCHAAL. Ritter, Ihr habt meine Leute geprügelt, mein Wild erlegt und mein Jagdhaus erbrochen! –
-FALSTAFF. Aber doch Eures Försters Tochter nicht geküßt?
-SCHAAL. Ei was da! Darauf sollt Ihr mir Antwort geben.
-FALSTAFF. Die Antwort sollt Ihr gleich haben; ich habe das alles getan. – Das wäre nun beantwortet.
-SCHAAL. Der Hof soll's erfahren. –
-FALSTAFF. Laßt's lieber den Keller erfahren; im Hof wird man Euch auslachen.
-EVANS. Pauca Verpa, Sir John; tann ich bin einer, tem es vor pittern Worten kraut.
-FALSTAFF. Kraut? Kraut und Rüben! – Schmächtig, ich habe Euch den Kopf zerschlagen; was kam dabei heraus?
-SCHMÄCHTIG. Dabei kam genug heraus, mein' Seel', und das trage ich Euch auch noch nach, Euch und Euern langfingrigen Schuften Bardolph, Nym und Pistol. Sie schleppten mich in die Schenke, und machten mich besoffen, und mausten mir die Taschen leer.
-BARDOLPH. Ihr schmaler Ziegenkäse!
-SCHMÄCHTIG. Schon gut.
-PISTOL. Was willst du, Mephistophilus?
-SCHMÄCHTIG. Ja, schon gut.
-NYM. Blitz, sage ich; pauca, pauca: das ist mein Humor.
-SCHMÄCHTIG. Wo ist Simpel, mein Kerl? Wißt Ihr's nicht, Vetter?
-EVANS. Still, ich pitt euch! Jetzt habt wohl Opacht: hier sein zwei Schiedsrichter in tieser Sachen, so viel ich's pekreife; tas sein Herr Page, fidelicet Herr Page; und tas sein ich selper, fidelicet ich selper; und tann sein das tritte Part letztlich und peschließlich mein Herr Wirt vom Hosepand.
-PAGE. Wir drei wollen's anhören und unter ihnen ausmachen.
-EVANS. Sehr praf; ich will mir's notiere in meiner Prieftaschen, und hernach wolle wir zur Prozetur schreite, mit krößter Möklichkeit und Tiskretion.
-FALSTAFF. Pistol, –
-PISTOL. Er tritt hervor und leiht das Ohr.
-EVANS. Der Teufel und seine Großmutter! Was vor Syntax sein tas: er tritt hervor und leiht tas Ohr? Ei, tas sein Affektierunge.
-FALSTAFF. Pistol, hast du Herrn Schmächtig seine Börse gemaust?
-SCHMÄCHTIG. Ja, bei diesen Handschuhen, das hat er, oder ich will mein Lebtage nicht wieder auf meine große Stube kommen! Sieben Grot in alter Münze und zwei Peilkentaler von König Eduard her, die mir drittehalb Schillinge das Stück bei Jochen Miller gekostet haben, bei diesen Handschuhen! –
-FALSTAFF. Tatst du das wahrhaftig, Pistol?
-EVANS. Nein, tas ischt nicht wahrhaftig ketan, wann er Pörsen maust.
-PISTOL. Ha, du Gebirgsfremdling! Sir John und Gönner mein, Ich kämpf' Kartel auf dieses Blechrapier. Verleugnungswort in deine Labras dir! Verleugnungswort dir: Hef' und Schaum, du lügst!
-SCHMÄCHTIG. Bei diesen Handschuhen, dann war er's.
-NYM. Merkt auf Avis und laßt guten Humor gelten! Ich werde rufen: in der eignen Grube attrappiert, wenn Ihr Euern Nußknackerhumor auf mich loslaßt; das ist die wahre Notiz davon.
-SCHMÄCHTIG. Bei diesem Hut, so ist's der mit dem roten Gesicht gewesen; denn wenn ich mich auch nicht recht mehr besinnen kann, was ich tat, als ihr mich betrunken machtet, so bin ich doch nicht ganz und gar ein Esel.
-FALSTAFF. Was sagt ihr dazu, Scharlach und Hans?
-BARDOLPH. Nun, was mich betrifft, Herr, ich sage, der junge Herr hatte sich von seinen fünf Sünden getrunken.
-EVANS. Fünf Sinne müßt Ihr sagen; pfui, über solche Ignoranz!
-BARDOLPH. Und als er kaputt war, Sir, da ward er, wie wir zu sprechen pflegen, auskassiert; und seine Konklusionen gingen mit ihm durch die Lappen.
-SCHMÄCHTIG. Ja, lateinisch spracht Ihr damals auch, aber das ist alles eins; solange ich lebe, will ich mich nicht wieder besaufen, als in ehrlicher, höflicher, gottesfürchtiger Gesellschaft, weil mir das passiert ist; und wo ich mich einmal wieder besaufe, da will ich's mit solchen tun, die da Gottesfurcht haben, und nicht mit versoffnen Schelmen.
-EVANS. So wahr Kott helfe, tas ischt ein tugendhaftes Kind.
+SCHMÄCHTIG : Was macht denn Euer gelber Windhund , Sir ? Ich hörte sagen , er sei in Cotsale geschlagen worden .
+PAGE : Es konnte nicht entschieden werden .
+SCHMÄCHTIG : Ihr wollt 's nur nicht Wort haben , Ihr wollt 's nicht Wort haben ! –
+SCHAAL : Das will er nicht ; 's ist Euer Schaden , 's ist Euer Schaden ; 's ist ein guter Hund .
+PAGE : Ein Köter , Sir .
+SCHAAL : Sir , 's ist ein guter Hund , und ein schöner Hund ; kann man wohl mehr sagen ? Er ist gut , und er ist schön . – Ist Sir John Falstaff hier ?
+PAGE : Sir , er ist drinnen , und ich wünschte , ich könnte ein gutes Werk zwischen euch stiften .
+EVANS : Tas ischt kesproche , wie frommer Chrischt spreche sollte .
+SCHAAL : Er hat mich beleidigt , Herr Page !
+PAGE : Sir , das gesteht er auch gewissermaßen ein .
+SCHAAL : Er hat 's eingestanden , und ich habe es ausgestanden ; ist das nicht wahr , Herr Page ? Er hat mich beleidigt , ja das hat er ; auf mein Wort , das hat er ; glaubt mir 's , Robert Schaal , Esquire , versichert , er sei beleidigt .
+PAGE : Hier kommt Sir John . Es treten auf Sir John Falstaff , Bardolph , Nym und Pistol .
+FALSTAFF : Nun , Herr Schaal , Ihr wollt mich beim König verklagen ?
+SCHAAL : Ritter , Ihr habt meine Leute geprügelt , mein Wild erlegt und mein Jagdhaus erbrochen ! –
+FALSTAFF : Aber doch Eures Försters Tochter nicht geküßt ?
+SCHAAL : Ei was da ! Darauf sollt Ihr mir Antwort geben .
+FALSTAFF : Die Antwort sollt Ihr gleich haben ; ich habe das alles getan . – Das wäre nun beantwortet .
+SCHAAL : Der Hof soll 's erfahren . –
+FALSTAFF : Laßt 's lieber den Keller erfahren ; im Hof wird man Euch auslachen .
+EVANS : Pauca Verpa , Sir John ; tann ich bin einer , tem es vor pittern Worten kraut .
+FALSTAFF : Kraut ? Kraut und Rüben ! – Schmächtig , ich habe Euch den Kopf zerschlagen ; was kam dabei heraus ?
+SCHMÄCHTIG : Dabei kam genug heraus , mein ' Seel ' , und das trage ich Euch auch noch nach , Euch und Euern langfingrigen Schuften Bardolph , Nym und Pistol . Sie schleppten mich in die Schenke , und machten mich besoffen , und mausten mir die Taschen leer .
+BARDOLPH : Ihr schmaler Ziegenkäse !
+SCHMÄCHTIG : Schon gut .
+PISTOL : Was willst du , Mephistophilus ?
+SCHMÄCHTIG : Ja , schon gut .
+NYM : Blitz , sage ich ; pauca , pauca : das ist mein Humor .
+SCHMÄCHTIG : Wo ist Simpel , mein Kerl ? Wißt Ihr 's nicht , Vetter ?
+EVANS : Still , ich pitt euch ! Jetzt habt wohl Opacht : hier sein zwei Schiedsrichter in tieser Sachen , so viel ich 's pekreife ; tas sein Herr Page , fidelicet Herr Page ; und tas sein ich selper , fidelicet ich selper ; und tann sein das tritte Part letztlich und peschließlich mein Herr Wirt vom Hosepand .
+PAGE : Wir drei wollen 's anhören und unter ihnen ausmachen .
+EVANS : Sehr praf ; ich will mir 's notiere in meiner Prieftaschen , und hernach wolle wir zur Prozetur schreite , mit krößter Möklichkeit und Tiskretion .
+FALSTAFF : Pistol , –
+PISTOL : Er tritt hervor und leiht das Ohr .
+EVANS : Der Teufel und seine Großmutter ! Was vor Syntax sein tas : er tritt hervor und leiht tas Ohr ? Ei , tas sein Affektierunge .
+FALSTAFF : Pistol , hast du Herrn Schmächtig seine Börse gemaust ?
+SCHMÄCHTIG : Ja , bei diesen Handschuhen , das hat er , oder ich will mein Lebtage nicht wieder auf meine große Stube kommen ! Sieben Grot in alter Münze und zwei Peilkentaler von König Eduard her , die mir drittehalb Schillinge das Stück bei Jochen Miller gekostet haben , bei diesen Handschuhen ! –
+FALSTAFF : Tatst du das wahrhaftig , Pistol ?
+EVANS : Nein , tas ischt nicht wahrhaftig ketan , wann er Pörsen maust .
+PISTOL : Ha , du Gebirgsfremdling ! Sir John und Gönner mein , Ich kämpf ' Kartel auf dieses Blechrapier . Verleugnungswort in deine Labras dir ! Verleugnungswort dir : Hef ' und Schaum , du lügst !
+SCHMÄCHTIG : Bei diesen Handschuhen , dann war er 's .
+NYM : Merkt auf Avis und laßt guten Humor gelten ! Ich werde rufen : in der eignen Grube attrappiert , wenn Ihr Euern Nußknackerhumor auf mich loslaßt ; das ist die wahre Notiz davon .
+SCHMÄCHTIG : Bei diesem Hut , so ist 's der mit dem roten Gesicht gewesen ; denn wenn ich mich auch nicht recht mehr besinnen kann , was ich tat , als ihr mich betrunken machtet , so bin ich doch nicht ganz und gar ein Esel .
+FALSTAFF : Was sagt ihr dazu , Scharlach und Hans ?
+BARDOLPH : Nun , was mich betrifft , Herr , ich sage , der junge Herr hatte sich von seinen fünf Sünden getrunken .
+EVANS : Fünf Sinne müßt Ihr sagen ; pfui , über solche Ignoranz !
+BARDOLPH : Und als er kaputt war , Sir , da ward er , wie wir zu sprechen pflegen , auskassiert ; und seine Konklusionen gingen mit ihm durch die Lappen .
+SCHMÄCHTIG : Ja , lateinisch spracht Ihr damals auch , aber das ist alles eins ; solange ich lebe , will ich mich nicht wieder besaufen , als in ehrlicher , höflicher , gottesfürchtiger Gesellschaft , weil mir das passiert ist ; und wo ich mich einmal wieder besaufe , da will ich 's mit solchen tun , die da Gottesfurcht haben , und nicht mit versoffnen Schelmen .
+EVANS : So wahr Kott helfe , tas ischt ein tugendhaftes Kind .

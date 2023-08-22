@@ -1,33 +1,38 @@
-FALSTAFF. Komm her, laß mich etwas Sekt zu dem Themsenwasser schütten, denn mein Bauch ist so kalt, als hätt' ich Schneebälle wie Pillen verschluckt, um die Nieren abzukühlen. – Ruf' sie herein!
-BARDOLPH. Komm herein, Frau! – Frau Hurtig kommt.
-FRAU HURTIG. Mit Vergunst, – ich bitt' um Verzeihung! – Ich wünsch' Euer Gnaden einen guten Morgen, –
-FALSTAFF. Nimm die Kelchgläser weg; geh, braue mir eine Flasche Sekt, und säuberlich!
-BARDOLPH. Mit Eiern, Sir?
-FALSTAFF. Simpel, ohne Zusatz; ich will keinen Hühnersamen in meinem Gebräu. – Nun?
-FRAU HURTIG. Ach, lieber Sir, ich komme zu Euer Gnaden von der Frau Fluth, –
-FALSTAFF. Frau Fluth! Ich habe genug von der Fluth gekostet! Man hat mich hineingeworfen in die Fluth; ich habe den Bauch voll von Fluth.
-FRAU HURTIG. Ach, lieber Gott, das arme Herz kann ja nichts dafür. Sie hat ihre Leute recht heruntergemacht; die haben ihre Irrigierung falsch verstanden.
-FALSTAFF. Und ich die meine, daß ich auf das Versprechen eines albernen Weibes baute.
-FRAU HURTIG. Nun gut; jetzt lamentiert sie drum, Sir, daß es Euch das Herz umkehren würde, wenn Ihr's ansäh't. Ihr Mann geht heut morgen auf den Vogelherd, sie ersucht Euch, Ihr möchtet noch einmal zwischen acht und neun zu ihr kommen; ich soll ihr hurtig Antwort bringen, sie wird Euch schadlos halten, das versichr' ich Euch.
-FALSTAFF. Nun, ich will sie besuchen, sag ihr das, und laß sie bedenken, was der Mensch sei, laß sie seine Schwachheit erwägen und dann mein Verdienst beurteilen.
-FRAU HURTIG. Ich will's ihr sagen.
-FALSTAFF. Das tu'! – Zwischen neun und zehn, sagst du? –
-FRAU HURTIG. Acht und neun, Sir.
-FALSTAFF. Gut, geh nur, ich werde nicht ausbleiben.
-FRAU HURTIG. Friede sei mit Euch, Sir! Sie geht ab.
-FALSTAFF. Mich wundert, daß ich nichts vom Herrn Bach höre; er ließ mir sagen, ich möge zu Hause bleiben; – sein Gold behagt mir wohl! – Oh, hier kommt er. – Fluth kommt.
-FLUTH. Gott grüß' Euch, Sir!
-FALSTAFF. Nun, Herr Bach? Ihr wollt wohl hören, was zwischen mir und Fluths Frau vorgefallen ist?
-FLUTH. In der Tat, Sir John, darum kam ich her.
-FALSTAFF. Herr Bach, ich will Euch nichts vorlügen: ich war in ihrem Hause zur bestimmten Stunde.
-FLUTH. Und wie ging's Euch da?
-FALSTAFF. Sehr unglücklichseliger Maßen, Herr Bach.
-FLUTH. Wieso, Sir? Änderte sie ihren Entschluß?
-FALSTAFF. Nein, Herr Bach; aber der jämmerliche Cornuto, ihr Mann, Herr Bach, der in einem ewigen Alarm von Eifersucht lebt, kommt mir just im Augenblick unsrer Schäferstunde, nachdem wir einander umarmt, geküßt, uns ewige Liebe geschworen und, so zu sagen, den Prologus unsrer Komödie rezitiert hatten, und ihm auf dem Fuß ein ganzes Rudel seiner Kameraden, rottiert und herbeigeschleppt durch seinen Aberwitz, um sein Haus – denkt einmal! – nach seiner Frauen Liebhaber zu durchsuchen.
-FLUTH. Was, während Ihr noch da wart?
-FALSTAFF. Während ich da war.
-FLUTH. Und suchte er nach Euch und konnte Euch nicht finden?
-FALSTAFF. Ihr sollt hören. Das gute Glück fügte es so, daß eine gewisse Frau Page hereinkommt und Fluths Ankunft meldet, und auf ihre Erfindung, und bei der Verzweiflung der Frau Fluth, steckten sie mich in einen Waschkorb.
-FLUTH. In einen Waschkorb!
-FALSTAFF. Ja, in einen Waschkorb; bepackten mich mit schmutzigen Hemden und Schürzen, Socken, schmutzigen Strümpfen und schmierigen Tischtüchern; wahrhaftig, Herr Bach, es war die abscheulichste Komposition von niederträchtigem Gestank, die je ein Geruchsorgan entrüstet.
-FLUTH. Und wie lange lagt Ihr darin? –
+Fünfte Szene Zimmer im Gasthofe zum Hosenband . Es treten auf Falstaff und Bardolph .
+FALSTAFF : Bardolph , sag ' ich , –
+BARDOLPH : Hier , Herr !
+FALSTAFF : Geh , hol ' mir ein Quartier Sekt ; leg ' ein Stück geröstet Brot hinein ! – Bardolph ab . Mußte ich das erleben , daß man mich in einem Waschkorb wegtrug , wie eine Tracht Kaldaunen vom Metzger , und mich in die Themse warf ? Meiner Treu , wenn mir noch einmal so mitgespielt wird , so soll man mir das Gehirn ausnehmen und es in Butter braten und es einem Hunde zum Neujahrsgeschenk geben . – Die Schurken schmissen mich in den Fluß und machten nicht mehr Umstände , als hätten sie die blinden Jungen einer Hündin ersäuft , funfzehn auf einen Wurf ; und man kann mir 's an meiner Statur ansehn , daß ich eine gewisse Behendigkeit im Untersinken habe ; wäre der Grund so tief wie die Hölle , ich müßte hinunter . Ich wäre ertrunken , wäre nicht das Ufer seicht und sandig gewesen ; ein Tod , den ich verabscheue ! denn das Wasser schwellt den Menschen auf ; und was für eine Figur wäre aus mir geworden , wenn ich ins Schwellen geraten wäre ? Ich wäre ein Gebirg ' von einer Mumie geworden ! – Bardolph kommt zurück mit dem Wein .
+BARDOLPH : Hier ist Frau Hurtig , Herr , die Euch sprechen will .
+FALSTAFF : Komm her , laß mich etwas Sekt zu dem Themsenwasser schütten , denn mein Bauch ist so kalt , als hätt ' ich Schneebälle wie Pillen verschluckt , um die Nieren abzukühlen . – Ruf ' sie herein !
+BARDOLPH : Komm herein , Frau ! – Frau Hurtig kommt .
+FRAU HURTIG : Mit Vergunst , – ich bitt ' um Verzeihung ! – Ich wünsch ' Euer Gnaden einen guten Morgen , –
+FALSTAFF : Nimm die Kelchgläser weg ; geh , braue mir eine Flasche Sekt , und säuberlich !
+BARDOLPH : Mit Eiern , Sir ?
+FALSTAFF : Simpel , ohne Zusatz ; ich will keinen Hühnersamen in meinem Gebräu . – Nun ?
+FRAU HURTIG : Ach , lieber Sir , ich komme zu Euer Gnaden von der Frau Fluth , –
+FALSTAFF : Frau Fluth ! Ich habe genug von der Fluth gekostet ! Man hat mich hineingeworfen in die Fluth ; ich habe den Bauch voll von Fluth .
+FRAU HURTIG : Ach , lieber Gott , das arme Herz kann ja nichts dafür . Sie hat ihre Leute recht heruntergemacht ; die haben ihre Irrigierung falsch verstanden .
+FALSTAFF : Und ich die meine , daß ich auf das Versprechen eines albernen Weibes baute .
+FRAU HURTIG : Nun gut ; jetzt lamentiert sie drum , Sir , daß es Euch das Herz umkehren würde , wenn Ihr 's ansäh't . Ihr Mann geht heut morgen auf den Vogelherd , sie ersucht Euch , Ihr möchtet noch einmal zwischen acht und neun zu ihr kommen ; ich soll ihr hurtig Antwort bringen , sie wird Euch schadlos halten , das versichr ' ich Euch .
+FALSTAFF : Nun , ich will sie besuchen , sag ihr das , und laß sie bedenken , was der Mensch sei , laß sie seine Schwachheit erwägen und dann mein Verdienst beurteilen .
+FRAU HURTIG : Ich will 's ihr sagen .
+FALSTAFF : Das tu ' ! – Zwischen neun und zehn , sagst du ? –
+FRAU HURTIG : Acht und neun , Sir .
+FALSTAFF : Gut , geh nur , ich werde nicht ausbleiben .
+FRAU HURTIG : Friede sei mit Euch , Sir ! Sie geht ab .
+FALSTAFF : Mich wundert , daß ich nichts vom Herrn Bach höre ; er ließ mir sagen , ich möge zu Hause bleiben ; – sein Gold behagt mir wohl ! – Oh , hier kommt er . – Fluth kommt .
+FLUTH : Gott grüß ' Euch , Sir !
+FALSTAFF : Nun , Herr Bach ? Ihr wollt wohl hören , was zwischen mir und Fluths Frau vorgefallen ist ?
+FLUTH : In der Tat , Sir John , darum kam ich her .
+FALSTAFF : Herr Bach , ich will Euch nichts vorlügen : ich war in ihrem Hause zur bestimmten Stunde .
+FLUTH : Und wie ging 's Euch da ?
+FALSTAFF : Sehr unglücklichseliger Maßen , Herr Bach .
+FLUTH : Wieso , Sir ? Änderte sie ihren Entschluß ?
+FALSTAFF : Nein , Herr Bach ; aber der jämmerliche Cornuto , ihr Mann , Herr Bach , der in einem ewigen Alarm von Eifersucht lebt , kommt mir just im Augenblick unsrer Schäferstunde , nachdem wir einander umarmt , geküßt , uns ewige Liebe geschworen und , so zu sagen , den Prologus unsrer Komödie rezitiert hatten , und ihm auf dem Fuß ein ganzes Rudel seiner Kameraden , rottiert und herbeigeschleppt durch seinen Aberwitz , um sein Haus – denkt einmal ! – nach seiner Frauen Liebhaber zu durchsuchen .
+FLUTH : Was , während Ihr noch da wart ?
+FALSTAFF : Während ich da war .
+FLUTH : Und suchte er nach Euch und konnte Euch nicht finden ?
+FALSTAFF : Ihr sollt hören . Das gute Glück fügte es so , daß eine gewisse Frau Page hereinkommt und Fluths Ankunft meldet , und auf ihre Erfindung , und bei der Verzweiflung der Frau Fluth , steckten sie mich in einen Waschkorb .
+FLUTH : In einen Waschkorb !
+FALSTAFF : Ja , in einen Waschkorb ; bepackten mich mit schmutzigen Hemden und Schürzen , Socken , schmutzigen Strümpfen und schmierigen Tischtüchern ; wahrhaftig , Herr Bach , es war die abscheulichste Komposition von niederträchtigem Gestank , die je ein Geruchsorgan entrüstet .
+FLUTH : Und wie lange lagt Ihr darin ? –
