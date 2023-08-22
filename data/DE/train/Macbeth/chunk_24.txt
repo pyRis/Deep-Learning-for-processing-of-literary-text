@@ -1,3 +1,5 @@
+Feld , in der Nähe von Dunsinan .
+Es treten auf mit Trommeln und Fahnen Menteth , Cathness , Angus , Lenox , Soldaten .
 MENTETH : Das Heer von England naht , geführt von Malcolm , Seinem Ohm Siward und dem guten Macduff : Von Rache glühn sie ; denn ihr herbes Leid Erregte wohl den abgestorbnen Greis Zu blutig grimmem Kampf .
 ANGUS : Bei Birnams Wald , Von dort her nahn sie , treffen wir sie wohl .
 CATHNESS : Ob Donalbain bei seinem Bruder ist ?
@@ -29,3 +31,9 @@ MACBETH : Ich leg ' sie an . Mehr Reiter sendet aus , durchstreift das Land : We
 ARZT : Nicht krank sowohl , Als durch gedrängte Phantasiegebilde Gestört , der Ruh ' beraubt .
 MACBETH : Heil ' sie davon ! Kannst nichts ersinnen für ein krank Gemüt ? Tief wurzelnd Leid aus dem Gedächtnis reuten ? Die Qualen löschen , die ins Hirn geschrieben ? Und mit Vergessens süßem Gegengift Die Brust entled'gen jener gift'gen Last , Die schwer das Herz bedrückt ?
 ARZT : Hier muß der Kranke selbst das Mittel finden .
+MACBETH : Wirf deine Kunst den Hunden vor , ich mag sie nicht . – Legt mir die Rüstung an ; den Stab her ! – Seyton , Schick ' aus ! – Doktor , die Thans verlassen mich : – Nun , mach ' geschwind ! – Arzt , könnt'st du meinem Land Beschaun das Wasser , seine Krankheit finden , Und es zum kräft'gen frühern Wohlsein rein'gen , Wollt ' ich mit deinem Lob das Echo wecken , Daß es dein Lob weit hallte . – Weg den Riemen ! – Welche Purganz , Rhabarber , Senna führte Wohl ab die Englischen ? – Hörst du von ihnen ?
+ARZT : Ja , hoher König ; Eure Kriegesrüstung Macht , daß wir davon hören .
+MACBETH : Bringt 's mir nach ! – Nicht Tod und nicht Verderben ficht mich an , Kommt Birnams Wald nicht her zum Dunsinan !
+Er geht ab .
+ARZT : Wär ' ich von Dunsinan mit Heil und Glück , So brächte mich kein Vorteil je zurück .
+Alle ab .

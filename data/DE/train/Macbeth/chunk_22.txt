@@ -1,3 +1,16 @@
+Rossetritt auf .
+MACDUFF : Wer kommt da ?
+MALCOLM : Ein Landsmann , ob ich gleich ihn noch nicht kenne .
+MACDUFF : Mein hochgeliebter Vetter , sei willkommen !
+MALCOLM : Jetzt kenn ' ich ihn : – O Gott ! entferne bald , Was uns einander fremd macht !
+ROSSE : Amen , Herr !
+MACDUFF : Steht 's noch um Schottland so ?
+ROSSE : Ach ! armes Land , Das fast vor sich erschrickt ! Nicht unsre Mutter Kann es mehr heißen , sondern unser Grab : Wo nur , wer von nichts weiß , noch etwa lächelt ; Wo Seufzen , Stöhnen , Schrei'n die Luft zerreißt , Und keiner achtet drauf ; Verzweifeln gilt Für töricht Übertreiben ; keiner fragt : » Um wen ? « beim Grabgeläut ' ; der Wackern Leben Welkt schneller als der Strauß auf ihrem Hut , Sie sterben , eh ' sie krank sind .
+MACDUFF : O Erzählung , Zu herb und doch zu wahr ! Was ist die neuste Kränkung ?
+ROSSE : Wer die erzählt , die eine Stunde alt , Wird ausgezischt ; jedweder Augenblick Zeugt eine neue .
+MACDUFF : Wie steht 's um mein Weib ?
+ROSSE : Nun , – wohl .
+MACDUFF : Und meine Kinder alle ?
 ROSSE : Auch wohl .
 MACDUFF : Nicht stürmte der Tyrann in ihren Frieden ?
 ROSSE : Sie waren all ' in Frieden , als ich schied .
@@ -24,7 +37,3 @@ MALCOLM : Dies wetze scharf dein Schwert , verwandle Gram In Zorn ; erschlaffe n
 MACDUFF : Ich will das Weib nicht mit den Augen spielen , Und prahlen mit der Zunge ! – Doch , güt'ger Himmel , Vernichte alle Trennung ; Stirn an Stirn Führ ' diesen Teufel Schottlands mir entgegen ! Stell ihn in meines Schwerts Bereich ; entrinnt er , Himmel , vergib ihm auch !
 MALCOLM : So klingt es männlich . Jetzt kommt zum König ; fertig steht das Heer . Es mangelt nur noch , daß wir Abschied nehmen . Macbeth ist reif zur Ernte , und dort oben Breiten ew'ge Mächte schon das Messer . Faßt frischen Mut ; so lang ist keine Nacht , Daß endlich nicht der helle Morgen lacht .
 Sie gehen ab .
-Dunsinan , Zimmer im Schloß .
-Es treten auf ein Arzt und eine Kammerfrau .
-ARZT : Zwei Nächte habe ich nun mit Euch gewacht , aber keine Bestätigung Eurer Aussage gesehen . Wann ist sie zuletzt umher gewandelt ?
-KAMMERFRAU : Seitdem Seine Majestät in den Krieg zogen , habe ich gesehen , wie sie aus ihrem Bett aufstand , ihr Nachtgewand umwarf , ihren Schreibtisch aufschloß , Papier nahm , es zusammen legte , schrieb , das Geschriebene las , es versiegelte , und dann wieder zu Bett ging : und die ganze Zeit im tiefen Schlafe .

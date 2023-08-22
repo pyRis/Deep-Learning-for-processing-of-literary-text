@@ -30,3 +30,5 @@ DUNCAN : Großes Glück !
 ROSSE : So daß Nun Sweno , Norwegs König , Frieden fleht ; Doch wir gestatteten ihm nicht Begräbnis Der Seinen , bis er auf Sankt Columban Zehntausend Taler in den Schatz gezahlt .
 DUNCAN : Nicht frevle länger dieser Than von Cawdor An unsrer Krone Heil ! – Fort , künde Tod ihm an ; Mit seiner Würde grüße Macbeth dann !
 ROSSE : Ich eile , Herr , von hinnen .
+DUNCAN : Held Macbeth soll , was der verliert , gewinnen .
+Alle ab .

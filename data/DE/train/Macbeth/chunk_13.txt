@@ -1,3 +1,12 @@
+Ebendaselbst , ein anderes Zimmer .
+Lady Macbeth tritt auf mit einem Diener .
+LADY MACBETH : Ist Banquo fort vom Hof ?
+DIENER : Ja , Kön'gin , doch er kommt zurück heut abend .
+LADY MACBETH : Dem König meld ' , ich lasse ihn ersuchen Um wen'ge Augenblicke .
+DIENER : Ich gehorche .
+Er geht ab .
+LADY MACBETH : Nichts ist gewonnen , alles ist dahin , Stehn wir am Ziel mit unzufriednem Sinn : Viel sichrer , das zu sein , was wir zerstört , Als daß uns Mord ein schwankend Glück gewährt . Nun , teurer Freund , was bist du so allein Und wählst nur trübe Bilder zu Gefährten , – Gedanken hegend , die doch tot sein sollten , Wie jen ' , an die sie denken ? Was unheilbar : Vergessen sei 's : Geschehn ist , was geschehn .
+Macbeth tritt auf .
 MACBETH : Zerhackt ward nur die Schlange , nicht getötet : Sie heilt und bleibt dieselb ' , indes ihr Zahn Wie sonst gefährdet unsre arme Bosheit . Doch ehe soll der Dinge Bau zertrümmern , Die beiden Welten schaudern , eh ' wir länger In Angst verzehren unser Mahl und schlafen In der Bedrängnis solcher grausen Träume , Die uns allnächtlich schütteln : Lieber bei Dem Toten sein , den , Frieden uns zu schaffen , Zum Frieden wir gesandt , als auf der Folter Der Seel ' in ruheloser Qual zu zucken ! Duncan ging in sein Grab , Sanft schläft er nach des Lebens Fieberschauern ; Verrat , du tatst dein Ärgstes : Gift , noch Dolch , Einheim'sche Bosheit , fremder Anfall , nichts Kann ferner ihn berühren .
 LADY MACBETH : Oh , laß gut sein ! Mein liebster Mann , die Runzeln glätte weg ; Sei froh und munter heut mit deinen Gästen !
 MACBETH : Das will ich , Lieb ' ; und , bitte , sei es auch : Vor allen wend ' auf Banquo deine Sorgfalt , Und schenk ' ihm Auszeichnung mit Wort und Blick : Unsicher noch , sind wir genötigt , so Zu baden unsre Würd ' in Schmeichelströmen ; Daß unser Antlitz Larve wird des Herzens , Verbergend , was es ist .
@@ -35,10 +44,3 @@ DRITTER MÖRDER : Nur einer liegt ; der Sohn entfloh .
 ZWEITER MÖRDER : So ist Die beste Hälfte unsrer Müh ' verloren .
 ERSTER MÖRDER : Gut , gehn wir denn und melden , was getan .
 Sie gehn ab .
-Prunksaal im Schloß , gedeckte Tafel .
-Es treten auf Macbeth , Lady Macbeth , Rosse , Lenox , Lords , Gefolge .
-MACBETH : Ihr kennt selbst euren Rang : nehmt Platz ! Willkommen Seid ein für allemal !
-LORDS : Dank Euer Hoheit !
-MACBETH : Wir wollen uns in die Gesellschaft mischen , Als aufmerksamer Wirt . Die Wirtin nahm Schon ihren Sitz ; doch mit Vergünstigung Ersuchen wir um ihren Gruß und Willkomm .
-LADY MACBETH : Sprich ihn für mich zu allen unsern Freunden ; Denn herzlich heiß ' ich alle sie willkommen .
-Der erste Mörder tritt zur Seitentür ein .

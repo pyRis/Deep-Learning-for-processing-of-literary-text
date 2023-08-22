@@ -22,3 +22,5 @@ MACBETH : Komme , was kommen mag ; Die Stund ' und Zeit durchläuft den rauhsten
 BANQUO : Edler Macbeth , wir harren Eurer Muße .
 MACBETH : Habt Nachsicht – in vergeßnen Dingen wühlte Mein dumpfes Hirn . Ihr güt'gen Herrn , eu ' r Mühn Ist eingeschrieben , wo das Blatt ich täglich Umschlag ' und les ' . – Entgegen jetzt dem König ! – Denkt dessen , was geschah , und bei mehr Muße , Wenn ein'ge Zeit es reifte , laßt uns frei Aus offner Seele reden !
 BANQUO : Herzlich gern .
+MACBETH : Bis dahin still ! – Kommt , Freunde !
+Alle ab .

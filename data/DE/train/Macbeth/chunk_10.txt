@@ -1,11 +1,3 @@
-MALCOLM : Noch unser heft'ger Gram Zum Fliehn geschickt .
-BANQUO : Und haben wir verhüllt der Schwäche Blößen , Die Fassung jetzt entbehrt , treffen wir uns Und forschen dieser blut'gen Untat nach , Den Grund zu sehn . Uns schütteln Furcht und Zweifel ; Ich steh ' in Gottes großer Hand , und so Kämpf ' ich der ungesprochnen Anmutung Bösen Verrats entgegen .
-Lady Macbeth wird fortgeführt .
-MACBETH : So auch ich .
-ALLE : Wir alle .
-MACBETH : Laßt , mit Entschlossenheit gerüstet , wieder Uns in der Halle treffen !
-ALLE : Wohl , so sei 's .
-Malcolm und Donalbain bleiben ; die übrigen gehn ab .
 MALCOLM : Was tust du ? Laß uns nicht zu ihnen halten : Erlognen Schmerz zu zeigen , ist 'ne Kunst , Die leicht dem Falschen wird . Ich geh ' nach England .
 DONALBAIN : Nach Irland ich ; unser getrenntes Glück Verwahrt uns besser . Wo wir sind , drohn Dolche In jedes Lächeln : um so blutsverwandter , So mehr verwandt dem Tode .
 MALCOLM : Der mörderische Pfeil ist abgeschossen Und fliegt noch ; Sicherheit ist nur für uns , Vermeiden wir das Ziel . Drum schnell zu Pferde , Und zaudern wir nicht , jene noch zu grüßen : Nein , heimlich fort ! Nicht strafbar ist der Dieb , Der selbst sich stiehlt , wo keine Gnad ' ihm blieb .
@@ -36,4 +28,3 @@ Er geht ab .
 ROSSE : Vater , lebt wohl !
 ALTER : Gott segne Euch und den , der redlich denkt , Unheil zum Heil , Zwietracht zum Frieden lenkt !
 Sie gehen ab .
-Fores , Saal im Schlosse . Banquo tritt auf .

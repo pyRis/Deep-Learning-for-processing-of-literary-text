@@ -1,3 +1,10 @@
+Prunksaal im Schloß , gedeckte Tafel .
+Es treten auf Macbeth , Lady Macbeth , Rosse , Lenox , Lords , Gefolge .
+MACBETH : Ihr kennt selbst euren Rang : nehmt Platz ! Willkommen Seid ein für allemal !
+LORDS : Dank Euer Hoheit !
+MACBETH : Wir wollen uns in die Gesellschaft mischen , Als aufmerksamer Wirt . Die Wirtin nahm Schon ihren Sitz ; doch mit Vergünstigung Ersuchen wir um ihren Gruß und Willkomm .
+LADY MACBETH : Sprich ihn für mich zu allen unsern Freunden ; Denn herzlich heiß ' ich alle sie willkommen .
+Der erste Mörder tritt zur Seitentür ein .
 MACBETH : Sieh , ihres Herzens Dank kommt dir entgegen . Gleich voll sind beide Seiten . Hier will ich Mich in die Mitte setzen . Ungehemmt Sei nun die Lust ; gleich soll der Becher kreisen . Auf deiner Stirn ist Blut –
 MÖRDER : So ist es Banquos .
 MACBETH : Viel besser draußen an dir , als er hier drinnen . So ist er abgetan ?
@@ -26,7 +33,3 @@ LADY MACBETH : Bleibt sitzen , Herrn : der König ist oft so , Und war 's von Ju
 MACBETH : Ja , und ein kühner , der das wagt zu schauen , Wovor der Teufel blaß wird .
 LADY MACBETH : Schönes Zeug ! Das sind die wahren Bilder deiner Furcht ; Das ist der luft'ge Dolch , der , wie du sagtest , Zu Duncan dich geführt ! – Ha ! dieses Zucken , Dies Starr'n , Nachäffung wahren Schrecks , sie paßten Zu einem Weibermärchen am Kamin , Bestätigt von Großmütterchen . – Oh , schäme dich ! Was machst du für Gesichter ! denn am Ende ; Schaust du nur auf 'nen Stuhl .
 MACBETH : In bitt ' dich , sieh ! blick ' auf ! schau ' an ! was sagst du ? – Ha ! meinethalb ! Wenn du kannst nicken , sprich auch ! Wenn Grab und Beingewölb ' uns wieder schickt Die wir begruben , sei der Schlund der Geier Uns Totengruft !
-Der Geist geht fort .
-LADY MACBETH : Was ! ganz entmannt von Torheit !
-MACBETH : So wahr ich leb ' , ich sah ihn !
-LADY MACBETH : O der Schmach !

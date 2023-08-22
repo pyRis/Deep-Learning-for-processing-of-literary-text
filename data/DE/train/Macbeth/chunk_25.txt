@@ -1,9 +1,3 @@
-MACBETH : Wirf deine Kunst den Hunden vor , ich mag sie nicht . – Legt mir die Rüstung an ; den Stab her ! – Seyton , Schick ' aus ! – Doktor , die Thans verlassen mich : – Nun , mach ' geschwind ! – Arzt , könnt'st du meinem Land Beschaun das Wasser , seine Krankheit finden , Und es zum kräft'gen frühern Wohlsein rein'gen , Wollt ' ich mit deinem Lob das Echo wecken , Daß es dein Lob weit hallte . – Weg den Riemen ! – Welche Purganz , Rhabarber , Senna führte Wohl ab die Englischen ? – Hörst du von ihnen ?
-ARZT : Ja , hoher König ; Eure Kriegesrüstung Macht , daß wir davon hören .
-MACBETH : Bringt 's mir nach ! – Nicht Tod und nicht Verderben ficht mich an , Kommt Birnams Wald nicht her zum Dunsinan !
-Er geht ab .
-ARZT : Wär ' ich von Dunsinan mit Heil und Glück , So brächte mich kein Vorteil je zurück .
-Alle ab .
 Feld in der Nähe von Dunsinan , ein Wald in der Ferne .
 Es treten auf mit Trommeln und Fahnen Malcolm , der alte Siward , sein Sohn , Macduff , Menteth , Cathness , Angus , Lenox , Rosse , Soldaten .
 MALCOLM : Vettern , die Tage , hoff ' ich , sind uns nah , Wo Kammern sicher sind .
@@ -33,3 +27,5 @@ BOTE : Als ich den Wachtdienst auf dem Hügel tat , – Ich schau nach Birnam zu
 MACBETH : Lügner und Sklav ' !
 Er schlägt ihn .
 BOTE : Laßt Euren Zorn mich fühlen , ist 's nicht so : Drei Meilen weit könnt Ihr ihn kommen sehn ; Ein geh'nder Wald – wahrhaftig !
+MACBETH : Sprichst du falsch , Sollst du am nächsten Baum lebendig hangen , Bis Hunger dich verschrumpft hat ; sprichst du wahr , Magst du mir meinethalb dasselbe tun . – Einzieh ' ich die Entschlossenheit , beginne Den Doppelsinn des bösen Feinds zu merken , Der Lüge spricht wie Wahrheit : » Fürchte nichts , Bis Birnams Wald anrückt auf Dunsinan « ; – Und nunmehr kommt ein Wald nach Dunsinan . Waffen nun , Waffen ! und hinaus ! – Ist Wahrheit das , was seine Meldung spricht , So ist kein Fliehn von hier , kein Bleiben nicht . Das Sonnenlicht will schon verhaßt mir werden ; Oh ! fiel ' in Trümmern jetzt der Bau der Erden ! Auf ! läutet Sturm ! Wind , blas ' ! Heran , Verderben ! Den Harnisch auf dem Rücken will ich sterben .
+Alle ab .
