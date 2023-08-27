@@ -34,7 +34,7 @@ def create_summary(chunks: list, checkpoint_path: str) -> str:
         for item in chunk:
             utterance = tokenizer(item, return_tensors="pt").to(device)
             summary = tokenizer.decode(
-                model.generate(**utterance)[0],
+                model.generate(**utterance, max_new_tokens=128)[0],
                 skip_special_tokens=True,
                 clean_up_tokenization_spaces=False,
                 num_beams=5
