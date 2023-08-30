@@ -62,7 +62,7 @@ def main():
     parser.add_argument("--src_lang", help="Source Language", default="de_DE")
     args = parser.parse_args()
     chunks = read_chunk_files(args.input_path)
-    summaries = create_summary(chunks, args.model)
+    summaries = create_summary(chunks, args.model, tgt_lang=args.tgt_lang, src_lang=args.src_lang)
     for chunk_file, summary in summaries:
         base_path = os.path.basename(chunk_file)
         path = os.path.join(args.output_path, "summary_"+base_path)
