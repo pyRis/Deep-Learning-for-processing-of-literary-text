@@ -4,7 +4,8 @@ out_dir=$2 #"summary/DE/finetuned/"
 model=$3
 src_lang=$4
 tgt_lang=$5
-for dir in $search_dir; do
+echo $model
+for dir in $search_dir/*; do
     echo "Inference on play $dir"
     out_file="$(basename $dir)"
     out_path="$out_dir/$out_file"
