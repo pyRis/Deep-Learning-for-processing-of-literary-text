@@ -20,14 +20,14 @@ def make_chunks(sentence_list: list) -> list:
     sentences_in_chunk.append("".join(chunk))
     return sentences_in_chunk
 
-def create_summary(chunks: list, checkpoint_path: str) -> str:
+def create_summary(chunks: list, checkpoint_path: str, src_lang: str, tgt_lang: str) -> str:
     """Create summary for each segment."""
     device = torch.device("cpu")
     set_seed(42)
     model_checkpoint = checkpoint_path
     model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
     model.to(device)
-    tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+    tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, src_lang=src_lang, tgt_lang=tgt_lang)
     summaries = []
     for chunk_file, chunk in chunks:
         segmented_summ = []
@@ -58,6 +58,8 @@ def main():
     parser.add_argument("--input_path", help="Path to where chunk files are stored")
     parser.add_argument("--model", help="Path to model checkpoint")
     parser.add_argument("--output_path", help="Path where output should be stored")
+    parser.add_argument("--tgt_lang", help="Target Language", default="de_DE")
+    parser.add_argument("--src_lang", help="Source Language", default="de_DE")
     args = parser.parse_args()
     chunks = read_chunk_files(args.input_path)
     summaries = create_summary(chunks, args.model)
