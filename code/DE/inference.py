@@ -22,6 +22,7 @@ def make_chunks(sentence_list: list) -> list:
 
 def create_summary(chunks: list, checkpoint_path: str, src_lang: str, tgt_lang: str) -> str:
     """Create summary for each segment."""
+    print(tgt_lang)
     device = torch.device("cpu")
     set_seed(42)
     model_checkpoint = checkpoint_path
@@ -33,13 +34,21 @@ def create_summary(chunks: list, checkpoint_path: str, src_lang: str, tgt_lang: 
         segmented_summ = []
         for item in chunk:
             utterance = tokenizer(item, return_tensors="pt").to(device)
-            summary = tokenizer.decode(
-                model.generate(**utterance, max_new_tokens=128)[0],
-                skip_special_tokens=True,
-                clean_up_tokenization_spaces=False,
-                num_beams=5,
-                forced_bos_token_id=tokenizer.lang_code_to_id[tgt_lang]
-            )
+            if "mBart" in checkpoint_path.lower():
+                summary = tokenizer.decode(
+                    model.generate(**utterance, max_new_tokens=128)[0],
+                    skip_special_tokens=True,
+                    clean_up_tokenization_spaces=False,
+                    num_beams=5,
+                    forced_bos_token_id=tokenizer.lang_code_to_id[tgt_lang]
+                )
+            else:
+                summary = tokenizer.decode(
+                    model.generate(**utterance, max_new_tokens=128)[0],
+                    skip_special_tokens=True,
+                    clean_up_tokenization_spaces=False,
+                    num_beams=5
+                )
             segmented_summ.append(summary)
         summaries.append((chunk_file, " ".join(segmented_summ)))
     return summaries
