@@ -37,7 +37,8 @@ def create_summary(chunks: list, checkpoint_path: str, src_lang: str, tgt_lang: 
                 model.generate(**utterance, max_new_tokens=128)[0],
                 skip_special_tokens=True,
                 clean_up_tokenization_spaces=False,
-                num_beams=5
+                num_beams=5,
+                forced_bos_token_id=tokenizer.lang_code_to_id[tgt_lang]
             )
             segmented_summ.append(summary)
         summaries.append((chunk_file, " ".join(segmented_summ)))
